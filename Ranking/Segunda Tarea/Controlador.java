@@ -528,48 +528,49 @@ public class Controlador
         Interfaz interfaz = new Interfaz();
         Controlador controlador = new Controlador();
         int opcion = 0;
-        while(true){
-            String consulta = interfaz.consultar();
-            controlador.resultados = "Los resultados de la consulta: \""+consulta+" \"\n"+
-            "Documento -- similitud consulta-documento\n"+
-            "----------------------------------------------------------------\n";
-            controlador.dividirConsulta(consulta);
-            Object [] conf = interfaz.configuracion(); //se piden las opciones de normalización
-            //             for(int i = 0 ; i < 100; i++){
-            if((boolean)conf[0] == true)
-            {
-                controlador.st = new Stemm_es();
-            }
-            stemm = (boolean)conf[0];
-            simb = (boolean)conf[1];
-            stop = (boolean)conf[2];
-            jaccard = (boolean)conf[3];
-            controlador.cantidad = (String)conf[4];
-            double inicioIndex = System.currentTimeMillis();
-            String resultados = controlador.run(stemm, simb, stop, jaccard);  //se construye el  indice, se calculan pesos y se devuelven los documentos en orden de relevancia 
-            interfaz.mostrarResultados(resultados);
-            double finIndex = System.currentTimeMillis();
-            double tiempo = finIndex - inicioIndex;  //se calcula la duracipn de construccion del indice
-            FileWriter arch = null;
-            PrintWriter writer = null;
-            try{
-                arch = new FileWriter("results.txt",true); // se guarda el tiempo de de ejecución de construccion del indice en un archivo
-                writer = new PrintWriter(arch);
-                writer.println(tiempo); 
-                //                 writer.println(resultados);
-            }catch(Exception e){
-                e.printStackTrace();
-            }
-            finally {
-                try {
-                    if (null != arch){
-                        arch.close(); // se cierra archivo de escritura
-                    }
-                } catch (Exception e2) {
-                    e2.printStackTrace();
-                }
-            }
+        //while(true){
+               interfaz.interfazComic();
+//             String consulta = interfaz.consultar();
+//             controlador.resultados = "Los resultados de la consulta: \""+consulta+" \"\n"+
+//             "Documento -- similitud consulta-documento\n"+
+//             "----------------------------------------------------------------\n";
+//             controlador.dividirConsulta(consulta);
+//             Object [] conf = interfaz.configuracion(); //se piden las opciones de normalización
+//             //             for(int i = 0 ; i < 100; i++){
+//             if((boolean)conf[0] == true)
+//             {
+//                 controlador.st = new Stemm_es();
+//             }
+//             stemm = (boolean)conf[0];
+//             simb = (boolean)conf[1];
+//             stop = (boolean)conf[2];
+//             jaccard = (boolean)conf[3];
+//             controlador.cantidad = (String)conf[4];
+//             double inicioIndex = System.currentTimeMillis();
+//             String resultados = controlador.run(stemm, simb, stop, jaccard);  //se construye el  indice, se calculan pesos y se devuelven los documentos en orden de relevancia 
+//             interfaz.mostrarResultados(resultados);
+//             double finIndex = System.currentTimeMillis();
+//             double tiempo = finIndex - inicioIndex;  //se calcula la duracipn de construccion del indice
+//             FileWriter arch = null;
+//             PrintWriter writer = null;
+//             try{
+//                 arch = new FileWriter("results.txt",true); // se guarda el tiempo de de ejecución de construccion del indice en un archivo
+//                 writer = new PrintWriter(arch);
+//                 writer.println(tiempo); 
+//                 //                 writer.println(resultados);
+//             }catch(Exception e){
+//                 e.printStackTrace();
+//             }
+//             finally {
+//                 try {
+//                     if (null != arch){
+//                         arch.close(); // se cierra archivo de escritura
+//                     }
+//                 } catch (Exception e2) {
+//                     e2.printStackTrace();
+//                 }
+//             }
             //             }
-        }
+        //}
     }
 }

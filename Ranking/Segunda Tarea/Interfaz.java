@@ -12,6 +12,17 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import java.lang.Object;
 import java.awt.Dimension;
+import java.awt.BorderLayout;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import javax.swing.JFrame;
+import javax.swing.JList;
+import javax.swing.JScrollPane;
+import javax.swing.JButton;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import java.awt.GridLayout;
 
 public class Interfaz extends JFrame
 {
@@ -90,5 +101,42 @@ public class Interfaz extends JFrame
         scrollPane.setPreferredSize( new Dimension( 500, 500 ) );
         JOptionPane.showMessageDialog(null, scrollPane, "Resultados de la búsqueda",  
             JOptionPane.OK_CANCEL_OPTION);
+    }
+    
+    public void interfazComic()
+    {
+        String labels[] = { "A", "B", "C", "D", "E", "F", "G", "H" };
+        JFrame frame = new JFrame("Buscador");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        //JPanel labelPanel = new JPanel(new GridLayout(2, 1)); // 2 rows 1 column
+        //add(labelPanel, BorderLayout.WEST);        
+        JButton boton = new JButton();
+        boton.setText("Buscar");
+        JTextField consulta = new JTextField(100);
+        JLabel texto = new JLabel();
+        texto.setText("Consulta:");
+        JList jlist = new JList(labels);
+        JScrollPane scrollPane1 = new JScrollPane(jlist);
+        frame.add(scrollPane1, BorderLayout.CENTER);
+        frame.add(texto,BorderLayout.NORTH);
+        frame.add(consulta, BorderLayout.SOUTH);
+        frame.add(boton, BorderLayout.EAST);
+        
+        MouseListener mouseListener = new MouseAdapter() {
+            public void mouseClicked(MouseEvent mouseEvent) {
+                JList theList = (JList) mouseEvent.getSource();
+                if (mouseEvent.getClickCount() == 2) {
+                    int index = theList.locationToIndex(mouseEvent.getPoint());
+                    if (index >= 0) {
+                        Object o = theList.getModel().getElementAt(index);
+                        System.out.println("Double-clicked on: " + o.toString());
+                    }
+                }
+            }
+        };
+        jlist.addMouseListener(mouseListener);
+
+        frame.setSize(300, 200);
+        frame.setVisible(true);
     }
 }
