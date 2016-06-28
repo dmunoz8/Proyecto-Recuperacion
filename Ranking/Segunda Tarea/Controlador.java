@@ -42,6 +42,49 @@ public class Controlador
     public Controlador()
     {}
 
+ 	public static void createTokens() {
+            File textFilesDirectory = new File("../../Comics"); //Revisa la carpeta
+            if(!textFilesDirectory.isDirectory()) {
+                System.err.println("No directory called " + textFilesDirectory.getName() + " found..."); //Si no existe nada, reporta que no encontro el directorio
+                System.err.println("Exit System");
+                System.exit(1);
+            }
+            File[] cats = textFilesDirectory.listFiles(); //Crea un array de archivos
+			int tot = 0;
+            int noCats = cats.length;
+			for(int j = 0; j < noCats; j++){
+				if(cats[j].isDirectory()) {
+					File[] revs = cats[j].listFiles();
+					int noRevs = revs.length;
+				    for(int i = 0; i < noRevs; i++)
+				    {
+						PrintStream ps = null;
+						try {
+							File rev = new File("comics/Texto"+tot+".txt");
+							if(!rev.exists()) {
+								rev.createNewFile();
+							} 
+							ps = new PrintStream(new FileOutputStream(rev,false));
+							String filename = revs[i].getName();
+							String[] name_ext = filename.split("\\.");
+							filename = name_ext[0];
+							String[] tokens = filename.split(" ");
+							System.out.println(filename);
+							for(int k=0; k<tokens.length; k++) {
+								ps.println(tokens[k]);
+							}
+							
+						} catch (IOException e) {
+							System.err.println("Error in writing to file");
+						} finally {
+							if (ps != null) ps.close();
+						}
+						tot++;
+				    }
+				}
+			}
+	}
+
     /**
      * Revisa los documentos a leer
      *
@@ -52,7 +95,7 @@ public class Controlador
     {
         try
         {
-            File textFilesDirectory = new File("documents"); //Revisa la carpeta
+            File textFilesDirectory = new File("comics"); //Revisa la carpeta
             if(!textFilesDirectory.isDirectory()) {
                 System.err.println("No directory called " + textFilesDirectory.getName() + "found..."); //Si no existe nada, reporta que no encontro el directorio
                 System.err.println("Exit System");
@@ -521,6 +564,7 @@ public class Controlador
      */
     public static void main(String args[])
     {
+		createTokens();
         boolean simb = false;
         boolean stemm = false; 
         boolean stop = false;
@@ -528,49 +572,49 @@ public class Controlador
         Interfaz interfaz = new Interfaz();
         Controlador controlador = new Controlador();
         int opcion = 0;
-        //while(true){
-               interfaz.interfazComic();
-//             String consulta = interfaz.consultar();
-//             controlador.resultados = "Los resultados de la consulta: \""+consulta+" \"\n"+
-//             "Documento -- similitud consulta-documento\n"+
-//             "----------------------------------------------------------------\n";
-//             controlador.dividirConsulta(consulta);
-//             Object [] conf = interfaz.configuracion(); //se piden las opciones de normalización
-//             //             for(int i = 0 ; i < 100; i++){
-//             if((boolean)conf[0] == true)
-//             {
-//                 controlador.st = new Stemm_es();
-//             }
-//             stemm = (boolean)conf[0];
-//             simb = (boolean)conf[1];
-//             stop = (boolean)conf[2];
-//             jaccard = (boolean)conf[3];
-//             controlador.cantidad = (String)conf[4];
-//             double inicioIndex = System.currentTimeMillis();
-//             String resultados = controlador.run(stemm, simb, stop, jaccard);  //se construye el  indice, se calculan pesos y se devuelven los documentos en orden de relevancia 
-//             interfaz.mostrarResultados(resultados);
-//             double finIndex = System.currentTimeMillis();
-//             double tiempo = finIndex - inicioIndex;  //se calcula la duracipn de construccion del indice
-//             FileWriter arch = null;
-//             PrintWriter writer = null;
-//             try{
-//                 arch = new FileWriter("results.txt",true); // se guarda el tiempo de de ejecución de construccion del indice en un archivo
-//                 writer = new PrintWriter(arch);
-//                 writer.println(tiempo); 
-//                 //                 writer.println(resultados);
-//             }catch(Exception e){
-//                 e.printStackTrace();
-//             }
-//             finally {
-//                 try {
-//                     if (null != arch){
-//                         arch.close(); // se cierra archivo de escritura
-//                     }
-//                 } catch (Exception e2) {
-//                     e2.printStackTrace();
-//                 }
-//             }
+        while(true){
+             //interfaz.interfazComic();
+             String consulta = interfaz.consultar();
+             controlador.resultados = "Los resultados de la consulta: \""+consulta+" \"\n"+
+             "Documento -- similitud consulta-documento\n"+
+             "----------------------------------------------------------------\n";
+             controlador.dividirConsulta(consulta);
+             Object [] conf = interfaz.configuracion(); //se piden las opciones de normalización
+             //             for(int i = 0 ; i < 100; i++){
+             if((boolean)conf[0] == true)
+             {
+                 controlador.st = new Stemm_es();
+             }
+             stemm = (boolean)conf[0];
+             simb = (boolean)conf[1];
+             stop = (boolean)conf[2];
+             jaccard = (boolean)conf[3];
+             controlador.cantidad = (String)conf[4];
+             double inicioIndex = System.currentTimeMillis();
+             String resultados = controlador.run(stemm, simb, stop, jaccard);  //se construye el  indice, se calculan pesos y se devuelven los documentos en orden de relevancia 
+             interfaz.mostrarResultados(resultados);
+             double finIndex = System.currentTimeMillis();
+             double tiempo = finIndex - inicioIndex;  //se calcula la duracipn de construccion del indice
+             FileWriter arch = null;
+             PrintWriter writer = null;
+             try{
+                 arch = new FileWriter("results.txt",true); // se guarda el tiempo de de ejecución de construccion del indice en un archivo
+                 writer = new PrintWriter(arch);
+                 writer.println(tiempo); 
+                 //                 writer.println(resultados);
+             }catch(Exception e){
+                 e.printStackTrace();
+             }
+             finally {
+                 try {
+                     if (null != arch){
+                         arch.close(); // se cierra archivo de escritura
+                     }
+                 } catch (Exception e2) {
+                     e2.printStackTrace();
+                 }
+             }
             //             }
-        //}
+        }
     }
 }
