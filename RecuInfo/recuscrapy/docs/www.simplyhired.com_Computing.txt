@@ -1,0 +1,1136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+ <!--[if lt IE 7]>  <html class="ie6 lte9 lte8 lte7" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><![endif]-->
+ <!--[if IE 7]>     <html class="ie7 lte9 lte8 lte7" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><![endif]-->
+ <!--[if IE 8]>     <html class="ie8 lte9 lte8" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><![endif]-->
+ <!--[if IE 9]>     <html class="ie9 lte9" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><![endif]-->
+ <!--[if gt IE 9]>  <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><![endif]-->
+ <!--[if !IE]><!-->
+ <!--<![endif]-->
+ <head>
+  <title>
+   Scientific Computing &amp; Informatics Support Specialist - 16-00773 - Global Technical Talent | Charlestown, MA
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Find a new career. Job description: Scientific Computing &amp; Informatics Support Specialist - 16-00773. Employer: Global Technical Talent, Inc.. Location:Charlestown, MA." name="description"/>
+  <meta content="" name="keywords"/>
+  <link href="//www.simplyhired.com/favicon.ico?fd4db1a-313" rel="shortcut icon" type="image/x-icon"/>
+  <link href="http://www.simplyhired.com/apple-touch-icon.png?fd4db1a-313" rel="apple-touch-icon"/>
+  <link href="http://www.simplyhired.com/job/scientific-computing-informatics-support-16-00773-job/global-technical-talent/tws7cpjyrz" rel="canonical"/>
+  <link href="//www.shstatics.com/static/css/base_bs4.min.aa370278fc08.css" rel="stylesheet" type="text/css"/>
+  <link href="//www.shstatics.com/static/job/css/job.min.d1befa7e56e5.css" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" type="text/css"/>
+  <!-- Begin comScore Tag -->
+  <script>
+   var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "6034750" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <!-- End comScore Tag -->
+  <script type="text/javascript">
+   window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        'index': 'indexed',
+        'lang': '&lt;bound method SerpNGLanguageCode.get_base_language of &lt;serpng.middleware.SerpNGLanguageCode object at 0x7fcf6ad33ad0&gt;&gt;',
+        'loggedIn': 'False' === 'True' ? 'loggedIn' : 'loggedOut',
+        'pageTitle': document.title,
+        'sh_session_id': '1465748758',
+        'sh_user_id': '327013199575d8d1617c080.10439747'
+      });
+  </script>
+ </head>
+ <body class="job_detail" id="job_detail">
+  <!-- Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-TXVWWW" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-TXVWWW');
+  </script>
+  <!-- End Google Tag Manager -->
+  <div>
+   <div class="top-menu js-top-menu hidden-md-up">
+    <div class="top-menu-sh-logo">
+     <a data-event="header_logo" href="http://www.simplyhired.com/">
+      <img alt="Find Jobs and Careers - SimplyHired.com Job Search" src="//www.shstatics.com/static/base/img/sh-logo2.935d693472b2.png"/>
+     </a>
+    </div>
+    <a aria-expanded="false" class="js-hamburger hamburger-toggle hidden-md-up" data-toggle="collapse" role="button">
+     <img alt="Menu" border="0" class="hamburger-icon" src="//www.shstatics.com/static/base/img/hamburger.8fc69044c7c7.png"/>
+    </a>
+    <div class="slideout-menu-container">
+     <div class="slideout-menu js-menu">
+      <div class="section-header search-section js-section-header">
+       <div class="close-icon js-close">
+       </div>
+       <span class="section-toggle search-heading js-section-toggle" data-toggle="collapse">
+        <span class="search-heading-text">
+         Search
+        </span>
+       </span>
+      </div>
+      <div class="section-body js-section-body collapse collapse-search responsive-search-container js-search">
+       <div class="responsive-search-form-container js-search js-search-content">
+        <form class="evtc_submit" data-event="header_search_form" name="serp-search">
+         <fieldset class="form-group">
+          <label>
+           Keywords
+           <span class="search-job-titles">
+            <input type="checkbox"/>
+            Search Job Titles ONLY
+           </span>
+          </label>
+          <input autocomplete="off" class="form-control id_f_keywords" name="q" placeholder="Enter Keywords" type="text" value=""/>
+         </fieldset>
+         <fieldset class="form-group fg-location">
+          <label>
+           Location
+          </label>
+          <div class="locate-me-hit-area">
+           <div class="locate-me">
+           </div>
+          </div>
+          <input autocomplete="off" class="form-control id_f_location" name="l" placeholder="Enter Location" type="text" value=""/>
+         </fieldset>
+         <div class="button-block">
+          <button class="btn btn-large btn-sh pull-right js-search-btn default-btn" type="submit">
+           Search
+          </button>
+          <a class="btn btn-link pull-right js-search-cancel">
+           Cancel
+          </a>
+         </div>
+         <div class="divclear">
+         </div>
+        </form>
+       </div>
+      </div>
+      <div class="slideout-menu-divider js-search-divider">
+      </div>
+      <div class="section-header js-section-header">
+       <span class="section-toggle js-section-toggle" data-toggle="collapse">
+        For Job Seekers
+       </span>
+      </div>
+      <div class="section-body js-section-body collapse js-jobseekers">
+       <ul>
+        <li>
+         <a class="local" href="http://www.simplyhired.com/local-jobs">
+          Local Jobs
+         </a>
+        </li>
+        <li>
+         <a class="company-directory" href="http://www.simplyhired.com/now-hiring">
+          Company Directory
+         </a>
+        </li>
+        <li>
+         <a class="salary" href="http://www.simplyhired.com/salaries">
+          Salary Estimator
+         </a>
+        </li>
+        <li>
+         <a class="help" href="http://support.simplyhired.com/home">
+          Help
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="slideout-menu-divider">
+      </div>
+      <div class="section-header js-section-header">
+       <a class="evtc btn simply-post-button" href="http://employers.simplyhired.com/simplypost">
+        Post a Job
+       </a>
+      </div>
+      <div class="slideout-menu-divider">
+      </div>
+      <div class="section-header js-section-header">
+       <span class="section-toggle js-section-toggle" data-toggle="collapse">
+        For Employers
+       </span>
+      </div>
+      <div class="section-body js-section-body collapse js-employers-menu">
+       <ul>
+        <li>
+         <a class="employer-overview" href="http://employers.simplyhired.com/overview">
+          Overview
+         </a>
+        </li>
+        <li>
+         <a class="post-a-job" href="http://employers.simplyhired.com/simplypost">
+          Small Business/Post a Job
+         </a>
+        </li>
+        <li>
+         <a class="enterprise" href="http://employers.simplyhired.com/enterprise">
+          Enterprise
+         </a>
+        </li>
+        <li>
+         <a class="adsystem" href="https://ads.simplyhired.com/simplypost/sign-in/">
+          Employer Login
+         </a>
+        </li>
+        <li>
+         <a class="include-my-jobs" href="http://www.simplyhired.com/about/add-jobs">
+          Include My Jobs
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="slideout-menu-divider">
+      </div>
+      <div class="section-header js-section-header">
+       <span class="section-toggle js-section-toggle" data-toggle="collapse">
+        For Publishers
+       </span>
+      </div>
+      <div class="section-body js-section-body collapse js-employers-menu">
+       <ul>
+        <li>
+         <a class="publisher-solutions" href="http://www.simplyhired.com/partners-overview">
+          Publisher Solutions
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="slideout-menu-divider">
+      </div>
+      <div class="section-header js-section-header">
+       <span class="section-toggle js-section-toggle" data-toggle="collapse">
+        About Us
+       </span>
+      </div>
+      <div class="section-body js-section-body collapse in js-about">
+       <ul>
+        <li>
+         <a href="http://www.simplyhired.com/about/our-story">
+          Our Story
+         </a>
+        </li>
+        <li>
+         <a href="http://www.simplyhired.com/about/the-team">
+          The Team
+         </a>
+        </li>
+        <li>
+         <a href="http://www.simplyhired.com/about/careers">
+          Careers
+         </a>
+        </li>
+        <li>
+         <a href="http://www.simplyhired.com/about/press">
+          Press
+         </a>
+        </li>
+        <li>
+         <a href="http://www.simplyhired.com/about/contact-us">
+          Contact Us
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="slideout-menu-divider">
+      </div>
+      <div class="section-header js-section-header">
+       <span class="section-toggle js-section-toggle" data-toggle="collapse">
+        Stay Connected
+       </span>
+      </div>
+      <div class="section-body js-section-body collapse js-connect">
+       <ul>
+        <li>
+         <a class="menu-blog" href="http://www.simplyhired.com/blog/">
+          Simply Hired Blog
+         </a>
+        </li>
+        <li>
+         <a class="menu-facebook" href="https://www.facebook.com/simplyhired">
+          Facebook
+         </a>
+        </li>
+        <li>
+         <a class="menu-twitter" href="https://twitter.com/simplyhired">
+          Twitter
+         </a>
+        </li>
+        <li>
+         <a class="menu-linkedin" href="https://www.linkedin.com/company/simply-hired">
+          LinkedIn
+         </a>
+        </li>
+        <li>
+         <a class="menu-google" href="https://plus.google.com/+simplyhired">
+          Google+
+         </a>
+        </li>
+        <li>
+         <a class="menu-youtube" href="https://www.youtube.com/user/simplyhired">
+          YouTube
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="slideout-menu-divider">
+      </div>
+      <div class="menu-account">
+       <a class="btn btn-default btn-signin" href="http://www.simplyhired.com/account/signin" rel="nofollow">
+        Sign In
+       </a>
+       <a class="btn btn-default btn-signup" href="http://www.simplyhired.com/account/signup" rel="nofollow">
+        Sign Up
+       </a>
+      </div>
+      <div class="menu-footer">
+       <a class="app-logo app-store" href="https://itunes.apple.com/us/app/job-search-simply-hired/id730634951">
+       </a>
+       <a class="app-logo google-play" href="https://play.google.com/store/apps/details?id=com.simplyhired.simplyandroid">
+       </a>
+       <p class="copyright">
+        Simply Hired ©2016 |
+        <a class="evtc" data-event="footer_privacy" href="http://www.simplyhired.com/about/privacy">
+         Privacy
+        </a>
+        |
+        <a class="evtc" data-event="footer_terms" href="http://www.simplyhired.com/about/terms-of-service">
+         Terms
+        </a>
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="header-bar">
+    <div class="permalink-header-container hybrid-container hidden-sm-down">
+     <div class="home-link-container">
+      <a class="home-link" href="http://www.simplyhired.com/" rel="nofollow">
+       Search millions of jobs
+      </a>
+     </div>
+     <div class="sh_logo">
+      <a href="http://www.simplyhired.com/">
+       <img alt="Find Jobs and Careers - SimplyHired.com Job Search" src="//www.shstatics.com/static/images/sh-logo-white.651d2e50f3bc.png?fd4db1a-313" title="Find Jobs and Careers - SimplyHired.com Job Search"/>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="hybrid-container" id="content">
+    <div class="hybrid-container job-page" itemscope="" itemtype="http://schema.org/JobPosting">
+     <div class="row">
+      <div class="col-md-8">
+       <div class="family-box">
+        <p class="family-head">
+        </p>
+       </div>
+       <div class="jp-header">
+        <p class="jp-company-name" itemprop="hiringOrganization" itemscope="" itemtype="http://schema.org/Organization">
+         <span itemprop="name">
+          Global Technical Talent
+         </span>
+        </p>
+        <h1 itemprop="title">
+         Scientific Computing &amp; Informatics Support Specialist - 16-00773
+        </h1>
+        <div class="pull-right inline-button">
+        </div>
+        <span class="jp-company-data" itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place">
+         <span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+          <span itemprop="addressLocality">
+           Charlestown
+          </span>
+          ,
+          <span itemprop="addressRegion">
+           MA
+          </span>
+         </span>
+        </span>
+        <p class="jp-company-data">
+         <strong>
+          Date posted:
+         </strong>
+         <span content="2016-04-23T20:42:30" itemprop="datePosted">
+          April 23 2016
+         </span>
+        </p>
+       </div>
+       <div class="jp-description">
+        <div class="jp-expired">
+         <h2>
+          Sorry. The job you're looking for is no longer available.
+         </h2>
+        </div>
+        <div class="text-right">
+         <a class="btn btn-large btn-sh" href="/search?q=scientific+computing+%26+informatics+support+specialist+-+16-00773&amp;l=charlestown,+ma">
+          See All Related Jobs ›
+         </a>
+        </div>
+       </div>
+       <div class="serp">
+        <div class="serp-head">
+         <strong>
+          Top Related Jobs
+         </strong>
+         <p class="see-more-link">
+          (
+          <a href="/search?q=scientific+computing+%26+informatics+support+specialist+-+16-00773&amp;l=charlestown,+ma">
+           See All »
+          </a>
+          )
+         </p>
+         <div class="divclear">
+         </div>
+        </div>
+        <div class="results">
+         <ul class="jobs" id="jobs">
+          <li class="result " id="r::0">
+           <div class="job js-job" data-position="0" data-sponsored="False">
+            <h2>
+             <a class="title js-job-link" href="/job/view/jobkey-CRAWL.7312fbacd7bae86d35819b9761802167/rid-cbxjsvaioaurkugziujjewkpordubjrt/cjp-0/pub_id-1002" rel="nofollow" target="_blank">
+              ERIS HPC Support Specialist
+             </a>
+            </h2>
+            <span class="new">
+             NEW
+            </span>
+            <div class="company_location">
+             <h4 class="company">
+              Brigham and Women's Hospital
+             </h4>
+             <span class="s">
+              -
+             </span>
+             <span class="location">
+              Charlestown, MA
+             </span>
+            </div>
+            <p class="description">
+             About Us: As a not-for-profit organization, Partners HealthCare is committed to supporting patient care, research, teaching, and service to the community by leading ...
+            </p>
+            <div class="source">
+             <span class="ago">
+              2 days ago
+             </span>
+             from Brigham and Women's Hospital
+            </div>
+            <div class="tools_container">
+             <div class="tools">
+              <a href="None">
+               Description
+              </a>
+             </div>
+            </div>
+           </div>
+           <!--job-->
+           <div class="hidden_tools_divs">
+           </div>
+          </li>
+          <!--result-->
+          <li class="result divider " id="r::1">
+           <div class="job js-job" data-position="1" data-sponsored="False">
+            <h2>
+             <a class="title js-job-link" href="/job/view/jobkey-CRAWL.bf1026a39deed269007efc6338ae3368/rid-cbxjsvaioaurkugziujjewkpordubjrt/cjp-1/pub_id-1002" rel="nofollow" target="_blank">
+              ERIS HPC Support Specialist
+             </a>
+            </h2>
+            <span class="new">
+             NEW
+            </span>
+            <div class="company_location">
+             <h4 class="company">
+              Massachusetts General Hospital
+             </h4>
+             <span class="s">
+              -
+             </span>
+             <span class="location">
+              Charlestown, MA
+             </span>
+            </div>
+            <p class="description">
+             About Us: As a not-for-profit organization, Partners HealthCare is committed to supporting patient care, research, teaching, and service to the community by leading ...
+            </p>
+            <div class="source">
+             <span class="ago">
+              2 days ago
+             </span>
+             from Massachusetts General Hospital
+            </div>
+            <div class="tools_container">
+             <div class="tools">
+              <a href="None">
+               Description
+              </a>
+             </div>
+            </div>
+           </div>
+           <!--job-->
+           <div class="hidden_tools_divs">
+           </div>
+          </li>
+          <!--result-->
+          <li class="result divider " id="r::2">
+           <div class="job js-job" data-position="2" data-sponsored="False">
+            <h2>
+             <a class="title js-job-link" href="/job/view/jobkey-CRAWL.2498c7c503aa5cc25dfcb43f9a3b984d/rid-cbxjsvaioaurkugziujjewkpordubjrt/cjp-2/pub_id-1002" rel="nofollow" target="_blank">
+              Research Study Support Specialist/Systems Analyst
+             </a>
+            </h2>
+            <div class="company_location">
+             <h4 class="company">
+              Partners HealthCare
+             </h4>
+             <span class="s">
+              -
+             </span>
+             <span class="location">
+              Charlestown, MA
+             </span>
+            </div>
+            <p class="description">
+             About Us: As a not-for-profit organization, Partners HealthCare is committed to supporting patient care, research, teaching, and service to the community by leading ...
+            </p>
+            <div class="source">
+             <span class="ago">
+              25 days ago
+             </span>
+             from Partners Healthcare
+            </div>
+            <div class="tools_container">
+             <div class="tools">
+              <a href="None">
+               Description
+              </a>
+             </div>
+            </div>
+           </div>
+           <!--job-->
+           <div class="hidden_tools_divs">
+           </div>
+          </li>
+          <!--result-->
+          <li class="result divider " id="r::3">
+           <div class="job js-job" data-position="3" data-sponsored="False">
+            <h2>
+             <a class="title js-job-link" href="/job/view/jobkey-24957.ET141/rid-cbxjsvaioaurkugziujjewkpordubjrt/cjp-3/pub_id-1002" rel="nofollow" target="_blank">
+              Informatics Specialist
+             </a>
+            </h2>
+            <div class="company_location">
+             <h4 class="company">
+              Enanta Pharmaceuticals
+             </h4>
+             <span class="s">
+              -
+             </span>
+             <span class="location">
+              Watertown, MA
+             </span>
+            </div>
+            <p class="description">
+             INFORMATICS SPECIALIST ABOUT ENANTA Enanta Pharmaceuticals is a research and development-focused biotechnology company that uses its robust chemistry-driven ...
+            </p>
+            <div class="source">
+             <span class="ago">
+              30+ days ago
+             </span>
+             from Enanta Pharmaceuticals
+            </div>
+            <div class="tools_container">
+             <div class="tools">
+              <a href="None">
+               Description
+              </a>
+             </div>
+            </div>
+           </div>
+           <!--job-->
+           <div class="hidden_tools_divs">
+           </div>
+          </li>
+          <!--result-->
+          <li class="result divider " id="r::4">
+           <div class="job js-job" data-position="4" data-sponsored="False">
+            <h2>
+             <a class="title js-job-link" href="/job/view/jobkey-CRAWL.29347daea8c481f3f592178e4f734530/rid-cbxjsvaioaurkugziujjewkpordubjrt/cjp-4/pub_id-1002" rel="nofollow" target="_blank">
+              ERIS HPC Support Specialist
+             </a>
+            </h2>
+            <div class="company_location">
+             <h4 class="company">
+              Partners HealthCare
+             </h4>
+             <span class="s">
+              -
+             </span>
+             <span class="location">
+              Charlestown, MA
+             </span>
+            </div>
+            <p class="description">
+             About Us: As a not-for-profit organization, Partners HealthCare is committed to supporting patient care, research, teaching, and service to the community by leading ...
+            </p>
+            <div class="source">
+             <span class="ago">
+              30+ days ago
+             </span>
+             from Partners Healthcare
+            </div>
+            <div class="tools_container">
+             <div class="tools">
+              <a href="None">
+               Description
+              </a>
+             </div>
+            </div>
+           </div>
+           <!--job-->
+           <div class="hidden_tools_divs">
+           </div>
+          </li>
+          <!--result-->
+          <li class="result divider " id="r::5">
+           <div class="job js-job" data-position="5" data-sponsored="False">
+            <h2>
+             <a class="title js-job-link" href="/job/view/jobkey-98725.491a58e43827d8e35c94f5aca09e3652/rid-cbxjsvaioaurkugziujjewkpordubjrt/cjp-5/pub_id-1002" rel="nofollow" target="_blank">
+              Sr Dev/Ops Engineer
+             </a>
+            </h2>
+            <div class="company_location">
+             <h4 class="company">
+              Digital Prospectors Corp
+             </h4>
+             <span class="s">
+              -
+             </span>
+             <span class="location">
+              Boston, MA
+             </span>
+            </div>
+            <p class="description">
+             Sr Dev/Ops Engineer Location: Greater Boston, MA Duration: 12 Months+ Duties &amp; Responsibilities: Our client, is a growing and evolving group of technologists, biologists ...
+            </p>
+            <div class="source">
+             <span class="ago">
+              4 days ago
+             </span>
+             from Digital Prospectors
+            </div>
+            <div class="tools_container">
+             <div class="tools">
+              <a href="None">
+               Description
+              </a>
+             </div>
+            </div>
+           </div>
+           <!--job-->
+           <div class="hidden_tools_divs">
+           </div>
+          </li>
+          <!--result-->
+          <div style="clear:both">
+          </div>
+         </ul>
+        </div>
+        <!--results-->
+       </div>
+       <p class="see-more">
+       </p>
+       <div class="text-right">
+        <a class="btn btn-clear btn-large" href="/search?q=scientific+computing+%26+informatics+support+specialist+-+16-00773&amp;l=charlestown,+ma">
+         See All Related Jobs ›
+        </a>
+       </div>
+      </div>
+      <div class="col-md-4">
+       <div class="jp-rail">
+        <div class="social-share-module-header">
+         Share This Page
+        </div>
+        <div class="share-row">
+         <a class="share-button email" href="mailto:?subject=Check%20out%20this%20job%20I%20found%20on%20Simply%20Hired%3A%20Scientific%20Computing%20%26%20Informatics%20Support%20Specialist%20-%2016-00773%20at%20Global%20Technical%20Talent&amp;body=http%3A%2F%2Fwww.simplyhired.com%2Fjob%2Fscientific-computing-informatics-support-16-00773-job%2Fglobal-technical-talent%2Ftws7cpjyrz" rel="nofollow" target="_blank">
+         </a>
+         <a class="share-button facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.simplyhired.com%2Fjob%2Fscientific-computing-informatics-support-16-00773-job%2Fglobal-technical-talent%2Ftws7cpjyrz" rel="nofollow" target="_blank">
+         </a>
+         <a class="share-button twitter" href="http://twitter.com/share?url=http%3A%2F%2Fwww.simplyhired.com%2Fjob%2Fscientific-computing-informatics-support-16-00773-job%2Fglobal-technical-talent%2Ftws7cpjyrz" rel="nofollow" target="_blank">
+         </a>
+         <a class="share-button linkedin" href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fwww.simplyhired.com%2Fjob%2Fscientific-computing-informatics-support-16-00773-job%2Fglobal-technical-talent%2Ftws7cpjyrz&amp;mini=true&amp;title=Check+out+this+job+I+found+on+Simply+Hired%3A+Scientific+Computing+%26+Informatics+Support+Specialist+-+16-00773+at+Global+Technical+Talent" rel="nofollow" target="_blank">
+         </a>
+         <a class="share-button google" href="http://plus.google.com/share?url=http%3A%2F%2Fwww.simplyhired.com%2Fjob%2Fscientific-computing-informatics-support-16-00773-job%2Fglobal-technical-talent%2Ftws7cpjyrz" rel="nofollow" target="_blank">
+         </a>
+        </div>
+        <div style="clear: both;">
+        </div>
+        <hr/>
+        <div class="rail-related">
+         <h3 class="top-room">
+          Related Searches
+         </h3>
+         <ul>
+          <li>
+           <a class="related-search evtc" data-event="permalink_click_related_searches" href="http://www.simplyhired.com/search?q=research+study+support+specialist%2fsystems+analyst&amp;l=charlestown,+ma">
+            Research Study Support Specialist/Systems Analyst
+           </a>
+          </li>
+          <li>
+           <a class="related-search evtc" data-event="permalink_click_related_searches" href="http://www.simplyhired.com/search?q=eris+hpc+support+specialist&amp;l=charlestown,+ma">
+            Eris Hpc Support Specialist
+           </a>
+          </li>
+          <li>
+           <a class="related-search evtc" data-event="permalink_click_related_searches" href="http://www.simplyhired.com/search?q=server+engineer+ii&amp;l=charlestown,+ma">
+            Server Engineer Ii
+           </a>
+          </li>
+          <li>
+           <a class="related-search evtc" data-event="permalink_click_related_searches" href="http://www.simplyhired.com/search?q=informatics+specialist&amp;l=charlestown,+ma">
+            Informatics Specialist
+           </a>
+          </li>
+          <li>
+           <a class="related-search evtc" data-event="permalink_click_related_searches" href="http://www.simplyhired.com/search?q=sr+dev%2fops+engineer&amp;l=charlestown,+ma">
+            Sr Dev/Ops Engineer
+           </a>
+          </li>
+         </ul>
+        </div>
+        <hr/>
+        <div class="rail-related">
+         <h3 class="top-room">
+          Cities with Scientific Computing Informatics Support Specialist jobs near Charlestown, MA
+         </h3>
+         <ul>
+          <li>
+           <a class="evtc" data-event="related_location_click" href="/search?q=scientific+computing+%26+informatics+support+specialist+-+16-00773&amp;l=watertown,+ma&amp;fsr=primary">
+            Watertown, MA
+           </a>
+          </li>
+          <li>
+           <a class="evtc" data-event="related_location_click" href="/search?q=scientific+computing+%26+informatics+support+specialist+-+16-00773&amp;l=boston,+ma&amp;fsr=primary">
+            Boston, MA
+           </a>
+          </li>
+         </ul>
+        </div>
+        <hr/>
+        <div class="rail-related">
+         <h3 class="top-room">
+          Companies you might like
+         </h3>
+         <ul>
+          <li>
+           <a class="evtc" data-event="related_company_click" href="/search?q=company:(brigham+and+women's+hospital)&amp;l=charlestown,+ma&amp;fsr=primary">
+            Brigham and Women's Hospital
+           </a>
+          </li>
+          <li>
+           <a class="evtc" data-event="related_company_click" href="/search?q=company:(enanta+pharmaceuticals)&amp;l=charlestown,+ma&amp;fsr=primary">
+            Enanta Pharmaceuticals
+           </a>
+          </li>
+          <li>
+           <a class="evtc" data-event="related_company_click" href="/search?q=company:(massachusetts+general+hospital)&amp;l=charlestown,+ma&amp;fsr=primary">
+            Massachusetts General Hospital
+           </a>
+          </li>
+          <li>
+           <a class="evtc" data-event="related_company_click" href="/search?q=company:(partners+healthcare)&amp;l=charlestown,+ma&amp;fsr=primary">
+            Partners Healthcare
+           </a>
+          </li>
+          <li>
+           <a class="evtc" data-event="related_company_click" href="/search?q=company:(digital+prospectors)&amp;l=charlestown,+ma&amp;fsr=primary">
+            Digital Prospectors
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--content-->
+   <div class="footer-expanded">
+    <div class="hybrid-container">
+     <div class="row upper-row hidden-sm-down">
+      <div class="footer-column col-md-2 col-xs-6">
+       <p class="list-title">
+        Stay Connected
+       </p>
+       <ul class="social-media-links">
+        <li>
+         <div class="blog footer-icon">
+         </div>
+         <a class="evtc" data-click="blog" data-event="footer_blog" href="http://www.simplyhired.com/blog/" rel="nofollow">
+          <span>
+           Simply Hired Blog
+          </span>
+         </a>
+        </li>
+        <li>
+         <div class="facebook footer-icon">
+         </div>
+         <a data-click="facebook" href="https://www.facebook.com/simplyhired" rel="nofollow">
+          <span>
+           Facebook
+          </span>
+         </a>
+        </li>
+        <li>
+         <div class="twitter footer-icon">
+         </div>
+         <a data-click="twitter" href="https://twitter.com/simplyhired" rel="nofollow">
+          <span>
+           Twitter
+          </span>
+         </a>
+        </li>
+        <li>
+         <div class="linkedin footer-icon">
+         </div>
+         <a data-click="linkedin" href="https://www.linkedin.com/company/simply-hired" rel="nofollow">
+          <span>
+           LinkedIn
+          </span>
+         </a>
+        </li>
+        <li>
+         <div class="google footer-icon">
+         </div>
+         <a data-click="google_plus" href="https://plus.google.com/u/0/+simplyhired" rel="nofollow">
+          <span>
+           Google+
+          </span>
+         </a>
+        </li>
+        <li>
+         <div class="youtube footer-icon">
+         </div>
+         <a data-click="youtube" href="https://www.youtube.com/user/simplyhired" rel="nofollow">
+          <span>
+           YouTube
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-column col-md-2 col-xs-6">
+       <p class="list-title">
+        For Job Seekers
+       </p>
+       <ul class="footer-list-links">
+        <li>
+         <a class="evtc" data-click="local" data-event="footer_local" href="http://www.simplyhired.com/local-jobs" rel="nofollow">
+          Local Jobs
+         </a>
+        </li>
+        <li>
+         <a class="evtc" data-click="companies" href="http://www.simplyhired.com/now-hiring" rel="nofollow">
+          Company Directory
+         </a>
+        </li>
+        <li>
+         <a data-click="salaries" href="http://www.simplyhired.com/salaries" rel="nofollow">
+          Salary Estimator
+         </a>
+        </li>
+        <li>
+         <a class="evtc" data-click="testimonials" data-event="footer_help" href="http://www.simplyhired.com/testimonials" rel="nofollow">
+          Success Stories
+         </a>
+        </li>
+        <li>
+         <a class="evtc" data-click="help" data-event="footer_help" href="http://www.simplyhired.com/about/contact-us" rel="nofollow">
+          Help
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-column col-md-2 col-xs-6 fc-employers">
+       <p class="list-title">
+        For Employers
+       </p>
+       <ul class="footer-list-links">
+        <li>
+         <a class="evtc btn simply-post-button" data-click="overview" data-event="footer_employers" href="http://employers.simplyhired.com/simplypost" rel="nofollow">
+          Post a Job
+         </a>
+        </li>
+        <li>
+         <a data-click="adsystem" href="https://ads.simplyhired.com" rel="nofollow">
+          Employer Login
+         </a>
+        </li>
+        <li>
+         <a class="evtc" data-click="publisher_solutions" data-event="footer_publishers" href="http://www.simplyhired.com/partners-overview" rel="nofollow">
+          Publisher Solutions
+         </a>
+        </li>
+        <li>
+         <a data-click="include_jobs" href="http://www.simplyhired.com/about/add-jobs" rel="nofollow">
+          Include My Jobs
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-column col-md-2 col-xs-6 fc-about">
+       <p class="list-title">
+        About Us
+       </p>
+       <ul class="footer-list-links">
+        <li>
+         <a class="evtc" data-click="our_story" data-event="footer_about" href="http://www.simplyhired.com/about/our-story" rel="nofollow">
+          Our Story
+         </a>
+        </li>
+        <li>
+         <a data-click="team" href="http://www.simplyhired.com/about/the-team" rel="nofollow">
+          The Team
+         </a>
+        </li>
+        <li>
+         <a data-click="careers" href="http://www.simplyhired.com/about/careers" rel="nofollow">
+          Careers
+         </a>
+        </li>
+        <li>
+         <a data-click="press" href="http://www.simplyhired.com/about/press" rel="nofollow">
+          Press
+         </a>
+        </li>
+        <li>
+         <a data-click="contact_us" href="http://www.simplyhired.com/about/contact-us" rel="nofollow">
+          Contact Us
+         </a>
+        </li>
+        <li>
+         <a class="feedback-link" data-click="feedback" href="https://www.surveymonkey.com/s/simply_hired_feedback" onclick="SH.feedback_survey.openSurveyWindow('https://www.surveymonkey.com/s/simply_hired_feedback')" rel="nofollow" target="persistentFeedbackSurveyWindow">
+          Send Feedback
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-4 col-xs-12 mobile-app-download">
+       <p class="app-list-title">
+        Take your job search wherever you go.
+       </p>
+       <a class="apple-app-store js-gtm" data-event-action="Mobile Applications" href="https://itunes.apple.com/us/app/job-search-simply-hired/id730634951?mt=8&amp;uo=4" rel="nofollow" target="_blank">
+       </a>
+       <a class="google-play-store js-gtm" data-event-action="Mobile Applications" href="https://play.google.com/store/apps/details?id=com.simplyhired.simplyandroid" rel="nofollow" target="_blank">
+       </a>
+      </div>
+     </div>
+     <div class="row lower-row" itemscope="" itemtype="http://schema.org/Organization">
+      <div class="col-md-8 col-xs-12">
+       <a class="footer-link" href="http://www.simplyhired.com/" itemprop="url">
+        <img alt="Find Jobs and Careers - SimplyHired.com Job Search" class="footer-logo" itemprop="logo" src="//www.shstatics.com/static/base/img/sh-logo2.935d693472b2.png"/>
+       </a>
+       <div class="hidden-md-up mobile-post-job">
+        <a class="evtc" data-click="overview" data-event="footer_employers" href="http://employers.simplyhired.com/simplypost" rel="nofollow">
+         Post a Job
+        </a>
+       </div>
+       <div class="dropup international-dropdown hidden-sm-down">
+        <button aria-expanded="false" aria-haspopup="true" class="international-dropdown-button-v2 js-international-dropdown-button" data-toggle="dropdown" type="button">
+         <span>
+          United States
+         </span>
+         <div class="dropdown-arrow-container">
+          <div class="dropdown-arrow">
+          </div>
+         </div>
+        </button>
+        <div class="dropdown-menu international-dropdown-wrapper">
+         <div class="international-dropdown-list">
+          <a class="current-country dropdown-item" href="http://www.simplyhired.com">
+           United States
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.ca">
+           Canada
+          </a>
+          <div class="dropdown-divider">
+          </div>
+          <a class=" dropdown-item" href="http://www.simplyhired.com.ar">
+           Argentina
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.com.au">
+           Australia
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.be">
+           België
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.com.br">
+           Brasil
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.de">
+           Deutschland
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.es">
+           España
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.fr">
+           France
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.co.in">
+           India
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.ie">
+           Ireland
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.it">
+           Italia
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.mx">
+           México
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.nl">
+           Nederland
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.at">
+           Österreich
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.pt">
+           Portugal
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.ch">
+           Schweiz
+          </a>
+          <a class=" dropdown-item" href="http://za.simplyhired.com">
+           South Africa
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.se">
+           Sverige
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.co.uk">
+           United Kingdom
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.ru">
+           Россия
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.kr">
+           한국
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.cn">
+           中国
+          </a>
+          <a class=" dropdown-item" href="http://www.simplyhired.jp">
+           日本
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col-md-4 col-xs-12">
+       <div class="misc-links">
+        <span>
+         © 2016 Simply Hired Inc.
+        </span>
+        |
+        <a data-click="privacy" href="http://www.simplyhired.com/about/privacy" rel="nofollow">
+         Privacy
+        </a>
+        |
+        <a data-click="terms" href="http://www.simplyhired.com/about/terms-of-service" rel="nofollow">
+         Terms
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--container-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   if(typeof jQuery === 'undefined') {document.write('<script type="text/javascript" src="//www.shstatics.com/static/js/jquery-2.1.4.min.js"><\/script>');}
+  </script>
+  <script charset="utf-8" src="//www.shstatics.com/static/base/js/base_bs4.min.8420f8c548ef.js" type="text/javascript">
+  </script>
+  <script src="//www.shstatics.com/static/jsi18n/en-us/djangojs.ea96650fb41a.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var sh_deploy_tag = 'fd4db1a-313';
+  
+  var sh_privacy_banner_max = 2
+
+  // Make sure SH namespace is defined.
+  var SH = SH || {};
+
+  // Set application variable for GA Event Tracking
+  SH.application = 'Permalink';
+
+  // Flag to tell if this is a partner SERP or not.
+  var sh_has_skin = false;
+
+  // Flag to check if the user is logged in
+  var sh_user_logged_in = false;
+
+  // Max length for serp keywords.
+  var sh_max_kw_length = 500
+
+  // Autocomplete configs.
+  var sh_autocomplete_keywords = true;
+  var sh_autocomplete_location = true;
+
+  
+  var job_company = 'Global Technical Talent, Inc.';
+  var job_title = 'Scientific Computing &amp; Informatics Support Specialist - 16-00773';
+  var sh_rk = encodeURIComponent('14716.31de0465c841bed9ca9086eca791643d');
+  var user_email = '';
+  function hide_banner() {
+    // hide the banner
+    var banner = document.getElementById("banner");
+    if (banner) {
+      banner.hidden = true;
+    }
+  }
+  </script>
+  <script charset="utf-8" src="//www.shstatics.com/static/job/js/detail.min.70ec2a8b7c16.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   setTimeout(
+    function() {
+      var a = document.createElement('script');
+      var b = document.getElementsByTagName('script')[0];
+      a.src = document.location.protocol + "//script.crazyegg.com/pages/scripts/0017/8124.js?" + Math.floor(new Date().getTime()/3600000);
+      a.async = true;
+      a.type = 'text/javascript';
+      b.parentNode.insertBefore(a, b);
+    },
+  1);
+  </script>
+  <script type="text/javascript">
+   var sh_pageTracker=null;
+  var sh_pageAccount='UA-1039096-6';
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', sh_pageAccount]);
+  </script>
+  <div id="request_id" style="display: none;">
+  </div>
+  <script type="application/ld+json">
+   {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.simplyhired.com",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.simplyhired.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+        }
+    }
+  </script>
+ </body>
+</html>

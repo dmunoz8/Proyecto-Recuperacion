@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="Ivy Tech offers affordable associate degrees and certificates in Indiana; transfer or begin an in-demand job in health, technology, business or public service." name="description"/>
+  <meta content="Ivy Tech, college, associate, associate degree, affordable, cheap, college programs, degrees, Indiana,computers, computer, computing, IT, it, CPIN, CSCI, CSIA, DBMS, INFM, ITSP, NETI, SVAD, SDEV, cpin, csci, csia, dbms, infm, itsp, neti, svad, sdev" name="keywords"/>
+  <meta content="Ivy Tech Community College of Indiana" name="author"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+  <title>
+   Computing Programs - Ivy Tech Community College of Indiana
+  </title>
+  <link href="/css/bootstrap.min.css?v=000006" rel="stylesheet" type="text/css"/>
+  <link href="/css/tinyscrollbar.css?v=000006" rel="stylesheet" type="text/css"/>
+  <link href="/css/styles.css?v=000006" rel="stylesheet" type="text/css"/>
+  <link href="/css/print.css?v=000006" rel="stylesheet" type="text/css"/>
+  <link href="/css/gsa.css?v=000006" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="/js/webtrends.load.js" type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <div id="temp-breadcrumbs">
+   <a href="/index.html">
+    Home
+   </a>
+   &gt; Computing Programs
+  </div>
+  <div class="container-fluid">
+   <div id="main-menu-panel">
+    ﻿
+    <div class="col-sm-4 col-xs-4 left-nav">
+     <div class="scroll-pane">
+      <div class="scrollbar">
+       <div class="track">
+        <div class="thumb">
+         <div class="end">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="viewport">
+       <div class="overview">
+        <ul>
+         <li>
+          <a href="" id="main-menu-item-">
+           Campuses
+          </a>
+          <ul class="submenu-subitems">
+           <ul>
+            <li>
+             <a href="/east-central/index.html">
+              Anderson
+             </a>
+            </li>
+            <li>
+             <a href="/southeast/index.html">
+              Batesville
+             </a>
+            </li>
+            <li>
+             <a href="/bloomington/index.html">
+              Bloomington
+             </a>
+            </li>
+            <li>
+             <a href="/columbus/index.html">
+              Columbus
+             </a>
+            </li>
+            <li>
+             <a href="/richmond/index.html">
+              Connersville
+             </a>
+            </li>
+            <li>
+             <a href="/lafayette/index.html">
+              Crawfordsville
+             </a>
+            </li>
+            <li>
+             <a href="/northwest/index.html">
+              East Chicago
+             </a>
+            </li>
+            <li>
+             <a href="/north-central/index.html">
+              Elkhart County
+             </a>
+            </li>
+            <li>
+             <a href="/southwest/index.html">
+              Evansville
+             </a>
+            </li>
+            <li>
+             <a href="/northeast/index.html">
+              Fort Wayne
+             </a>
+            </li>
+            <li>
+             <a href="/central-indiana/index.html">
+              Franklin
+             </a>
+            </li>
+            <li>
+             <a href="/northwest/index.html">
+              Gary
+             </a>
+            </li>
+            <li>
+             <a href="/central-indiana/index.html">
+              Greencastle
+             </a>
+            </li>
+            <li>
+             <a href="/central-indiana/index.html">
+              Indianapolis
+             </a>
+            </li>
+            <li>
+             <a href="/kokomo/index.html">
+              Kokomo
+             </a>
+            </li>
+            <li>
+             <a href="/lafayette/index.html">
+              Lafayette
+             </a>
+            </li>
+            <li>
+             <a href="/southeast/index.html">
+              Lawrenceburg
+             </a>
+            </li>
+            <li>
+             <a href="/kokomo/index.html">
+              Logansport
+             </a>
+            </li>
+            <li>
+             <a href="/southeast/index.html">
+              Madison
+             </a>
+            </li>
+            <li>
+             <a href="/east-central/index.html">
+              Marion
+             </a>
+            </li>
+            <li>
+             <a href="/northwest/index.html">
+              Michigan City
+             </a>
+            </li>
+            <li>
+             <a href="/east-central/index.html">
+              Muncie
+             </a>
+            </li>
+            <li>
+             <a href="/east-central/index.html">
+              New Castle
+             </a>
+            </li>
+            <li>
+             <a href="/central-indiana/index.html">
+              Noblesville
+             </a>
+            </li>
+            <li>
+             <a href="/richmond/index.html">
+              Richmond
+             </a>
+            </li>
+            <li>
+             <a href="/sellersburg/index.html">
+              Sellersburg
+             </a>
+            </li>
+            <li>
+             <a href="/north-central/index.html">
+              South Bend
+             </a>
+            </li>
+            <li>
+             <a href="/southwest/index.html">
+              Tell City
+             </a>
+            </li>
+            <li>
+             <a href="/wabash-valley/index.html">
+              Terre Haute
+             </a>
+            </li>
+            <li>
+             <a href="/northwest/index.html">
+              Valparaiso
+             </a>
+            </li>
+            <li>
+             <a href="/kokomo/index.html">
+              Wabash
+             </a>
+            </li>
+            <li>
+             <a href="/north-central/index.html">
+              Warsaw
+             </a>
+            </li>
+           </ul>
+          </ul>
+         </li>
+         <li>
+          <a href="" id="main-menu-item-">
+           Programs
+          </a>
+          <ul class="submenu-subitems">
+           <ul>
+            <li>
+             <a href="/programs-a-z/index.html">
+              Programs A to Z
+             </a>
+            </li>
+            <li>
+             <a href="/divisions/index.html">
+              Programs By Division
+             </a>
+            </li>
+            <li>
+             <a href="/degrees/index.html">
+              Degrees &amp; Certificates
+             </a>
+            </li>
+            <li>
+             <a href="/calendar/index.html">
+              Academic Calendar
+             </a>
+            </li>
+            <li>
+             <a href="/course-catalog/index.html">
+              Course Information &amp; Curriculum
+             </a>
+            </li>
+            <li>
+             <a href="https://banprd-ssb.ivytech.edu/BANNER/bwckschd.p_disp_dyn_sched">
+              Course Schedule Search
+             </a>
+            </li>
+            <li>
+             <a href="/transfer/index.html">
+              Transfer Opportunities
+             </a>
+            </li>
+            <li>
+             <a href="/pla/index.html">
+              Credit for Prior Learning
+             </a>
+            </li>
+            <li>
+             <a href="/dual-credit/index.html">
+              Dual Credit
+             </a>
+            </li>
+            <li>
+             <a href="/honors/index.html">
+              American Honors
+             </a>
+            </li>
+            <li>
+             <a href="/asap/index.html">
+              ASAP
+             </a>
+            </li>
+            <li>
+             <a href="/11484.html">
+              Gainful Employment
+             </a>
+            </li>
+            <li>
+             <a href="/global-learning/index.html">
+              Global Learning
+             </a>
+            </li>
+            <li>
+             <a href="/online/index.html">
+              Ivy Tech Online
+             </a>
+            </li>
+            <li>
+             <a href="/mcdonalds/index.html">
+              McDonald's Employee Program
+             </a>
+            </li>
+            <li>
+             <a href="/studyabroad/index.html">
+              Study Abroad
+             </a>
+            </li>
+           </ul>
+          </ul>
+         </li>
+         <li>
+          <a href="" id="main-menu-item-">
+           How to Enroll
+          </a>
+          <ul class="submenu-subitems">
+           <ul>
+            <li>
+             <a href="/how-to-enroll/index.html">
+              How to Enroll - Degree Seeking
+             </a>
+            </li>
+            <li>
+             <a href="/coursesonly/index.html">
+              How to Enroll - Courses Only
+             </a>
+            </li>
+            <li>
+             <a href="http://ivytechfaq.com/" target="_blank">
+              Frequently Answered Questions
+             </a>
+            </li>
+            <li>
+             <a href="/campus-connect/index.html">
+              Campus Connect
+             </a>
+            </li>
+            <li>
+             <a href="/orientation/index.html">
+              Orientation
+             </a>
+            </li>
+            <li>
+             <a href="/assessment/index.html">
+              Assessment
+             </a>
+            </li>
+            <li>
+             <a href="/advising/index.html">
+              Advising
+             </a>
+            </li>
+            <li>
+             <a href="/enrollmentday/index.html">
+              Express Enrollment Events
+             </a>
+            </li>
+            <li>
+             <a href="/enrollmentcenter/index.html">
+              Express Enrollment Centers
+             </a>
+            </li>
+            <li>
+             <a href="/transfer/index.html">
+              Transfer Opportunities
+             </a>
+            </li>
+            <li>
+             <a href="/12711.html">
+              Tuition and Fees
+             </a>
+            </li>
+            <li>
+             <a href="http://ivytech.edusupportcenter.com/sims/helpcenter/common/layout/MyHelpCenter.seam?inst_name=ivy_tech&amp;hasTracker=true" target="_blank">
+              Admissions Tracker
+             </a>
+            </li>
+            <li>
+             <a href="/goivyday/index.html">
+              Go Ivy Day
+             </a>
+            </li>
+           </ul>
+          </ul>
+         </li>
+         <li>
+          <a href="" id="main-menu-item-">
+           How to Pay
+          </a>
+          <ul class="submenu-subitems">
+           <ul>
+            <li>
+             <a href="/payingforcollege/index.html">
+              Paying for College
+             </a>
+            </li>
+            <li>
+             <a href="/financial-aid/index.html">
+              Financial Aid Information
+             </a>
+            </li>
+            <li>
+             <a href="/financial-aid/2518.html">
+              Apply for Financial Aid
+             </a>
+            </li>
+            <li>
+             <a href="/financial-aid/12709.html" title="How to Pay - Tuition &amp; Fees">
+              Tuition &amp; Fees
+             </a>
+            </li>
+            <li>
+             <a href="/financial-aid/12714.html" title="How to Pay - Student Accounts - Bursar">
+              Student Accounts - Bursar
+             </a>
+            </li>
+           </ul>
+          </ul>
+         </li>
+         <li>
+          <a href="/student-life/index.html" id="main-menu-item-">
+           Student Life
+          </a>
+         </li>
+         <li>
+          <a href="" id="main-menu-item-">
+           Student Services
+          </a>
+          <ul class="submenu-subitems">
+           <ul>
+            <li>
+             <a href="/bookstore/index.html">
+              Bookstore
+             </a>
+            </li>
+            <li>
+             <a href="/career-development/index.html">
+              Career Development
+             </a>
+            </li>
+            <li>
+             <a href="/childcare/index.html">
+              Childcare
+             </a>
+            </li>
+            <li>
+             <a href="/dss/index.html">
+              Disability Support Services
+             </a>
+            </li>
+            <li>
+             <a href="/hours/index.html">
+              Hours
+             </a>
+            </li>
+            <li>
+             <a href="http://library.ivytech.edu" target="_blank">
+              Library
+             </a>
+            </li>
+            <li>
+             <a href="/business-office/index.html">
+              Student Accounts - Bursar
+             </a>
+            </li>
+            <li>
+             <a href="/about/4150.html">
+              Student Consumer Information
+             </a>
+            </li>
+            <li>
+             <a href="/registrar/index.html">
+              Student Records - Registrar
+             </a>
+            </li>
+            <li>
+             <a href="/files/Code-of-Student-Rights-Responsibilities.pdf" target="_blank">
+              Student Rights
+             </a>
+            </li>
+            <li>
+             <a href="/testing-centers/index.html">
+              Testing Centers
+             </a>
+            </li>
+            <li>
+             <a href="/tutoring/index.html">
+              Tutoring
+             </a>
+            </li>
+            <li>
+             <a href="/trio/index.html">
+              TRIO
+             </a>
+            </li>
+            <li>
+             <a href="/veteran-services/index.html">
+              Veterans Services
+             </a>
+            </li>
+           </ul>
+          </ul>
+         </li>
+         <li>
+          <a href="/corporate-college/index.html" id="main-menu-item-">
+           Corporate College
+          </a>
+         </li>
+         <li>
+          <a href="" id="main-menu-item-">
+           Giving/Alumni
+          </a>
+          <ul class="submenu-subitems">
+           <ul>
+            <li>
+             <a href="/giving/index.html">
+              Ivy Tech Foundation
+             </a>
+            </li>
+            <li>
+             <a href="http://connect.ivytech.edu/give-now" target="_blank">
+              Give Now!
+             </a>
+            </li>
+            <li>
+             <a href="/alumni/index.html">
+              Alumni
+             </a>
+            </li>
+            <li>
+             <a href="https://connect.ivytech.edu/tell-us-your-story" target="_blank">
+              Update Your Contact Info
+             </a>
+            </li>
+            <li>
+             <a href="/giving/13960.html">
+              Women in Philanthropy - Circle of Ivy
+             </a>
+            </li>
+           </ul>
+          </ul>
+         </li>
+         <li>
+          <a href="" id="main-menu-item-">
+           About
+          </a>
+          <ul class="submenu-subitems">
+           <ul>
+            <li>
+             <a href="/about/index.html">
+              About Ivy Tech Community College
+             </a>
+            </li>
+            <li>
+             <a href="/policies/index.html">
+              Academic Support and Operations Manual
+             </a>
+            </li>
+            <li>
+             <a href="/about/3869.html">
+              Accreditation / Mission
+             </a>
+            </li>
+            <li>
+             <a href="/admin-directory/index.html">
+              Administrative Directory
+             </a>
+            </li>
+            <li>
+             <a href="/about/3913.html">
+              Board of Trustees
+             </a>
+            </li>
+            <li>
+             <a href="/diversity/index.html">
+              Diversity
+             </a>
+            </li>
+            <li>
+             <a href="https://jobs.ivytech.edu/" target="_blank">
+              Employment
+             </a>
+            </li>
+            <li>
+             <a href="/facilities/index.html">
+              Facilities
+             </a>
+            </li>
+            <li>
+             <a href="/about/3854.html">
+              Finance
+             </a>
+            </li>
+            <li>
+             <a href="/hr/index.html">
+              Human Resources
+             </a>
+            </li>
+            <li>
+             <a href="/institutionalresearch/index.html">
+              Institutional Research
+             </a>
+            </li>
+            <li>
+             <a href="/about/3863.html">
+              Logo/Style Guide
+             </a>
+            </li>
+            <li>
+             <a href="/about/3955.html">
+              Magazines
+             </a>
+            </li>
+            <li>
+             <a href="/news/index.html" target="_blank">
+              News
+             </a>
+            </li>
+            <li>
+             <a href="/security-safety/index.html">
+              Safety &amp; Security
+             </a>
+            </li>
+            <li>
+             <a href="/studentsuccess/index.html">
+              Strategic Plan
+             </a>
+            </li>
+           </ul>
+          </ul>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="col-sm-8 col-xs-8 right-nav">
+     <div class="scroll-pane">
+      <div class="scrollbar">
+       <div class="track">
+        <div class="thumb">
+         <div class="end">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="viewport">
+       <div class="overview">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="float-nav">
+    <ul>
+     <li id="toggle-menu" title="Collapse Menu Bar">
+     </li>
+     <li id="menu-back-to-top">
+      <div class="float-nav-icon" title="Back to Top">
+      </div>
+      <div class="float-nav-caption">
+       Back
+       <br/>
+       to Top
+      </div>
+     </li>
+     <li id="menu-next-section" title="Next Section">
+      <div class="float-nav-icon" title="Next Section">
+      </div>
+      <div class="float-nav-caption">
+       Next
+       <br/>
+       Section
+      </div>
+     </li>
+     <li id="menu-live-chat" title="Answer Center">
+      <a href="http://ivytech.edusupportcenter.com/" target="_blank">
+       <div class="float-nav-icon">
+       </div>
+       <div class="float-nav-caption">
+        Answer
+        <br/>
+        Center
+       </div>
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="row" id="site-header">
+    <div id="header-search-mobile-panel">
+    </div>
+    <div class="col-sm-4 col-xs-4" id="header-logo-wrapper">
+     <div id="header-logo">
+      <a href="/index.html" title="Ivy Tech Community College of Indiana">
+      </a>
+     </div>
+    </div>
+    <div class="col-sm-4 col-xs-4" id="header-search">
+     <form action="/ivytech_search.html" id="cse-search-box" method="get" name="csesearchbox" onsubmit="">
+      <input name="cof" type="hidden" value="FORID:10"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input id="num" name="numgm" type="hidden" value=""/>
+      <input id="site" name="site" type="hidden" value="ivytech"/>
+      <input id="client" name="client" type="hidden" value="ivytech"/>
+      <input id="proxystylesheet" name="proxystylesheet" type="hidden" value="ivytech"/>
+      <input name="proxyreload" type="hidden" value="1"/>
+      <input name="output" type="hidden" value="xml_no_dtd"/>
+      <input name="entqr" type="hidden" value="1"/>
+      <input name="filter" type="hidden" value="0"/>
+      <input id="header-search-box" name="q" placeholder="start your journey here" title="Header Search Box" type="text"/>
+      <input id="search-button" name="sa" title="Search" type="submit" value=""/>
+     </form>
+     <div class="col-sm-12 col-xs-12" id="sub-search-links-wrapper">
+      <div id="sub-search-links">
+       <a href="/apply-now/index.html">
+        apply now
+       </a>
+       |
+       <a href="/request-info/index.html" target="_blank">
+        request info
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="col-sm-3 col-xs-12" id="super-nav">
+     <ul>
+      <li>
+       <a href="/index.html" id="home-link" title="Home Page">
+       </a>
+      </li>
+      <li>
+       |
+      </li>
+      <li>
+       <a href="http://cc.ivytech.edu/" target="_blank" title="Campus Connect - Header">
+        Campus Connect
+       </a>
+      </li>
+      <li>
+       |
+      </li>
+      <li>
+       <a href="https://online.ivytech.edu/" target="_blank">
+        Blackboard
+       </a>
+      </li>
+      <li>
+       |
+      </li>
+      <li>
+       <a href="http://whitepages.ivytech.edu" id="whitepages-link" title="Find People">
+       </a>
+      </li>
+      <li class="mobile-only">
+       |
+      </li>
+      <li class="mobile-only">
+       <a href="#" id="home-search" title="Search">
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="col-sm-1 col-xs-1" id="main-menu-button-container">
+     <div id="main-menu-button">
+     </div>
+    </div>
+   </div>
+   <div class="row home-section internal ">
+    <div class="col-sm-12 col-xs-12 submenu-container">
+     <div class="home-section-headline" data-float-nav-icon="" data-float-nav-title="">
+      <h1>
+       School of Computing and Informatics
+      </h1>
+     </div>
+     <div class="section-breadcrumbs">
+     </div>
+    </div>
+    <div class="col-sm-12 col-xs-12 section-content-container">
+     <div class="internal-page-content">
+      <p>
+       <iframe allowfullscreen="" class="iframe-right" frameborder="0" height="276" src="//www.youtube.com/embed/Lak5IlyQzL0?list=PLc2GkMkIIwR-avz_79rP4K7i__Ge3Ky8O" width="490">
+       </iframe>
+      </p>
+      <p>
+       To address the fast moving nature of technology, Ivy Tech has designed the innovative and comprehensive
+       <strong>
+        School of Computing and Informatics
+       </strong>
+       !  This school is committed to offering courses that respond to current and future industry demands.  Areas of study include
+       <a href="/computers/index.html#neti">
+        network infrastructure
+       </a>
+       ,
+       <a href="/computers/index.html#svad">
+        server administration
+       </a>
+       ,
+       <a href="/computers/index.html#sdev">
+        software development
+       </a>
+       ,
+       <a href="/computers/index.html#csci">
+        computer science
+       </a>
+       ,
+       <a href="/computers/index.html#dbms">
+        database management and administration
+       </a>
+       ,
+       <a href="/computers/index.html#csia">
+        cyber security/information assurance
+       </a>
+       ,
+       <a href="/computers/index.html#itsp">
+        information technology support
+       </a>
+       and
+       <a href="/computers/index.html#infm">
+        informatics
+       </a>
+       .
+      </p>
+      <p>
+      </p>
+      <p>
+       Careers in these fields continue to show promising growth and opportunities for students interested in pursuing a two-year degree and joining the workforce, transferring to a four-year institution, or even preparing for industry certifications.
+      </p>
+      <p>
+      </p>
+      <p>
+       Indiana is quickly becoming a technology hub!  Don’t get left behind, check out our program offerings below!
+      </p>
+      <hr/>
+      <p>
+       <a id="csci" name="csci">
+       </a>
+      </p>
+      <h2>
+       <img alt="Computer Science" src="/images/Database-Management.png" style="float:left; width:175px"/>
+      </h2>
+      <h2>
+       <a href="/computer-science/index.html">
+        Computer Science (CSCI)
+       </a>
+      </h2>
+      <p>
+       <a href="/computer-science/index.html">
+        Computer Science
+       </a>
+       is an exciting field that explores the frontier of what computers can accomplish, and spans many disciplines and sectors of our economy, including science and research, industry, business and military. Computer Science has consistently ranked high in job satisfaction and wages over the last 20 years. For students who enjoy math, science, problem solving and new challenges, Computer Science is an excellent career choice with a variety of applications and unlimited possibilities.
+      </p>
+      <hr/>
+      <p>
+       <a id="csia" name="csia">
+       </a>
+      </p>
+      <p>
+      </p>
+      <h2>
+       <a href="/cyber-security/index.html">
+        <img alt="Cyber Security/Information Assurance" src="/images/Server-Administration.png" style="float:left; width:175px"/>
+        Cyber Security-Information Assurance (CSIA)
+       </a>
+      </h2>
+      <p>
+       The
+       <a href="/cyber-security/index.html">
+        Cyber Security and Information Assurance
+       </a>
+       program prepares students to work in areas related to information assurance, network and computer security. The program also contains material designed for students currently working in the computer industry and students advanced in computer knowledge who require specific knowledge of information and network-related risks and their avoidance and resolution.
+      </p>
+      <hr/>
+      <p>
+       <a id="dbms" name="dbms">
+       </a>
+      </p>
+      <p>
+      </p>
+      <h2>
+       <a href="/database-management-administration/index.html">
+        <img alt="Database Managment and Administration" src="/images/Software-Development.png" style="float:left; width:175px"/>
+        Database Management and Administration (DBMS)
+       </a>
+      </h2>
+      <p>
+       The
+       <a href="/database-management-administration/index.html">
+        Database Management and Administration
+       </a>
+       program prepares the students for this fast growing field which requires efficient and effective skills in organization, storage, integration, retrieval and analysis of data. Students are trained in database designing, building, managing, system troubleshooting and report generation. Students are introduced to the significant tasks required of database administrators, the internal structures and architectures of database management systems, the implementation of data security and integrity measures, and the assessment of data usage and availability on the web and within internal business systems.
+      </p>
+      <hr/>
+      <p>
+       <a id="infm" name="infm">
+       </a>
+      </p>
+      <p>
+      </p>
+      <h2>
+       <a href="/informatics/index.html">
+        <img alt="Informatics" src="/images/Info-Tech-Support.jpg" style="float:left; width:175px"/>
+        Informatics (INFM)
+       </a>
+      </h2>
+      <p>
+       The field of
+       <a href="/informatics/index.html">
+        informatics
+       </a>
+       dynamically infuses information science and technology into the lives of people at work and play. It involves studying how people interact with computers, data and other technologies to increase productivity and enhance communication. Informatics addresses how people in various disciplines can employ computer technology with a wide range of tasks from automating mundane processes to helping people see the bigger picture at the strategic level. Students will study topics in information technology and information systems, completing their degree with an interdisciplinary emphasis such as health sciences, criminal justice, accounting, social sciences and others.
+      </p>
+      <hr/>
+      <p>
+       <a id="itsp" name="itsp">
+       </a>
+      </p>
+      <p>
+      </p>
+      <h2>
+       <a href="/information-technology-support/index.html">
+        <img alt="Information Technology Support" src="/images/Informatics.png" style="float:left; width:175px"/>
+        Information Technology Support (ITSP)
+       </a>
+      </h2>
+      <p>
+       The
+       <a href="/information-technology-support/index.html">
+        Information Technology Support
+       </a>
+       program provides students with knowledge and skills needed to deploy, troubleshoot, and support stand-alone and networked computing systems and technology. Students will learn problem solving techniques for solutions to practical computer related issues; skills in computing technology support similar to that in a helpdesk environment; the soft skills needed to interact with and support a diversity of customers; the ability to diagnose problems and walk customers through resolving these issues; skills in helping customers with computer related issues; and to supporting/repairing computer equipment and training others in using computing technology.
+      </p>
+      <hr/>
+      <p>
+       <a id="neti" name="neti">
+       </a>
+      </p>
+      <p>
+       <a href="/network-infrastructure/index.html">
+        <img alt="Network Infrastructure" hspace="10" src="/images/Network-Infrastructure.png" style="float:left; width:175px"/>
+       </a>
+      </p>
+      <h2>
+       <a href="/network-infrastructure/index.html">
+        Network Infrastructure (NETI)
+       </a>
+      </h2>
+      <p>
+       The
+       <a href="/network-infrastructure/index.html">
+        Network Infrastructure
+       </a>
+       program is dedicated to enhancing students' knowledge and practical skills in relevant infrastructure design and implementation in all areas of digital communication and connectivity. The program focuses on current and relevant enterprise-level computer network configuration, management, and security outcomes including cabling, radio frequency troubleshooting and behaviors, routing and switching, theoretical communications models, dedicated storage networks, voice over internet protocol, network security concepts/best-practices and industry certification preparation.
+      </p>
+      <hr/>
+      <p>
+       <a id="svad" name="svad">
+       </a>
+      </p>
+      <p>
+      </p>
+      <h2>
+       <a href="/server-administration/index.html">
+        <img alt="Server Administration" src="/images/Cyber-Security.png" style="float:left; width:175px"/>
+        Server Administration (SVAD)
+       </a>
+      </h2>
+      <p>
+       The
+       <a href="/server-administration/index.html">
+        Server Administration
+       </a>
+       program is focused on relevant enterprise server operating systems configuration, management, and security. The program focuses on current and relevant server administration concepts including network security concepts/best-practices and industry certification preparation.
+      </p>
+      <hr/>
+      <p>
+       <a id="sdev" name="sdev">
+       </a>
+      </p>
+      <p>
+      </p>
+      <h2>
+       <a href="/software-development/index.html">
+        <img alt="Software Development" src="/images/software.png" style="float:left; width:175px"/>
+       </a>
+      </h2>
+      <h2>
+       <a href="/software-development/index.html">
+        Software Development (SDEV)
+       </a>
+      </h2>
+      <p>
+       The
+       <a href="/software-development/index.html">
+        Software Development
+       </a>
+       program prepares students to develop, test, implement and maintain the software applications that people use every day with their computers, mobile devices, game consoles, and other technological devices. The Software Development program includes relevant programming/scripting languages, web management/development software, and web server administration.
+      </p>
+      <hr/>
+     </div>
+    </div>
+   </div>
+   ﻿
+   <div class="row" id="footer">
+    <div class="" id="footer-header">
+     <div class="col-sm-6 col-xs-12">
+      <div id="footer-logo">
+      </div>
+      <div id="footer-logo-slogan">
+       Changing Lives
+       <br/>
+       Making Indiana Great
+      </div>
+     </div>
+     <div class="col-sm-6 col-xs-12">
+      <ul id="footer-social-media">
+       <li id="icon-twitter">
+        <a href="https://twitter.com/IvyTechCC" title="Twitter">
+        </a>
+       </li>
+       <li id="icon-linkedin">
+        <a href="https://www.linkedin.com/edu/school?id=20424" title="LinkedIN">
+        </a>
+       </li>
+       <li id="icon-facebook">
+        <a href="https://www.facebook.com/ivytech" title="Facebook">
+        </a>
+       </li>
+       <!--<li id="icon-pinterest"><a href="#" title="Pinterest"></a></li>
+                        -->
+       <li id="icon-instagram">
+        <a href="https://instagram.com/ivytech" title="Instagram">
+        </a>
+       </li>
+       <li id="icon-youtube">
+        <a href="https://www.youtube.com/user/IvyTechCommCollege" title="YouTube">
+        </a>
+       </li>
+       <!--<li id="icon-google"><a href="#" title="Google"></a></li>
+                        -->
+      </ul>
+     </div>
+    </div>
+    <div class="" id="footer-content">
+     <div>
+      <h1>
+       <a href="/programs-a-z/index.html" title="Programs - Footer">
+        Programs
+       </a>
+      </h1>
+     </div>
+     <div>
+      <h1>
+       <a href="/how-to-enroll/index.html" title="How to Enroll - Footer">
+        How to Enroll
+       </a>
+      </h1>
+     </div>
+     <div>
+      <h1>
+       <a href="/financial-aid/index.html" title="How to Pay - Footer">
+        How to Pay
+       </a>
+      </h1>
+     </div>
+     <div>
+      <h1>
+       <a href="/about/index.html" title="About - Footer">
+        About
+       </a>
+      </h1>
+     </div>
+     <div>
+      <h1>
+       <a href="/giving/index.html" title="Giving - Footer">
+        Giving
+       </a>
+      </h1>
+     </div>
+     <div>
+      <h1>
+       <a href="/hr/3842.html" title="Careers - Footer">
+        Careers
+       </a>
+      </h1>
+     </div>
+     <div>
+      <h1>
+       <a href="/corporate-college/index.html" title="Corporate College - Footer">
+        Corporate College
+       </a>
+      </h1>
+     </div>
+     <div>
+      <h1>
+       <a href="/privacy/index.html" title="Privacy - Footer">
+        Privacy
+       </a>
+      </h1>
+     </div>
+    </div>
+    <div class="" id="footer-footer">
+     <div class="col-sm-12 col-xs-12">
+      (888) IVY-LINE ©
+      <span id="footer-year">
+       2016
+      </span>
+      Ivy Tech Community College
+     </div>
+    </div>
+   </div>
+   <div id="chatInvite" name="chatInvite" style="z-index:99999;">
+    <div alt="Chat Invite - Need Help? A representative is online now." class="chatinvite">
+     <a class="nothanks" href="#" title="No thanks">
+     </a>
+     <a class="chatnow" href="#" title="Start chat">
+     </a>
+    </div>
+   </div>
+   <!-- SiteImprove Tracking Script -->
+   <script type="text/javascript">
+    /*<![CDATA[*/
+(function(){
+var sz = document.createElement('script'); sz.type='text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_10656.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+   </script>
+  </div>
+  <script src="/js/bootstrap.min.js" type="text/javascript">
+  </script>
+  <script src="/js/tinyscrollbar.min.js" type="text/javascript">
+  </script>
+  <script src="/js/wowslider.js" type="text/javascript">
+  </script>
+  <script src="/js/enquire.min.js" type="text/javascript">
+  </script>
+  <script src="/js/jquery.zrssfeed.min.js" type="text/javascript">
+  </script>
+  <script src="/js/jquery.fittext.js" type="text/javascript">
+  </script>
+  <script src="/js/jquery.rwdImageMaps.min.js" type="text/javascript">
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDkjo6JjHjItED-SWwLswbtOOuxWf_H3U" type="text/javascript">
+  </script>
+  <script src="/js/maps.js" type="text/javascript">
+  </script>
+  <script src="/js/scripts.js" type="text/javascript">
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-3329203-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+ </body>
+</html>

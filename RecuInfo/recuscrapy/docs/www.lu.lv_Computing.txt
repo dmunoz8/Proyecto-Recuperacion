@@ -1,0 +1,383 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+  <base href="http://www.lu.lv/"/>
+  <meta content="TYPO3 CMS" name="generator"/>
+  <meta content="The University of Latvia Press, University of Latvia, Latvia, Riga, Baltic states, university, education, higher education, studies, research, science, student, professor, bachelor, master, post-graduate, PhD, lifelong learning, programs, courses, lectures" name="keywords"/>
+  <meta content="Museum of Computing and Informatics. Internationally recognized bachelor, master, PhD and professional study programs, undergraduate and graduate research, active campus life" name="description"/>
+  <link href="typo3temp/stylesheet_740e1f7585.css?1450868844" media="all" rel="stylesheet" type="text/css"/>
+  <link href="typo3conf/ext/wt_gallery/files/css/wtgallery_main.css?1464102213" media="all" rel="stylesheet" type="text/css"/>
+  <link href="fileadmin/templates/lu_portal/css/style.css?1459865163" media="all" rel="stylesheet" type="text/css"/>
+  <link href="fileadmin/templates/lu_portal/css/style_txt1.css?1402583204" media="all" rel="stylesheet" type="text/css"/>
+  <script src="fileadmin/templates/lu_portal/js/jquery-1.7.2.min.js?1334656926" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/jquery.browser.min.js?1254832711" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/correctionHTML_inner.js?1301997014" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/jquery.cookie.js?1254832711" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/oldversionbrowsers.js?1271073317" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/text_col_width_adjust_eng.js?1319793442" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/keriss.js?1419955664" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/jquery.jNice.js?1264527042" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/en_scripts.js?1384339277" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/jquery.lightbox.js?1409306509" type="text/javascript">
+  </script>
+  <script src="fileadmin/templates/lu_portal/js/jquery.lightbox_construct.js?1326378170" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function(){
+      if($.browser.name=='msie' && parseInt($.browser.version)==6){
+          oldversbrowsermsg();
+      }
+      correctionHTML();    
+    });
+  </script>
+  <title>
+   Museum of Computing and Informatics - University of Latvia
+  </title>
+ </head>
+ <body>
+  <div class="root" style="position:relative">
+   <div class="border">
+    <div class="holder">
+     <!-- left tree-->
+     <div class="right_block inner">
+      <div class="rb_top">
+       <!--<div class="tree_bg_1">&nbsp;</div>-->
+       <div class="lng">
+        <div class="txt_size_3">
+         <a href="javascript:void(0);" onclick="fontSizeBigger();" title="Vislielākais burtu izmērs">
+          <img alt="Vislielākais burtu izmērs" src="fileadmin/templates/lu_portal/img/a3.jpg"/>
+         </a>
+        </div>
+        <div class="txt_size_2">
+         <a href="javascript:void(0);" onclick="fontSizeBig();" title="Lielāks burtu izmērs">
+          <img alt="Lielāks burtu izmērs" src="fileadmin/templates/lu_portal/img/a2.jpg"/>
+         </a>
+        </div>
+        <div class="txt_size_1">
+         <a href="javascript:void(0);" onclick="fontSizeNormal();" title="Burtu standarta izmērs">
+          <img alt="Burtu standarta izmērs" src="fileadmin/templates/lu_portal/img/a1.jpg"/>
+         </a>
+        </div>
+        <div class="jNice_lang_div">
+         <form class="jNice" id="form_lng">
+          <select name="lng" onchange="location.href=this.value;">
+           <option disabled="disabled" selected="selected">
+            LATVIEŠU
+           </option>
+           <option value="/">
+            LATVIEŠU
+           </option>
+           <option value="/eng/">
+            ENGLISH
+           </option>
+           <option value="/rus/">
+            РУССКИЙ
+           </option>
+          </select>
+         </form>
+        </div>
+       </div>
+      </div>
+      <!-- logo + baner + search form-->
+      <div class="rb_search">
+       <div class="rb_search_r_side">
+        <!--baneris-->
+        <div class="banner">
+        </div>
+        <!-- search form-->
+        <div class="" id="search_form">
+         <div class="jNice_atras_saites">
+          <form class="jNice" id="form_atras">
+           <select id="atras_saites_select" onchange="navigateAtraSaite(this);">
+            <option disabled="disabled" selected="selected" value="/">
+             Quick links
+            </option>
+            <option value="4::1::www.lu.lv/eng/general/press/portal/my/::6006::">
+             My LUIS &amp; Portal
+            </option>
+            <option value="4::1::::602::">
+             Contacts
+            </option>
+            <option value="4::1::::1960::eng/calendar">
+             Calendar
+            </option>
+            <option value="4::1::::749::">
+             Courses
+            </option>
+            <option value="3::1::www.lu.lv/eng/istudents/degree/study/::15565::">
+             Study Programmes
+            </option>
+            <option value="4::1::::1696::">
+             Conferences
+            </option>
+            <option value="4::1::::796::">
+             Information Materials
+            </option>
+            <option value="4::1::::1562::">
+             Magazine "Alma Mater"
+            </option>
+            <option value="4::1::::797::">
+             Souvenirs
+            </option>
+           </select>
+          </form>
+         </div>
+         <div class="jNice_search_div">
+          <form class="jNice" id="form_search" method="post" onsubmit="return processSearchRequest();">
+           <div class="sr_input">
+            <input id="tekstins" maxlength="250" name="teksts" type="text"/>
+           </div>
+           <div class="sr_select_1">
+            <select id="search_select" name="select_1">
+             <option value="sadala">
+              Section
+             </option>
+             <option value="lu">
+              www.lu.lv
+             </option>
+             <option value="calendar:eng">
+              Calendar
+             </option>
+             <option value="kontakti">
+              Contacts
+             </option>
+            </select>
+           </div>
+           <div class="jN_search_button" onclick="">
+            <input src="fileadmin/templates/lu_portal/img/search_button.jpg" type="image"/>
+           </div>
+          </form>
+         </div>
+        </div>
+       </div>
+       <div class="logo" style="float:left">
+        <a href="eng/" title="Home">
+         <img alt="" border="0" height="124" src="fileadmin/templates/lu_portal/img/lu_eng_2nd_level_logo.gif" width="253"/>
+        </a>
+       </div>
+      </div>
+      <!-- main block -->
+      <!-- content -->
+      <div class="content_main_inner">
+       <div class="navigation_inner pad_b2">
+        <div class="txtb_small_link left_mrg fs16 gray">
+         <a href="eng/general/administrative/museum/">
+          MUSEUM OF HISTORY OF SCIENCE AND TECHNOLOGY
+         </a>
+        </div>
+       </div>
+       <div class="navigation_inner pad_b2">
+        <div class="txtb_small_link left_mrg">
+         <a href="/eng/">
+          Home
+         </a>
+         <span>
+          &gt;
+         </span>
+         <a href="eng/general/">
+          General information
+         </a>
+         <span>
+          &gt;
+         </span>
+         <a href="eng/general/administrative/">
+          Administrative units and infrastructure
+         </a>
+         <span>
+          &gt;
+         </span>
+         <a href="eng/general/administrative/museum/">
+          Museum of History of Science and Technology
+         </a>
+         <span>
+          &gt;
+         </span>
+        </div>
+       </div>
+       <div class="navigation_inner">
+        <div class="left_mrg" style="overflow:auto">
+         <div class="txtb_small_curent_levpages_link dp white">
+          <a href="eng/general/administrative/museum/mh/">
+           MUSEUM OF HISTORY
+          </a>
+         </div>
+         <div class="txtb_small_curent_levpages_link dp white">
+          <a href="eng/general/administrative/museum/bm/">
+           BOTANICAL MUSEUM
+          </a>
+         </div>
+         <div class="txtb_small_curent_levpages_link dp white">
+          <a href="eng/general/administrative/museum/mfz/">
+           F. ZANDER’S MEMORIAL MUSEUM OF SPACE EXPLORATION
+          </a>
+         </div>
+         <div class="txtb_small_curent_levpages_link dp white">
+          <a href="eng/general/administrative/museum/mg/">
+           MUSEUM OF GEOLOGY
+          </a>
+         </div>
+         <div class="txtb_small_curent_levpages_link dp white">
+          <a href="eng/general/administrative/museum/mpa/">
+           MUSEUM OF PATHOLOGY AND ANATOMY
+          </a>
+         </div>
+         <div class="txtb_small_curent_levpages_link dp white">
+          <a href="eng/general/administrative/museum/mp/">
+           MUSEUM OF PEDAGOGY
+          </a>
+         </div>
+         <div class="txtb_small_curent_levpages_link dp red">
+          <a href="eng/general/administrative/museum/mci/">
+           MUSEUM OF COMPUTING AND INFORMATICS
+          </a>
+         </div>
+         <div class="txtb_small_curent_levpages_link dp white">
+          <a href="eng/general/administrative/museum/mz/">
+           MUSEUM OF ZOOLOGY
+          </a>
+         </div>
+         <div class="txtb_small_curent_levpages_link dp white">
+          <a href="eng/general/administrative/museum/lmhc/">
+           LATVIAN MUSEUM OF THE HISTORY OF CHEMISTRY
+          </a>
+         </div>
+        </div>
+       </div>
+       <!--TYPO3SEARCH_begin-->
+       <div class="rte_text white_block">
+        <div class="title_block" style="margin-right:28px;">
+         <table id="titleTable">
+          <tr>
+           <td>
+            <div class="title" style="max-width: 900px;">
+             Museum of Computing and Informatics
+            </div>
+            <div class="small_txt">
+             Last Update
+             <br/>
+             22.04.2010
+            </div>
+           </td>
+           <td align="bottom">
+            <div class="links_right">
+             <a href="eng/general/administrative/museum/mci/nc/print.html" target="_blank">
+              Print
+             </a>
+             <br/>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <div class="rte_text_txt full">
+         <p class="bodytext">
+          <b>
+           Adress:
+          </b>
+          29 Raiņa Boulevard, Riga, LV–1459 (museum is located in the  Mathematics and Informatics Institute premises and in data center  “Sigmanet”)
+          <br/>
+          <b>
+           Phone:
+          </b>
+          +371 67211023.
+          <br/>
+          <b>
+           E-mail:
+          </b>
+          <a href="mailto:stmuzejs@latnet.lv">
+           stmuzejs@latnet.lv
+          </a>
+          ;
+          <a href="mailto:asklumuz@latnet.lv">
+           asklumuz@latnet.lv
+          </a>
+          <br/>
+          <b>
+           Head:
+          </b>
+          Andrejs Skuja
+          <br/>
+          <br/>
+          <span lang="EN-US">
+           Excursions in the Museum of Computing and Informatics can be arranged by phone +371 67211023 (on working days from 10 – 16) or by e-mail
+           <a href="mailto:asklumuz@latnet.lv">
+            asklumuz@latnet.lv
+           </a>
+           <br/>
+           <br/>
+           The exhibition “How and Why the Computer was Born?” displays several thousands of objects, photos and documents relating to computer engineering and application which were stored in the museum's funds, as well as compiled by the Latvian science and technology representatives.
+          </span>
+         </p>
+         <p class="bodytext">
+          <span lang="EN-US">
+           This exhibition displays former calculating devices and first generation computer facilities, construction elements and operating devices, as well as a wide collection of minicomputers and early personal computers.
+          </span>
+          <br/>
+          <br/>
+          The museum was founded in 1984 and it preserves evidence about usage of computer equipment and automatic calculating in scientific research and national economy, as well as in various technical and consumer fields since as early as 1959.
+         </p>
+         <p class="bodytext">
+          <span lang="EN-US">
+           The museum is located in the former State University of Latvia Calculating Center - a building of historical notability; the Center used to be one of the leading research institutions in computer science (informatics) and in applied mathematics in the Soviet Union; later it became the Mathematics and Informatics Institute.
+           <br/>
+           <br/>
+           Note: The museum appreciates any contribution in documenting and displaying the history of calculating devices (within its technical possibilities): various not used or useless calculating devices (including computers), computer nodes, construction elements, data carriers, as well as documents, photos and other materials relevant to Latvia’s computerization.
+           <br/>
+           <br/>
+          </span>
+         </p>
+         <p class="align-center">
+          <img alt="" height="225" src="fileadmin/user_upload/lu_portal/par/strukturvienibas-un-infrastruktura/muzejs/skaitlosanas/skaitlosanas-muzejs-01.jpg" style="padding-right: 10px;" width="300"/>
+          <img alt="" height="225" src="fileadmin/user_upload/lu_portal/par/strukturvienibas-un-infrastruktura/muzejs/skaitlosanas/skaitlosanas-muzejs-02.jpg" width="300"/>
+         </p>
+         <p class="align-center">
+          <img alt="" height="225" src="fileadmin/user_upload/lu_portal/par/strukturvienibas-un-infrastruktura/muzejs/skaitlosanas/skaitlosanas-muzejs-03.jpg" style="padding-right: 10px;" width="300"/>
+          <img alt="" height="225" src="fileadmin/user_upload/lu_portal/par/strukturvienibas-un-infrastruktura/muzejs/skaitlosanas/skaitlosanas-muzejs-04.jpg" width="169"/>
+         </p>
+        </div>
+       </div>
+       <!--TYPO3SEARCH_end-->
+       <div class="menu_container">
+       </div>
+      </div>
+      <!-- end of content -->
+     </div>
+     <!-- end of main block-->
+     <div class="break_block_f">
+     </div>
+    </div>
+    <div class="footer left">
+     © UNIVERSITY OF LATVIA, 2009-2016
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35964259-1']);
+  _gaq.push(['_setDomainName', 'lu.lv']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+ </body>
+</html>

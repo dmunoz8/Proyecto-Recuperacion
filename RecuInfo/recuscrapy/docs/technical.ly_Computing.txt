@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="initial-scale=0.96,width=device-width" name="viewport"/>
+  <script src="//platform.twitter.com/widgets.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   (function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				})();
+  </script>
+  <meta content="Drexel merges programs to create College of Computing and Informatics" itemprop="name"/>
+  <meta content="The creation of the school is the latest in a number of efforts on Drexel's part to emphasize technology and entrepreneurship." itemprop="description"/>
+  <meta content="http://technical.ly/philly/wp-content/themes/national/images/logo.png" itemprop="image"/>
+  <meta content="1011285523" property="fb:app_id"/>
+  <link href="http://technical.ly/philly/wp-content/themes/national/images/favicon.ico" rel="icon" type="image/x-icon"/>
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-W6ZF3N" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W6ZF3N');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-NRX8MQ" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-NRX8MQ');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+  <script type="text/javascript">
+   var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || []
+
+	var gtm4wp_scrollerscript_debugmode         = false;
+	var gtm4wp_scrollerscript_callbacktime      = 100;
+	var gtm4wp_scrollerscript_readerlocation    = 150;
+	var gtm4wp_scrollerscript_contentelementid  = "content";
+	var gtm4wp_scrollerscript_scannertime       = 60;
+  </script>
+  <!-- End Google Tag Manager for WordPress by DuracellTomi -->
+  <script src="https://use.typekit.net/phw5tfo.js">
+  </script>
+  <script>
+   try{Typekit.load();}catch(e){}
+  </script>
+  <!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>
+   Drexel merges programs to create College of Computing and Informatics - Technical.ly Philly
+  </title>
+  <link href="http://technical.ly/philly/2013/09/10/drexel-college-of-computing-informatics/" rel="original-source"/>
+  <link href="http://technical.ly/philly/2013/09/10/drexel-college-of-computing-informatics/" rel="canonical"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Drexel merges programs to create College of Computing and Informatics - Technical.ly Philly" property="og:title"/>
+  <meta content="The creation of the school is the latest in a number of efforts on Drexel's part to emphasize technology and entrepreneurship." property="og:description"/>
+  <meta content="http://technical.ly/philly/2013/09/10/drexel-college-of-computing-informatics/" property="og:url"/>
+  <meta content="Technical.ly Philly" property="og:site_name"/>
+  <meta content="colleges" property="article:tag"/>
+  <meta content="cybersecurity" property="article:tag"/>
+  <meta content="education" property="article:tag"/>
+  <meta content="Access" property="article:section"/>
+  <meta content="2013-09-10T09:30:49-04:00" property="article:published_time"/>
+  <meta content="2013-09-10T09:10:29-04:00" property="article:modified_time"/>
+  <meta content="2013-09-10T09:10:29-04:00" property="og:updated_time"/>
+  <meta content="http://technical.ly/philly/wp-content/uploads/sites/2/2013/09/rush.jpg" property="og:image"/>
+  <meta content="650" property="og:image:width"/>
+  <meta content="463" property="og:image:height"/>
+  <!-- / Yoast SEO plugin. -->
+  <script src="https://use.typekit.net/max4sgy.js">
+  </script>
+  <script>
+   try{Typekit.load({ async: true });}catch(e){}
+  </script>
+  <link href="http://technical.ly/philly/2013/09/10/drexel-college-of-computing-informatics/feed/" rel="alternate" title="Technical.ly Philly » Drexel merges programs to create College of Computing and Informatics Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/technical.ly\/philly\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="http://technical.ly/philly/wp-content/themes/philly/style.css?ver=4.5.2" id="master-css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://technical.ly/philly/wp-content/themes/national/print.css?ver=4.5.2" id="print-css" media="print" rel="stylesheet" type="text/css"/>
+  <link href="http://technical.ly/philly/wp-content/plugins/cresta-social-share-counter-pro/css/csscfont.css?ver=4.5.2" id="cresta-social-crestafont-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://technical.ly/philly/wp-content/plugins/cresta-social-share-counter-pro/css/cresta-wp-css.css?ver=4.5.2" id="cresta-social-wp-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Noto+Sans%3A400%2C700&amp;ver=4.5.2" id="cresta-social-googlefonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://technical.ly/philly/wp-content/plugins/tablepress/css/default.min.css?ver=1.7" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://technical.ly/philly/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.2" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://technical.ly/philly/wp-includes/js/jquery/jquery.js?ver=1.12.3" type="text/javascript">
+  </script>
+  <script src="http://technical.ly/philly/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0" type="text/javascript">
+  </script>
+  <script src="http://technical.ly/philly/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.2" type="text/javascript">
+  </script>
+  <script src="http://technical.ly/philly/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.2" type="text/javascript">
+  </script>
+  <script src="http://technical.ly/philly/wp-content/plugins/optin-monster/assets/js/api.js?ver=2.1.7" type="text/javascript">
+  </script>
+  <link href="http://technical.ly/philly/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://technical.ly/philly/?p=25655" rel="shortlink"/>
+  <link href="http://technical.ly/philly/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftechnical.ly%2Fphilly%2F2013%2F09%2F10%2Fdrexel-college-of-computing-informatics%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://technical.ly/philly/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftechnical.ly%2Fphilly%2F2013%2F09%2F10%2Fdrexel-college-of-computing-informatics%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <style type="text/css">
+  </style>
+  <link href="http://technical.ly/philly/wp-json" rel="https://github.com/WP-API/WP-API"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="@technicallyPHL" name="twitter:site"/>
+  <meta content="Technical.ly Philly" name="twitter:domain"/>
+  <meta content="@juliana_f_reyes" name="twitter:creator"/>
+  <meta content="Drexel merges programs to create College of Computing and Informatics" name="twitter:title"/>
+  <meta content="http://technical.ly/philly/2013/09/10/drexel-college-of-computing-informatics/" name="twitter:url"/>
+  <meta content="The creation of the school is the latest in a number of efforts on Drexel's part to emphasize technology and entrepreneurship." name="twitter:description"/>
+  <meta content="http://technical.ly/philly/wp-content/uploads/sites/2/2013/09/rush.jpg" name="twitter:image"/>
+  <!-- Google Tag Manager for WordPress by DuracellTomi -->
+  <script type="text/javascript">
+   dataLayer.push({"pageCategory":["access"],"pageAttributes":["colleges","cybersecurity","education"],"pagePostAuthor":"Juliana Reyes","postCountOnPage":1,"postCountTotal":1});
+  </script>
+  <!--[if lte IE 8]>
+			<script src="http://technical.ly/philly/wp-content/themes/national/js/lib/respond.min.js"></script>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+ </head>
+ <body class="single-post drexel-college-of-computing-informatics">
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <header id="header-main">
+   <div class="logo logo-phl">
+    <a href="http://technical.ly/philly">
+     Technical.ly Philly
+    </a>
+   </div>
+   <span class="skyline sprites-skyline-phl">
+   </span>
+  </header>
+  <div id="nav-wrap">
+   <div class="menu-network" id="menu-wrap-network">
+    <ul class="menu" id="menu-network">
+     <li class="current-menu-item">
+      <a href="/philly">
+       Philly
+      </a>
+     </li>
+     <li>
+      <a href="/baltimore">
+       Baltimore
+      </a>
+     </li>
+     <li>
+      <a href="/brooklyn">
+       Brooklyn
+      </a>
+     </li>
+     <li>
+      <a href="/dc/">
+       DC
+       <b>
+        New!
+       </b>
+      </a>
+     </li>
+     <li>
+      <a href="/delaware/">
+       Delaware
+      </a>
+     </li>
+     <li>
+      <a href="/">
+       Network
+      </a>
+     </li>
+    </ul>
+   </div>
+   <nav class="menu-main clearfix" id="menu-wrap-main">
+    <ul class="menu" id="menu-main">
+     <li class="link-topics">
+      <a href="#">
+       <b>
+        Topics
+       </b>
+      </a>
+     </li>
+     <li class="link-directory">
+      <a href="http://technical.ly/philly/directory/">
+       Directory
+       <em>
+        Beta
+       </em>
+      </a>
+     </li>
+     <li class="link-find-work">
+      <a href="http://technical.ly/philly/jobs/">
+       Find Work
+      </a>
+     </li>
+     <li class="link-tablet">
+      <a href="http://technical.ly/philly/events/">
+       Events
+      </a>
+     </li>
+     <li class="link-full">
+      <a href="http://technical.ly/philly/about/">
+       About
+      </a>
+     </li>
+     <li class="link-full">
+      <a href="http://technical.ly/advertising">
+       Advertise
+      </a>
+     </li>
+    </ul>
+   </nav>
+   <div id="search">
+    <form action="http://technical.ly/philly" method="get">
+     <input class="search-box s" name="s" placeholder="Search…" type="text" value=""/>
+     <input class="submit tm-button" type="submit" value="Search"/>
+    </form>
+   </div>
+   <div class="menu-utility clearfix" id="menu-wrap-utility">
+    <ul class="menu" id="menu-utility">
+     <li class="link-follow">
+      <a href="#">
+       <b>
+        Follow Us
+       </b>
+      </a>
+     </li>
+     <li class="link-search">
+      <a href="#">
+       <b>
+        Search
+       </b>
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="clearfix" id="social">
+    <div class="menu-social clearfix" id="menu-wrap-social">
+     <ul class="menu" id="menu-social">
+      <li>
+       <a href="http://technical.ly/philly/daily-newsletter/">
+        <i class="fa fa-envelope-square">
+        </i>
+        Daily Newsletter
+       </a>
+      </li>
+      <li>
+       <a href="http://twitter.com/technicallyPHL">
+        <i class="fa fa-twitter-square">
+        </i>
+        Twitter
+       </a>
+      </li>
+      <li>
+       <a href="http://facebook.com/technicallyphilly">
+        <i class="fa fa-facebook-square">
+        </i>
+        Facebook
+       </a>
+      </li>
+      <li>
+       <a href="http://www.meetup.com/technically-philly" title="Our monthly Technically Philly Meetup">
+        <i class="fa fa-users">
+        </i>
+        Meetup
+       </a>
+      </li>
+      <li>
+       <a href="/philly/feed/">
+        <i class="fa fa-rss-square">
+        </i>
+        RSS
+       </a>
+      </li>
+      <li>
+       <a href="http://technically.herokuapp.com/">
+        Slack
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="topics">
+    <div id="topics-cats">
+     <div class="menu-cats clearfix" id="menu-wrap-cats">
+      <ul class="menu" id="menu-main-categories">
+       <li class="link-business">
+        <a href="http://technical.ly/philly/category/business/">
+         Business
+        </a>
+       </li>
+       <li class="link-access">
+        <a href="http://technical.ly/philly/category/access/">
+         Access
+        </a>
+       </li>
+       <li class="link-civic">
+        <a href="http://technical.ly/philly/category/civic/">
+         Civic
+        </a>
+       </li>
+       <li class="link-creative">
+        <a href="http://technical.ly/philly/category/creative/">
+         Creative
+        </a>
+       </li>
+       <li class="link-dev">
+        <a href="http://technical.ly/philly/category/dev/">
+         Dev
+        </a>
+       </li>
+       <li class="link-media">
+        <a href="http://technical.ly/philly/category/media/">
+         Media
+        </a>
+       </li>
+       <li class="link-sciences">
+        <a href="http://technical.ly/philly/category/sciences/">
+         Sciences
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id="topics-tags">
+     <h2>
+      Trending
+     </h2>
+     <div class="menu-tags clearfix" id="menu-wrap-tags">
+      <ul class="menu" id="menu-trending-3">
+       <li>
+        <a href="http://technical.ly/philly/tag/journalism/">
+         Big Headlines
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/tag/women-in-tech/">
+         women in tech
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/tag/social-entrepreneurship/">
+         Social Entrepreneurship
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/tag/investment/">
+         investment
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/tag/startups/">
+         startups
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/tag/hackathons/">
+         hackathons
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/tag/open-data/">
+         open data
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/tag/coworking/">
+         coworking
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/tag/education/">
+         education
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id="sections">
+     <div class="menu-sections clearfix" id="menu-wrap-sections">
+      <ul class="menu" id="menu-sections">
+       <li>
+        <a href="http://technical.ly/philly/directory/">
+         Directory
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/jobs/">
+         Jobs
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/about/">
+         About
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/events/">
+         Events
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly/advertising/">
+         Advertising
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <a href="http://technical.ly/philly">
+    <img alt="" id="tower" src="http://technical.ly/philly/wp-content/themes/national/images/tower.png"/>
+   </a>
+  </div>
+  <div class="clearfix" id="container">
+   <div class="row">
+    <header id="masthead">
+     <p class="topics">
+      <a class="topic-access" href="http://technical.ly/philly/category/access/">
+       <span class="sprites-topic-access">
+       </span>
+       Access
+      </a>
+     </p>
+     <p class="date">
+      Sep. 10, 2013 9:30 am
+     </p>
+     <h1>
+      Drexel merges programs to create College of Computing and Informatics
+     </h1>
+     <div class="excerpt">
+      The creation of the school is the latest in a number of efforts on Drexel's part to emphasize technology and entrepreneurship.
+     </div>
+     <div class="byline ">
+      <div class="stick-title">
+       Drexel merges programs to create College of Computing and Informatics
+      </div>
+      <div class="authors">
+       By
+       <span class="author-wrap">
+        <a href="http://technical.ly/philly/author/julianareyes" title="Posts by Juliana Reyes">
+         Juliana Reyes
+        </a>
+        <span class="staff-title">
+         / staff
+        </span>
+       </span>
+      </div>
+      <div class="share-wrap">
+       <!--www.crestaproject.com Cresta Social Share Counter Content Start-->
+       <div class="cresta-share-icon mini thirteenth_style" id="crestashareiconincontent">
+        <div class="sbutton facebook-cresta-share cresta-no-animation" id="facebook-cresta-c">
+         <a data-name="Share to Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftechnical.ly%2Fphilly%2F2013%2F09%2F10%2Fdrexel-college-of-computing-informatics%2F&amp;t=Drexel+merges+programs+to+create+College+of+Computing+and+Informatics" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=450');return false;" rel="nofollow">
+          <i class="cs c-icon-cresta-facebook">
+          </i>
+         </a>
+        </div>
+        <div class="sbutton twitter-cresta-share cresta-no-animation" id="twitter-cresta-c">
+         <a data-name="Share to Twitter" href="http://twitter.com/share?text=Drexel+merges+programs+to+create+College+of+Computing+and+Informatics&amp;url=http%3A%2F%2Ftechnical.ly%2Fphilly%2F2013%2F09%2F10%2Fdrexel-college-of-computing-informatics%2F&amp;via=TechnicallyPHL" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=450');return false;" rel="nofollow">
+          <i class="cs c-icon-cresta-twitter">
+          </i>
+         </a>
+        </div>
+        <div class="sbutton googleplus-cresta-share cresta-no-animation" id="googleplus-cresta-c">
+         <a data-name="Share to Google Plus" href="https://plus.google.com/share?url=http%3A%2F%2Ftechnical.ly%2Fphilly%2F2013%2F09%2F10%2Fdrexel-college-of-computing-informatics%2F" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=450');return false;" rel="nofollow">
+          <i class="cs c-icon-cresta-gplus">
+          </i>
+         </a>
+        </div>
+        <div class="sbutton linkedin-cresta-share cresta-no-animation" id="linkedin-cresta-c">
+         <a data-name="Share to Linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Ftechnical.ly%2Fphilly%2F2013%2F09%2F10%2Fdrexel-college-of-computing-informatics%2F&amp;title=Drexel+merges+programs+to+create+College+of+Computing+and+Informatics&amp;source=http://technical.ly/philly/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=450');return false;" rel="nofollow">
+          <i class="cs c-icon-cresta-linkedin">
+          </i>
+         </a>
+        </div>
+        <div style="clear: both;">
+        </div>
+       </div>
+       <div style="clear: both;">
+       </div>
+       <!--www.crestaproject.com Cresta Social Share Counter Content End-->
+      </div>
+     </div>
+     <p class="prev-next prev">
+      <a href="http://technical.ly/philly/2013/09/03/mast-community-charter-school-stream-summer-camp/" rel="prev">
+       <i class="fa fa-arrow-circle-o-left">
+       </i>
+       <b class="title">
+        MaST Community Charter School’s Summer Camp has ‘STREAM’ focus
+       </b>
+       <b class="title-sm">
+        Previous
+       </b>
+      </a>
+     </p>
+     <p class="prev-next next">
+      <a href="http://technical.ly/philly/2013/09/10/girls-who-code-bryn-mawr-college-curriculum/" rel="next">
+       <i class="fa fa-arrow-circle-o-right">
+       </i>
+       <b class="title">
+        Girls Who Code: youth nonprofit uses software built at Bryn Mawr College
+       </b>
+       <b class="title-sm">
+        Next
+       </b>
+      </a>
+     </p>
+    </header>
+   </div>
+   <div class="row">
+    <article class="column small-12" id="main">
+     <aside id="sidebar">
+      <div class="widget widget-connections">
+       <h2>
+        Connections
+        <a href="http://technical.ly/philly/directory/">
+         Browse Directory »
+        </a>
+       </h2>
+       <h3>
+        <i class="fa fa-users">
+        </i>
+        Organizations
+       </h3>
+       <p>
+        <a href="http://technical.ly/organization/drexel-university/">
+         Drexel University
+        </a>
+       </p>
+       <h3>
+        <i class="fa fa-tags">
+        </i>
+        Tags
+       </h3>
+       <p>
+        <a href="http://technical.ly/philly/tag/colleges/" rel="tag">
+         colleges
+        </a>
+        ,
+        <a href="http://technical.ly/philly/tag/cybersecurity/" rel="tag">
+         cybersecurity
+        </a>
+        ,
+        <a href="http://technical.ly/philly/tag/education/" rel="tag">
+         education
+        </a>
+       </p>
+      </div>
+      <div class="ad-300">
+       <iframe class="dfp-ad" desktop="http://technical.ly/philly/wp-content/themes/national/ads/phl_premium_300.html" mobile="" src="">
+       </iframe>
+       <p>
+        Advertisement
+       </p>
+      </div>
+     </aside>
+     <div class="lead-photo">
+      <img alt="" src="http://technical.ly/philly/wp-content/uploads/sites/2/2013/09/rush.jpg"/>
+      <div class="caption">
+       <p>
+        Drexel University's iSchool (pictured) is going to be combined into the school's new College of Computing and Informatics.
+       </p>
+      </div>
+     </div>
+     <section class="story clearfix">
+      <p>
+       <strong>
+        Drexel University
+       </strong>
+       will merge three programs to create its new
+       <a href="http://www.ischool.drexel.edu/">
+        <strong>
+         College of Computing and Informatics
+        </strong>
+       </a>
+       . The college aims to be a hub for fields like big data, cybersecurity and software development. It will begin enrolling students in Fall 2014,
+       <a href="http://drexel.edu/now/news-media/releases/archive/2013/September/CCI/">
+        according to a release
+       </a>
+       .
+      </p>
+      <p>
+       The creation of the school is the latest in a number of efforts on Drexel’s part to emphasize technology and entrepreneurship. These efforts include:
+      </p>
+      <ul>
+       <li>
+        the opening of the $12.5 million
+        <a href="http://technical.ly/philly/2013/02/01/charles-d-close-school-of-entrepreneurship-drexel-university-receives-12-5m-to-open-entrepreneurship-school/">
+         <strong>
+          Close School of Entrepreneurship
+         </strong>
+        </a>
+       </li>
+       <li>
+        the launch of
+        <a href="http://technical.ly/philly/2013/07/03/drexel-ventures-seed-fund/">
+         <strong>
+          Drexel Ventures
+         </strong>
+        </a>
+        , a seed fund and business incubator with a goal to fight brain drain
+       </li>
+       <li>
+        the launch of the
+        <strong>
+         <a href="http://technical.ly/philly/2012/11/14/excite-center-photos-drexel-university-arts-media-science/">
+          ExCITe Center
+         </a>
+        </strong>
+        , a music and technology research lab
+        <a href="http://technical.ly/philly/2012/11/14/excite-center-photos-drexel-university-arts-media-science/">
+         <strong>
+         </strong>
+        </a>
+       </li>
+      </ul>
+      <span class="sprites-tower-white">
+       -30-
+      </span>
+     </section>
+     <section class="author clearfix">
+      <img alt="Juliana Reyes" class="avatar avatar-96 photo" height="96" src="http://technical.ly/philly/wp-content/uploads/sites/2/2016/06/Juliana-Reyes_avatar_1465334665-96x96.jpg" width="96"/>
+      <p>
+       Juliana Reyes became Technical.ly's associate editor after reporting on the Philadelphia tech scene for four years. She's co-president of the Asian American Journalists Association Philadelphia chapter and a two-time Philadelphia News Award winner for "Community Reporting of the Year." The Bryn Mawr College grad lives in West Philly, likes her food spicy and wears jumpsuits often.
+      </p>
+      <div class="author-meta">
+       <a href="http://technical.ly/philly/author/julianareyes/">
+        Profile
+       </a>
+       /
+       <a href="https://twitter.com/juliana_f_reyes/">
+        @juliana_f_reyes
+       </a>
+       /
+       <a href="mailto:juliana@technical.ly">
+        Send an email
+       </a>
+      </div>
+     </section>
+     <section class="comments">
+      <a name="comments">
+      </a>
+      <div id="disqus_thread">
+      </div>
+      <script type="text/javascript">
+       var disqus_url = 'http://technical.ly/philly/2013/09/10/drexel-college-of-computing-informatics/';
+var disqus_identifier = '25655 http://technical.ly/philly/?p=25655';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'technicallyphilly';
+var disqus_title = "Drexel merges programs to create College of Computing and Informatics";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=25655';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+      </script>
+     </section>
+    </article>
+   </div>
+   <div class="row">
+    <div class="ad-970 column medium-12">
+     <iframe class="dfp-ad" desktop="http://technical.ly/philly/wp-content/themes/national/ads/phl_standard_970.html" mobile="http://technical.ly/philly/wp-content/themes/national/ads/phl_standard_300.html" src="">
+     </iframe>
+     <p>
+      Advertisement
+     </p>
+    </div>
+   </div>
+   <div class="shaded">
+    <div class="home-continuous">
+     <div class="row">
+      <!-- ####################### FEATURED ####################### -->
+      <div class="story-callout column medium-12 large-4">
+       <div class="story-callout-wrap">
+        <p class="topics">
+         <a class="topic-business" href="http://technical.ly/philly/category/business/">
+          <span class="sprites-topic-business">
+          </span>
+          Business
+         </a>
+        </p>
+        <div class="column medium-6 large-12">
+         <a href="http://technical.ly/philly/2016/06/10/best-tech-employers-companies-philly-timmy-awards/">
+          <img alt="" src="http://technical.ly/philly/wp-content/uploads/sites/2/2016/06/20160609_181052-min-250x205.jpg"/>
+         </a>
+        </div>
+        <div class="column medium-6 large-12">
+         <p class="date">
+          Jun. 10, 2016 12:37 pm
+         </p>
+         <h2>
+          <a href="http://technical.ly/philly/2016/06/10/best-tech-employers-companies-philly-timmy-awards/">
+           Here’s who won Philly’s inaugural Timmy Awards
+          </a>
+         </h2>
+         <p class="excerpt">
+          After more than 10,000 votes, PeopleLinx, Curalate and AGI went home with the top prizes.
+         </p>
+        </div>
+       </div>
+      </div>
+      <!-- ####################### END FEATURED ####################### -->
+      <div class="story-ad column large-8">
+       <ul class="story-square medium-block-grid-2">
+        <li>
+         <a href="http://technical.ly/philly/2016/06/10/boston-device-development-now-smithwise/" style="background-image: url(http://technical.ly/philly/wp-content/themes/national/images/cover.png), url(http://technical.ly/philly/wp-content/uploads/sites/2/2016/06/IMG_20160607_184252-e1465571635154-250x205.jpg);">
+          <p class="date">
+           Jun. 10, 2016 12:46 pm
+          </p>
+          <h2>
+           Why this growing health-tech company changed its name
+          </h2>
+         </a>
+        </li>
+        <li>
+         <a href="http://technical.ly/philly/2016/06/10/peoplelinx-ceo-kevin-onell-meetup/" style="background-image: url(http://technical.ly/philly/wp-content/themes/national/images/cover.png), url(http://technical.ly/philly/wp-content/uploads/sites/2/2016/06/kevin-onell-1-250x205.jpg);">
+          <p class="date">
+           Jun. 10, 2016 12:39 pm
+          </p>
+          <h2>
+           Hear PeopleLinx CEO share insights on how to sell, sell, sell
+          </h2>
+         </a>
+        </li>
+        <li>
+         <a href="http://technical.ly/philly/2016/06/10/philly-dev-survey/" style="background-image: url(http://technical.ly/philly/wp-content/themes/national/images/cover.png), url(http://technical.ly/philly/wp-content/uploads/sites/2/2015/02/gdi2-philly-250x205.png);">
+          <p class="date">
+           Jun. 10, 2016 10:42 am
+          </p>
+          <h2>
+           Philly’s female developers aren’t afraid of startups
+          </h2>
+         </a>
+        </li>
+        <li class="sponsored-square">
+         <a href="http://technical.ly/philly/2016/02/19/saul-ewing-ramp-startups/" style="background-image: url(http://technical.ly/philly/wp-content/themes/national/images/cover.png), url(http://technical.ly/philly/wp-content/uploads/sites/2/2016/02/shutterstock_100825999-250x205.jpg);">
+          <h2>
+           Law firm Saul Ewing wants to partner with your startup
+          </h2>
+          <small>
+           Sponsored Content
+          </small>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <!-- /.row -->
+     <div class="row">
+      <div class="column small-12">
+       <a class="infinite-more-link" href="http://technical.ly/philly/wp-content/themes/national/includes/continuous-article-page2.php">
+        More stories
+        <i class="fa fa-plus">
+        </i>
+       </a>
+      </div>
+     </div>
+    </div>
+    <!-- /#home-continuous -->
+   </div>
+   <div class="signup signup-phl">
+    <div class="row">
+     <p class="column large-7">
+      Sign-up for regular updates from Technical.ly
+     </p>
+     <form action="" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form">
+      <div class="mc-field-group">
+       <label for="mce-EMAIL">
+        Email Address
+       </label>
+       <input class="required email" id="email" name="mcemail" placeholder="Email" required="" type="email" value=""/>
+       <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"/>
+       <input name="action" type="hidden" value="subscribe"/>
+      </div>
+     </form>
+    </div>
+   </div>
+   <footer id="footer-main">
+    <div class="row">
+     <div class="site-info column large-7">
+      <h2>
+       Cities
+      </h2>
+      <ul>
+       <li>
+        <a href="http://technical.ly">
+         Network
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/philly">
+         Philly
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/baltimore">
+         Baltimore
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/brooklyn">
+         Brooklyn
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/delaware">
+         Delaware
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/dc">
+         Washington D.C.
+        </a>
+       </li>
+      </ul>
+      <h2>
+       Services
+      </h2>
+      <ul>
+       <li>
+        <a href="http://technical.ly/jobs">
+         Find Work
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/directory">
+         Search Directory
+        </a>
+       </li>
+      </ul>
+      <h2>
+       Company
+      </h2>
+      <ul>
+       <li>
+        <a href="http://technical.ly/about">
+         About Technical.ly
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/advertising">
+         Advertising
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/ethics">
+         Ethics
+        </a>
+       </li>
+       <li>
+        <a href="http://technical.ly/contact-us">
+         Contact
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="credits column large-5">
+      <ul class="row">
+       <li class="tm column small-6 medium-3 medium-offset-3 large-7 large-offset-0">
+        <a class="clearfix" href="http://technicallymedia.com">
+         <p>
+          Published by
+         </p>
+         <span class="logo-tm">
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </footer>
+   <div class="copyright">
+    <div class="row">
+     <div class="column small-12">
+      <div class="textwidget">
+       V. 2.7.0 May 31, 2016   /   © 2016
+       <a href="http://technicallymedia.com">
+        Technically Media Inc.
+       </a>
+       All Rights Reserved.
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- Start of Async HubSpot Analytics Code -->
+   <script type="text/javascript">
+    (function(d,s,i,r) {
+	  if (d.getElementById(i)){return;}
+	  var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+	  n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/2084427.js';
+	  e.parentNode.insertBefore(n, e);
+	})(document,"script","hs-analytics",300000);
+   </script>
+   <!-- End of Async HubSpot Analytics Code -->
+   <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'technicallyphilly';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+   </script>
+   <script src="http://technical.ly/philly/wp-content/themes/national/js/build/scripts.min.js?ver=4.5.2" type="text/javascript">
+   </script>
+   <script src="http://technical.ly/philly/wp-content/plugins/cresta-social-share-counter-pro/js/jquery.cresta-social-effect.js?ver=1.0" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    /* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"5.0.2"};
+/* ]]> */
+   </script>
+   <script async="" crossorigin="use-credentials" defer="" src="//js.leadin.com/js/v1/689700.js?ver=4.5.2" type="text/javascript">
+   </script>
+   <script src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201623" type="text/javascript">
+   </script>
+   <script src="http://technical.ly/philly/wp-includes/js/wp-embed.min.js?ver=4.5.2" type="text/javascript">
+   </script>
+   <script async="" defer="" src="http://stats.wp.com/e-201623.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.2',blog:'48401678',post:'25655',tz:'-4',srv:'technical.ly'} ]);
+	_stq.push([ 'clickTrackerInit', '48401678', '25655' ]);
+   </script>
+   <script>
+    jQuery(document).ready(function($){
+	// Setup some variables
+	var page = 3;
+	var pcount = 1; // Count of load more clicks
+	var load_more = $('div.load-more-container');
+	var preloaded_stories = '';
+
+	// Bind the click to load more
+	load_more.find('a.load-more-stories').on('click', load_more_stories );
+
+	// Preload the first set of additional stories
+	fetch_stories();
+
+	/**
+	 * Load more stories from the Ajax endpoint.
+	 *
+	 * @param event jQuery event object
+	 */
+	function load_more_stories(event) {
+		event.preventDefault();
+		display_stories();
+		// preload the next batch
+		fetch_stories();
+	}
+
+	/**
+	 * Fetch the stories via ajax
+	 */
+	function fetch_stories() {
+
+		window.tm_post_excludes = window.tm_post_excludes || [];
+
+		$.ajax({
+			url: 'http://technical.ly/philly/wp-admin/admin-ajax.php',
+			method: 'POST',
+			data: {
+				action: 'recent_posts',
+				page: page,
+				pcount: pcount,
+				excludes: window.tm_post_excludes,
+			},
+			success: success_fn,
+			error: error_fn
+		});
+
+		$('.dfp-ad').each(function(){
+			if ($(window).width() > 1025 && !$(this).hasClass('dfp-large')) {
+				$(this).removeClass('dfp-small').addClass('dfp-large').attr('src', $(this).attr('desktop'));
+			}
+			else if ($(window).width() < 1025 && !$(this).hasClass('dfp-small')) {
+				$(this).removeClass('dfp-large').addClass('dfp-small').attr('src', $(this).attr('mobile'));
+			}
+		});
+
+		// increment page
+		page++;
+		page++;
+		pcount++;
+
+	}
+
+	function display_stories() {
+		$( preloaded_stories ).hide().insertBefore('#load-more-outer').fadeIn();
+	}
+
+	// Success function!
+	function success_fn( result, status, xhr) {
+
+		if ( 'success' !== status || ! result.success ) {
+			error_fn();
+		} else {
+			preloaded_stories = result.data.html_content;
+		}
+
+		if ( result.data.excludes ) {
+			window.tm_post_excludes = result.data.excludes;
+		}
+
+		$( '.load-more-stories' ).removeClass( 'animating' );
+	}
+
+	// Debugging for devs if you want it
+	function error_fn() {
+		if ( console || console.warn ) {
+			console.warn( 'Something went wrong trying to get results for page ' + page );
+			console.warn( arguments );
+		}
+	}
+});
+   </script>
+   <!-- This site converts visitors into subscribers and customers with the OptinMonster WordPress plugin v2.1.7 - http://optinmonster.com/ -->
+   <div class="optin-monster-overlay" id="om-aqemvrfwyo-lightbox" style="display:none;">
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript">
+    </script>
+    <style class="om-theme-simple-styles" type="text/css">
+     .optin-monster-success-message {font-size: 21px;font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;color: #282828;font-weight: 300;text-align: center;margin: 0 auto;}.optin-monster-success-overlay .om-success-close {font-size: 32px !important;font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;color: #282828 !important;font-weight: 300 !important;position: absolute !important;top: 0px !important;right: 10px !important;background: none !important;text-decoration: none !important;width: auto !important;height: auto !important;display: block !important;line-height: 32px !important;padding: 0 !important;}.om-helper-field {display: none !important;visibility: hidden !important;opacity: 0 !important;height: 0 !important;line-height: 0 !important;}html div#om-aqemvrfwyo-lightbox * {box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}html div#om-aqemvrfwyo-lightbox {background:none;border:0;border-radius:0;-webkit-border-radius:0;-moz-border-radius:0;float:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale;height:auto;letter-spacing:normal;outline:none;position:static;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;width:auto;visibility:visible;overflow:visible;margin:0;padding:0;line-height:1;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;box-shadow:none;-webkit-appearance:none;}html div#om-aqemvrfwyo-lightbox {background: rgb(0, 0, 0);background: rgba(0, 0, 0, .7);-webkit-font-smoothing: antialiased;line-height: 1;width: 100%;height: 100%;}html div#om-aqemvrfwyo-lightbox .om-clearfix {clear: both;}html div#om-aqemvrfwyo-lightbox .om-clearfix:after {clear: both;content: ".";display: block;height: 0;line-height: 0;overflow: auto;visibility: hidden;zoom: 1;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin {background-color: #fff;display: none;position: absolute;top: 50%;left: 50%;min-height: 175px;width: 600px;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-wrap {position: relative;height: 100%;}html div#om-aqemvrfwyo-lightbox .om-close {position: absolute;z-index: 999;top: 4px;right: 10px;display: block;font-family: "Verdana", Arial, sans-serif;font-size: 28px;font-weight: bold;color: #333333;color: rgba(0,0,0,0.3);text-decoration: none !important;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-header {min-height: 30px;margin: 0 auto;padding: 40px 32px;width: 495px;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-title {font-family: "Lato", Arial, sans-serif;font-size: 28px;font-weight: 700;color: #ff5533;width: 100%;text-align: center;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-content {width: 340px;display: block;margin: 0 auto;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-content-clear {min-height: 0;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-tagline {font-family: "Lato", Arial, sans-serif;font-size: 18px;text-align: center;line-height: 1.25;color: #8d9aa1;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-footer {padding: 30px 32px 45px;}html div#om-aqemvrfwyo-lightbox label {color: #333;}html div#om-aqemvrfwyo-lightbox input,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-name,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-email {background-color: #fff;width: 340px;height: 48px;border: 1px solid #ccc;-webkit-box-shadow: 0 0 6px -3px rgba(0,0,0,0.8) inset;-moz-box-shadow: 0 0 6px -3px rgba(0,0,0,0.8) inset;box-shadow: 0 0 6px -3px rgba(0,0,0,0.8) inset;border-radius: 2px;font-size: 18px;line-height: 38px;margin: 0 auto 18px;padding: 4px 6px;overflow: hidden;outline: none;vertical-align: middle;display: block;}html div#om-aqemvrfwyo-lightbox input[type=submit],html div#om-aqemvrfwyo-lightbox button,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-submit {background: #ff5533;border: 1px solid #ce4226;-webkit-box-shadow: 0 1px 1px -1px #fff inset;-moz-box-shadow: 0 1px 1px -1px #fff inset;box-shadow: 0 1px 1px -1px #fff inset;-webkit-text-shadow: #888 -0 0 1px;-moz-text-shadow: #888 -0 0 1px;text-shadow: #888 -0 0 1px;width: 340px;color: #fff;font-size: 16px;font-weight: 700;padding: 4px 6px;line-height: 24px;text-align: center;vertical-align: middle;cursor: pointer;display: block;margin: 0 auto;}html div#om-aqemvrfwyo-lightbox input[type=checkbox],html div#om-aqemvrfwyo-lightbox input[type=radio] {-webkit-appearance: checkbox;width: auto;outline: invert none medium;padding: 0;margin: 0;}@media (max-width: 700px) {html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin[style],html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-header,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-content {width: 100%;position: relative;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-wrap,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-header,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-content,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-footer {padding: 10px;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-left,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-right,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-name,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-email,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-submit,html div#om-aqemvrfwyo-lightbox .om-has-email #om-lightbox-simple-optin-email,html div#om-aqemvrfwyo-lightbox input,html div#om-aqemvrfwyo-lightbox input[type=submit],html div#om-aqemvrfwyo-lightbox button,html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-optin-submit {float: none;width: 100%;}html div#om-aqemvrfwyo-lightbox #om-lightbox-simple-left {margin-bottom: 15px;}}
+    </style>
+    <div class="om-lightbox-simple om-clearfix om-theme-simple " id="om-lightbox-simple-optin" style="background-color:#ffffff">
+     <div class="om-clearfix" id="om-lightbox-simple-optin-wrap">
+      <a class="om-close" href="#" title="Close">
+       ×
+      </a>
+      <div class="om-clearfix" data-om-action="selectable" data-om-target="#optin-monster-field-content_bg" id="om-lightbox-simple-header">
+       <div data-om-action="editable" data-om-field="title" id="om-lightbox-simple-optin-title" style="color:#ff5533;font-family:Lato;font-size:40px;text-align:center;">
+        <span style="color:#2d3f49;">
+         Subscribe for daily news on Philly's tech scene
+        </span>
+       </div>
+      </div>
+      <div class="om-clearfix" id="om-lightbox-simple-content">
+       <div data-om-action="editable" data-om-field="tagline" id="om-lightbox-simple-optin-tagline" style="color:#8d9aa1;font-family:Lato;font-size:16px;text-align:left;">
+        All the latest on who's starting up, who's hiring and how Philly is changing with technology.
+       </div>
+      </div>
+      <div class="om-clearfix om-has-email" data-om-action="selectable" data-om-target="#optin-monster-field-content_bg" id="om-lightbox-simple-footer">
+       <input data-om-action="selectable" data-om-target="#optin-monster-field-email_field" id="om-lightbox-simple-optin-email" placeholder="Enter your email address here..." style="color:#484848;font-family:Open Sans;" type="email" value=""/>
+       <input data-om-action="selectable" data-om-target="#optin-monster-field-submit_field" id="om-lightbox-simple-optin-submit" style="color:#ffffff;background-color:#2d3f49;border-color:rgb(88,123,142);font-family:Open Sans;" type="submit" value="Sign Up"/>
+      </div>
+     </div>
+     <input class="om-helper-field" name="email" type="email" value=""/>
+     <input class="om-helper-field" name="website" type="text" value=""/>
+    </div>
+    <script type="text/javascript">
+     jQuery(document).ready(function($){WebFont.load({google: {families: ['Open+Sans%7CLato']}});});
+    </script>
+   </div>
+   <script type="text/javascript">
+    var aqemvrfwyo_lightbox, omo = {"id":47378,"optin":"aqemvrfwyo-lightbox","campaign":"Philly OptinMonster","clones":[""],"hash":"aqemvrfwyo-lightbox","optin_js":"aqemvrfwyo_lightbox","type":"lightbox","theme":"simple","cookie":30,"delay":10000,"second":0,"exit":false,"redirect":"","redirect_pass":false,"custom":false,"test":false,"global_cookie":0,"preview":false,"ajax":"http:\/\/technical.ly\/philly\/?optin-monster-ajax-route=1","mobile":false,"post_id":25655,"preloader":"http:\/\/technical.ly\/philly\/wp-content\/plugins\/optin-monster\/assets\/css\/images\/preloader.gif","error":"There was an error with your submission. Please try again.","ajax_error":"There was an error with the AJAX request: ","name_error":"Please enter a valid name.","email_error":"Please enter a valid email address.","bot_error":"Honeypot fields have been activated. Your submission is being flagged as potential spam.","success":"Thanks for subscribing!"}; aqemvrfwyo_lightbox = new OptinMonster(); aqemvrfwyo_lightbox.init(omo);
+   </script>
+   <!--[if lte IE 9]><script type="text/javascript">var om_ie_browser = true;</script><![endif]-->
+   <!-- / OptinMonster WordPress plugin. -->
+  </div>
+ </body>
+</html>

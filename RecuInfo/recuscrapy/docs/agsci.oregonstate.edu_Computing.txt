@@ -1,0 +1,1962 @@
+<!DOCTYPE HTML>
+<!--[if lte IE 7]> <html lang="en" class="ie ie7 agsci"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="ie ie8 agsci"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="agsci" lang="en">
+ <!--<![endif]-->
+ <head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="http://agsci.oregonstate.edu/sites/all/themes/doug_fir/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="/node/23096" rel="shortlink"/>
+  <link href="/research/fo/early-stage-development-technologies-biomedical-computing-informatics-and-big-data-6" rel="canonical"/>
+  <meta content="Drupal 7 (http://drupal.org)" name="Generator"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Early Stage Development of Technologies in Biomedical Computing, Informatics, and Big Data Science (R43/R44) | College of Agricultural Sciences | Oregon State University
+  </title>
+  <!-- CSS -->
+  <link href="http://agsci.oregonstate.edu/sites/agscid7/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://agsci.oregonstate.edu/sites/agscid7/files/css/css_Q8WypzD2L9czPPSojhPwX1EaE5IZ58HuS4P0SBmM7KM.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://agsci.oregonstate.edu/sites/agscid7/files/css/css_QxMbrdgc-P2IN-bN43-wnN0SYF6KvcgoZPNIHDqKXZ0.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://agsci.oregonstate.edu/sites/agscid7/files/css/css_BFVi4SXnVTxUFqdTRss0-c2JZlACQO166nvy-X4L934.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://agsci.oregonstate.edu/sites/agscid7/files/css/css_qTxDaCtVEenrMZPo3zcB1YSUH69LVFhb-SaQ2Dlu2bo.css" media="all" rel="stylesheet" type="text/css"/>
+  <style media="all" type="text/css">
+   <!--/*--><![CDATA[/*><!--*/
+.date {font-weight: bold; width: 75px; float: left; margin: 10px; text-align: center; clear: left; color: #c34500;}
+
+.news-img {float: left; margin: 10px;}
+
+hr.block {height:2px; color: #c34500; background-color: #c34500;}
+
+.column2 {width: 45%; float: left; margin-right: 5%;}
+
+.column3 {width: 30%; float: left; margin-right: 3%;}
+
+.column2-3 {width: 63%; float: left; margin-right: 3%;}
+
+.column4 {width: 22%; float: left; margin-right: 3%;}
+
+.green-top {border-top: thick solid #4e7300;}
+
+.brown-top {border-top: thick solid #9d601e;}
+
+.blue-top {border-top: thick solid #385e86;}
+
+.orange-top {border-top: thick solid #c34500;}
+
+.red-top {border-top: thick solid #af292e;}
+
+.orange-bottom {border-bottom: thin solid #c34500;}
+
+.box3-grey-button {background-color: #c6c0ba; text-align: center; width: 27%; float: left; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #615042;}
+
+.box3-beige-button {background-color: #f7e2bb; text-align: center; width: 27%; float: left; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #F3D08E;}
+
+.box3-green-button {background-color: #bbc89c; text-align: center; width: 27%; float: left; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #4E7300;}
+
+.box3-orange-button {background-color: #F3D08E; text-align: center; width: 27%; float: left; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #C34500;}
+
+.box3-blue-button {background-color: #A7C4C9; text-align: center; width: 27%; float: left; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #385E86;}
+
+.box3-brown-button {background-color: #f3d08e; text-align: center; width: 27%; float: left; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #9d601e;}
+
+.box-grey-button {background-color: #c6c0ba; text-align: center;  margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #615042;}
+
+.box-beige-button {background-color: #f7e2bb; text-align: center; ; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #F3D08E;}
+
+.box-green-button {background-color: #bbc89c; text-align: center; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #4E7300;}
+
+.box-orange-button {background-color: #F3D08E; text-align: center; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #C34500;}
+
+.box-blue-button {background-color: #A7C4C9; text-align: center; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #385E86;}
+
+.box-brown-button {background-color: #f3d08e; text-align: center; margin: 2%; padding-top: 15px; padding-bottom: 15px; border-style: outset; border-width: thick; border-color: #9d601e;}
+
+.box3-green-dash {font-weight: bold; background-color: #bfcca3; text-align: center; width: 25%; float: left; padding-top: 15px; padding-bottom: 15px; margin: 2%; border-style: dashed; border-width: thick; border-color: #4e7300;}
+
+.box2-green-dash {font-weight: bold; background-color: #bfcca3; text-align: center; width: 40%; float: left; padding-top: 15px; padding-bottom: 15px; margin: 2%; border-style: dashed; border-width: thick; border-color: #4e7300;}
+
+.rounded-border {border: 1px solid; border-radius: 5px; border-color: #888; background-color: #f5f2ed; padding: 10px;}
+
+.home-sections {border-top: thick solid #373737; clear: left;}
+
+.icon-box {background-color: #eeeeee; text-align: center; margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-right: 2%; margin-right: 2%; width: 45%; height: 50px; float: left; border-radius: 5px; border: 1px solid; border-color: #888}
+
+.views-field-field-fact-source {font-size: smaller; font-style: italic;}
+
+.orange-border-rounded {text-align: center; border: 1px solid; border-radius: 5px; border-color: #c34500; line-height: normal; padding: 10px;}
+
+
+
+/* Fix video play button */
+
+.jcarousel-skin-osu-video .file-video .content { position: relative; }
+
+
+
+/* Highlight button */
+
+
+
+.highlight-buttons .orange-border-rounded{
+
+      border-radius: 2px;
+
+      background-color: #c34500;
+
+      padding: 15px;
+
+ }
+
+.highlight-buttons .orange-border-rounded:hover{
+
+      background-color: #fb5900;
+
+}
+
+.highlight-buttons .orange-border-rounded a{
+
+      color: white !important;
+
+      text-decoration: none;
+
+}
+
+.highlight-buttons .orange-border-rounded a:hover{
+
+      color: white;
+
+      text-decoration: underline;
+
+      background-color: #fb5900 !important;
+
+}
+
+
+
+/* Plant Variety nodes*/
+
+
+
+.field-name-field-region .field-label {line-height:30px; font-size:20px;}
+
+.field-name-field-plant-patent .field-label {line-height:30px; font-size:20px;}
+
+.field-name-field-contact-for-breeder .field-label {line-height:30px; font-size:20px;}
+
+.field-name-field-pvr-characteristics .field-label {line-height:30px; font-size:20px;}
+
+.field-name-field-pvr-benefits .field-label {line-height:30px; font-size:20px;}
+
+.field-name-field-release-document .field-label {line-height:30px; font-size:20px;}
+
+.field-name-field-date-of-release .field-label {line-height:30px; font-size:20px;}
+
+.field-name-field-date-of-pvp .field-label {line-height:30px; font-size:20px;}
+.og-context-node-11910 h1 
+
+{
+
+  font-size: 26px;
+
+}
+.view-social-media a {
+
+    font-size: 5em;
+
+}
+
+
+
+.view-social-media {
+
+  text-align: left;
+
+}
+.og-context-node-26361
+
+
+
+.circle-container {
+
+position: relative;
+
+width: 48em;
+
+height: 48em;
+
+padding: 2em;
+
+/*2.8em = 2em*1.4 (2em = half the width of a link with img, 1.4 = sqrt(2))*/
+
+border: none;
+
+margin: auto 0;
+
+}
+
+
+
+.circle-container a {
+
+display: block;
+
+position: absolute;
+
+top: 50%; left: 50%;
+
+width: 16em; height: 16em;
+
+margin: -2em;
+
+}
+
+
+
+.circle-container img { display: block; width: 100%; }
+
+.deg0 { transform: translate(-24em); } /* 24em = half the width of the wrapper*/
+
+.deg45 { transform: rotate(72deg) translate(12em) rotate(-72deg); }
+
+.deg135 { transform: translate(-24em); } /*144*/
+
+.deg180 { transform: rotate(216deg) translate(24em) rotate(-216deg); }
+
+.deg225 { transform: rotate(288deg) translate(24em) rotate(-288deg); }
+.container .row {margin:0 20px;text-align:center;}
+
+
+
+.container .row img {margin:0 20px;}
+
+
+
+
+
+.bg {z-index: -1;}
+.views-row-first, .views-row-even, .views-row-odd{
+
+         padding: 10px 0px 10px 0px;
+
+}
+
+.field-name-affiliated-with-disabled{
+
+    display: none;
+
+}
+
+.section-header-content {
+
+margin: 0px auto 20px;
+
+max-width: 62.5rem;
+
+min-height: 35px;
+
+position: relative;
+
+width: 100%;
+
+}
+
+.section-header-content::before, .section-header-content::after {
+
+    content: " ";
+
+    display: table;
+
+}
+
+.section-header-content::after {
+
+    clear: both;
+
+}
+
+
+
+.title-bg {
+
+    background: #fff none repeat scroll 0 0;
+
+    display: inline-block;
+
+    left: 0;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    padding: 3px 25px;
+
+    position: relative;
+
+    right: 0;
+
+    z-index: 2;
+
+    letter-spacing: 2px;
+
+    color: #c34500;
+
+    font-size: 30px;
+
+}
+
+
+
+.section-header-content .section-header-title {
+
+    border-bottom: 1px solid #cccccc;
+
+    height: 50px;
+
+    position: relative;
+
+    text-align: left;
+
+}
+
+@media only screen and (min-width: 43.913em) {
+
+.section-header-content .section-header-title {
+
+    border-bottom: 0 none;
+
+    text-align: center;
+
+}
+
+.section-header-content .section-header-title::before {
+
+    border-bottom: 2px solid #cccccc;
+
+    content: " ";
+
+    display: block;
+
+    position: absolute;
+
+    top: 24px;
+
+    width: 100%;
+
+    z-index: 0;
+
+}
+
+}
+
+@media only screen and (min-width: 64.913em) {
+
+.section-header-content .section-header-title::before {
+
+    top: 25px;
+
+}
+
+}
+
+.section-header-content .section-header-title-left {
+
+    border-bottom: 1px solid #cccccc;
+
+    min-height: 50px;
+
+    padding-right: 118px;
+
+    position: relative;
+
+    text-align: left;
+
+}
+
+/*Gaurav's changes*/
+
+.test-feature{
+
+    padding: 0px 30px 0px 30px;
+
+}
+
+
+
+.spotlightnews-block hr.block{
+
+    height: 4px;
+
+    margin: 15px 0 0px !important;
+
+}
+
+.page-node-1 .live-feeds-block{
+
+          box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+
+          padding: 20px;
+
+}
+
+
+
+.page-node-1 .spotlightnews-block{
+
+      padding: 0px 20px;
+
+}
+
+.hovereffect {
+
+  width: 100%;
+
+  height: 100%;
+
+  float: left;
+
+  
+
+  position: relative;
+
+  text-align: center;
+
+  cursor: default;
+
+  margin: 5px;
+
+}
+
+
+
+.hovereffect .overlay {
+
+  position: absolute;
+
+  overflow: hidden;
+
+  width: 80%;
+
+  height: 100%;
+
+  left: 10%;
+
+  top: 10%;
+
+  border-bottom: 1px solid #FFF;
+
+  border-top: 1px solid #FFF;
+
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+
+  transition: opacity 0.35s, transform 0.35s;
+
+  -webkit-transform: scale(0,1);
+
+  -ms-transform: scale(0,1);
+
+  transform: scale(0,1);
+
+}
+
+
+
+.hovereffect:hover .overlay {
+
+  opacity: 1;
+
+  filter: alpha(opacity=100);
+
+  -webkit-transform: scale(1);
+
+  -ms-transform: scale(1);
+
+  transform: scale(1);
+
+}
+
+
+
+.hovereffect img {
+
+  display: block;
+
+  position: relative;
+
+  -webkit-transition: all 0.35s;
+
+  transition: all 0.35s;
+
+}
+
+
+
+.hovereffect:hover img {
+
+  filter: brightness(0.2);
+
+ -webkit-filter: brightness(0.2);
+
+}
+
+
+
+.hovereffect h2 {
+
+  text-transform: uppercase;
+
+  text-align: left;
+
+  position: relative;
+
+  font-size: 15px;
+
+  font-weight: bold;
+
+margin-top: 5px;
+
+  background-color: transparent;
+
+  line-height: 15px;
+
+  color: #f3d08e;
+
+  padding: 1em 0;
+
+  opacity: 0;
+
+  filter: alpha(opacity=0);
+
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+
+  transition: opacity 0.35s, transform 0.35s;
+
+  -webkit-transform: translate3d(0,-100%,0);
+
+  transform: translate3d(0,-100%,0);
+
+}
+
+
+
+.hovereffect a, hovereffect p {
+
+  color: #FFF;
+
+  padding: 1em 0;
+
+  opacity: 0;
+
+  filter: alpha(opacity=0);
+
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+
+  transition: opacity 0.35s, transform 0.35s;
+
+  -webkit-transform: translate3d(0,100%,0);
+
+  transform: translate3d(0,100%,0);
+
+}
+
+.hovereffect p{
+
+   text-align: left;
+
+   font-size: 14px;
+
+line-height: 18px;
+
+}
+
+.hovereffect:hover a, .hovereffect:hover p, .hovereffect:hover h2 {
+
+  opacity: 1;
+
+  filter: alpha(opacity=100);
+
+  -webkit-transform: translate3d(0,0,0);
+
+  transform: translate3d(0,0,0);
+
+padding: 0;
+
+}
+
+.hovereffect:hover{
+
+    border-top: 4px solid #c23400;
+
+}
+
+.hovereffect p{
+
+    color: white;
+
+    margin-bottom:0;
+
+}
+
+.brand-label{
+
+    background-color: #c23400;
+
+    border-top-left-radius: 7px;
+
+    color: #47443f;
+
+    padding: 5px 30px 5px 30px;
+
+    left:-17px;
+
+    bottom:3px;
+
+    position:absolute;
+
+    z-index: 100;
+
+    font-size:14px;
+
+    color: white !important;
+
+}
+
+
+
+.arrow {
+
+    border-left: 18px solid transparent;
+
+    border-top: 10px solid #c23400;
+
+    height: 0;
+
+    left: -1px;
+
+    line-height: 0;
+
+    position: absolute;
+
+    top: 96.3%;
+
+    width: 0;
+
+}
+
+[class*="zocial-"]:before {
+
+  font-family: 'zocial', sans-serif;
+
+  font-style: normal;
+
+  font-size: 1.5em;
+
+  color: #fff;
+
+  position: absolute;
+
+  left: 45%;
+
+  top: 60%;
+
+}
+
+@font-face {
+
+    font-family: "zocial";
+
+    font-style: normal;
+
+    font-weight: normal;
+
+    src: url("http://weloveiconfonts.com/api/fonts/zocial/zocial-regular-webfont.eot?#iefix") format("eot"), url("http://weloveiconfonts.com/api/fonts/zocial/zocial-regular-webfont.woff") format("woff"), url("http://weloveiconfonts.com/api/fonts/zocial/zocial-regular-webfont.ttf") format("truetype"), url("http://weloveiconfonts.com/api/fonts/zocial/zocial-regular-webfont.svg#zocialregular") format("svg");
+
+}
+
+
+
+.social-media-region {
+
+  display: inline-block;
+
+box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+
+    padding: 20px;
+
+}
+
+.zocial-facebook::before {
+
+    content: "f";
+
+}
+
+.zocial-twitter::before {
+
+    content: "T";
+
+}
+
+
+
+.top {
+
+
+
+}
+
+.top .face {
+
+  float: left;
+
+  height: inherit;
+
+  z-index: 2;
+
+  background-color: #c23400;
+
+  display: block;
+
+  text-decoration: none;
+
+  position: relative;
+
+  transition: all, 0.2s;
+
+color: white;
+
+font-weight: bold;
+
+padding: 10px;
+
+margin:0px 10px;
+
+height: 140px;
+
+}
+
+.top .face:hover {
+
+  -moz-transform: scale(1.2, 1.2);
+
+  -ms-transform: scale(1.2, 1.2);
+
+  -webkit-transform: scale(1.2, 1.2);
+
+  transform: scale(1.2, 1.2);
+
+  transition: all, 0.2s;
+
+  z-index: 100000;
+
+ background-color: #fb5900 !important;
+
+}
+
+.top .tweet {
+
+  text-decoration: none;
+
+  position: relative;
+
+  display: block;
+
+  height: inherit;
+
+  float: left;
+
+  background-color: #c23400;
+
+  transition: all, 0.2s;
+
+  z-index: 1;
+
+color: white;
+
+font-weight: bold;
+
+padding: 10px;
+
+margin:0px 10px;
+
+height: 140px;
+
+}
+
+.top .tweet:hover {
+
+  transition: all, 0.2s;
+
+  -moz-transform: scale(1.2, 1.2);
+
+  -ms-transform: scale(1.2, 1.2);
+
+  -webkit-transform: scale(1.2, 1.2);
+
+  transform: scale(1.2, 1.2);
+
+  z-index: 10000;
+
+ background-color: #fb5900 !important;
+
+}
+
+.page-node-1 #footer{
+
+ border-top: 2px solid #c23400;
+
+}
+
+.page-node-1 .audience-menu h5{
+
+border-bottom: 3px solid #c23400;
+
+}
+
+.page-node-1 .audience-menu li{
+
+line-height: 25px;
+
+}
+
+.page-node-1 .audience-menu #multimenus-menu li{
+
+padding: 12px 0px 12px 17px;
+
+}
+
+
+
+/*Mobile styling*/
+
+
+
+@media (min-width: 768px) and (max-width:970px ){
+
+.top .face{
+
+ margin: 0px;
+
+font-size: 14px;
+
+line-height: 20px;
+
+}
+
+.top .tweet{
+
+ margin: 0px;
+
+font-size: 14px;
+
+line-height: 20px;
+
+}
+
+
+
+}
+
+@media (min-width: 970px) and (max-width:1200px ){
+
+.page-node-1 .span12 > #features #block-views-feature-story-block .view-feature-story .views-field-field-caption{
+
+bottom:0 !important;
+
+}
+
+
+
+}
+
+@media (max-width: 768px) {
+
+.top .face{
+
+height:80px;
+
+}
+
+.top .tweet{
+
+ height:80px;
+
+margin-top:15px;
+
+}
+
+.test-feature{
+
+     padding: 0px !important;
+
+} 
+
+.page-node-1 .fs-title{
+
+    margin: 20px 0 10px;
+
+    line-height: 20px;
+
+}
+
+.carousel-control{
+
+   display: none !important;
+
+}
+
+.title-bg{
+
+     font-size: 20px;
+
+}
+
+.title-bg-custom{
+
+     font-size: 18px;
+
+     letter-spacing: 0px;
+
+     line-height: 18px;
+
+}
+
+.section-header-content{
+
+   margin: 0px !important;
+
+}
+
+.page-node-1 #page-wrapper{
+
+     padding: 0px;
+
+}
+
+}
+.footer-fic{
+
+ padding: 0 20%;
+
+overflow: auto;
+
+}
+
+
+
+a.btn {
+
+  text-decoration: none;
+
+}
+
+
+
+a.btn:hover {
+
+background-color: #e6e6e6 !important;
+
+}
+
+
+
+
+
+.social-media-fic img{
+
+padding: 10px 0px;
+
+}
+
+.events-fic h3, .social-media-fic h3{
+
+text-align: center;
+
+}
+.page-node-26835 
+
+.social-media-fic input {margin:5px 0px;} .social-media-fic label{margin-top:5px;}
+.page-node-26866
+
+
+
+
+
+@media (min-width: 480px) {
+
+	.node-type-feature-page #page-title {
+
+	top:200px;
+
+	}
+
+}
+
+@media (min-width: 768px) {
+
+	.node-type-feature-page #page-title {
+
+	top:300px;
+
+	}
+
+}
+
+@media (min-width: 992px) {
+
+	.node-type-feature-page #page-title {
+
+	top:300px;
+
+	}
+
+}
+
+@media (min-width: 1200px) {
+
+	.node-type-feature-page #page-title {
+
+	top:475px;
+
+	}
+
+}
+.page-node-28596 h2{
+
+text-decoration: underline;
+
+}
+
+.page-node-28596 #page-title{
+
+   color: #c23400 !important;
+
+   font-weight: bold;
+
+   text-shadow: 0 0 1px #000;
+
+   top: 350px;
+
+}
+
+.events-comes h3{
+
+color: #c23400;
+
+font-weight: bold;
+
+}
+
+.events-comes ul{
+
+   padding-left: 20px;
+
+}
+
+.events-comes ul li{
+
+   color: #61798f;
+
+}
+
+.news-comes ul li{
+
+   color: #61798f;
+
+}
+
+.news-comes ul{
+
+   padding-left: 20px;
+
+}
+
+.news-comes h3{
+
+  color: #c23400;
+
+font-weight: bold;
+
+}
+/*FAQ Accordion*/
+
+/*Define Accordion box*/
+
+.accordion { width:830px; overflow:hidden; margin:10px auto; padding:10px; }
+
+
+
+/*General Accordion****************************************************************************/
+
+/*Set style of open slide*/
+
+.accordion section:target { background:#FFF; padding:10px;}
+
+.accordion section:target:hover { background:#FFF; }
+
+.accordion section:target h2 {width:100%;height: 30px;}
+
+.accordion section:target h2 a{ color:#333; padding:10px 0;}
+
+.accordion section:target p {display:block;}
+
+.accordion section h2 a{padding:20px 10px;display:block; font-size:17px; font-weight:normal;color:#2b2b2b; text-decoration:none; }
+
+
+
+/*set style of closed slide*/
+
+.accordion section{ float:left;	overflow:hidden; color:#333; cursor:pointer; background: #fff; }
+
+.accordion section:hover {background:#FFF;}
+
+.accordion section p { display:none; }
+
+.accordion section:after{position:relative;font-size:24px;color:#000;font-weight:bold;}
+
+.accordion section:nth-child(1):after{content:'1';}
+
+.accordion section:nth-child(2):after{content:'2';}
+
+.accordion section:nth-child(3):after{content:'3';}
+
+.accordion section:nth-child(4):after{content:'4';}
+
+.accordion section:nth-child(5):after{content:'5';}
+
+
+
+.vertical section{ width:100%; height:40px;
+
+    border-bottom: 1px dashed #c23400;
+
+	-webkit-transition:height 0.2s ease-out;
+
+	-moz-transition:height 0.2s ease-out;
+
+  	-o-transition:height 0.2s ease-out;
+
+	-ms-transition:height 0.2s ease-out;
+
+  	transition:height 0.2s ease-out;
+
+}
+
+/*Set height of the slide*/
+
+.vertical :target{ height:250px; width:97%; }
+
+
+
+.vertical section h2 { position:relative; left:0; top:-15px; }
+
+
+
+/*Set position of the number on the slide*/
+
+.vertical section:after{ top:-60px;left:810px;}
+
+.vertical section:target:after{ left:-9999px;}
+
+/*]]>*/-->
+  </style>
+  <link href="http://fonts.googleapis.com/css?family=Gudea:400,400italic,700" rel="stylesheet" type="text/css"/>
+  <!-- These will insert some CSS to hide or show elements based on our theme settings -->
+  <style type="text/css">
+   div.book-navigation { display: none;}
+  </style>
+  <style type="text/css">
+   div.terms { display: none;}
+  </style>
+  <!-- Javascripts -->
+  <!-- Google Universal Analytics script -->
+  <!-- Tracking code is returned in google_tracking_code() from template.php -->
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', " UA-48708101-3", 'auto');  // Replace with your property ID.
+  ga('send', 'pageview');
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+//--><!]]>
+  </script>
+  <script src="http://agsci.oregonstate.edu/sites/agscid7/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js" type="text/javascript">
+  </script>
+  <script src="http://agsci.oregonstate.edu/sites/agscid7/files/js/js_YcTHE5vjNaKLY2vIfEtHekLL6OwQ6Zecdpc7x8SOZdk.js" type="text/javascript">
+  </script>
+  <script src="http://agsci.oregonstate.edu/sites/agscid7/files/js/js_TDZCn10Eb_3_Hh0Ai34ZfIEdQZx3XRJHJ8dCA4rxJVc.js" type="text/javascript">
+  </script>
+  <script src="http://agsci.oregonstate.edu/sites/agscid7/files/js/js_0iDPwzmvebxf9KeP6vgmAPr9sfu_gzBVmpdl3NrPNck.js" type="text/javascript">
+  </script>
+  <script src="http://agsci.oregonstate.edu/sites/agscid7/files/js/js_4d8X2b1ZW72gRnbb6rK0C43B8WC8kpEqDUZk2znYOI8.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"doug_fir","theme_token":"Ype0cq5Cj-v3jNMitwJy7RsVqWpQ8PJ6WetjDT7Bnq0","jquery_version":"1.7","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/osu_features\/feature_story\/feature_story.js":1,"sites\/all\/modules\/contrib\/live_feeds\/live_feeds.js":1,"sites\/all\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"sites\/all\/modules\/contrib\/media_mediaspace\/js\/mediaspace_mobile.js":1,"sites\/all\/modules\/custom\/multimenus\/js\/multimenus.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/contrib\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/doug_fir\/js\/jquery.mobile.custom.min.js":1,"sites\/all\/themes\/doug_fir\/js\/bootstrap.min.js":1,"sites\/all\/themes\/doug_fir\/js\/menus.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/announcement\/css\/screen.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"sites\/all\/modules\/contrib\/feature_page\/feature_page.css":1,"sites\/all\/modules\/custom\/osu_features\/feature_story\/feature_story.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/osu_features\/image_gallery\/image_gallery.css":1,"sites\/all\/modules\/contrib\/live_feeds\/live_feeds.css":1,"sites\/all\/modules\/custom\/osu_profiles\/locations\/locations.css":1,"sites\/all\/modules\/custom\/multimenus\/css\/multimenus.css":1,"sites\/all\/modules\/contrib\/navgrid\/navgrid.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/osu_groups\/osu_dashboard\/osu_dashboard.css":1,"sites\/all\/modules\/custom\/osu_search\/osu_search.css":1,"sites\/all\/modules\/custom\/osu_top_hat\/osu_top_hat.css":1,"sites\/all\/modules\/custom\/osu_profiles\/people\/people.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/custom\/osu_features\/video_carousel\/css\/cws_video.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/biblio\/biblio.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/modules\/custom\/osu_features\/video_carousel\/osu_skins\/skins\/osu_video.css":1,"sites\/all\/themes\/doug_fir\/css\/variants\/agsci\/agsci.css":1,"sites\/all\/themes\/doug_fir\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/doug_fir\/css\/main.css":1,"sites\/all\/themes\/doug_fir\/bootstrap\/css\/responsive.css":1,"sites\/all\/themes\/doug_fir\/css\/main-responsive.css":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"8","view_path":"node\/23096","view_base_path":"video","view_display_id":"block_4","view_name":"video_view","jcarousel_dom_id":1},"skin":"osu-video","visible":1,"scroll":1,"autoPause":1,"start":1,"easing":"swing","ajax":true,"size":"4","selector":".jcarousel-dom-1"}}},"nice_menus_options":{"delay":"800","speed":"slow"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:a27eb9ff586b3d30099f44bec2576e80":{"view_name":"group_information","view_display_id":"block_2","view_args":"8","view_path":"node\/23096","view_base_path":null,"view_dom_id":"a27eb9ff586b3d30099f44bec2576e80","pager_element":0},"views_dom_id:a77ffb33a21f5153ee1ef4f66b243387":{"view_name":"group_information","view_display_id":"block","view_args":"23096","view_path":"node\/23096","view_base_path":null,"view_dom_id":"a77ffb33a21f5153ee1ef4f66b243387","pager_element":0},"views_dom_id:05f8af7497bd438e75d052943acd447e":{"view_name":"video_view","view_display_id":"block_4","view_args":"8","view_path":"node\/23096","view_base_path":"video","view_dom_id":"05f8af7497bd438e75d052943acd447e","pager_element":0},"views_dom_id:a0db1e084f672bf870f775f884ca7a39":{"view_name":"group_information","view_display_id":"block_1","view_args":"23096","view_path":"node\/23096","view_base_path":null,"view_dom_id":"a0db1e084f672bf870f775f884ca7a39","pager_element":0},"views_dom_id:5bcda8f8bc4a32b5ca77860007614c5d":{"view_name":"group_information","view_display_id":"block_5","view_args":"23096","view_path":"node\/23096","view_base_path":null,"view_dom_id":"5bcda8f8bc4a32b5ca77860007614c5d","pager_element":0}}},"better_exposed_filters":{"views":{"group_information":{"displays":{"block_2":{"filters":[]},"block":{"filters":[]},"block_1":{"filters":[]},"block_5":{"filters":[]}}},"video_view":{"displays":{"block_4":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/research\/fo\/early-stage-development-technologies-biomedical-computing-informatics-and-big-data-6":true},"ogContext":{"groupType":"node","gid":"8"}});
+//--><!]]>
+  </script>
+ </head>
+ <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-23096 node-type-funding-opportunities domain-agsci-oregonstate-edu og-context og-context-node og-context-node-8 main Default">
+  <div id="skip-link">
+   <a class="element-invisible element-focusable" href="#content">
+    Skip to main content
+   </a>
+  </div>
+  <!-- OSU Top Hat -->
+  <!-- OSU Top-Hat -->
+  <div id="osu-top-hat">
+   <div class="container">
+    <a class="tag" href="http://oregonstate.edu">
+     <img alt="Oregon State University" class="logo" src="http://agsci.oregonstate.edu/sites/all/modules/custom/osu_top_hat/images/osu-tag.png"/>
+     <span class="mobile-header">
+      OREGON STATE UNIVERSITY
+     </span>
+    </a>
+    <ul class="menu">
+     <li class="first leaf">
+      <a href="http://calendar.oregonstate.edu">
+       Calendar
+      </a>
+     </li>
+     <li class="leaf">
+      <a href="http://osulibrary.oregonstate.edu">
+       Library
+      </a>
+     </li>
+     <li class="leaf">
+      <a href="http://oregonstate.edu/campusmap">
+       Maps
+      </a>
+     </li>
+     <li class="leaf">
+      <a href="http://oregonstate.edu/main/online-services">
+       Online Services
+      </a>
+     </li>
+     <li class="last leaf">
+      <a class="campaign" href="https://securelb.imodules.com/s/359/campaign/index.aspx?sid=359&amp;gid=34&amp;pgid=1982&amp;cid=3007&amp;dids=52&amp;bledit=1">
+       Make a Gift
+      </a>
+     </li>
+    </ul>
+    <form accept-charset="UTF-8" action="/research/fo/early-stage-development-technologies-biomedical-computing-informatics-and-big-data-6" class="search" id="osu-search-top-hat-form" method="post" role="search">
+     <div>
+      <div class="form-item form-type-textfield form-item-term">
+       <label class="element-invisible" for="edit-term">
+        Search Field
+       </label>
+       <input class="search-terms form-text" id="edit-term" maxlength="128" name="term" placeholder="Search this site" size="60" type="text" value=""/>
+      </div>
+      <input class="icon-search word-hide form-submit" id="edit-submit" name="op" type="submit" value="Search"/>
+      <input name="group_path" type="hidden" value=""/>
+      <input name="form_build_id" type="hidden" value="form-02KcEi8-NzKGVpzBUwusPD2XpMtgFx9yWF4DS3t_IcQ"/>
+      <input name="form_id" type="hidden" value="osu_search_top_hat_form"/>
+     </div>
+    </form>
+   </div>
+  </div>
+  <div id="mobile-icon-menu">
+   <a class="m-icon-link" href="#" id="toggle-mobile-menu">
+    <i class="icon-reorder">
+    </i>
+   </a>
+   <a class="m-icon-link" href="/search/osu" id="mobile-search-link">
+    <i class="icon-search">
+    </i>
+   </a>
+  </div>
+  <div class="container" id="page-wrapper">
+   <!-- Site Name, parent unit, and group name -->
+   <div class="row-fluid" id="header">
+    <a class="parent" href="http://agsci.oregonstate.edu">
+    </a>
+    <h1>
+     <a href="/">
+      College of Agricultural Sciences
+     </a>
+    </h1>
+   </div>
+   <!-- Get all of the menus that could be included in the mobile menu -->
+   <ul id="mobile-menu" role="navigation">
+    <li id="mobile-main-menu">
+     <ul class="menu">
+      <li class="first expanded">
+       <a href="/main/about-college">
+        About
+       </a>
+       <ul class="menu">
+        <li class="first leaf">
+         <a href="/main/main/administrative-resources">
+          Administrative Resources
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/main/main/college-administration">
+          College Administration
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/deans-welcome">
+          Dean's Welcome
+         </a>
+        </li>
+        <li class="last collapsed">
+         <a href="/our-plan">
+          Our Plan
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="leaf">
+       <a href="/main/academics">
+        Academics
+       </a>
+      </li>
+      <li class="expanded">
+       <a href="/main/international-activities">
+        International
+       </a>
+       <ul class="menu">
+        <li class="first leaf">
+         <a href="/international/international-student-opportunities">
+          Study Abroad Programs
+         </a>
+        </li>
+        <li class="collapsed">
+         <a href="/international-research-and-development-programs">
+          Research
+         </a>
+        </li>
+        <li class="last leaf">
+         <a href="/main/main/global-experiences-fund">
+          Global Experiences Fund
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="leaf">
+       <a href="/research/research" title="">
+        Research
+       </a>
+      </li>
+      <li class="expanded">
+       <a href="/main/our-best">
+        Our Best
+       </a>
+       <ul class="menu">
+        <li class="first last leaf">
+         <a href="/our-best/2015-cas-award-recipients">
+          2015 CAS Award Recipients
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="expanded">
+       <a href="/outreach-and-extension">
+        Outreach and Extension
+       </a>
+       <ul class="menu">
+        <li class="first leaf">
+         <a href="/main/agricultural-sciences-and-natural-resources-extension-program">
+          Agricultural Sciences and Natural Resources Extension Program
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/main/outreach-programs">
+          Outreach Programs
+         </a>
+        </li>
+        <li class="last leaf">
+         <a href="/main/outreach-and-extension/programmatic-areas-engagement">
+          Programmatic areas of Engagement
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="last leaf">
+       <a href="/main/operating-units">
+        Units
+       </a>
+      </li>
+     </ul>
+    </li>
+    <li id="mobile-osu-top-hat">
+     <ul class="menu">
+      <li class="first leaf">
+       <a href="http://calendar.oregonstate.edu">
+        Calendar
+       </a>
+      </li>
+      <li class="leaf">
+       <a href="http://osulibrary.oregonstate.edu">
+        Library
+       </a>
+      </li>
+      <li class="leaf">
+       <a href="http://oregonstate.edu/campusmap">
+        Maps
+       </a>
+      </li>
+      <li class="leaf">
+       <a href="http://oregonstate.edu/main/online-services">
+        Online Services
+       </a>
+      </li>
+      <li class="last leaf">
+       <a class="campaign" href="https://securelb.imodules.com/s/359/campaign/index.aspx?sid=359&amp;gid=34&amp;pgid=1982&amp;cid=3007&amp;dids=52&amp;bledit=1">
+        Make a Gift
+       </a>
+      </li>
+     </ul>
+    </li>
+   </ul>
+   <!-- Main menu navbar -->
+   <div id="main-menu" role="navigation">
+    <div class="region region-nav">
+     <div class="block block-nice-menus" id="block-nice-menus-1">
+      <div class="content">
+       <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1">
+        <li class="menu-1482 menuparent menu-path-node-5302 first odd ">
+         <a href="/main/about-college">
+          About
+         </a>
+         <ul>
+          <li class="menu-3093 menu-path-node-5166 first odd ">
+           <a href="/main/main/administrative-resources">
+            Administrative Resources
+           </a>
+          </li>
+          <li class="menu-3064 menu-path-node-5458 even ">
+           <a href="/main/main/college-administration">
+            College Administration
+           </a>
+          </li>
+          <li class="menu-3082 menu-path-node-4950 odd ">
+           <a href="/deans-welcome">
+            Dean's Welcome
+           </a>
+          </li>
+          <li class="menu-3083 menuparent menu-path-node-24274 even last">
+           <a href="/our-plan">
+            Our Plan
+           </a>
+           <ul>
+            <li class="menu-3084 menuparent menu-path-node-5410 first odd ">
+             <a href="/main/our-plan/2014-2019-strategic-intent">
+              2014-2019 Strategic Intent
+             </a>
+             <ul>
+              <li class="menu-3092 menu-path-node-24269 first odd last">
+               <a href="/main/2014-2019-strategic-intent/conversation-topics-and-related-documents">
+                Conversation Topics and Related Documents
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="menu-3085 menu-path-node-5066 even ">
+             <a href="/capital-campaign-cabinet">
+              Capital Campaign Cabinet
+             </a>
+            </li>
+            <li class="menu-3086 menu-path-node-5064 odd ">
+             <a href="/main/main/deans-advisory-group">
+              Dean's Advisory Group
+             </a>
+            </li>
+            <li class="menu-3091 menu-path-node-4716 even ">
+             <a href="/main/our-plan/mission-values-and-emphasis">
+              Mission, Values and Emphasis
+             </a>
+            </li>
+            <li class="menu-3087 menuparent menu-path-node-5356 odd ">
+             <a href="/main/our-plan/policies-and-procedures">
+              Policies and Procedures
+             </a>
+             <ul>
+              <li class="menu-3088 menu-path-node-5492 first odd ">
+               <a href="/main/policies-and-procedures/factors-influencing-staffing-decisions">
+                Factors influencing staffing decisions
+               </a>
+              </li>
+              <li class="menu-3089 menu-path-node-5354 even last">
+               <a href="/main/policies-and-procedures/principles-and-guidelines-joint-tax-service-districts">
+                Principles and guidelines for joint tax service districts
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="menu-3090 menu-path-node-5424 even last">
+             <a href="/main/our-plan/principles-and-practices">
+              Principles and Practices
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-1079 menu-path-node-3912 even ">
+         <a href="/main/academics">
+          Academics
+         </a>
+        </li>
+        <li class="menu-1999 menuparent menu-path-node-5326 odd ">
+         <a href="/main/international-activities">
+          International
+         </a>
+         <ul>
+          <li class="menu-2000 menu-path-node-5484 first odd ">
+           <a href="/international/international-student-opportunities">
+            Study Abroad Programs
+           </a>
+          </li>
+          <li class="menu-2001 menuparent menu-path-node-5270 even ">
+           <a href="/international-research-and-development-programs">
+            Research
+           </a>
+           <ul>
+            <li class="menu-2002 menu-path-node-5268 first odd last">
+             <a href="/research/international-exchange-agreements">
+              International Exchange Agreements
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-2004 menu-path-node-5174 odd last">
+           <a href="/main/main/global-experiences-fund">
+            Global Experiences Fund
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-6826 menu-path-node-5432 even ">
+         <a href="/research/research" title="">
+          Research
+         </a>
+        </li>
+        <li class="menu-1453 menuparent menu-path-node-5452 odd ">
+         <a href="/main/our-best">
+          Our Best
+         </a>
+         <ul>
+          <li class="menu-3592 menu-path-node-25493 first odd last">
+           <a href="/our-best/2015-cas-award-recipients">
+            2015 CAS Award Recipients
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-2189 menuparent menu-path-node-4960 even ">
+         <a href="/outreach-and-extension">
+          Outreach and Extension
+         </a>
+         <ul>
+          <li class="menu-2522 menu-path-node-4958 first odd ">
+           <a href="/main/agricultural-sciences-and-natural-resources-extension-program">
+            Agricultural Sciences and Natural Resources Extension Program
+           </a>
+          </li>
+          <li class="menu-2521 menu-path-node-4848 even ">
+           <a href="/main/outreach-programs">
+            Outreach Programs
+           </a>
+          </li>
+          <li class="menu-3783 menu-path-node-25702 odd last">
+           <a href="/main/outreach-and-extension/programmatic-areas-engagement">
+            Programmatic areas of Engagement
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-1561 menu-path-node-5412 odd last">
+         <a href="/main/operating-units">
+          Units
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- /#main-menu -->
+   <!-- Messages and breadcrumbs -->
+   <div id="messages">
+   </div>
+   <!-- messages -->
+   <!-- Full width top region -->
+   <!-- Now divide into main column and right sidebar -->
+   <div class="row-fluid">
+    <div class="span9">
+     <!-- Features -->
+     <div class="row-fluid">
+      <!-- Main content and middle sidebar -->
+      <div class="span12">
+       <!-- Pre-content -->
+       <!-- Main Content -->
+       <h2 class="title" id="page-title">
+        Early Stage Development of Technologies in Biomedical Computing, Informatics, and Big Data Science (R43/R44)
+       </h2>
+       <div class="tabs">
+       </div>
+       <div id="content" role="main">
+        <div class="region region-content">
+         <div class="block block-system" id="block-system-main">
+          <div class="content">
+           <div about="/research/fo/early-stage-development-technologies-biomedical-computing-informatics-and-big-data-6" class="node node-funding-opportunities node-promoted clearfix" id="node-23096" typeof="sioc:Item foaf:Document">
+            <span class="rdf-meta element-hidden" content="Early Stage Development of Technologies in Biomedical Computing, Informatics, and Big Data Science (R43/R44)" property="dc:title">
+            </span>
+            <div class="content">
+             <div class="field field-name-field-link field-type-link-field field-label-hidden">
+              <div class="field-items">
+               <div class="field-item even">
+                <a href="http://grants.nih.gov/grants/guide/pa-files/PA-14-154.html">
+                 Full announcement
+                </a>
+               </div>
+              </div>
+             </div>
+             <div class="field field-name-field-number field-type-text field-label-inline clearfix">
+              <div class="field-label">
+               Number:
+              </div>
+              <div class="field-items">
+               <div class="field-item even">
+                PA-14-154
+               </div>
+              </div>
+             </div>
+             <div class="field field-name-field-due-date field-type-datetime field-label-inline clearfix">
+              <div class="field-label">
+               Due Date:
+              </div>
+              <div class="field-items">
+               <div class="field-item even">
+                <span class="date-display-single" content="2016-04-05T07:00:00-07:00" datatype="xsd:dateTime" property="dc:date">
+                 April 5, 2016
+                </span>
+               </div>
+              </div>
+             </div>
+             <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+              <div class="field-items">
+               <div class="field-item even" property="content:encoded">
+                <p>
+                 This funding opportunity announcement (FOA) encourages Small Business Innovation Research (SBIR) grant applications from small business concerns (SBCs) that propose development of a broad base of innovative technologies in biomedical computing, informatics, and Big Data Science that will support rapid progress in areas of scientific opportunity in biomedical research. It is expected that this research and development is conducted in the context of important biomedical and behavioral research problems. As such, applications are intended to develop enabling technologies that could apply to the interests of most NIH Institutes and Centers and range from basic biomedicine to research in all relevant organ systems and diseases. Major themes of research include collaborative environments; data integration; analysis and modeling methodologies; and novel computer science and statistical approaches.  New opportunities are also emerging as large and complex data sets are becoming increasingly available to the research community.
+                </p>
+               </div>
+              </div>
+             </div>
+             <div class="field field-name-field-sponsor field-type-text field-label-inline clearfix">
+              <div class="field-label">
+               Sponsor:
+              </div>
+              <div class="field-items">
+               <div class="field-item even">
+                NIH-NIEHS
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!-- /content -->
+       <!-- Main page columns  -->
+       <!-- Post-ontent -->
+      </div>
+      <!-- Content area -->
+      <!-- Middle Sidebar -->
+     </div>
+    </div>
+    <!-- /Main Columns -->
+    <!-- Right Sidebar - sidebar_first -->
+    <a name="extras">
+    </a>
+    <div class="span3" id="sidebar-first">
+     <div class="region region-sidebar-first">
+      <div class="block block-og-menu" id="block-og-menu-og-single-menu-block">
+       <h2>
+        Main menu
+       </h2>
+       <div class="content">
+        <ul class="menu">
+         <li class="first collapsed">
+          <a href="/main/about-college">
+           About
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/main/academics">
+           Academics
+          </a>
+         </li>
+         <li class="collapsed">
+          <a href="/main/international-activities">
+           International
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/research/research" title="">
+           Research
+          </a>
+         </li>
+         <li class="collapsed">
+          <a href="/main/our-best">
+           Our Best
+          </a>
+         </li>
+         <li class="collapsed">
+          <a href="/outreach-and-extension">
+           Outreach and Extension
+          </a>
+         </li>
+         <li class="last leaf">
+          <a href="/main/operating-units">
+           Units
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="block block-views" id="block-views-video-view-block-4">
+       <div class="content">
+        <div class="view view-video-view view-id-video_view view-display-id-block_4 view-dom-id-05f8af7497bd438e75d052943acd447e">
+         <div class="view-content">
+          <ul class="jcarousel jcarousel-view--video-view--block-4 jcarousel-dom-1 jcarousel-skin-osu-video">
+           <li class="jcarousel-item-1 odd" style="display: none;">
+            <div class="views-field views-field-title">
+             <span class="field-content">
+              <a href="/video/cas-more-you-think">
+               CAS is more than you t...
+              </a>
+             </span>
+            </div>
+            <div>
+             <div>
+              <a class="media-colorbox " data-mediacolorboxaudioplaylist="0" data-mediacolorboxfixedheight="" data-mediacolorboxfixedwidth="" href="/media_colorbox/13520/default/und" rel="" style="" title="">
+               <div class="file file-video file-video-youtube" id="file-13520">
+                <h2 class="element-invisible">
+                 College of Ag Sci at OSU is more than you think
+                </h2>
+                <div class="content">
+                 <span class="video-play-button">
+                 </span>
+                 <img alt="College of Ag Sci at OSU is more than you think" height="105" src="http://agsci.oregonstate.edu/sites/agscid7/files/styles/195_105/public/media-youtube/kEjxdd19yFk.jpg?itok=hm15__HK" typeof="foaf:Image" width="195"/>
+                </div>
+               </div>
+              </a>
+             </div>
+            </div>
+           </li>
+           <li class="jcarousel-item-2 even" style="display: none;">
+            <div class="views-field views-field-title">
+             <span class="field-content">
+              <a href="/video/2015-college-agricultural-sciences-alumni-awards-video-osu">
+               2015 College of Agricu...
+              </a>
+             </span>
+            </div>
+            <div>
+             <div>
+              <a class="media-colorbox " data-mediacolorboxaudioplaylist="0" data-mediacolorboxfixedheight="" data-mediacolorboxfixedwidth="" href="/media_colorbox/13078/default/und" rel="" style="" title="">
+               <div class="file file-video file-video-vimeo" id="file-13078">
+                <h2 class="element-invisible">
+                 OSU College of Agricultural Sciences Awards
+                </h2>
+                <div class="content">
+                 <span class="video-play-button">
+                 </span>
+                 <img alt="OSU College of Agricultural Sciences Awards" height="105" src="http://agsci.oregonstate.edu/sites/agscid7/files/styles/195_105/public/media-vimeo/142002945.jpg?itok=jC9_-J1w" typeof="foaf:Image" width="195"/>
+                </div>
+               </div>
+              </a>
+             </div>
+            </div>
+           </li>
+           <li class="jcarousel-item-3 odd" style="display: none;">
+            <div class="views-field views-field-title">
+             <span class="field-content">
+              <a href="/main-vegetable-farm/video/hazelnuts">
+               Hazelnuts
+              </a>
+             </span>
+            </div>
+            <div>
+             <div>
+              <a class="media-colorbox " data-mediacolorboxaudioplaylist="0" data-mediacolorboxfixedheight="" data-mediacolorboxfixedwidth="" href="/media_colorbox/759/default/und" rel="" style="" title="">
+               <div class="file file-video file-video-youtube" id="file-759">
+                <h2 class="element-invisible">
+                 Hazelnuts v.1
+                </h2>
+                <div class="content">
+                 <span class="video-play-button">
+                 </span>
+                 <img alt="Hazelnuts v.1" height="105" src="http://agsci.oregonstate.edu/sites/agscid7/files/styles/195_105/public/media-youtube/zEjKkzM_ZMk.jpg?itok=s5GPPNaS" typeof="foaf:Image" width="195"/>
+                </div>
+               </div>
+              </a>
+             </div>
+            </div>
+           </li>
+           <li class="jcarousel-item-4 even" style="display: none;">
+            <div class="views-field views-field-title">
+             <span class="field-content">
+              <a href="/main/video/cas-deans-dinner-2014">
+               CAS Deans Dinner 2014
+              </a>
+             </span>
+            </div>
+            <div>
+             <div>
+              <a class="media-colorbox " data-mediacolorboxaudioplaylist="0" data-mediacolorboxfixedheight="" data-mediacolorboxfixedwidth="" href="/media_colorbox/8851/default/und" rel="" style="" title="">
+               <div class="file file-video file-video-mediaspace" id="file-8851">
+                <h2 class="element-invisible">
+                 CAS Deans Dinner 2014
+                </h2>
+                <div class="content">
+                 <span class="video-play-button">
+                 </span>
+                 <img alt="" height="105" src="http://agsci.oregonstate.edu/sites/agscid7/files/styles/195_105/public/media-mediaspace/0_o8c9au4a.jpg?itok=YAK-hmu0" typeof="foaf:Image" width="195"/>
+                </div>
+               </div>
+              </a>
+             </div>
+            </div>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="block block-views" id="block-views-group-information-block-1">
+       <h2>
+        Contact Us
+       </h2>
+       <div class="content">
+        <div class="view view-group-information view-id-group_information view-display-id-block_1 view-dom-id-a0db1e084f672bf870f775f884ca7a39">
+         <div class="view-content">
+          <div class="views-row views-row-1 views-row-odd views-row-first views-row-last contextual-links-region">
+           <div class="views-field views-field-nothing">
+            <span class="field-content">
+             College of Agricultural Sciences
+             <br/>
+             Strand Agriculture Hall
+             <br/>
+             Corvallis, OR 97331
+             <br/>
+             <a href="/email/node/8/field_group_email">
+              Send E-mail
+              <br/>
+             </a>
+             <strong>
+              <em>
+               Phone:
+              </em>
+             </strong>
+             (541) 737-2331
+             <br/>
+             <br/>
+             <p>
+              <iframe frameborder="0" height="250" src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d2842.5123209215662!2d-123.2771936!3d44.566085199999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x54c040beaf4af67f%3A0x42ccbc873732ad70!2sOSU+College+of+Agricultural+Sciences%2C+126+Strand+Agriculture+Hall%2C+Corvallis%2C+OR+97331!3m2!1d44.5656858!2d-123.2772124!5e0!3m2!1sen!2sus!4v1441135887218" style="border: 0;" width="50%">
+              </iframe>
+             </p>
+            </span>
+           </div>
+           <div class="views-field views-field-contextual-links">
+            <span class="field-content">
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- /main-body-row -->
+   <!-- Full width above footer -->
+  </div>
+  <!-- /container -->
+  <!-- Page Footer -->
+  <div id="footer">
+   <div class="container">
+    <div class="row-fluid">
+     <div class="span2 contact">
+      <h2>
+       Contact Info
+      </h2>
+      <div class="specific-contact">
+       <div id="footer-message">
+        <p>
+         College of Agricultural Sciences
+         <br/>
+         Oregon State University
+         <br/>
+         Corvallis, Oregon 97331
+        </p>
+        <p>
+         For questions or feedback about our college or website, please
+         <a href="/contact">
+          visit this page
+         </a>
+         .
+        </p>
+       </div>
+      </div>
+      <div class="general-contact">
+       <a href="http://oregonstate.edu/copyright">
+        Copyright
+       </a>
+       ©2016              Oregon State University
+       <br/>
+       <a href="http://oregonstate.edu/disclaimer">
+        Disclaimer
+       </a>
+      </div>
+      <div class="social-media">
+       <a href="https://www.facebook.com/pages/Oregon-State-University-College-of-Agricultural-Sciences/62899780670?ref=hl" title="Go to our Facebook page">
+        <i class="icon-facebook">
+        </i>
+        Facebook
+       </a>
+      </div>
+     </div>
+     <div class="span10">
+      <div class="region region-footer">
+       <div class="block block-block" id="block-block-14">
+        <div class="content">
+         <p>
+          Oregon Agricultural Experiment Station
+          <br/>
+          448 Strand Agriculture Hall
+          <br/>
+          Oregon State University
+          <br/>
+          Corvallis, OR 97331-2212
+          <br/>
+          541-737-4251
+          <br/>
+          <a href="http://dev.agsci.oregonstate.edu/email/node/11955/field_group_email">
+           Contact Us
+          </a>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- /page-wrapper -->
+ </body>
+</html>

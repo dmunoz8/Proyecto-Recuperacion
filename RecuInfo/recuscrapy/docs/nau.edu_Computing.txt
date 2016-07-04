@@ -1,0 +1,1089 @@
+<!DOCTYPE HTML>
+<html>
+ <head id="ctl00_headMaster">
+  <script id="EktronJS" src="/WorkArea/java/ektron.js" type="text/javascript">
+  </script>
+  <script id="EktronSiteDataJS" src="/WorkArea/java/ektron.site-data.js.ashx" type="text/javascript">
+  </script>
+  <script id="EktronRegisteredJs" src="/workarea/java/ektronJs.ashx?id=EktronFlexMenuJS" type="text/javascript">
+  </script>
+  <script id="EktronTreeviewJS" src="/WorkArea/java/plugins/treeview/ektron.treeview.js" type="text/javascript">
+  </script>
+  <link href="/workarea/csslib/ektronCss.ashx?id=EktronModalCss" id="EktronRegisteredCss" rel="stylesheet" type="text/css"/>
+  <link href="http://nau.edu/cefns/informatics-computing/" rel="canonical"/>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+  <!--CSS Stylesheets-->
+  <!--[if IE 8]>
+<link rel="Stylesheet" href="//cmsassets.nau.edu/css/nau_ie8.css" type="text/css" />
+<![endif]-->
+  <!--[if IE 7]>
+<link rel="Stylesheet" href="//cmsassets.nau.edu/css/nau_ie7.css" type="text/css" />
+<![endif]-->
+  <!--[if IE 6]>
+<link rel="Stylesheet" href="//cmsassets.nau.edu/css/nau_ie6.css" type="text/css" />
+<![endif]-->
+  <link href="//cmsassets.nau.edu/aggregator/css.ashx?page_type=standard" rel="Stylesheet" type="text/css"/>
+  <script src="//cmsassets.nau.edu/aggregator/js.ashx?page_type=standard" type="text/javascript">
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js">
+  </script>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="all" name="robots"/>
+  <meta content="" name="keywords"/>
+  <meta content="" name="description"/>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-25668249-1']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_setDomainName', 'nau.edu']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  <script type="text/javascript">
+   $(function () {
+            $("nav#nauNav").find("a").each(function () {
+                $(this).click(function () {
+                    _gaq.push(['_trackEvent', 'Header Navigation', this.text, this.href]);
+                });
+            });
+
+            $("nav#communityFooter").find("a").each(function () {
+                $(this).click(function () {
+                    _gaq.push(['_trackEvent', 'Footer Navigation', this.text, this.href]);
+                });
+            });
+
+            $("nav#studentFooter").find("a").each(function () {
+                $(this).click(function () {
+                    _gaq.push(['_trackEvent', 'Footer Navigation', this.text, this.href]);
+                });
+            });
+
+            $("nav#campusFooter").find("a").each(function () {
+                $(this).click(function () {
+                    _gaq.push(['_trackEvent', 'Footer Navigation', this.text, this.href]);
+                });
+            });
+
+            $("nav#academicFooter").find("a").each(function () {
+                $(this).click(function () {
+                    _gaq.push(['_trackEvent', 'Footer Navigation', this.text, this.href]);
+                });
+            });
+
+            $("div#blueBar").find("a").each(function () {
+                $(this).click(function () {
+                    _gaq.push(['_trackEvent', 'Left Navigation', this.text, this.href]);
+                });
+            });
+
+            $("div#main").find("a").each(function () {
+                $(this).click(function () {
+                    _gaq.push(['_trackEvent', 'Article Body', this.text, this.href]);
+                });
+            });
+
+            $("aside#sidebar").find("a").each(function () {
+                $(this).click(function () {
+                    _gaq.push(['_trackEvent', 'sidebar', this.text, this.href]);
+                });
+            });
+
+
+        });
+  </script>
+  <title>
+   Welcome - Informatics and Computing Program - Northern Arizona University
+  </title>
+ </head>
+ <body class="" ng-app="NauApp">
+  <div class="skipNavHidden">
+   <a href="#skipNavMainContent" onclick="skipNav('skipNavMainContent'); return false;" onkeypress="skipNav('skipNavMainContent'); return false;">
+    Skip to Main Content
+   </a>
+  </div>
+  <div class="skipNavHidden">
+   <a href="#AcademicsMenu" onclick="skipNav('AcademicsMenu'); return false;" onkeypress="skipNav('AcademicsMenu'); return false;">
+    Skip to Academics
+   </a>
+  </div>
+  <div class="skipNavHidden">
+   <a href="#AdmissionsMenu" onclick="skipNav('AdmissionsMenu'); return false;" onkeypress="skipNav('AdmissionsMenu'); return false;">
+    Skip to Admissions
+   </a>
+  </div>
+  <div class="skipNavHidden">
+   <a href="#UniversityLifeMenu" onclick="skipNav('UniversityLifeMenu'); return false;" onkeypress="skipNav('UniversityLifeMenu'); return false;">
+    Skip to University Life
+   </a>
+  </div>
+  <div class="skipNavHidden">
+   <a href="#AboutMenu" onclick="skipNav('AboutMenu'); return false;" onkeypress="skipNav('AboutMenu'); return false;">
+    Skip to About NAU
+   </a>
+  </div>
+  <div class="skipNavHidden">
+   <a href="#QuicklinksMenu" onclick="skipNav('QuicklinksMenu'); return false;" onkeypress="skipNav('QuicklinksMenu'); return false;">
+    Skip to Quicklinks
+   </a>
+  </div>
+  <!-- Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KZVRLV" style="display: none; visibility: hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+	new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-KZVRLV');
+  </script>
+  <!-- End Google Tag Manager -->
+  <form action="/cefns/informatics-computing/" id="aspnetForm" method="post" name="aspnetForm">
+   <div>
+    <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwULLTE4MjM4MjkyNjcPZBYCZg9kFgRmD2QWAgIHD2QWAmYPFgIeBFRleHQFTTxsaW5rIHJlbCA9ICJjYW5vbmljYWwiIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2NlZm5zL2luZm9ybWF0aWNzLWNvbXB1dGluZy8iIC8+ZAIBEGRkFhQCAQ9kFgJmDxYCHwAFoCsNCg0KCQkgICAgICAgIDxuYXYgaWQ9Im5hdU5hdiIgcm9sZT0ibmF2aWdhdGlvbiI+DQoNCgk8dWw+DQoJCTxsaSBjbGFzcz0iaG9tZSI+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUiPkhvbWU8L2E+PC9saT4NCgkJPGxpPjxhIGlkPSJBY2FkZW1pY3NNZW51IiBocmVmPSJodHRwOi8vbmF1LmVkdS9hY2FkZW1pY3MiPkFjYWRlbWljczwvYT4NCgkJCTx1bCBjbGFzcz0iZHJvcGRvd24iPg0KCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZWdyZWVzLW1ham9ycyI+RGVncmVlcyBhbmQgTWFqb3JzPC9hPg0KCQkJCQk8dWw+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVncmVlc2VhcmNoL2RlZ3JlZXMiPkFsbCBEZWdyZWVzPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVncmVlc2VhcmNoL2JhY2hlbG9ycyI+QmFjaGVsb3InczwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlZ3JlZXNlYXJjaC9tYXN0ZXJzIj5NYXN0ZXInczwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlZ3JlZXNlYXJjaC9kb2N0b3JhbCI+RG9jdG9yYWw8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZWdyZWVzZWFyY2gvb25saW5lIj5OQVUgT25saW5lPC9hPjwvbGk+DQoJCQkJCTwvdWw+DQoJCQkJPC9saT4NCgkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvYWNhZGVtaWMtZGVwYXJ0bWVudHMiPkFjYWRlbWljIERlcGFydG1lbnRzPC9hPjwvbGk+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L3Jlc2VhcmNoIj5SZXNlYXJjaCBhdCA8YWJiciB0aXRsZT0iTm9ydGhlcm4gQXJpem9uYSBVbml2ZXJzaXR5Ij5OQVU8L2FiYnI+PC9hPjwvbGk+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2hvbm9ycyI+SG9ub3JzIFByb2dyYW08L2E+PC9saT4NCgkJCTwvdWw+DQoJCTwvbGk+DQoJCTxsaT48YSBpZD0iQWRtaXNzaW9uc01lbnUiIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2FwcGx5Ij5BZG1pc3Npb25zPC9hPg0KCQkJPHVsIGNsYXNzPSJkcm9wZG93biI+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L3VuZGVyZ3JhZHVhdGUiPlVuZGVyZ3JhZHVhdGU8L2E+DQoJCQkJCTx1bD4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9hZG1pc3Npb25zIj5GbGFnc3RhZmYgQ2FtcHVzPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvdW5kZXJncmFkdWF0ZS9leHRlbmRlZCI+RXh0ZW5kZWQgQ2FtcHVzZXM8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS91bmRlcmdyYWR1YXRlL29ubGluZSI+TkFVIE9ubGluZTwvYT48L2xpPg0KCQkJCQk8L3VsPg0KCQkJCTwvbGk+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2dyYWR1YXRlIj5HcmFkdWF0ZTwvYT4NCgkJCQkJPHVsPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2FkbWlzc2lvbnMiPkZsYWdzdGFmZiBDYW1wdXM8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9ncmFkdWF0ZS9leHRlbmRlZCI+RXh0ZW5kZWQgQ2FtcHVzZXM8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9ncmFkdWF0ZS9vbmxpbmUiPk5BVSBPbmxpbmU8L2E+PC9saT4NCgkJCQkJPC91bD4NCgkJCQk8L2xpPg0KCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9pbnRlcm5hdGlvbmFsL2FkbWlzc2lvbnMiPkludGVybmF0aW9uYWw8L2E+PC9saT4NCgkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvdHVpdGlvbi1jb3N0Ij5UdWl0aW9uIGFuZCBDb3N0czwvYT48L2xpPg0KCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS92aXNpdCI+U2NoZWR1bGUgYSBWaXNpdDwvYT48L2xpPg0KCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9hcHBseSI+QXBwbHkgTm93PC9hPjwvbGk+DQoJCQk8L3VsPiANCgkJPC9saT4NCgkJPGxpPjxhIGlkPSJVbml2ZXJzaXR5TGlmZU1lbnUiIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L3VuaXZlcnNpdHktbGlmZSI+VW5pdmVyc2l0eSBMaWZlPC9hPiANCgkJCTx1bCBjbGFzcz0iZHJvcGRvd24iPg0KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9jYW1wdXMtcmVjIj5DYW1wdXMgUmVjcmVhdGlvbjwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9DdWx0dXJhbC1BY3Rpdml0aWVzLyI+Q3VsdHVyYWwgQWN0aXZpdGllczwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9FdmVudHMiPkV2ZW50cyBDYWxlbmRhcjwvYT48L2xpPg0KCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9saXZpbmctb24tY2FtcHVzIj5MaXZpbmcgb24gQ2FtcHVzPC9hPjwvbGk+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2F0aGxldGljcyI+THVtYmVyamFjayBBdGhsZXRpY3M8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvc3R1ZGVudC1yZXNvdXJjZXMiPlN0dWRlbnQgUmVzb3VyY2VzPC9hPjwvbGk+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L3RoZS1uYXUtZXhwZXJpZW5jZSI+VGhlIDxhYmJyIHRpdGxlPSJOb3J0aGVybiBBcml6b25hIFVuaXZlcnNpdHkiPk5BVTwvYWJicj4gRXhwZXJpZW5jZTwvYT48L2xpPg0KCQkJPC91bD4gDQoJCTwvbGk+IA0KCQk8bGk+PGEgaWQ9IkFib3V0TWVudSIgaHJlZj0iaHR0cDovL25hdS5lZHUvYWJvdXQiPkFib3V0IDxhYmJyIHRpdGxlPSJOb3J0aGVybiBBcml6b25hIFVuaXZlcnNpdHkiPk5BVTwvYWJicj48L2E+IA0KCQkJPHVsIGNsYXNzPSJkcm9wZG93blJpZ2h0Ij4NCgkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvYWJvdXQvd2hvLXdlLWFyZSI+V2hvIFdlIEFyZTwvYT48L2xpPg0KCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9jYW1wdXMtbG9jYXRpb25zIj5DYW1wdXMgTG9jYXRpb25zPC9hPjwvbGk+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2Fib3V0L2xpZmUvZmxhZ3N0YWZmIj5BYm91dCBGbGFnc3RhZmY8L2E+PC9saT4NCgkJCTwvdWw+DQoJCTwvbGk+DQoJCTxsaSBjbGFzcz0icXVpY2tMaW5rcyI+PGEgaWQ9IlF1aWNrbGlua3NNZW51IiBocmVmPSJodHRwOi8vbmF1LmVkdS9xdWlja2xpbmtzIj5RdWljayBMaW5rczwvYT4gDQoJCQk8dWwgY2xhc3M9ImRyb3Bkb3duUmlnaHQiPg0KCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9teW5hdSI+TXlOQVU8L2E+PC9saT4NCgkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4Ij5EZXBhcnRtZW50IEluZGV4PC9hPg0KCQkJCQk8IS0tPHVsIGlkPSJkZXB0SW5kZXgiPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC9hIj5BPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L2IiPkI8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZXB0aW5kZXgvYyI+QzwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC9kIj5EPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L2UiPkU8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZXB0aW5kZXgvZiI+RjwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC9nIj5HPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L2giPkg8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZXB0aW5kZXgvaSI+STwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC9qIj5KPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L2siPks8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZXB0aW5kZXgvbCI+TDwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC9tIj5NPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L24iPk48L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZXB0aW5kZXgvbyI+TzwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC9wIj5QPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L3EiPlE8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZXB0aW5kZXgvciI+UjwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC9zIj5TPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L3QiPlQ8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZXB0aW5kZXgvdSI+VTwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC92Ij5WPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L3ciPlc8L2E+PC9saT4NCgkJCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9kZXB0aW5kZXgveCI+WDwvYT48L2xpPg0KCQkJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RlcHRpbmRleC95Ij5ZPC9hPjwvbGk+DQoJCQkJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGVwdGluZGV4L3oiPlo8L2E+PC9saT4NCgkJCQkJPC91bD4tLT4NCgkJCQk8L2xpPg0KCQkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9uZXdzIj5OZXdzPC9hPjwvbGk+DQoJCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2xvdWllIj48YWJiciB0aXRsZT0iTHVtYmVyamFja3MgT25saW5lIFVuaXZlcnNpdHkgSW5mb3JtYXRpb24gRW52aXJvbm1lbnQiPkxPVUlFPC9hYmJyPjwvYT48L2xpPg0KCQkJCTxsaT48YSBocmVm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dHA6Ly9uYXUuZWR1L2N1cnJlbnQtc3R1ZGVudHMiPkN1cnJlbnQgU3R1ZGVudHM8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9wYXJlbnRzIj5QYXJlbnRzPC9hPjwvbGk+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvYWx1bW5pIj5BbHVtbmk8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9mYWN1bHR5LXN0YWZmIj5GYWN1bHR5L1N0YWZmPC9hPjwvbGk+DQoJCTwvdWw+DQoJPC9uYXY+DQoJPG5hdiBpZD0ic3R1ZGVudEZvb3RlciIgcm9sZT0ibmF2aWdhdGlvbiI+DQoJCTxoNT5TdHVkZW50IFNlcnZpY2VzPC9oNT4NCgkJPHVsPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2ZpbmFuY2luZyI+RmluYW5jaW5nIFlvdXIgRWR1Y2F0aW9uPC9hPjwvbGk+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvbGl2aW5nLW9uLWNhbXB1cyI+TGl2aW5nIG9uIENhbXB1czwvYT48L2xpPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2RpbmluZyI+RGluaW5nPC9hPjwvbGk+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvcGF5bWVudHMiPlBheWluZyBZb3VyIEJpbGw8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9zYWZldHkiPkNhbXB1cyBTYWZldHk8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS92ZXRlcmFucyI+TWlsaXRhcnkgYW5kIFZldGVyYW5zPC9hPjwvbGk+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvZGlzYWJpbGl0eSI+RGlzYWJpbGl0eSBSZXNvdXJjZXM8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9jb25zdW1lci1pbmZvIj5TdHVkZW50IENvbnN1bWVyIEluZm88L2E+PC9saT4NCgkJPC91bD4NCgk8L25hdj4NCgk8bmF2IGlkPSJjYW1wdXNGb290ZXIiIHJvbGU9Im5hdmlnYXRpb24iPg0KCQk8aDU+Q2FtcHVzIFJlc291cmNlczwvaDU+DQoJCTx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9tYXBzIj5NYXBzPC9hPjwvbGk+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvcGFya2luZyI+UGFya2luZyBTZXJ2aWNlczwvYT48L2xpPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2NvdW5zZWxpbmciPkNvdW5zZWxpbmcgU2VydmljZXM8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9oZWFsdGgtc2VydmljZXMiPkNhbXB1cyBIZWFsdGggU2VydmljZXM8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9ib29rc3RvcmUiPkJvb2tzdG9yZTwvYT48L2xpPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2V2ZW50cyI+RXZlbnRzIENhbGVuZGFyPC9hPjwvbGk+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvbmV3cyI+TmV3czwvYT48L2xpPg0KCQkJPGxpPjxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L2NhcmVlcnMiPkNhcmVlcnM8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9jdG8iPkNlbnRyYWwgVGlja2V0IE9mZmljZTwvYT48L2xpPg0KCQk8L3VsPg0KCTwvbmF2Pg0KCTxuYXYgaWQ9ImFjYWRlbWljRm9vdGVyIiByb2xlPSJuYXZpZ2F0aW9uIj4NCgkJPGg1PkFjYWRlbWljIFJlc291cmNlczwvaDU+DQoJCTx1bD4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9jb2xsZWdlcyI+Q29sbGVnZXMgYW5kIFNjaG9vbHM8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9sb2NhdGlvbnMiPkNhbXB1cyBMb2NhdGlvbnM8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9uYXUtb25saW5lIj5OQVUgT25saW5lPC9hPjwvbGk+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvYWR2aXNpbmciPlN0dWRlbnQgQWR2aXNpbmc8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS90dXRvcmluZyI+VHV0b3Jpbmc8L2E+PC9saT4NCgkJCTxsaT48YSBocmVmPSJodHRwOi8vbmF1LmVkdS9saWJyYXJ5Ij5MaWJyYXJ5PC9hPjwvbGk+DQoJCQk8bGk+PGEgaHJlZj0iaHR0cDovL25hdS5lZHUvcmVnaXN0cmFyIj5SZWdpc3RyYXI8L2E+PC9saT4NCgkJPC91bD4NCgk8L25hdj4NCgk8YSBpZD0iZm9vdGVyQWxlcnQiIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L25hdWFsZXJ0Ij48aW1nIGFsdD0iTkFVIEFsZXJ0IiBzcmM9Ii8vY21zYXNzZXRzLm5hdS5lZHUvaW1hZ2VzL25hdWFsZXJ0LnBuZyI+U2lnbiB1cCBmb3IgPGFiYnIgdGl0bGU9Ik5vcnRoZXJuIEFyaXpvbmEgVW5pdmVyc2l0eSI+TkFVPC9hYmJyPiBBTEVSVDwvYT4NCiAgICA8c3BhbiBpZD0iZm9vdGVyU29jaWFsIj4NCiAgICAgICAgPGEgaWQ9ImZvb3RlclNvY2lhbEljb24iIGhyZWY9Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9OQVVGbGFnc3RhZmYiIHRpdGxlPSJGYWNlYm9vayI+PGkgY2xhc3M9ImZhIGZhLWZhY2Vib29rLXNxdWFyZSBmYS1sZyI+PC9pPjwvYT4NCiAgICAgICAgPGEgaWQ9ImZvb3RlclNvY2lhbEljb24iIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vbmF1IiB0aXRsZT0iVHdpdHRlciI+PGkgY2xhc3M9ImZhIGZhLXR3aXR0ZXItc3F1YXJlIGZhLWxnIj48L2k+PC9hPg0KICAgICAgICA8YSBpZD0iZm9vdGVyU29jaWFsSWNvbiIgaHJlZj0iaHR0cHM6Ly9pbnN0YWdyYW0uY29tL25hdWZsYWdzdGFmZi8iIHRpdGxlPSJJbnN0YWdyYW0iPjxpIGNsYXNzPSJmYSBmYS1pbnN0YWdyYW0gZmEtbGciPjwvaT48L2E+DQogICAgICAgIDxhIGlkPSJmb290ZXJTb2NpYWxJY29uIiBocmVmPSJodHRwczovL3d3dy5saW5rZWRpbi5jb20vZWR1L25vcnRoZXJuLWFyaXpvbmEtdW5pdmVyc2l0eS0xNzc3NiIgdGl0bGU9IkxpbmtlZGluIj48aSBjbGFzcz0iZmEgZmEtbGlua2VkaW4tc3F1YXJlIGZhLWxnIj48L2k+PC9hPg0KICAgICAgICA8YSBpZD0iZm9vdGVyU29jaWFsSWNvbiIgaHJlZj0iaHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9uYXVmbGFnc3RhZmYvIiB0aXRsZT0iUGludGVyZXN0Ij48aSBjbGFzcz0iZmEgZmEtcGludGVyZXN0LXNxdWFyZSBmYS1sZyI+PC9pPjwvYT4NCiAgICAgICAgPGEgaWQ9ImZvb3RlclNvY2lhbExpbmsiIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L3NvY2lhbCI+PGFiYnIgdGl0bGU9Ik5vcnRoZXJuIEFyaXpvbmEgVW5pdmVyc2l0eSI+TkFVPC9hYmJyPiBTb2NpYWwgTWVkaWE8L2E+DQogICAgPC9zcGFuPg0KCTxzcGFuIGlkPSJjb3B5cmlnaHQiPg0KCQkmY29weTsgMjAxNiBBcml6b25hIEJvYXJkIG9mIFJlZ2VudHMuIDxzcGFuPk5vcnRoZXJuIEFyaXpvbmEgVW5pdmVyc2l0eSwgRmxhZ3N0YWZmLCBBcml6b25hPC9zcGFuPiB8IDxhIGhyZWY9Imh0dHA6Ly9uYXUuZWR1L3ByaXZhY3kiPlByaXZhY3kgU3RhdGVtZW50PC9hPg0KCTwvc3Bhbj4NCjwvZm9vdGVyPg0KZBgFBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBQUTY3RsMDAkY3RsMDEkX3JiU2l0ZQUYY3RsMDAkY3RsMDEkX3JiRGlyZWN0b3J5BRhjdGwwMCRjdGwwMSRfcmJEaXJlY3RvcnkFFWN0bDAwJGN0bDAxJF9yYkRlZ3JlZQUVY3RsMDAkY3RsMDEkX3JiRGVncmVlBRtjdGwwMCRfc2lkZWJhciRjdGwwMiRfdmlld3MPD2RmZAUbY3RsMDAkX3NpZGViYXIkY3RsMDEkX3ZpZXdzDw9kZmQFG2N0bDAwJF9zaWRlYmFyJGN0bDAwJF92aWV3cw8PZGZkBRxjdGwwMCRfbWFpbiRfZmVlZGJhY2skX3ZpZXdzDw9kZmSTsf7y2xsnP5Q7fHpe6aBcQSu05Q=="/>
+   </div>
+   <div>
+    <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="4290A016"/>
+    <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEWBgLh0vuWCgKn9uaGAwLtkrP0AwKTst7NBgKTueSWBQLDrebhDIMuR4/agKG8GfCTn5xvYWMsa9ye"/>
+   </div>
+   <div class=" s6442459093 f6442459091 t6442530112 q6442530113" id="container">
+    <header id="nauHeader" role="banner">
+     <!--[if lte IE 6]>
+		        <h2>This site takes advantage of modern browser features. You are viewing this site in a mode styled specifically for older browsers. This theme ensures that all of the page content is accessible and viewable to you. To view this page in a more visually pleasing format, please use a different browser or upgrade.</h2>
+	        <![endif]-->
+     <a href="http://nau.edu">
+      <img alt="NAU Logo" src="http://cmsassets.nau.edu/images/naulogo.png"/>
+     </a>
+     <nav id="nauNav" role="navigation">
+      <ul>
+       <li class="home">
+        <a href="http://nau.edu">
+         Home
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/academics" id="AcademicsMenu">
+         Academics
+        </a>
+        <ul class="dropdown">
+         <li>
+          <a href="http://nau.edu/degrees-majors">
+           Degrees and Majors
+          </a>
+          <ul>
+           <li>
+            <a href="http://nau.edu/degreesearch/degrees">
+             All Degrees
+            </a>
+           </li>
+           <li>
+            <a href="http://nau.edu/degreesearch/bachelors">
+             Bachelor's
+            </a>
+           </li>
+           <li>
+            <a href="http://nau.edu/degreesearch/masters">
+             Master's
+            </a>
+           </li>
+           <li>
+            <a href="http://nau.edu/degreesearch/doctoral">
+             Doctoral
+            </a>
+           </li>
+           <li>
+            <a href="http://nau.edu/degreesearch/online">
+             NAU Online
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="http://nau.edu/academic-departments">
+           Academic Departments
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/research">
+           Research at
+           <abbr title="Northern Arizona University">
+            NAU
+           </abbr>
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/honors">
+           Honors Program
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="http://nau.edu/apply" id="AdmissionsMenu">
+         Admissions
+        </a>
+        <ul class="dropdown">
+         <li>
+          <a href="http://nau.edu/undergraduate">
+           Undergraduate
+          </a>
+          <ul>
+           <li>
+            <a href="http://nau.edu/admissions">
+             Flagstaff Campus
+            </a>
+           </li>
+           <li>
+            <a href="http://nau.edu/undergraduate/extended">
+             Extended Campuses
+            </a>
+           </li>
+           <li>
+            <a href="http://nau.edu/undergraduate/online">
+             NAU Online
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="http://nau.edu/graduate">
+           Graduate
+          </a>
+          <ul>
+           <li>
+            <a href="http://nau.edu/admissions">
+             Flagstaff Campus
+            </a>
+           </li>
+           <li>
+            <a href="http://nau.edu/graduate/extended">
+             Extended Campuses
+            </a>
+           </li>
+           <li>
+            <a href="http://nau.edu/graduate/online">
+             NAU Online
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="http://nau.edu/international/admissions">
+           International
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/tuition-cost">
+           Tuition and Costs
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/visit">
+           Schedule a Visit
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/apply">
+           Apply Now
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="http://nau.edu/university-life" id="UniversityLifeMenu">
+         University Life
+        </a>
+        <ul class="dropdown">
+         <li>
+          <a href="http://nau.edu/campus-rec">
+           Campus Recreation
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/Cultural-Activities/">
+           Cultural Activities
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/Events">
+           Events Calendar
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/living-on-campus">
+           Living on Campus
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/athletics">
+           Lumberjack Athletics
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/student-resources">
+           Student Resources
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/the-nau-experience">
+           The
+           <abbr title="Northern Arizona University">
+            NAU
+           </abbr>
+           Experience
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="http://nau.edu/about" id="AboutMenu">
+         About
+         <abbr title="Northern Arizona University">
+          NAU
+         </abbr>
+        </a>
+        <ul class="dropdownRight">
+         <li>
+          <a href="http://nau.edu/about/who-we-are">
+           Who We Are
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/campus-locations">
+           Campus Locations
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/about/life/flagstaff">
+           About Flagstaff
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="quickLinks">
+        <a href="http://nau.edu/quicklinks" id="QuicklinksMenu">
+         Quick Links
+        </a>
+        <ul class="dropdownRight">
+         <li>
+          <a href="http://nau.edu/mynau">
+           MyNAU
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/deptindex">
+           Department Index
+          </a>
+          <!--<ul id="deptIndex">
+						<li><a href="http://nau.edu/deptindex/a">A</a></li>
+						<li><a href="http://nau.edu/deptindex/b">B</a></li>
+						<li><a href="http://nau.edu/deptindex/c">C</a></li>
+						<li><a href="http://nau.edu/deptindex/d">D</a></li>
+						<li><a href="http://nau.edu/deptindex/e">E</a></li>
+						<li><a href="http://nau.edu/deptindex/f">F</a></li>
+						<li><a href="http://nau.edu/deptindex/g">G</a></li>
+						<li><a href="http://nau.edu/deptindex/h">H</a></li>
+						<li><a href="http://nau.edu/deptindex/i">I</a></li>
+						<li><a href="http://nau.edu/deptindex/j">J</a></li>
+						<li><a href="http://nau.edu/deptindex/k">K</a></li>
+						<li><a href="http://nau.edu/deptindex/l">L</a></li>
+						<li><a href="http://nau.edu/deptindex/m">M</a></li>
+						<li><a href="http://nau.edu/deptindex/n">N</a></li>
+						<li><a href="http://nau.edu/deptindex/o">O</a></li>
+						<li><a href="http://nau.edu/deptindex/p">P</a></li>
+						<li><a href="http://nau.edu/deptindex/q">Q</a></li>
+						<li><a href="http://nau.edu/deptindex/r">R</a></li>
+						<li><a href="http://nau.edu/deptindex/s">S</a></li>
+						<li><a href="http://nau.edu/deptindex/t">T</a></li>
+						<li><a href="http://nau.edu/deptindex/u">U</a></li>
+						<li><a href="http://nau.edu/deptindex/v">V</a></li>
+						<li><a href="http://nau.edu/deptindex/w">W</a></li>
+						<li><a href="http://nau.edu/deptindex/x">X</a></li>
+						<li><a href="http://nau.edu/deptindex/y">Y</a></li>
+						<li><a href="http://nau.edu/deptindex/z">Z</a></li>
+					</ul>-->
+         </li>
+         <li>
+          <a href="http://nau.edu/news">
+           News
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/louie">
+           <abbr title="Lumberjacks Online University Information Environment">
+            LOUIE
+           </abbr>
+          </a>
+         </li>
+         <li>
+          <a href="http://nau.edu/lms">
+           Bb Learn
+          </a>
+         </li>
+         <li>
+          <a href="https://iris.nau.edu/owa">
+           Faculty/Staff Webmail
+          </a>
+         </li>
+         <li>
+          <a href="http://gmail.nau.edu">
+           Student Webmail
+          </a>
+         </li>
+         <li>
+          <a href="http://library.nau.edu/">
+           Cline Library
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </nav>
+     <div id="nauSearch" role="search">
+      <div id="searchOptions">
+       <label for="ctl00_ctl01__rbSite">
+        Entire Site
+       </label>
+       <input checked="checked" id="ctl00_ctl01__rbSite" name="ctl00$ctl01$searchOptions" type="radio" value="_rbSite"/>
+       <label for="ctl00_ctl01__rbDirectory">
+        Directory
+       </label>
+       <input id="ctl00_ctl01__rbDirectory" name="ctl00$ctl01$searchOptions" type="radio" value="_rbDirectory"/>
+       <label for="ctl00_ctl01__rbDegree">
+        Degrees
+       </label>
+       <input id="ctl00_ctl01__rbDegree" name="ctl00$ctl01$searchOptions" type="radio" value="_rbDegree"/>
+      </div>
+      <!--[if IE]>
+        <input type="text" style="display: none;" disabled="disabled" size="1" />
+    <![endif]-->
+      <input class="nauSearchInput" id="ctl00_ctl01__query" name="ctl00$ctl01$_query" placeholder="Enter search term..." title="Enter search term..." type="text"/>
+      <input class="nauSubmit" name="ctl00$ctl01$ctl03" title="Search the site" type="submit" value=""/>
+     </div>
+    </header>
+    <section id="content">
+     <header>
+      <a href="#" id="sidebarNav" onclick="return false;">
+      </a>
+      <h1>
+       Informatics and Computing Program
+      </h1>
+      <div id="blueBar">
+       <nav role="navigation">
+        <ul>
+         <li class="active">
+          <a>
+           Welcome
+          </a>
+         </li>
+         <li>
+          <a href="/CEFNS/Informatics-Computing/Research/">
+           Research
+          </a>
+         </li>
+         <li>
+          <a href="/CEFNS/Informatics-Computing/Academics/">
+           Academics
+          </a>
+         </li>
+         <li>
+          <a href="/CEFNS/Informatics-Computing/Faculty/">
+           Faculty
+          </a>
+         </li>
+         <li>
+          <a href="/CEFNS/SICCS/Recruiting/">
+           Recruiting
+          </a>
+         </li>
+         <li>
+          <a href="/CEFNS/Informatics-Computing/Policies/">
+           Policies
+          </a>
+         </li>
+         <li>
+          <a href="/CEFNS/Informatics-Computing/Contact-Information/">
+           Contact
+          </a>
+         </li>
+        </ul>
+       </nav>
+       <span style="display:none" xmlns:cms="urn:Ektron.Cms.Controls">
+       </span>
+       <script defer="defer" language="JavaScript" type="text/javascript" xmlns:cms="urn:Ektron.Cms.Controls">
+        <!--
+function ektLocalizeDate(date, id) {
+	setTimeout(function() {
+	if (document.getElementById && 10 == date.length) {
+		var oTempDate = new Date(date.substr(0,4), parseInt(date.substr(5,2),10)-1, date.substr(8,2));
+		document.getElementById(id).innerHTML=(oTempDate.toLocaleDateString ? oTempDate.toLocaleDateString() : oTempDate.toLocaleString());
+	}
+	}, 1); 
+}
+// -->
+       </script>
+       <div class="vcard" xmlns:cms="urn:Ektron.Cms.Controls">
+        <meta content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" name="SKYPE_TOOLBAR"/>
+        <div class="org fn">
+         <span class="organization-name">
+          Northern Arizona University
+         </span>
+         <span class="organization-unit">
+          Informatics and Computing
+         </span>
+        </div>
+        <a class="email" href="mailto:informatics@nau.edu">
+         informatics@nau.edu
+        </a>
+        <br/>
+        <div class="org fn">
+         <div class="organization-name">
+          Northern Arizona University
+         </div>
+         <div class="organization-unit">
+         </div>
+        </div>
+       </div>
+       <a href="//nau.edu/campaign" id="nau-campaign-logo" title="The Campaign for NAU">
+        <img alt="The Campaign For NAU" src="//cmsassets.nau.edu/campaign-website/offsite_assets/nau-campaign-logo.png"/>
+       </a>
+      </div>
+      <a href="#" id="skipNavMainContent" onclick="return false;">
+      </a>
+      <ol id="breadcrumbs">
+       <li>
+        <a href="/">
+         NAU
+        </a>
+       </li>
+       <li>
+        <a href="/CEFNS/">
+         CEFNS
+        </a>
+       </li>
+       <li>
+        <a href="/CEFNS/Informatics-Computing/">
+         Informatics and Computing
+        </a>
+       </li>
+       <li>
+        Welcome
+       </li>
+      </ol>
+     </header>
+     <div id="pageBanner" xmlns:cms="urn:Ektron.Cms.Controls">
+      <ol>
+       <li>
+        <a href="/CEFNS/Informatics-Computing/Research/UAV/" target="">
+         UAVs Expand Geoinformatics Research
+        </a>
+       </li>
+       <li>
+        <a href="/CEFNS/Informatics-Computing/Research/Pathogens-in-Wildlife-Reservoirs/" target="">
+         Metagenome Analyses
+        </a>
+       </li>
+       <li>
+        <a href="/CEFNS/Informatics-Computing/Research/Runtime-Architectural-Visualization/" target="">
+         Runtime Architectural Visualization
+        </a>
+       </li>
+       <li>
+        <a href="/CEFNS/Informatics-Computing/Research/SEGA-CI/" target="">
+         SEGA Cyberinfrastructure
+        </a>
+       </li>
+      </ol>
+      <ul>
+       <li>
+        <figure class="text">
+         <a href="/CEFNS/Informatics-Computing/Research/UAV/" target="">
+          <img alt="UAV banner (no tagline)" onload="upImgCount()" src="/uploadedImages/Academic/CEFNS/Informatics-Computing/_Media/Banners/uav-banner-notagline.png"/>
+          <figcaption>
+           UAVs Expand Geoinformatics Research
+          </figcaption>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="text">
+         <a href="/CEFNS/Informatics-Computing/Research/Pathogens-in-Wildlife-Reservoirs/" target="">
+          <img alt="Metagenome analyses" onload="upImgCount()" src="/uploadedImages/Academic/CEFNS/Informatics-Computing/_Media/Banners/fovanov-banner.png"/>
+          <figcaption>
+           Metagenome Analyses
+          </figcaption>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="text">
+         <a href="/CEFNS/Informatics-Computing/Research/Runtime-Architectural-Visualization/" target="">
+          <img alt="Runtime viz banner (no tagline)" onload="upImgCount()" src="/uploadedImages/Academic/CEFNS/Informatics-Computing/_Media/Banners/runvis-banner-notagline.png"/>
+          <figcaption>
+           Runtime Architectural Visualization
+          </figcaption>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="text">
+         <a href="/CEFNS/Informatics-Computing/Research/SEGA-CI/" target="">
+          <img alt="SEGA CI banner (no tagline)" onload="upImgCount()" src="/uploadedImages/Academic/CEFNS/Informatics-Computing/_Media/Banners/sega-ci-banner-notagline.png"/>
+          <figcaption>
+           SEGA Cyberinfrastructure
+          </figcaption>
+         </a>
+        </figure>
+       </li>
+      </ul>
+      <img alt="loader" id="loader" src="//cmsassets.nau.edu/images/loader.gif"/>
+      <nav>
+      </nav>
+     </div>
+     <div class="" id="main" role="main">
+      <span style="display:none" xmlns:cms="urn:Ektron.Cms.Controls">
+      </span>
+      <script defer="defer" language="JavaScript" type="text/javascript" xmlns:cms="urn:Ektron.Cms.Controls">
+       <!--
+function ektLocalizeDate(date, id) {
+  setTimeout(function() {
+  if (document.getElementById && 10 == date.length) {
+    var oTempDate = new Date(date.substr(0,4), parseInt(date.substr(5,2),10)-1, date.substr(8,2));
+    document.getElementById(id).innerHTML=(oTempDate.toLocaleDateString ? oTempDate.toLocaleDateString() : oTempDate.toLocaleString());
+  }
+  }, 1);
+}
+// -->
+      </script>
+      <h2 xmlns:cms="urn:Ektron.Cms.Controls">
+       Informatics and Computing
+      </h2>
+      <p xmlns:cms="urn:Ektron.Cms.Controls">
+      </p>
+      <p>
+       The Informatics and Computing Program (ICP) at Northern Arizona University is aimed at building interdisciplinary research capacity and future innovation in the intersection of computational science with engineering, the natural and social sciences, the arts, and business. We view informatics as
+       <em>
+        computing in context
+       </em>
+       : an essentially interdisciplinary area where fundamental advances in computational science support research breakthroughs in application areas.
+      </p>
+      <p>
+       Our diverse faculty work with other university and regional researchers to incorporate informatics as an essential element of research and learning through collaborative research projects, joint courses, and new degree program development.
+      </p>
+      <h4>
+       Research Labs
+      </h4>
+      <p>
+       To read more about the Informatics and Computing Program's research labs, please visit their websites:
+      </p>
+      <ul>
+       <li>
+        <a href="http://www.fofanovlab.us/" target="_blank">
+         Fofanov Bioinformatics Lab
+        </a>
+       </li>
+       <li>
+        <a href="http://www2.nau.edu/ogle-lab/" target="_blank">
+         Ogle Lab: Ecological Synthesis Lab
+        </a>
+       </li>
+       <li>
+        <a href="https://sites.google.com/a/nau.edu/remote-sensing-lab/" target="_blank">
+         Remote Sensing and Geoinformatics Lab
+        </a>
+       </li>
+      </ul>
+      <h4>
+       Partners
+      </h4>
+      <p>
+       Our research is supported through collaborations with NAU entities such as:
+      </p>
+      <ul>
+       <li>
+        <a href="http://nau.edu/cbi/" target="_blank">
+         Center for Bioengineering Innovation
+        </a>
+       </li>
+       <li>
+        <a href="http://www.mggen.nau.edu/" target="_blank">
+         Center for Microbial Genetics and Genomics
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/ecoss/" target="_blank">
+         Center for Ecosystem Science and Society
+        </a>
+       </li>
+       <li>
+        <a href="https://nau.edu/cefns/natsci/seses/welcome/" target="_blank">
+         School of Earth Sciences and Environmental Sustainability
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/merriam-powell/" target="_blank">
+         Merriam-Powell Center for Environmental Research
+        </a>
+       </li>
+       <li>
+        <a href="http://www.physics.nau.edu/" target="_blank">
+         Department of Physics and Astronomy
+        </a>
+       </li>
+      </ul>
+      <p>
+       Our regional partners include:
+      </p>
+      <ul>
+       <li>
+        <a href="https://www.tgen.org/" target="_blank">
+         Translational Genomics Research Institute
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nahealth.com/" target="_blank">
+         Northern Arizona Healthcare
+        </a>
+        and
+        <a href="http://www.flagstaffmedicalcenter.com/" target="_blank">
+         Flagstaff Medical Center
+        </a>
+       </li>
+       <li>
+        <a href="http://www.northcountryhealthcare.org/" target="_blank">
+         North Country HealthCare
+        </a>
+       </li>
+       <li>
+        <a href="http://www.usgs.gov/" target="_blank">
+         U.S. Geological Survey
+        </a>
+       </li>
+       <li>
+        <a href="https://napsaconsortium.wordpress.com/" target="_blank">
+         Northern Arizona Planetary Science Alliance
+        </a>
+       </li>
+      </ul>
+     </div>
+     <aside id="sidebar" role="complementary">
+      <span id="ctl00__sidebar_ctl00__debug" style="color:Red;">
+      </span>
+      <section>
+       <h1>
+        News
+       </h1>
+       <div>
+        <p>
+         Dr. Teki Sankey's drone-based research was
+         <a href="http://knau.org/post/new-generation-research-drones-takes-skies-northern-arizona-0" target="_blank">
+          recently featured on KNAU
+         </a>
+         .
+        </p>
+        <p>
+        </p>
+        <p>
+         The Informatics and Computing Program will be a core participant in the formation of the upcoming
+         <a href="http://nau.edu/siccs/">
+          <strong>
+           School of Informatics, Computing, and Cyber Systems
+          </strong>
+         </a>
+         at Northern Arizona University.
+        </p>
+       </div>
+      </section>
+      <span id="ctl00__sidebar_ctl01__debug" style="color:Red;">
+      </span>
+      <section>
+       <h1>
+        Doctoral Program
+       </h1>
+       <div>
+        We are now accepting applications for Fall 2016 admission to our PhD program in Informatics and Computing. Check
+        <a href="http://nau.edu/CEFNS/Informatics-Computing/Academics/" title="here">
+         Academics
+        </a>
+        for more details or
+        <a href="http://www.nau.edu/graduateapply" title="apply">
+         apply
+        </a>
+        .
+       </div>
+      </section>
+      <span id="ctl00__sidebar_ctl02__debug" style="color:Red;">
+      </span>
+      <section>
+       <h1>
+        Faculty Positions
+       </h1>
+       <div>
+        To support growth in the Informatics and Computing Program, we invite applications for multiple open-rank tenure-track positions,
+        <strong>
+         particularly in the areas of ecological and environmental informatics and health and bioinformatics
+        </strong>
+        . See details at
+        <a href="https://hr.peoplesoft.nau.edu/psp/ph92prta/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=2&amp;JobOpeningId=602210&amp;PostingSeq=1" title="the official application">
+         the official application
+        </a>
+        .
+       </div>
+      </section>
+     </aside>
+    </section>
+    <footer id="nauFooter" role="contentinfo">
+     <a href="http://nau.edu/athletics">
+      <figure id="athletics">
+       <img alt="NAU Athletics Logo" src="//cmsassets.nau.edu/images/naualtlogo.png"/>
+       <figcaption>
+        Visit Athletics Site
+       </figcaption>
+      </figure>
+     </a>
+     <nav id="communityFooter" role="navigation">
+      <h5>
+       NAU Community
+      </h5>
+      <ul>
+       <li>
+        <a href="http://nau.edu/future-students">
+         Future Students
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/current-students">
+         Current Students
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/parents">
+         Parents
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/alumni">
+         Alumni
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/faculty-staff">
+         Faculty/Staff
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <nav id="studentFooter" role="navigation">
+      <h5>
+       Student Services
+      </h5>
+      <ul>
+       <li>
+        <a href="http://nau.edu/financing">
+         Financing Your Education
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/living-on-campus">
+         Living on Campus
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/dining">
+         Dining
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/payments">
+         Paying Your Bill
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/safety">
+         Campus Safety
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/veterans">
+         Military and Veterans
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/disability">
+         Disability Resources
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/consumer-info">
+         Student Consumer Info
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <nav id="campusFooter" role="navigation">
+      <h5>
+       Campus Resources
+      </h5>
+      <ul>
+       <li>
+        <a href="http://nau.edu/maps">
+         Maps
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/parking">
+         Parking Services
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/counseling">
+         Counseling Services
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/health-services">
+         Campus Health Services
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/bookstore">
+         Bookstore
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/events">
+         Events Calendar
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/news">
+         News
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/careers">
+         Careers
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/cto">
+         Central Ticket Office
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <nav id="academicFooter" role="navigation">
+      <h5>
+       Academic Resources
+      </h5>
+      <ul>
+       <li>
+        <a href="http://nau.edu/colleges">
+         Colleges and Schools
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/locations">
+         Campus Locations
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/nau-online">
+         NAU Online
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/advising">
+         Student Advising
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/tutoring">
+         Tutoring
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/library">
+         Library
+        </a>
+       </li>
+       <li>
+        <a href="http://nau.edu/registrar">
+         Registrar
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <a href="http://nau.edu/naualert" id="footerAlert">
+      <img alt="NAU Alert" src="//cmsassets.nau.edu/images/naualert.png"/>
+      Sign up for
+      <abbr title="Northern Arizona University">
+       NAU
+      </abbr>
+      ALERT
+     </a>
+     <span id="footerSocial">
+      <a href="https://www.facebook.com/NAUFlagstaff" id="footerSocialIcon" title="Facebook">
+       <i class="fa fa-facebook-square fa-lg">
+       </i>
+      </a>
+      <a href="https://twitter.com/nau" id="footerSocialIcon" title="Twitter">
+       <i class="fa fa-twitter-square fa-lg">
+       </i>
+      </a>
+      <a href="https://instagram.com/nauflagstaff/" id="footerSocialIcon" title="Instagram">
+       <i class="fa fa-instagram fa-lg">
+       </i>
+      </a>
+      <a href="https://www.linkedin.com/edu/northern-arizona-university-17776" id="footerSocialIcon" title="Linkedin">
+       <i class="fa fa-linkedin-square fa-lg">
+       </i>
+      </a>
+      <a href="https://www.pinterest.com/nauflagstaff/" id="footerSocialIcon" title="Pinterest">
+       <i class="fa fa-pinterest-square fa-lg">
+       </i>
+      </a>
+      <a href="http://nau.edu/social" id="footerSocialLink">
+       <abbr title="Northern Arizona University">
+        NAU
+       </abbr>
+       Social Media
+      </a>
+     </span>
+     <span id="copyright">
+      © 2016 Arizona Board of Regents.
+      <span>
+       Northern Arizona University, Flagstaff, Arizona
+      </span>
+      |
+      <a href="http://nau.edu/privacy">
+       Privacy Statement
+      </a>
+     </span>
+    </footer>
+   </div>
+   <!--These are purely visual, non-semantic divs-->
+   <div id="bannerVisual">
+    <div id="bannerVisualInner">
+     <div id="searchBackground">
+     </div>
+    </div>
+   </div>
+   <div id="footerVisual">
+   </div>
+  </form>
+ </body>
+</html>

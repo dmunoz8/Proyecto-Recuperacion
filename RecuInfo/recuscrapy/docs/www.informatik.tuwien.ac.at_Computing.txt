@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=1014" name="viewport"/>
+  <meta content="authenticity_token" name="csrf-param"/>
+  <meta content="Jkx6BLNDiN+BPbtWNZHgIsD6iD+0MruwQRH7i2tWgHc=" name="csrf-token"/>
+  <title>
+   Main Research Areas • Informatics, TU Vienna
+  </title>
+  <link href="/stylesheets/uikit.min.css?1463641759" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/stylesheets/uikit_branding.css?1463641759" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/stylesheets/uikit_print.min.css?1463641759" media="print" rel="stylesheet" type="text/css"/>
+  <script src="/javascripts/uikit.min.js?1463641759" type="text/javascript">
+  </script>
+  <!--[if lt IE 9]><script src="/javascripts/uikit_ie.min.js?1463641759" type="text/javascript"></script><![endif]-->
+  <!--[if lt IE 10]><script src="/javascripts/uikit_ie9.min.js?1463641759" type="text/javascript"></script><![endif]-->
+  <script>
+   $(document).ready(function() { UIKit.menu("research"); });
+  </script>
+ </head>
+ <body>
+  <header class="uikit-page-header-container">
+   <a name="top">
+   </a>
+   <h1 class="uikit-helper-hidden">
+    Informatics, TU Vienna
+   </h1>
+   <div class="uikit-page-header" onclick="void(0)">
+    <div class="uikit-page-logo">
+     <div class="uikit-helper-first">
+     </div>
+     <div>
+      <img alt="Faculty of Informatics, TU Vienna" height="60" src="/images/uikit_logo.png?1463641759" usemap="#logomap" width="230"/>
+      <map name="logomap">
+       <area alt="Vienna University of Technology" coords="0,0,59,59" href="http://www.tuwien.ac.at/" shape="rect">
+       </area>
+       <area alt="Faculty of Informatics" coords="65,0,64,60,229,59,229,42,125,42,125,29,228,30,228,13,186,13,186,0,185,0" href="http://www.informatik.tuwien.ac.at/" shape="poly">
+       </area>
+      </map>
+     </div>
+     <div class="uikit-helper-last">
+     </div>
+    </div>
+    <nav>
+     <h1 class="uikit-helper-hidden">
+      Navigation
+     </h1>
+     <nav class="uikit-helper-hidden">
+      <h2>
+       Skip to…
+      </h2>
+      <ul>
+       <li>
+        <a href="#content">
+         Page Content
+        </a>
+       </li>
+       <li>
+        <a href="#meta">
+         Meta Navigation — Contains login form, sitemap, and search options
+        </a>
+       </li>
+       <li>
+        <a href="#menu">
+         Site Navigation — Access all major areas of the website
+        </a>
+       </li>
+       <li>
+        <a href="#path">
+         Path Navigation
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <nav class="uikit-page-meta" id="meta">
+      <a name="meta">
+      </a>
+      <h2 class="uikit-helper-hidden">
+       Meta Navigation — Contains login form, sitemap, and search options
+      </h2>
+      <ul>
+       <li class="uikit-bubble-meta" id="search">
+        <a class="uikit-bubble-header" href="#" onclick="return false">
+         Search
+        </a>
+        <div class="uikit-bubble-content-container">
+         <div class="uikit-bubble-content">
+          <form accept-charset="UTF-8" action="/search" method="get">
+           <div style="margin:0;padding:0;display:inline">
+            <input name="utf8" type="hidden" value="✓"/>
+           </div>
+           <input name="cx" type="hidden" value="016280341805931742676:uxttiwvv77y"/>
+           <input name="cof" type="hidden" value="FORID:10"/>
+           <input name="ie" type="hidden" value="UTF-8"/>
+           <p>
+            <input id="q" name="q" type="text"/>
+           </p>
+           <p>
+            <input checked="checked" id="as_sitesearch_www.informatik.tuwien.ac.at" name="as_sitesearch" type="radio" value="www.informatik.tuwien.ac.at"/>
+            <label for="as_sitesearch_www.informatik.tuwien.ac.at">
+             Search only www.informatik.tuwien.ac.at
+            </label>
+            <br/>
+            <input id="as_sitesearch_" name="as_sitesearch" type="radio" value=""/>
+            <label for="as_sitesearch_">
+             Search all institutes and research groups
+            </label>
+           </p>
+           <p>
+            <input name="commit" type="submit" value="Search"/>
+           </p>
+          </form>
+         </div>
+        </div>
+       </li>
+       <li class="uikit-bubble-meta">
+        <a class="uikit-bubble-header" href="/english/sitemap">
+         Sitemap
+        </a>
+       </li>
+       <li class="uikit-bubble-meta">
+        <a class="uikit-bubble-header" href="/">
+         German
+        </a>
+       </li>
+      </ul>
+      <a href="https://www.informatik.tuwien.ac.at/csauth/badge" id="badge" rel="nofollow">
+       <img alt="Login/Logout" src="https://www.informatik.tuwien.ac.at/csauth/badge_hidelogin.png"/>
+      </a>
+     </nav>
+     <nav class="uikit-page-menu" id="menu">
+      <a name="menu">
+      </a>
+      <h2 class="uikit-helper-hidden">
+       Site Navigation — Access all major areas of the website
+      </h2>
+      <ul>
+       <li class="uikit-bubble-menu" id="menu-welcome">
+        <a class="uikit-bubble-header" href="#" onclick="return false">
+         Welcome!
+        </a>
+        <div class="uikit-bubble-content-container">
+         <div class="uikit-bubble-content">
+          <ul class="uikit-bubble-nav">
+           <li>
+            <a href="/english">
+             <strong>
+              Home
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Faculty of Informatics at the Vienna University of Technology.
+            </a>
+           </li>
+           <li>
+            <a href="/news">
+             <strong>
+              News &amp; Events
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Latest faculty news and details on upcoming events, talks, etc.
+            </a>
+           </li>
+           <li>
+            <a href="/news/archive">
+             <strong>
+              Archive
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Archive of all previous faculty news, events, talks, conferences, etc.
+            </a>
+           </li>
+           <li>
+            <a href="/vacancies">
+             <strong>
+              Jobs &amp; Vacancies
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Job offers and open positions at the faculty and its partner companies.
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </li>
+       <li class="uikit-bubble-menu" id="menu-research">
+        <a class="uikit-bubble-header" href="#" onclick="return false">
+         Research
+        </a>
+        <div class="uikit-bubble-content-container">
+         <div class="uikit-bubble-content">
+          <ul class="uikit-bubble-nav">
+           <li>
+            <a href="/research/groups">
+             <strong>
+              Research Groups
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Overview of research groups at the Faculty of Informatics.
+            </a>
+           </li>
+           <li>
+            <a href="/research">
+             <strong>
+              Research Areas
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Current research areas, topics, and scientific publications.
+            </a>
+           </li>
+           <li>
+            <a href="/research/projects">
+             <strong>
+              Projects &amp; Partners
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Research partners, labs, research centers, and spin-off companies.
+            </a>
+           </li>
+           <li>
+            <a href="/research/awards">
+             <strong>
+              Awards
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Honors and awards of academic excellence for faculty scientists.
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </li>
+       <li class="uikit-bubble-menu" id="menu-teaching">
+        <a class="uikit-bubble-header" href="#" onclick="return false">
+         Teaching
+        </a>
+        <div class="uikit-bubble-content-container">
+         <div class="uikit-bubble-content">
+          <ul class="uikit-bubble-nav">
+           <li>
+            <a href="/teaching">
+             <strong>
+              Introduction
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Overview of all bachelor, master, doctoral, and PhD programs.
+            </a>
+           </li>
+           <li>
+            <a href="/teaching/bachelor">
+             <strong>
+              Bachelor Programs
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Details on all bachelor programs offered by the faculty.
+            </a>
+           </li>
+           <li>
+            <a href="/teaching/master">
+             <strong>
+              Master Programs
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Details on all master programs offered by the faculty.
+            </a>
+           </li>
+           <li>
+            <a href="/teaching/doctoral">
+             <strong>
+              Doctoral &amp; PhD
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Details on doctoral and PhD programs offered by the faculty.
+            </a>
+           </li>
+           <li>
+            <a href="/teaching/teacher-training">
+             <strong>
+              Teacher Training
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Details on the teacher training courses offered by the faculty.
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </li>
+       <li class="uikit-bubble-menu" id="menu-faculty">
+        <a class="uikit-bubble-header" href="#" onclick="return false">
+         Faculty
+        </a>
+        <div class="uikit-bubble-content-container">
+         <div class="uikit-bubble-content">
+          <ul class="uikit-bubble-nav">
+           <li>
+            <a href="/faculty">
+             <strong>
+              Organization
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Overview of the organizational structure of the faculty.
+            </a>
+           </li>
+           <li>
+            <a href="/faculty/institutes">
+             <strong>
+              Institutes &amp; Groups
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             All institutes and research groups which belong to the faculty.
+            </a>
+           </li>
+           <li>
+            <a href="/faculty/professors">
+             <strong>
+              Professors
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             All professors in the faculty and overview of their research focus.
+            </a>
+           </li>
+           <li>
+            <a href="/faculty/initiatives">
+             <strong>
+              Initiatives
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             International faculty programs in research and teaching.
+            </a>
+           </li>
+           <li>
+            <a href="/faculty/miscellaneous">
+             <strong>
+              And more…
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Alumni, continuing education, job offers, and selected external links.
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </li>
+       <li class="uikit-bubble-menu" id="menu-contact">
+        <a class="uikit-bubble-header" href="#" onclick="return false">
+         Contact
+        </a>
+        <div class="uikit-bubble-content-container">
+         <div class="uikit-bubble-content">
+          <ul class="uikit-bubble-nav">
+           <li>
+            <a href="/contact/">
+             <strong>
+              Overview
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Faculty officials, newsletter, and overview of all contact information.
+            </a>
+           </li>
+           <li>
+            <a href="/contact/press">
+             <strong>
+              Press &amp; Media
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Downloads and contact information of the faculty’s press office.
+            </a>
+           </li>
+           <li>
+            <a href="/contact/locations">
+             <strong>
+              Locations
+             </strong>
+             <span class="uikit-helper-hidden">
+              —
+             </span>
+             Location information, addresses, and links to interactive online maps.
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </nav>
+     <nav class="uikit-page-path" id="path">
+      <a name="path">
+      </a>
+      <h2 class="uikit-helper-hidden">
+       Path Navigation
+      </h2>
+      <span class="uikit-state-weak">
+       <a href="http://www.tuwien.ac.at/">
+        TU Vienna
+       </a>
+       ›
+      </span>
+      <a href="/">
+       Faculty of Informatics
+      </a>
+      ›
+      <a href="/english">
+       English
+      </a>
+      <span class="uikit-page-path-threshold">
+       ›
+      </span>
+      <a class=" " href="/research">
+       Main Research Areas
+      </a>
+     </nav>
+    </nav>
+   </div>
+  </header>
+  <div class="uikit-page-content">
+   <article class="hentry uikit-article uikit-article-type-content-content">
+    <div class="entry-content instapaper_body uikit-article-content">
+     <header class="uikit-article-header" id="content">
+      <a name="content">
+      </a>
+      <h1 class="entry-title instapaper_title">
+       Main Research Areas
+      </h1>
+      <p>
+       Research at the Faculty of Informatics is conducted in five main research areas: Logic and Computation, Computer Engineering, Distributed and Parallel Systems, Media Informatics and Visual Computing, and Business Informatics.
+      </p>
+     </header>
+     <h2>
+      Logic and Computation (Computational Intelligence)
+     </h2>
+     <ul>
+      <li>
+       Foundations of databases and information systems
+      </li>
+      <li>
+       Knowledge representation and semantic systems
+      </li>
+      <li>
+       Formal methods and verification for system safety and security
+      </li>
+      <li>
+       Constraints and satisfiability
+      </li>
+      <li>
+       Computational logic and deduction
+      </li>
+      <li>
+       Algorithms, complexity, and cryptography
+      </li>
+      <li>
+       Problem solving and optimization
+      </li>
+      <li>
+       Natural computing
+      </li>
+      <li>
+       <a href="/research/logic-and-computation">
+        more about this reaearch area ...
+       </a>
+      </li>
+     </ul>
+     <h2>
+      Media Informatics and Visual Computing
+     </h2>
+     <ul>
+      <li>
+       Computer graphics
+      </li>
+      <li>
+       Computer vision
+      </li>
+      <li>
+       Visualisation and visual analytics
+      </li>
+      <li>
+       Virtual, augmented and mixed reality
+      </li>
+      <li>
+       Media analysis and retrieval
+      </li>
+      <li>
+       Human-computer interaction and socially embedded computing
+      </li>
+      <li>
+       Assistive technologies and ubiquitous computing
+      </li>
+      <li>
+       Additive fabrication / manufacturing
+      </li>
+      <li>
+       <a href="/research/media-informatics-and-visual-computing">
+        more about this reaearch area ...
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="entry-content instapaper_body uikit-article-content">
+     <h2>
+      Computer Engineering
+     </h2>
+     <ul>
+      <li>
+       Dependable and resilient hybrid systems
+      </li>
+      <li>
+       Quantitative analysis and optimal control
+      </li>
+      <li>
+       Autonomous systems
+      </li>
+      <li>
+       Dependable distributed embedded real-time systems
+      </li>
+      <li>
+       Dependable digital circuits and hardware architectures
+      </li>
+      <li>
+       Automation systems integration
+      </li>
+      <li>
+       Robust decision theory
+      </li>
+      <li>
+       <a href="/research/computer-engineering">
+        more about this reaearch area ...
+       </a>
+      </li>
+     </ul>
+     <h2>
+      Distributed and Parallel Systems
+     </h2>
+     <ul>
+      <li>
+       Cloud/elastic/services computing
+      </li>
+      <li>
+       Internet of Things and Internet Engineering
+      </li>
+      <li>
+       Adaptive computing
+      </li>
+      <li>
+       Design paradigms for distributed and parallel systems
+      </li>
+      <li>
+       Parallel algorithms and data structures
+      </li>
+      <li>
+       Interfaces, languages and libraries for HPC and parallel computing
+      </li>
+      <li>
+       Run-time systems and scheduling
+      </li>
+      <li>
+       Performance measurement and benchmarking
+      </li>
+      <li>
+       <a href="/research/distributed-and-parallel-systems">
+        more about this reaearch area ...
+       </a>
+      </li>
+     </ul>
+     <h2>
+      Business Informatics
+     </h2>
+     <ul>
+      <li>
+       Model engineering und software engineering
+      </li>
+      <li>
+       Process engineering
+      </li>
+      <li>
+       Interorganisational systems, e-commerce und e-government
+      </li>
+      <li>
+       Advanced manufacturing
+      </li>
+      <li>
+       Web science und semantic web
+      </li>
+      <li>
+       Business intelligence
+      </li>
+      <li>
+       Secure business
+      </li>
+      <li>
+       Digital preservation und information managemen
+      </li>
+      <li>
+       <a href="/research/business-informatics">
+        more about this reaearch area ...
+       </a>
+      </li>
+     </ul>
+     <h2>
+      Research topics cutting across all five main research areas
+     </h2>
+     <p>
+      SECURITY and SOFTWARE ENGINEERING are research topics that belong to any one of the five main research areas depending on the respective focus of the specific research.
+     </p>
+     <h2>
+      Publications
+     </h2>
+     <p>
+      Current publications are available via the Vienna University of Technology's
+      <a href="http://publik.tuwien.ac.at/">
+       Publication Database
+      </a>
+      and on the websites of our
+      <a href="/research/groups">
+       research groups
+      </a>
+      .
+     </p>
+    </div>
+   </article>
+   <footer class="uikit-page-footer">
+    <div>
+     <p>
+      Disclosure according to § 25 Mediengesetz: Owner of this website is the
+      <br/>
+      <a href="http://www.informatik.tuwien.ac.at/">
+       <strong>
+        Faculty of Informatics
+       </strong>
+      </a>
+      at the
+      <a href="http://www.tuwien.ac.at/">
+       <strong>
+        Vienna University of Technology
+       </strong>
+      </a>
+      .
+     </p>
+     <p>
+      The TU Vienna distances itself from contents of external linked
+      <br/>
+      pages and assumes no liability for them. —
+      <a href="http://www.tuwien.ac.at/imprint/EN">
+       Disclaimer
+      </a>
+      .
+     </p>
+    </div>
+    <p>
+     <a href="/">
+      Home
+     </a>
+     •
+     <a href="/contact">
+      Contact
+     </a>
+     •
+     <a href="mailto:trouble@zkk.tuwien.ac.at">
+      Webmasters
+     </a>
+     <br/>
+     <a href="http://www.informatik.tuwien.ac.at/">
+      www.informatik.tuwien.ac.at
+     </a>
+    </p>
+   </footer>
+  </div>
+ </body>
+</html>

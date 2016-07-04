@@ -1,0 +1,1510 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 3.2 //en">
+<html>
+ <head>
+  <meta content="Selected medical references that are, by nature or design, periodically refreshed or updated. The first section is devoted to medical, sci/tech, and health news; then, medical conference reporting; an extensive clinical resources section; medical business news, and medical computing news." name="description"/>
+  <meta content="medical education, medical training, medical teaching, computers in medical education, medical education software, physician training, residency training, clinical training, medical educators, medical students, residents, resident, physicians-in-training, physician-in-training, clinical sciences, basic sciences, online instruction, online education, medical computing, clinical computing, computers in medicine, learning, education, training, teaching,  instruction, Web, web, Internet, internet, online,  NetView, Netview, netview" name="keywords"/>
+  <title>
+   NetView: News Sites
+  </title>
+ </head>
+ <body alink="#990000" background="" bgcolor="#ffffff" link="#990000" text="#000000" vlink="#660033">
+  <a name="Top">
+   <font size="+3">
+    <font color="#666633">
+     <b>
+      Medical Professional News
+     </b>
+    </font>
+   </font>
+   <br/>
+   by
+  </a>
+  <a href="mailto:medicaleditor@medicalcomputingtoday.com">
+   Marjorie Lazoff, MD
+  </a>
+  <br/>
+  <font size="-1">
+   Emergency Medicine
+   <br/>
+   Philadelphia, Pennsylvania
+   <br/>
+   Medical Editor
+   <br/>
+   <i>
+    Medical Computing Today
+   </i>
+   <br/>
+  </font>
+  <br/>
+  <font color="#666633">
+   <font size="-1">
+    Accepted for publication in
+    <i>
+     <b>
+      Medical Computing Today
+     </b>
+    </i>
+    July 1998
+    <br/>
+    <img align="bottom" alt="(updated)" height="11" src="images/upd1048.gif" width="48"/>
+    June 1999.
+    <br/>
+    <br/>
+    Originally published in edited form June and July 1998 in
+    <i>
+     Medical Software Reviews
+    </i>
+    .
+    <br/>
+    <br/>
+   </font>
+  </font>
+  <hr/>
+  <a name="Sections">
+   <center>
+    <font size="+1">
+     <b>
+      Sections
+     </b>
+    </font>
+    <br/>
+    <font face="arial">
+     <font size="-1">
+      Clinical News:
+      <br/>
+      Daily:
+      <a href="#medday">
+       <i>
+        medical
+       </i>
+      </a>
+      -
+      <a href="#sciday">
+       <i>
+        sci/biotech
+       </i>
+      </a>
+      -
+      <a href="#healday">
+       <i>
+        health
+       </i>
+      </a>
+      <br/>
+      Weekly:
+      <a href="#medweek">
+       <i>
+        medical
+       </i>
+      </a>
+      -
+      <a href="#sciweek">
+       <i>
+        sci/biotech
+       </i>
+      </a>
+      -
+      <a href="#healweek">
+       <i>
+        health
+       </i>
+      </a>
+      <br/>
+      Biweekly:
+      <a href="#medbiw">
+       <i>
+        medical
+       </i>
+      </a>
+      -
+      <a href="#scibiw">
+       <i>
+        sci/biotech
+       </i>
+      </a>
+      -
+      <a href="#healbiw">
+       <i>
+        health
+       </i>
+      </a>
+      <br/>
+      Monthly:
+      <a href="#medmon">
+       <i>
+        medical
+       </i>
+      </a>
+      -
+      <a href="#scimon">
+       <i>
+        sci/biotech
+       </i>
+      </a>
+      -
+      <a href="#healmon">
+       <i>
+        health
+       </i>
+      </a>
+      <br/>
+      <br/>
+      Medical Business:
+      <a href="#busnews">
+       <i>
+        Industry News
+       </i>
+      </a>
+      -
+      <a href="#busmco">
+       <i>
+        MCO/Med Policy
+       </i>
+      </a>
+      -
+      <a href="#busfin">
+       <i>
+        Personal Finance
+       </i>
+      </a>
+      <br/>
+      <br/>
+      <a href="#medcomp">
+       Medical Computing/Informatics
+      </a>
+      <br/>
+      <br/>
+      <a href="#lists">
+       List of Lists
+      </a>
+     </font>
+    </font>
+    <hr/>
+   </center>
+   <br/>
+   <blockquote>
+    <blockquote>
+     <font face="arial">
+      <font size="-1">
+       There is no shortage of online medical and health information to help keep us informed on current events, politics, clinical practice, business, and computing matters. A wealth of resources contributes to this abundance: major media coverage; press releases from medical organizations, institutions, and companies; current contents of medical journals and online abstract reviews; reports from medical conventions; and medical sites with running commentary on issues that fall within clinical, legal, and ethical arenas.
+       <br/>
+       <br/>
+       The sections here are more "newsy" than
+       <a href="0listrefs.php">
+        Frequently Updated Medical References
+       </a>
+       , which list more professionally accessible clinical information, frequently refreshed or updated.
+       <br/>
+       <br/>
+       To expedite browsing in this article, all news resources are first divided by frequency of updates:
+       <b>
+        daily, weekly, biweekly, or monthly
+       </b>
+       , then further divided into three somewhat overlapping categories:
+       <b>
+        Medical News
+       </b>
+       includes sites which specifically target physicians and other health care practitioners, or is written with sufficient medical depth and attention to scholarship to serve that audience;
+       <b>
+        Science/Biotechnology News
+       </b>
+       overlaps with medicine, particularly research and basic medical science; only those sites with a clinical or research slant are included, although there will be many unrelated articles; and
+       <b>
+        Health News
+       </b>
+       , the least specific category, is directed at the entire Internet community. Those selected here are either major news outlets or are unique and/or useful to professionals. A number of these are appropriate resources for patient education. Within each category, similar references are listed together.
+       <br/>
+       <br/>
+       Note whether the news is archived, a potentially powerful reference database. The Internet Sleuth maintains a group of
+       <a href="http://www.isleuth.com/heal-news.html" target="_blank">
+        search engines for popular health news archives
+       </a>
+       . This is a useful resource for old news items and releases, although each archive needs to be searched individually.
+       <br/>
+       <br/>
+       One of the forces behind the Web's recent growth has been the easy access to real time business and financial news,  information previously unavailable to small companies and individual investors. At first many medical and health sites assumed individual physicians would similarly benefit and so they followed the same template, relying on one or a handful of newswire and press release reports with periodic updates from the same sources. As a result, early Web site's medical news content varied less than their presentation, style, and ease of navigation -- and for most physicians, the information was of limited clinical utility.
+       <br/>
+       <br/>
+       In response, many medical and health sites are broadening their news resources or even beginning to provide their own original content, and this update reflects that change. But in the end, for a number of reasons I suspect mainstream medical news will remain less important for health professionals than mainstream business or financial news is for investors, corporate workers, and business enterpreneurs. One exception may be live and archived convention reporting, as listed on
+       <a href="0listmedev.php">
+        Online Medical Events
+       </a>
+       .
+       <br/>
+       <br/>
+       This article strives to be comprehensive but
+       <i>
+        not
+       </i>
+       all-inclusive. Many sites were excluded because of unabashed commercialism, sensationalism, or unprofessional presentation or content. Sites aimed solely at the public -- for example, the popular Johns Hopkins InteliHealth -- are also not included. Please
+       <a href="mailto:medicaleditor@medicalcomputingtoday.com">
+        contact me
+       </a>
+       with corrections or to submit sites for consideration. Sites that cater to physicians are especially welcome.
+       <br/>
+       <br/>
+       With all these sites, maybe soon they'll give us physicians our own Medicine subheading in
+       <a href="http://www.coolwebsite.com/haikus.htm" target="_blank">
+        Haiku Headlines!
+       </a>
+      </font>
+     </font>
+    </blockquote>
+    <br/>
+    <br/>
+    <a name="updates">
+     <font size="+2">
+      <font color="#666633">
+       Daily Updates
+      </font>
+     </font>
+    </a>
+    <br/>
+    <br/>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="medday">
+       Medical News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://biomednet.com/hmsbeagle/index.htm" target="_blank">
+       <i>
+        HMS Beagle
+       </i>
+       's Daily Research News
+      </a>
+      is an annotated list of journal article summaries on biological sciences, medicine/health, and biotech/pharmaceutical topics. Old entries are stored under
+      <a href="http://biomednet.com/hmsbeagle/31/resnews/headline.htm" target="_blank">
+       Research News Headlines
+      </a>
+      until the next issue replaces them, which makes for a nice reference as well. Free registration to BioMedNet allows users to access each article's short summary and navigate beyond to journal home pages, contents, abstracts, and full text (when available).
+     </li>
+     <li>
+      <a href="http://www.newswise.com/menu-sm.htm" target="_blank">
+       Newswise Med-News
+      </a>
+      , an independent database of press releases for reporters, shares this page with Sci-News. It lists a half-dozen or so articles daily, accessible under month/year as an annotated list in chronological order. Extensive searchable archives makes this an excellent database as well.
+     </li>
+     <li>
+      <a href="http://webmd-practice.medcast.com/Z/Channels/1842" target="_blank">
+       WebMD National News Center
+      </a>
+      has its own freely available news articles covering conventions, journal articles, and news events. Articles can also be accessed by specialty. Subscribers can apply for CME credit for some of these articles.
+     </li>
+     <li>
+      <a href="http://www.po.net" target="_blank">
+       Physicians' Online (POL)
+      </a>
+      password-protected Web site is freely available to physicians who register; members may also subscribe to POL as their Internet Service Provider. Once logged in, use the left-sided frame to access the Medical/General News. Sources include Reuters' (normally subscription-based!) Daily Medical News -- including a 30-day searchable archive, and separate links for articles by specialties, and weekly summaries -- and daily news articles from
+      <i>
+       Medical Tribune
+      </i>
+      . Also available are Federal Government News, which links to news and press releases from a dozen agencies such as the FDA, NIH, and AHCPR. Meeting Highlights is another nice feature that unfortunately hasn't been updated in two months.
+     </li>
+     <li>
+      <a href="http://www.pslgroup.com/MEDNEWS.HTM" target="_blank">
+       P/S/L's Doctor's Guide to Medical News
+      </a>
+      is part of The Doctor's Guide to the Internet. News is updated weekdays. Also available are
+      <a href="http://www.pslgroup.com/dg/allnews.htm" target="_blank">
+       news listed by specialty
+      </a>
+      and archived news items listed by title and topic, with search engine. Unfortunately, the site engages automatic pop-up windows, which interferes with comfortable browsing.
+     </li>
+     <li>
+      <a href="http://www.quad-net.com/" target="_blank">
+       Quadnet
+      </a>
+      is another independent organization distributing science, technology, and medicine press releases on line. Unfortunately, it archives articles in a non-searchable chronologic database, and the site appears to be updated only several times a week. However, a few of its articles were unique to this site.
+     </li>
+     <li>
+      <a href="http://www.cdcnpin.org/news/prevnews.htm" target="_blank">
+       CDC for HIV/STD/TB Prevention News Update
+      </a>
+      , or its better formatted twin,
+      <a href="http://www.aegis.com/archive/ads.asp" target="_blank">
+       AEGIS' CDC Daily AIDS Summary
+      </a>
+      "provides...synopses of key scientific articles and lay media reports on HIV/AIDS, other sexually transmitted diseases and tuberculosis....This daily update also includes information from CDC and other government agencies, such as background on
+      <i>
+       Morbidity and Mortality Weekly Report (MMWR)
+      </i>
+      articles, fact sheets, press releases and announcements...." One of the original and still one of the best daily news resources on line, this site is primarily for the public, but a convenient and reliable way for physicians to keep up-to-date. See the bottom of the page to receive this Summary by e-mail, and for access to its news archives.
+     </li>
+     <li>
+      JAMA Information Center Newsline includes not only Reuters Health and a link to the CDC Daily News Update, but also an annotated list of Special Reports, Conference Coverage, and Background Briefings:
+      <a href="http://www.ama-assn.org/special/asthma/newsline/newsline.htm" target="_blank">
+       Asthma
+      </a>
+      ,
+      <a href="http://www.ama-assn.org/special/contra/newsline/newsline.htm" target="_blank">
+       Contraception
+      </a>
+      ,
+      <a href="http://www.ama-assn.org/special/hiv/newsline/newsline.htm" target="_blank">
+       HIV/AIDS
+      </a>
+      ,
+      <a href="http://www.ama-assn.org/special/migraine/newsline/newsline.htm" target="_blank">
+       Migraine
+      </a>
+      ,
+      <a href="http://www.ama-assn.org/special/std/newsline/newsline.htm" target="_blank">
+       STD
+      </a>
+      ,and
+      <a href="http://www.ama-assn.org/special/womh/newsline/newsline.htm" target="_blank">
+       Women's Health
+      </a>
+      . Library includes relevent abstracts and articles from  the medical literature.
+     </li>
+     <li>
+      <a href="http://www.ljx.com/practice/health/index.html" target="_blank">
+       Health Law
+      </a>
+      from the
+      <i>
+       National Law Journal
+      </i>
+      , contains links to news articles from legal journals. Familiar issues, a different perspective.
+     </li>
+     <li>
+      <a href="http://www.physiciansguide.com/current.html" target="_blank">
+       PGI News
+      </a>
+      extracts physician lifestyle news tidbits several times a week. A nice resource from Physician's Guide to the Internet, a Web design company.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="sciday">
+       Science/Biotechnology News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.eurekalert.org/news.pub.html" target="_blank">
+       AAAS' EurekAlert! This Week's Releases
+      </a>
+      presents dozens of press releases on latest research advances in science, medicine, health, and technology from hundreds of journals, institutions, and corporations. Despite its title, the page is updated daily (not weekly).  Elsewhere on the site are listings of institutions, peer-reviewed journals, and science media. Published by the American Association for the Advancement of Science, it is a major resource for the news media.
+     </li>
+     <li>
+      <a href="http://www.newswise.com/menu-sm.htm" target="_blank">
+       Newswise Sci-News
+      </a>
+      , an independent database of press releases for reporters, shares this page with Med-News. It lists a half-dozen or so articles daily, accessible under month/year as an annotated list in chronological order. Extensive searchable archives make this an excellent database as well.
+     </li>
+     <li>
+      <a href="http://www.artigen.com/newswire/scitech.html" target="_blank">
+       Artigen SciTech
+      </a>
+      includes many medically-relevant news stories. The separate Health section covers stories of interest to the general population.
+     </li>
+     <li>
+      <a href="http://www.sciencedaily.com/news/summaries.htm" target="_blank">
+       ScienceDaily
+      </a>
+      includes major media news stories on research and technology.
+     </li>
+     <li>
+      <a href="http://unisci.com/" target="_blank">
+       Unisci Daily News
+      </a>
+      "...selects three or four stories that we believe are significant and interesting....If a release is already very well written, we usually write a headline and run the story....If a release needs editing or rewriting to make it better, or the addition of facts or some interpretation, we do that...." Searchable archives.
+     </li>
+     <li>
+      <a href="http://www.totalnews.com/" target="_blank">
+       TotalNEWS' Sci-Tech
+      </a>
+      includes listings for Computer News, in addition to links to online science news wires. Follow the Sci-Tech links on this framed site.
+     </li>
+     <li>
+      <a href="http://www.nytimes.com/aponline/indexTechnology.html" target="_blank">
+       AP Technology
+      </a>
+      has news items from the Associated Press, updated every 10 minutes. Requires (free) registration with NYTimes.
+     </li>
+     <li>
+      <a href="http://www.nytimes.com/yr/mo/day/national/index-science.html" target="_blank">
+       NY Times' Science
+      </a>
+      will rescue your fingertips from newsprint ink, especially on Tuesdays when the weekly section is published. Free registration required. Archives are by subscription only.
+     </li>
+     <li>
+      <a href="http://www.npr.org/news/healthsci/" target="_blank">
+       NPR Health &amp; Science
+      </a>
+      where RealAudio lets you hear (not read) two to three news stories from National Public Radio.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="healday">
+       Health News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://wire.ap.org/APnews/center_minor.html?FRONTID=SCIENCE" target="_blank">
+       Associated Press Science
+      </a>
+      is browser-dependent. If your browser doesn't go directly to the Science page, try Newsday's
+      <a href="http://www.newsday.com/ap/healthsc.htm" target="_blank">
+       AP Update Health/Science
+      </a>
+      or scroll down midway for a link to AP Science on the home page of
+      <a href="http://www.chron.com/content/chronicle/health/index.html" target="_blank">
+       <i>
+        Houston Chronicle
+       </i>
+       Health &amp; Medicine
+      </a>
+      .
+     </li>
+     <li>
+      <a href="http://www.reutershealth.com/frame_eline.html" target="_blank">
+       Reuters' Health eLine
+      </a>
+      is a popular consumer health news service. Its frames format allows a daily list of titles and keyword search up to past seven days.  (This page also links to Reuters' Medical News, a subscription service.)
+     </li>
+     <li>
+      <a href="../www,newsrounds.com" target="_blank">
+       NewsRounds
+      </a>
+      offers a compilation of news stories, primarily from Reuter's Health, in an attractive and easily navigated interface for (free) registrants.
+     </li>
+     <li>
+      <a href="http://dailynews.yahoo.com/headlines/health/" target="_blank">
+       Yahoo News -- Health Headlines
+      </a>
+      provides AP Health, and links to Reuters' Health.
+     </li>
+     <li>
+      <a href="http://www.nandotimes.com/noframes/healthscience/" target="_blank">
+       Nando Times -- Health and Science
+      </a>
+      includes AP and Reuters, among others news wires.
+     </li>
+     <li>
+      <a href="http://www.foxnews.com/health/" target="_blank">
+       Fox News - Health
+      </a>
+      .
+     </li>
+     <li>
+      <a href="http://cnn.com/HEALTH/index.html " target="_blank">
+       CNN Interactive - Health
+      </a>
+      .
+     </li>
+     <li>
+      <a href="http://www.abcnews.com/sections/living/index.html " target="_blank">
+       ABC News Health/Living
+      </a>
+      .
+     </li>
+     <li>
+      <a href="http://www.cbs.com/navbar/news.html " target="_blank">
+       CBS Health
+      </a>
+      (use the Health button on navigation bar).
+     </li>
+     <li>
+      <a href="http://www.msnbc.com/news/hlthnews_front.asp " target="_blank">
+       MSNBC Health
+      </a>
+      , sponsored by Schering-Plough and as often as not opens to a "welcome" ad rather than directly to the site.
+      <g>
+       <li>
+        <a href="http://www.usatoday.com/life/health/lhd1.htm" target="_blank">
+         <i>
+          USA Today
+         </i>
+         Health
+        </a>
+        .
+       </li>
+       <li>
+        <a href="http://www.boston.com/health/" target="_blank">
+         <i>
+          Boston Globe
+         </i>
+         Health
+        </a>
+        .
+       </li>
+       <li>
+        <a href="http://www.chron.com/content/chronicle/health/index.html" target="_blank">
+         <i>
+          Houston Chronicle
+         </i>
+         Health &amp; Medicine
+        </a>
+        .
+       </li>
+       <li>
+        <a href="http://www.latimes.com/HOME/NEWS/WIRES/WHEALTH/" target="_blank">
+         <i>
+          LA Times
+         </i>
+         - Health Updates
+        </a>
+        .
+       </li>
+       <li>
+        <a href="http://health.phillynews.com" target="_blank">
+         <i>
+          Philadelphia Inquirer
+         </i>
+         Health
+        </a>
+        .
+       </li>
+       <li>
+        <a href="http://www.sfgate.com/health/" target="_blank">
+         San Francisco Gate: For Your Health
+        </a>
+        is a shared resource between the
+        <i>
+         San Francisco Examiner
+        </i>
+        and the
+        <i>
+         San Francisco Chronicle
+        </i>
+        .
+       </li>
+       <li>
+        <a href="http://yourhealthdaily.com/" target="_blank">
+         Your Health Daily
+        </a>
+        posts a half-dozen articles geared more for nonprofessionals, which is surprising given that its major news source is the
+        <i>
+         Medical Tribune
+        </i>
+        .
+       </li>
+       <li>
+        <a href="http://www.newshub.com/health/bytime.html" target="_blank">
+         NewsHub Health
+        </a>
+        integrates and reports health headlines from Fox, Your Health Daily, Yahoo Health (Reuters), and ABC News. Frequently updated, but frequently redundant.
+       </li>
+       <li>
+        <a href="http://www.artigen.com/newswire/health.html" target="_blank">
+         Artigen Health
+        </a>
+        integrates and reports from all the sources listed under NewsHub, and others such as Nando, Johns Hopkins, and Mayo Clinic. See their SciTech section for bench research and other medically-related stories not included under Health.
+       </li>
+       <li>
+        <a href="http://www.medscape.com/home/news/medscape-news.html" target="_blank">
+         MedScape News
+        </a>
+        includes news from MSNBC, Reuters' Health, and NewsPage Daily.
+       </li>
+       <li>
+        <a href="http://www.onhealth.com/ch1/briefs/" target="_blank">
+         OnHealth Briefs
+        </a>
+        links to a half-dozen popular news stories daily. Scroll down to see news from the past week as well.
+       </li>
+       <li>
+        <a href="http://www.totalnews.com/" target="_blank">
+         TotalNEWS
+        </a>
+        is a general news service with search engine for keywords (such as medical, health, emergency). Its home page also gives access to the Sci-Tech section.
+       </li>
+       <li>
+        <a href="http://www.sciencedaily.com/news/health_medicine.htm" target="_blank">
+         ScienceDaily
+        </a>
+        - Health &amp; Medicine posts research-related press releases from universities. Searchable archives.
+       </li>
+       <li>
+        <a href="http://www.MedicineNet.com/hp.asp?li=USA " target="_blank">
+         MedicineNet
+        </a>
+        , an online health service,   carries its own health articles within the
+        <i>
+         USA Today
+        </i>
+        Web site.
+       </li>
+       <li>
+        <a href="http://www.doctordirectory.com/HealthNews/Directory/Default.asp
+?Reference=HealthNews.Categories%3A0" target="_blank">
+         DoctorDirectory's Health News and Information
+        </a>
+        provides 1-2 months of news items from a variety of mostly business newswires and press releases. Categories reflect the site's bias towards laypersons.
+       </li>
+       <li>
+        <a href="http://www.healthfinder.org/news/default.htm" target="_blank">
+         Healthfinder News
+        </a>
+        is a page of links from this popular government health site for nonprofessionals. Use this link as a one-stop site to reference many federal and all state government press releases and other news items. The site contains a search engine. Also available:
+        <a href="http://" target="_blank" www.healthfinder.org="">
+         The Latest
+        </a>
+        , a mistitled searchable database often several days behind, containing news items from both government agencies and the media;
+        <a href="http://www.healthfinder.org/news/netmedia.htm" target="_blank">
+         Health Media Online
+        </a>
+        , a list of twenty-odd online news sources that sport separate daily health sections, a few of which are not included elsewhere;
+        <a href="http://www.healthfinder.org/Htmlgen/HFSrchFT.cfm?Keyword=1018&amp;ShowPg=ALL&amp;Population=all&amp;Resource=All" target="_blank">
+         News Link Nonprofit
+        </a>
+        linking to new press releases from dozens of national specialty associations and organizations; and
+        <a href="http://www.healthfinder.org/Htmlgen/HFSrchFT.cfm?Keyword=1017&amp;ShowPg=ALL&amp;Population=all&amp;Resource=All " target="_blank">
+         Link to State News Pages
+        </a>
+        in a format quicker to use than the one off the News page.
+       </li>
+       <li>
+        <a href="http://search.excite.com/search.gw?search=health+OR+medicine&amp;c=hourtime" target="_blank">
+         Excite Health/Medical News
+        </a>
+        searched from its own, and other online news sites.
+       </li>
+       <li>
+        <a href="http://nt.excite.com/162/5462" target="_blank">
+         AIDS Research Update
+        </a>
+        comes from Excite.
+       </li>
+       <li>
+        <a href="http://www.americanheart.org/Reuters/pro/index.html" target="_blank">
+         American Heart Association Reuters' Health Professional News
+        </a>
+        accesses clinical and business news related to cardiology from Reuters' subscription-based Medical News service.
+       </li>
+       <li>
+        <a href="http://www.heartinfo.org/hrtnews.htm" target="_blank">
+         Heart Information Network News
+        </a>
+        carries staff-written summaries with thoughtful commentaries of recent journal articles as reported by the media. Items are written for cardiac patients but are very appropriate for medical professionals. Archives are organized into searchable disease topics.
+       </li>
+       <li>
+        <a href="http://cancer.med.upenn.edu/cancer_news/" target="_blank">
+         Oncolink Cancer News
+        </a>
+        comes from the University of Pennsylvania's deservedly popular site. The page, sponsored by Ortho Biotech Oncology division, begins with links to Reuter's Health.
+       </li>
+       <li>
+        <a href="http://www.breastcancer.net/cgi/bcn.news.wcgi" target="_blank">
+         Breast Cancer Newsroom
+        </a>
+        is a well-designed, content-laden resource with links to articles from most major news outlets and medical journals. Access is by month, but updates are daily.
+       </li>
+       <li>
+        <a href="http://www.cancernews.com/cancernews.htm" target="_blank">
+         Cancer News on the Net
+        </a>
+        links to selected popular media articles and cancer news sites. Edited by Richard Brown, MD, but not for doctors.
+       </li>
+       <li>
+        <a href="http://www.cancerprev.org/new/webnews.htm" target="_blank">
+         International Society for Preventive Oncology News Around the Web
+        </a>
+        is another excellent oncology site linking various cancer news and press release pages.
+       </li>
+       <li>
+        <a href="http://www.hepnet.com/news.html" target="_blank">
+         HepNews
+        </a>
+        from the Hepatitis Information Network, includes a link to Newspage daily business summaries and to an annotated list of news items from other sources that is less consistently maintained.
+       </li>
+       <li>
+        <a href="http://www.mcare.net/news.html" target="_blank">
+         MCARE News about Managed Care and Disability
+        </a>
+        from the National Clearinghouse on Managed Care and Long-Term Services for Adults with Developmental Disabilities and Their Families utilizes all major and several minor media services. Archives are accessible by month, but there is no search engine.
+       </li>
+       <li>
+        <a href="http://www.altmedicine.com/" target="_blank">
+         Alternative Medicine Online
+        </a>
+        includes What's New (daily) and News Bulletins (several times a month): news articles covering traditional and alternative medicine. For access, scroll to the bottom of the home page and accept the disclaimer.
+       </li>
+       <li>
+        <a href="http://www.cancernews.com/health" target="_blank">
+         Mednews.net
+        </a>
+        , like the original crayon-colored Cancer News on the Net, includes links to other popular media articles and news sites, by disease and, elsewhere, by specialty. Poor design and distracting advertising tend to overwhelm the content.
+       </li>
+       <li>
+        <a href="http://intv.net/pg/health.htm" target="_blank">
+         Internet Television Network Health
+        </a>
+        provides video clips for those with RealPlayer plug-in (free link available on site). I hope you have more success than I have had in accessing the clips on this site.
+       </li>
+      </g>
+     </li>
+    </ul>
+    <br/>
+    <br/>
+    <font size="+2">
+     <font color="#666633">
+      Weekly Updates
+     </font>
+    </font>
+    <br/>
+    <br/>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="medweek">
+       Medical News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.ama-assn.org/sci-pubs/sci-news/1998/pres_rel.htm" target="_blank">
+       AMA's Science News Update
+      </a>
+      lists selected JAMA Reports and Archives Briefs. Updated on Tuesdays.
+     </li>
+     <li>
+      <a href="http://www.bmj.com/current.shtml#NEWS" target="_blank">
+       BMJ News
+      </a>
+      is another wonderful resource from the British Medical Journal. Saturdays.
+     </li>
+     <li>
+      <a href="http://mednav.com/temp/alerts/" target="_blank">
+       Medsite Navigator Alerts
+      </a>
+      from the FDA, CDC and NIH. Thursdays.
+     </li>
+     <li>
+      <a href="http://www.cdc.gov/epo/mmwr/mmwr.html" target="_blank">
+       <i>
+        MMWR
+       </i>
+      </a>
+      The CDC's
+      <i>
+       Mortality and Morbidity Weekly Report
+      </i>
+      can be downloaded as PDF files and read using the Adobe Reader. Subscription information is also available.
+     </li>
+     <li>
+      <a href="http://www.aamc.org/events/aamcstat/aamcnews.htm " target="_blank">
+       AAMC STAT
+      </a>
+      contains "Short, Topical, And Timely News from the Association of American Medical Colleges...summarizing the latest AAMC activities, initiatives, policy statements, publications, data releases, etc., plus news from around the country important to the academic medicine community. Links to other online resources." E-mailed free to subscribers. Mondays.
+     </li>
+     <li>
+      <a href="http://www.newsfile.com" target="_blank">
+       Newsfile
+      </a>
+      consists of about 20 clinical newsletters of variable quality. Access to full text articles is for current newsletters only. Its home page links to Newsweekly Titles and
+      <a href="http://www.newsfile.com/topcwh.htm" target="_blank">
+       Top New Stories
+      </a>
+      . Mondays.
+     </li>
+     <li>
+      <a href="http://www.physiciansweekly.com" target="_blank">
+       <i>
+        Physicians Weekly
+       </i>
+      </a>
+      includes both clinical and business news articles. Wednesdays.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="sciweek">
+       Science/Biotechnology News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.gene.com/ae/WN/SU/" target="_blank">
+       Science Update
+      </a>
+      from Genetech's Access Excellence is staff-written "...weekly updates from laboratories around the world delivered to your desktop...."
+     </li>
+     <li>
+      <a href="http://www.aip.org/enews/latest/physnews.htm " target="_blank">
+       Physics News Update
+      </a>
+      has interesting staff-written news items from the American Institute of Physics, many with links. Eight years of archives is nicely organized by dates, or searchable.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="healweek">
+       Health News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.nytimes.com/library/national/science/sci-healthwatch-index.html " target="_blank">
+       <i>
+        NY Times
+       </i>
+       ' Health Watch
+      </a>
+      gratis to registered users, every Tuesday (of course).
+     </li>
+     <li>
+      <a href="http://www.heartinfo.org/science/science.htm " target="_blank">
+       Heart Information Network Scientific Reporter
+      </a>
+      a staff-written weekly article on clinical research in cardiology, is written for cardiac patients but appropriate for non-cardiology medical professionals. Issued about four times a month (although not recently).
+     </li>
+     <li>
+      <a href="http://www.mayohealth.org/mayo/common/htm/headline.htm" target="_blank">
+       Mayo Clinic Headline Watch
+      </a>
+      provides press release-type articles on current information from the Mayo Clinic, with links to other online resources. Its emphasis is patient education.
+     </li>
+     <li>
+      <a href="http://cgi.pathfinder.com/cgi-bin/time/cg/pshell?venue=tdaily&amp;q=health&amp;pg=q&amp;date=week&amp;x=7&amp;y=9" target="_blank">
+       <i>
+        Time
+       </i>
+       Health News Weekly
+      </a>
+      searches Time weekly newsmagazine online for current health articles.
+     </li>
+     <li>
+      <a href="http://www.newsweek.com/nw-srv/focus/he/front.htm" target="_blank">
+       <i>
+        Newsweek
+       </i>
+       Health Focus
+      </a>
+      is a new section on this weekly magazine's Web site.
+     </li>
+     <li>
+      <a href="http://www.usnews.com/usnews/nycu/health/hehome.htm" target="_blank">
+       <i>
+        US News
+       </i>
+       Health Home Page
+      </a>
+      is updated weekly as well.
+     </li>
+    </ul>
+    <br/>
+    <br/>
+    <font size="+2">
+     <font color="#666633">
+      Biweekly Updates
+     </font>
+    </font>
+    <br/>
+    <br/>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="medbiw">
+       Medical News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://biomednet.com/hmsbeagle/index.htm " target="_blank">
+       <i>
+        HMS Beagle
+       </i>
+      </a>
+      is BioMedNet's literate biweekly online magazine with articles and commentary of interest to the medical community. One excellent feature is Research News Headlines (biomednet.com/hmsbeagle/31/resnews/headline.htm). Scroll down the home page for their usually clever medically-related cartoons. Free registration will grant access to the full site. Every other Friday.
+     </li>
+     <li>
+      <a href="http://www.medtrib.com/ " target="_blank">
+       <i>
+        Medical Tribune
+       </i>
+      </a>
+      features staff-written news articles for physicians. Past issues form a searchable archive. 'More News...' links to recent articles by specialty: Family Practice, Internal Medicine and Cardiology, OB/Gyn, and Neurology.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="scibiw">
+       Science/Biotechnology News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.nsf.gov/home/hghlghts " target="_blank">
+       NSF News Highlights
+      </a>
+      has attractive, colorful pages providing a handful of news releases and such from the National Science Foundation. There is a site search engine.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="healbiw">
+       Health News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.healthatoz.com/news.htm" target="_blank">
+       HealthAtoZ News
+      </a>
+      draws upon popular media sources to provide well-written capsule summaries on about ten health-related news items. Nice use of Java scripts. 
+Over two years of archives are accessible by date -- ironically, this Web health search engine has no search engine for its own news resource.
+     </li>
+     <li>
+      <a href="http://www.healthy.net/update/index.html " target="_blank">
+       Healthy Update
+      </a>
+      includes both scientific and alternative medicine news articles.
+     </li>
+    </ul>
+    <br/>
+    <br/>
+    <font size="+2">
+     <font color="#666633">
+      Monthly Updates
+     </font>
+    </font>
+    <br/>
+    <br/>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="medmon">
+       Medical News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.informatik.uni-rostock.de/HUM-MOLGEN/NewsGen/daily_news.htm" target="_blank">
+       News in Bioscience and Medicine
+      </a>
+      , affiliated with the Human Genetics listserv HUM-MOLGEN, draws upon an international group of scientists to alert on professional activity in genetics and molecular biology. Updated irregularly, generally 1-2 times a month. Site includes archives and a useful link to Yahoo's daily news search for genetics over the past week.
+     </li>
+     <li>
+      <a href="http://www.aamc.org/events/reporter/start.htm " target="_blank">
+       <i>
+        AAMC Reporter
+       </i>
+      </a>
+      , the online version of American Association of Medical College's flagship news publication, covers major programs and initiatives at the AAMC and member institutions, as well as the broader issues that affect the academic medical community.
+     </li>
+     <li>
+      <a href="http://www.mediconsult.com/home/news" target="_blank">
+       Mediconsult.com News
+      </a>
+      has dated -- by at least a month -- Intelligent Network Concept's MediBriefs news summaries grouped by disease. (Current MediBriefs are by subscription only.) Mediconsult.com is an independent consumer health marketing company specializing in using Internet tools in health outcomes and business performance.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="scimon">
+       Science/Biotechnology News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.aaas.org/communications/newsnote.htm " target="_blank">
+       AAAS News and Notes
+      </a>
+      comes from the monthly publication
+      <i>
+       Science
+      </i>
+      , published by the American Association for the Advancement of Science.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="healmon">
+       Health News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.pavilion.co.uk/jcm/News.html " target="_blank">
+       <i>
+        Journal of Chinese Medicine
+       </i>
+       News
+      </a>
+      covers Traditional Chinese Medicine. Updated periodically.
+     </li>
+    </ul>
+    <br/>
+    <br/>
+    <br/>
+    <a name="medbus">
+     <font size="+2">
+      <font color="#666633">
+       Medical Business
+      </font>
+     </font>
+     <br/>
+     <br/>
+    </a>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="busnews">
+       Health Industry News
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="../www,newsrounds.com" target="_blank">
+       NewsRounds
+      </a>
+      offers a compilation of news stories, primarily from Reuter's Health, in an attractive and easily navigated interface for (free) registrants. See left navigation panel for industry news and related topics.
+     </li>
+     <li>
+      <a href="http://www.newspage.com/browse/46610/" target="_blank">
+       NewsPage Healthcare
+      </a>
+      has literally dozens of daily news summaries grouped by topic within, unfortunately, a time-consuming menus format. The site's search engine is a great help. Links to all articles within the past five days are provided, but many are pay-per-view. 
+Several sites use NewsPage via saved searches:
+      <a href="http://www.phynet.net/medinews.html" target="_blank">
+       PhysNet Medical News
+      </a>
+      ;
+      <a href="http://www.phynet.net/medicine.html" target="_blank">
+       PhysNet Industry News
+      </a>
+      ; automatic searches in Front Page Healthcare News, Managed Medical Care, National Healthcare Reform, Health Economics, Medicare and Medicaid, and Telemedicine from the
+      <a href="http://www.sfms.org/newspage.html" target="_blank">
+       San Francisco Medical Society
+      </a>
+      ; and Biotechnology, Pharmaceutical, and Regulatory News from
+      <a href="http://www.bioportfolio.com/wire/introduc.htm" target="_blank">
+       Bioportfolio
+      </a>
+      .
+     </li>
+     <li>
+      <a href="http://www.prnewswire.com/health/HEA-MTC.shtml" target="_blank">
+       PR Newswire Healthcare/Biotech
+      </a>
+      posts full text press releases from companies, institutions, government agencies, and others.
+      <a href="http://www.prnewswire.com/health/newshealthcare.html" target="_blank">
+       Section home page
+      </a>
+      provides access to a keyword search engine for articles or companies. Daily.
+     </li>
+     <li>
+      <a href="http://www.amcity.com/journals/health_care/" target="_blank">
+       American City
+Business Healthcare Journal
+      </a>
+      offers daily news accessible by search engine, by each of 37 U.S. cities, or by category: Business &amp; Finance, Doctors &amp; Hospitals, Government &amp; Regulation or Group Insurance. A nice online service.
+     </li>
+     <li>
+      <a href="http://www.biospace.com/b2/news.cfm" target="_blank">
+       Biospace Breaking News
+      </a>
+      is taken daily from press releases and the media. Well organized, with search engine.
+     </li>
+     <li>
+      <a href="http://www.businesswire.com/healthlink/" target="_blank">
+       Business Wire Health's
+      </a>
+      frames format allows for access to the Health section via the Hi Tech link.
+     </li>
+     <li>
+      <a href="http://www.news-real.com/" target="_blank">
+       News-Real Industry Watch's
+      </a>
+      site is also frames format. Relevant sections include Healthcare, Pharmaceuticals, and Biotechnology.
+     </li>
+     <li>
+      <a href="http://chemscope.com/news.asp?name=news" target="_blank">
+       Biotechnology, Pharmaceutical, and Medical Devices News
+      </a>
+      comes from Chemscope daily.
+     </li>
+     <li>
+      <a href="http://www.hdm.faulknergray.com/" target="_blank">
+       Breaking News
+      </a>
+      updated daily on the home page of the monthly magazine
+      <i>
+       Health Data Management
+      </i>
+      . Elsewhere on the site,
+      <a href="http://www.hdm.faulknergray.com/html/content/bulletins.htm" target="_blank">
+       Current Bulletins
+      </a>
+      other news items over the past 2-3 days. Scroll down this page for bulletin archives.
+     </li>
+     <li>
+      <a href="http://www.devicelink.com/news/" target="_blank">
+       Medical Device Link News
+      </a>
+      , and the home page links to full text articles from the current issues of medical industry magazines and newsletters. Several times a month.
+     </li>
+     <li>
+      <a href="http://www.mondaymorning.com" target="_blank">
+       Monday Morning
+      </a>
+      is a subscription-based weekly newsletter of pharmaceutical, medical, and health care releases affecting Wall Street. For free, its home page lists several of the week's key stories.
+     </li>
+     <li>
+      <a href="http://www.fthealthcare.com/news/index.htm" target="_blank">
+       <i>
+        Financial Times
+       </i>
+       Healthcare News
+      </a>
+      includes lead stories from their monthly newsletters. Headquarters are in London, so the perspective is European. Scroll down to access past stories. Has not updated for several months.
+     </li>
+     <li>
+      <a href="http://health.abol.net/abolhlth/HealthBusinessNews.htm" target="_blank">
+       Australian Business Health News
+      </a>
+      from Down Under, and other international (especially Asian) news comes from the Australasian Health Newswire.
+     </li>
+     <li>
+      <a href="http://www.edoc.co.za/" target="_blank">
+       E-Doc Daily News
+      </a>
+      comes from South Africa, but its health and medical industry items cover the continent.
+     </li>
+     <li>
+      <a href="http://www.webmedlit.com/topics/MedEconLit.html" target="_blank">
+       WebMedLit's Medical Economics
+      </a>
+      covers abstracts, articles, letters to the editor, etc., from recent issues of 23 medical journals, including BMJ, NEJM, and JAMA. Not surprising, the emphasis is on clinical medicine more than business. The link to same topic under PRNewswire is inactive.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="busmco">
+       Managed Care and Medical Policy
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.ama-assn.org/public/journals/amnews/amnews.htm" target="_blank">
+       AMNews
+      </a>
+      covers professional, social, economic, and policy issues in medicine. AMNews Central is the section's archives. American Medical News is published by the AMA. Mondays.
+     </li>
+     <li>
+      <a href="http://www.aafp.org/fpm/" target="_blank">
+       <i>
+        Family Practice Managment
+       </i>
+      </a>
+      from the AAFP, posts full text articles monthly.
+     </li>
+     <li>
+      <a href="http://www.ppdnet.com/" target="_blank">
+       <i>
+        Physician Practice Digest
+       </i>
+      </a>
+      home page links to cover stories and other features from this bimonthly publication. It also features business news for several midwest and most southeastern and mid-atlantic states.
+     </li>
+     <li>
+      <a href="http://www.medconnect.com/finalhtm/mc/mc_news.htm" target="_blank">
+       Managed Care News and Views
+      </a>
+      requires Medconnect free registration. Content is short staff-written news items, issued biweekly.
+     </li>
+     <li>
+      <a href="http://www.managedcaremag.com/daily.html" target="_blank">
+       Managed Care Daily Briefings
+      </a>
+      from news media throughout the country. Managed Care is a monthly journal. See its
+      <a href="http://www.managedcaremag.com/" target="_blank">
+       home page
+      </a>
+      for full-text articles.
+     </li>
+     <li>
+      <a href="http://www.betweenrounds.com/" target="_blank">
+       <i>
+        Between Rounds
+       </i>
+      </a>
+      is a Webzine for physicians in managed care. Bimonthly.
+     </li>
+     <li>
+      <a href="http://www.modernhealthcare.com/mhc/newstoday.html" target="_blank">
+       <i>
+        Modern Healthcare
+       </i>
+       News Today
+      </a>
+      visitors can scroll through medical industry news summaries daily Tuesday through Friday. And
+      <i>
+       Modern Healthcare
+      </i>
+      current issue's
+      <a href="http://www.modernhealthcare.com/current/default.html" target="_blank">
+       Top Ten Stories
+      </a>
+      are posted every Wednesday.
+     </li>
+     <li>
+      <a href="http://www.hmopage.org/" target="_blank">
+       The HMO Page
+      </a>
+      offers an entirely different perspective. Some features, such as the Managed Care Hall of Fame, are updated monthly.
+     </li>
+     <li>
+      <a href="http://epn.org/idea/health.html" target="_blank">
+       EPN Health Policy Page
+      </a>
+      carries bimonthly updates on health policy activities, both government and industry, many with links to online resources, by Electronic Policy Network.
+     </li>
+    </ul>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+1">
+     <font color="#666633">
+      <a name="busfin">
+       Personal Finances
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.talks.com/medicine.html" target="_blank">
+       Money Talk's The Medicine Man
+      </a>
+      is a column on medical technology stocks by George Stasen, a senior investment professional, posted every Friday.
+     </li>
+    </ul>
+    <br/>
+    <br/>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+2">
+     <font color="#666633">
+      <a name="medcomp">
+       Medical Computing/Informatics
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="../www,newsrounds.com" target="_blank">
+       NewsRounds
+      </a>
+      offers a compilation of news stories, primarily from Reuter's Health, in an attractive and easily navigated interface for (free) registrants. See left navigation panel for Computers/Internet and related topics.
+     </li>
+     <li>
+      <a href="http://tie.telemed.org/whatsnew.asp" target="_blank">
+       ATA's What's New in Telemedicine
+      </a>
+      from the American Telemedicine Association.
+     </li>
+     <li>
+      <a href="http://144.92.205.41/hmid/home.htm" target="_blank">
+       <i>
+        Health and Medical Informatics Digest
+       </i>
+      </a>
+      is an online monthly newsletter by University of Wisconsin's RL Brown, PhD. It largely covers medical Web activities. Reminders e-mailed the 1st-5th of each month.
+     </li>
+     <li>
+      <a href="http://www.healthcare-informatics.com/aissue.htm" target="_blank">
+       <i>
+        Healthcare
+Informatics
+       </i>
+      </a>
+      current issue with selected articles from its monthly magazine.
+     </li>
+     <li>
+      <a href="http://www.pjbpubs.co.uk/ppages/home.html" target="_blank">
+       Pharmpages
+      </a>
+      posts articles and features on Internet issues in the pharmaceutical industry. Monthly.
+     </li>
+     <li>
+      <a href="http://www.hoise.com/vmw/articles/index.html" target="_blank">
+       <i>
+        Virtual Medical World
+       </i>
+      </a>
+      is a "monthly telemedicine digest for high-performance computing and health care" with a European perspective.
+     </li>
+     <li>
+      <a href="http://nelsonpub.com/health/" target="_blank">
+       <i>
+        Health Management Technology
+       </i>
+      </a>
+      shares many of its current issue articles and features online. Monthly, although recently has fallen behind.
+     </li>
+     <li>
+      <a href="http://www.matmo.org/news/newspage.html" target="_blank">
+       DoD Weekly Telemed
+      </a>
+      is news articles for and about the Department of Defense telemedicine.
+     </li>
+     <li>
+      <a href="http://www.onlineinc.com/news/index.html#5" target="_blank">
+       Industry News
+      </a>
+      - BioMedical  updates changes in medical and health databases, from
+      <i>
+       Database
+      </i>
+      magazine. Monthly.
+     </li>
+    </ul>
+    <br/>
+    <br/>
+    <a href="#Sections">
+     <img alt="Sections" border="0" src="images/section56x15.gif"/>
+    </a>
+    <font size="+2">
+     <font color="#666633">
+      <a name="lists">
+       List of Lists
+      </a>
+     </font>
+    </font>
+    <ul>
+     <li>
+      <a href="http://www.pcisys.net/%7Epwebber/med_news.htm" target="_blank">
+       Paul Webber, M.D.
+      </a>
+      has amassed a nice labor of love list of medical news sites.
+     </li>
+     <li>
+      <a href="http://www.medwebplus.com/subject/What's_New.html">
+       MedWebPlus' What's New
+      </a>
+      is a megalist of news from medical organizations and associations.
+     </li>
+     <li>
+      <a href="http://www.libs.uga.edu/science/curevent.html " target="_blank">
+       University of Georgia Science News on the Net
+      </a>
+      is an extensive though dated table of medical, science, and technology sites.
+     </li>
+     <li>
+      <a href="http://www.eurekalert.org/links/research_publications.html " target="_blank">
+       Institutional Publications
+      </a>
+      is a list of hospital and medical center publication links. Provided by AAAS' Eureka Alert!
+     </li>
+    </ul>
+   </blockquote>
+  </a>
+  <a href="mailto:To_the_Editors@medicalcomputingtoday.com">
+   Comments or questions for posting?
+  </a>
+  <br/>
+  <br/>
+  <blockquote>
+   <a href="archives.php">
+    <img alt="Archives" border="0" src="images/navarch61x23.gif"/>
+   </a>
+   of other articles
+   <br/>
+   <br/>
+   <i>
+    MCToday
+   </i>
+   Web Lists:
+   <ul>
+    <li>
+     <a href="0listcme.php">
+      Electronic CME
+     </a>
+     <br/>
+    </li>
+    <li>
+     <a href="0listrefs.php">
+      Frequently Updated Medical Resources
+     </a>
+     <br/>
+    </li>
+    <li>
+     <a href="0listconcal.php">
+      Medical Computing Convention Calendar
+     </a>
+     <br/>
+    </li>
+    <li>
+     <a href="0listmedev.php">
+      Online Medical Events
+     </a>
+    </li>
+   </ul>
+  </blockquote>
+  <!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+  <script src="https://count.carrierzone.com/app/count_server/count.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--
+wm_custnum='4ee0a337ea76071e';
+wm_page_name='phpCGI';
+wm_group_name='/services/webpages/m/e/medicalcomputing.org/cgi-bin';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+  </script>
+  <!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+ </body>
+</html>

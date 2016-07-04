@@ -1,0 +1,1607 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+ <head profile="http://gmpg.org/xfn/11">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Drexel Rolls iSchool into New College of Computing and Informatics
+  </title>
+  <meta content="noodp,noydir" name="robots"/>
+  <!-- Put the following javascript before the closing </head> tag. -->
+  <script>
+   (function() {
+    var cx = '005834851677093827430:a3lps4efuhm';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+  </script>
+  <!-- Google Ads code -->
+  <script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   GS_googleAddAdSenseService("ca-pub-1872221973353849");
+GS_googleEnableAllServices();
+  </script>
+  <script type="text/javascript">
+   GA_googleAddAttr("Site", "LJ");
+GA_googleAddAttr("Category", "ed-tech");
+	GA_googleAddAttr("Category", "library-education");
+	GA_googleAddAttr("Category", "schools");
+			GA_googleAddAttr("Tag", "drexel-university");
+	GA_googleAddAttr("Tag", "ischool");
+	GA_googleAddAttr("Tag", "library-school");
+	GA_googleAddAttr("Tag", "tds");
+  </script>
+  <script type="text/javascript">
+   GA_googleAddSlot("ca-pub-1872221973353849", "LJ_OAIA_300x250");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJ_OAIA_728x90");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJHalfpage300x600");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJLeaderboard728x90");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJLeaderboard728x90_2");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJMarketing160x160");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJMarketing160x160_2");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJRectangle300x250");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJRectangle300x250_2");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJSkyscraper160x600");
+GA_googleAddSlot("ca-pub-1872221973353849", "LJTicker920x25");
+  </script>
+  <script type="text/javascript">
+   GA_googleFetchAds();
+  </script>
+  <script type="text/javascript">
+   // Private social media sharing buttons
+// http://james.cridland.net/code/
+//
+// Acknowledgement: some code in popShareWin (the bit that centres the pop-up window)
+// is from the Twitter bookmarklet code.
+
+function popShareWin(sWidth,sHeight,url) {
+    var C=screen.height,B=screen.width,H=Math.round((B/2)-(sWidth/2)),G=0;
+    if(C>sHeight){G=Math.round((C/2)-(sHeight/2))};
+    url=url.replace("%%URL%%",encodeURIComponent(window.location.href));
+    url=url.replace("%%TITLE%%",encodeURIComponent(document.title));
+    window.open(url,'','left='+H+',top='+G+',width='+sWidth+',height='+sHeight+',personalbar=0,toolbar=0,scrollbars=1,resizable=1');
+    return false;    
+}
+  </script>
+  <!-- Open Graph Meta Tags for Facebook and LinkedIn Sharing !-->
+  <meta content="Drexel Rolls iSchool into New College of Computing and Informatics" property="og:title"/>
+  <meta content="Earlier this month, Drexel University announced the formation of a College of Computing and Informatics, a new educational hub that will act as a home for the school’s computer science and technology programs—including the University’s ALA-accredited iSchool. It joins the growing ranks of MLIS programs that have found themselves under new organizational management recently, for reasons from increasing collaboration between departments to cutting administrative costs." property="og:description"/>
+  <meta content="http://lj.libraryjournal.com/2013/09/schools/drexel-rolls-ischool-into-new-college-of-computing-and-informatics/" property="og:url"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Library Journal" property="og:site_name"/>
+  <!-- End Open Graph Meta Tags !-->
+  <link href="http://lj.libraryjournal.com/feed/" rel="alternate" title="Library Journal » Feed" type="application/rss+xml"/>
+  <link href="http://lj.libraryjournal.com/comments/feed/" rel="alternate" title="Library Journal » Comments Feed" type="application/rss+xml"/>
+  <link href="http://lj.libraryjournal.com/2013/09/schools/drexel-rolls-ischool-into-new-college-of-computing-and-informatics/" rel="canonical"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/lj.libraryjournal.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.8"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="http://lj.libraryjournal.com/wp-content/plugins/wp-intern-ads/internAds.css?ver=4.2.8" id="interncss-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lj.libraryjournal.com/wp-content/themes/news/style.css?ver=2.1.3" id="news-theme-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lj.libraryjournal.com/wp-content/plugins/popular-widget/_css/pop-widget.css?ver=1.7.0" id="popular-widget-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lj.libraryjournal.com/wp-content/tablepress-combined.min.css?ver=4" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lj.libraryjournal.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.12" id="A2A_SHARE_SAVE-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://lj.libraryjournal.com/wp-includes/js/jquery/jquery.js?ver=1.11.2" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-content/plugins/wp-intern-ads/jquery.internads.js?ver=1.0" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.9" type="text/javascript">
+  </script>
+  <link href="http://lj.libraryjournal.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <script type="text/javascript">
+   <!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;a2a_config.linkmedia=target.media;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});a2a_config.templates=a2a_config.templates||{};
+//-->
+  </script>
+  <script>
+   /* <![CDATA[ */ portfolio_slideshow = { options : {"psHash":"false","psLoader":"false"}, slideshows : new Array() }; /* ]]> */
+  </script>
+  <script language="javascript">
+   jQuery(document).ready(function() {		
+									
+						jQuery().tcInternAds({
+							title: "Advertisement",
+							closeable: true,
+							url: 'http://lj.libraryjournal.com/ad.html',
+							timeout: '20',
+							wait: '720',
+							delay: '0'
+						});
+						
+					});
+  </script>
+  <link href="http://lj.libraryjournal.com/wp-content/themes/news/images/favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <style type="text/css">
+   #header { background: url(http://lj.libraryjournal.com/wp-content/uploads/2012/01/LJ-Header.jpg) no-repeat !important; }
+  </style>
+  <!-- Dynamic Widgets by QURL - http://www.qurl.nl //-->
+  <style id="custom-background-css" type="text/css">
+   body.custom-background { background-color: #acacac; }
+  </style>
+  <!-- Google Analytics Tracking by Google Analyticator 6.4.9: http://www.videousermanuals.com/google-analyticator/ -->
+  <script type="text/javascript">
+   var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+  </script>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-16323142-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+  </script>
+ </head>
+ <body class="single single-post postid-39985 single-format-standard custom-background custom-header header-image content-sidebar">
+  <div id="wrap">
+   <div id="navbarContainer">
+    <ul id="ljnav">
+     <li id="btn1">
+      <a href="http://www.infodocket.com/">
+       News
+      </a>
+     </li>
+     <li id="btn2">
+      <a href="http://lj.libraryjournal.com/category/opinion/">
+       Opinion
+      </a>
+     </li>
+     <li id="btn3">
+      <a href="http://www.thedigitalshift.com/" target="_blank">
+       Tech
+      </a>
+     </li>
+     <li id="btn4">
+      <a href="http://reviews.libraryjournal.com/">
+       Reviews
+      </a>
+     </li>
+     <li id="btn5">
+      <a href="http://lj.libraryjournal.com/events/">
+       Events
+      </a>
+     </li>
+     <li id="btn6">
+      <a href="http://lj.libraryjournal.com/category/webcasts/">
+       Webcasts
+      </a>
+     </li>
+     <li id="btn7">
+      <a href="http://jobs.libraryjournal.com/">
+       Job Zone
+      </a>
+     </li>
+     <li id="btn8">
+      <a href="http://lj.libraryjournal.com/forms/LJsub.php" target="_blank">
+       Newsletters
+      </a>
+     </li>
+     <li id="btn9">
+      <a href="http://lj.libraryjournal.com/contact-us/lj-social-media/">
+       Social Media
+      </a>
+      <ul style="margin-top:-2px;">
+       <li>
+        <a href="https://www.facebook.com/pages/Library-Journal/11249119181" target="_blank">
+         Facebook
+        </a>
+       </li>
+       <li>
+        <a href="http://twitter.com/libraryjournal" target="_blank">
+         @LibraryJournal
+        </a>
+       </li>
+       <li>
+        <a href="http://twitter.com/ljreviews" target="_blank">
+         @LJReviews
+        </a>
+       </li>
+       <li>
+        <a href="http://tumblr.libraryjournal.com" target="_blank">
+         Tumblr
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </div>
+   <div align="center" style="background-color:#333333; clear: both;">
+    <!-- LJTicker920x25 -->
+    <script type="text/javascript">
+     GA_googleFillSlot("LJTicker920x25");
+    </script>
+   </div>
+   <div id="topnav">
+    <div class="topnav-left">
+     <p>
+      June 12, 2016
+     </p>
+    </div>
+    <!-- end .topnav-left -->
+    <div class="topnav-right">
+     <ul class="topnav superfish" id="menu-about-menu">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11" id="menu-item-11">
+       <a href="http://lj.libraryjournal.com/contact-us/">
+        Contact Us
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16031" id="menu-item-16031">
+         <a href="http://lj.libraryjournal.com/contact-us/">
+          Masthead
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16029" id="menu-item-16029">
+         <a href="http://reviews.libraryjournal.com/about/lj-reviews-editorial-contacts/">
+          Contact the Reviews Editors
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1332" id="menu-item-1332">
+         <a href="http://lj.libraryjournal.com/contact-us/lj-social-media/">
+          LJ Social Media
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244" id="menu-item-244">
+         <a href="http://lj.libraryjournal.com/contact-us/media-kit/">
+          Advertising
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62177" id="menu-item-62177">
+         <a href="http://lj.libraryjournal.com/contact-us/">
+          Print Subscriptions
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2742" id="menu-item-2742">
+       <a href="http://lj.libraryjournal.com/awards/?ref=menu">
+        Awards
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6615" id="menu-item-6615">
+       <a>
+        Submissions
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1331" id="menu-item-1331">
+         <a href="http://lj.libraryjournal.com/contact-us/submissions/">
+          News, Features, Feedback, etc.
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6614" id="menu-item-6614">
+         <a href="http://reviews.libraryjournal.com/about/submitting-titles-for-review/?ref=lj-about">
+          Submitting Titles to the LJ Book Review
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12" id="menu-item-12">
+       <a href="http://lj.libraryjournal.com/about/">
+        About
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56033" id="menu-item-56033">
+         <a href="http://lj.libraryjournal.com/about/diversity/">
+          Diversity
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1329" id="menu-item-1329">
+         <a href="http://lj.libraryjournal.com/about/privacy-policy/">
+          Privacy Policy
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3673" id="menu-item-3673">
+         <a href="http://lj.libraryjournal.com/about/comment-policy/">
+          Comment Policy
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1330" id="menu-item-1330">
+         <a href="http://lj.libraryjournal.com/about/terms-of-use/">
+          Terms of Use
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+    <!-- end .topnav-right -->
+   </div>
+   <!-- end #topnav -->
+   <div id="header">
+    <div class="wrap">
+     <div id="title-area">
+      <p id="title">
+       <a href="http://lj.libraryjournal.com/">
+        Library Journal
+       </a>
+      </p>
+      <p id="description">
+       Library News, Reviews, and Views
+      </p>
+     </div>
+     <div class="widget-area header-widget-area">
+      <div class="widget widget_text" id="text-21">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <div id="cse-search-form" style="width: 100%;">
+          Loading ...
+         </div>
+         <script src="http://www.google.com/jsapi" type="text/javascript">
+         </script>
+         <script type="text/javascript">
+          google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};
+    var orderByOptions = {};
+    orderByOptions['keys'] = [{label: 'Relevance', key: ''},{label: 'Date', key: 'date'}];
+    customSearchOptions['enableOrderBy'] = true;
+    customSearchOptions['orderByOptions'] = orderByOptions;  var customSearchControl = new google.search.CustomSearchControl(
+      '005834851677093827430:a3lps4efuhm', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://lj.libraryjournal.com/search-results/");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+         </script>
+         <link href="http://www.google.com/cse/style/look/default.css" rel="stylesheet" type="text/css"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div id="lj_ad_row">
+      <!-- LJLeaderboard728x90 -->
+      <div id="leaderboard_ad">
+       <script type="text/javascript">
+        GA_googleFillSlot("LJLeaderboard728x90");
+       </script>
+      </div>
+      <div id="lj_subscribe_ad">
+       <a href="https://subscribe.pcspublink.com/sub/subscribeform_msi.aspx?t=JWEBAN&amp;p=LBJL" target="_blank">
+        <img alt="Subscribe to LJ" border="0" height="90" src="https://s3.amazonaws.com/ImageCloud/circ/LJ_DiscountOffer_189x90_Feb2016.gif" width="186"/>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="nav">
+    <div class="wrap">
+     <ul class="menu genesis-nav-menu menu-primary js-superfish" id="menu-main-menu">
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-310" id="menu-item-310">
+       <a href="http://lj.libraryjournal.com/latest-stories/?ref=ljnav">
+        Latest Stories
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-314" id="menu-item-314">
+         <a href="http://lj.libraryjournal.com/?cat=35,31?ref=ljnav">
+          Publishing &amp; Industry News
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7091" id="menu-item-7091">
+         <a href="http://lj.libraryjournal.com/category/buildings/?ref=ljnav">
+          Architecture, Buildings, &amp; Facilities
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7088" id="menu-item-7088">
+         <a href="http://lj.libraryjournal.com/category/shows-events/ala/?ref=ljnav">
+          ALA Conferences &amp; Meetings
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7301" id="menu-item-7301">
+         <a href="http://lj.libraryjournal.com/more-categories/?ref=ljnav">
+          More Categories
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-318" id="menu-item-318">
+       <a href="#">
+        Features
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56009" id="menu-item-56009">
+         <a href="http://lj.libraryjournal.com/2016/03/people/movers-shakers-2016/movers-shakers-2016/">
+          2016 Movers &amp; Shakers
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43442" id="menu-item-43442">
+         <a href="http://lj.libraryjournal.com/tag/year-in-architecture/">
+          Year in Architecture
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43016" id="menu-item-43016">
+         <a href="http://lj.libraryjournal.com/category/managing-libraries/lj-index/">
+          Star Libraries
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56020" id="menu-item-56020">
+         <a href="http://lj.libraryjournal.com/category/placements-and-salaries/">
+          Placements and Salaries Survey
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48826" id="menu-item-48826">
+         <a href="http://lj.libraryjournal.com/tag/library-of-the-year/">
+          Library of the Year
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48827" id="menu-item-48827">
+         <a href="http://lj.libraryjournal.com/tag/best-small-library-in-america/">
+          Best Small Library in America
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48828" id="menu-item-48828">
+         <a href="http://lj.libraryjournal.com/tag/librarian-of-the-year/">
+          Librarian of the Year
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56010" id="menu-item-56010">
+         <a href="http://lj.libraryjournal.com/tag/paralibrarian-of-the-year/">
+          Paralibrarian of the Year
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7010" id="menu-item-7010">
+       <a href="http://www.infodocket.com/?ref=ljnav-news">
+        INFOdocket
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7086" id="menu-item-7086">
+       <a href="http://lj.libraryjournal.com/category/academic-libraries/?ref=ljnav">
+        Academic
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59199" id="menu-item-59199">
+         <a href="http://lj.libraryjournal.com/category/people/academic-movers/">
+          Academic Movers
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59137" id="menu-item-59137">
+       <a href="http://lj.libraryjournal.com/category/technology/">
+        Technology
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7089" id="menu-item-7089">
+       <a href="http://lj.libraryjournal.com/category/managing-libraries/?ref=ljnav">
+        Managing Libraries
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7090" id="menu-item-7090">
+         <a href="http://lj.libraryjournal.com/category/funding/?ref=ljnav">
+          Budgets &amp; Funding
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7094" id="menu-item-7094">
+         <a href="http://lj.libraryjournal.com/category/marketing/?ref=ljnav">
+          Marketing
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7093" id="menu-item-7093">
+         <a href="http://lj.libraryjournal.com/category/library-services/?ref=ljnav">
+          Library Services
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18511" id="menu-item-18511">
+         <a href="http://lj.libraryjournal.com/category/managing-libraries/lead-the-change/">
+          Lead the Change
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7095" id="menu-item-7095">
+       <a href="http://lj.libraryjournal.com/category/careers/?ref=ljnav">
+        Careers
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7096" id="menu-item-7096">
+         <a href="http://lj.libraryjournal.com/category/people/">
+          People
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315" id="menu-item-315">
+         <a href="http://lj.libraryjournal.com/category/placements-and-salaries/">
+          Placements &amp; Salaries
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7097" id="menu-item-7097">
+         <a href="http://lj.libraryjournal.com/category/library-education/">
+          LIS Education
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2702" id="menu-item-2702">
+         <a href="http://jobs.libraryjournal.com">
+          Job Zone
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2606" id="menu-item-2606">
+       <a href="http://reviews.libraryjournal.com/">
+        Reviews
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2833" id="menu-item-2833">
+         <a href="http://reviews.libraryjournal.com/category/prepub/">
+          Prepub Alert
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56021" id="menu-item-56021">
+         <a href="http://reviews.libraryjournal.com/category/media/audio-in-advance/">
+          Audio in Advance
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2834" id="menu-item-2834">
+         <a href="http://reviews.libraryjournal.com/category/collection-development/">
+          Collection Development
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2835" id="menu-item-2835">
+         <a href="http://reviews.libraryjournal.com/category/readers-advisory/">
+          Readers’ Advisory
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56022" id="menu-item-56022">
+         <a href="http://reviews.libraryjournal.com/category/in-the-bookroom/staffreads/">
+          What We’re Reading
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7098" id="menu-item-7098">
+       <a href="http://lj.libraryjournal.com/category/opinion/?ref=ljnav">
+        Opinion
+       </a>
+       <ul class="sub-menu">
+        <li class="category-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7115" id="menu-item-7115">
+         <a>
+          Columns
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7099" id="menu-item-7099">
+           <a href="http://lj.libraryjournal.com/category/opinion/backtalk/?ref=ljnav">
+            Backtalk
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57241" id="menu-item-57241">
+           <a href="http://lj.libraryjournal.com/category/publishing/self-publishing-and-libraries/">
+            Self Publishing and Libraries by James LaRue
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7111" id="menu-item-7111">
+           <a href="http://lj.libraryjournal.com/category/opinion/peer-to-peer-review/?ref=ljnav">
+            Peer to Peer Review by Various
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7103" id="menu-item-7103">
+           <a href="http://lj.libraryjournal.com/category/opinion/steven-bell/?ref=ljnav">
+            From the Bell Tower by Steven Bell
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11572" id="menu-item-11572">
+           <a href="http://lj.libraryjournal.com/category/opinion/not-dead-yet/?ref=ljnav">
+            Not Dead Yet by Cheryl LaGuardia
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7109" id="menu-item-7109">
+           <a href="http://lj.libraryjournal.com/category/opinion/leading-from-the-library/?ref=ljnav">
+            Leading from the Library by Steven Bell
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7104" id="menu-item-7104">
+           <a href="http://lj.libraryjournal.com/category/opinion/aaron-schmidt/?ref=ljnav">
+            The User Experience by Aaron Schmidt
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7105" id="menu-item-7105">
+           <a href="http://lj.libraryjournal.com/category/opinion/michael-stephens/?ref=ljnav">
+            Office Hours by MIchael Stephens
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7106" id="menu-item-7106">
+           <a href="http://lj.libraryjournal.com/category/opinion/john-berry/?ref=ljnav">
+            Blatant Berry by John N. Berry III, Editor-at-Large
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7108" id="menu-item-7108">
+           <a href="http://lj.libraryjournal.com/category/opinion/editorial/?ref=ljnav">
+            Editorial
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="category-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7114" id="menu-item-7114">
+         <a>
+          Blogs
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2636" id="menu-item-2636">
+           <a href="http://lj.libraryjournal.com/blogs/annoyedlibrarian/">
+            Annoyed Librarian
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7011" id="menu-item-7011">
+           <a href="http://www.infodocket.com/?ref=ljnav-blog">
+            INFOdocket by Gary Price
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7117" id="menu-item-7117">
+           <a href="http://www.thedigitalshift.com/category/roy-tennant-digital-libraries/?ref=ljnav">
+            Digital Libraries by Roy Tennant
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7113" id="menu-item-7113">
+           <a href="http://reviews.libraryjournal.com/category/in-the-bookroom/?ref=ljnav">
+            In the Bookroom
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="subnav">
+    <div class="wrap">
+     <ul class="menu genesis-nav-menu menu-secondary js-superfish" id="menu-secondary-menu">
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2710" id="menu-item-2710">
+       <a href="https://subscribe.pcspublink.com/sub/subscribeform_msi.aspx?t=JWETXT&amp;p=LBJL">
+        Subscribe to LJ
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15032" id="menu-item-15032">
+         <a href="https://subscribe.pcspublink.com/sub/subscribe.aspx?guid=6dafb39f-7051-4e09-9d2d-4b4411c48aad">
+          Subscribe to Library Hotline
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21868" id="menu-item-21868">
+         <a href="http://lj.libraryjournal.com/apps/">
+          LJ for iPad
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2679" id="menu-item-2679">
+         <a href="http://bookverdict.com/browse.xqy?ref=menu">
+          Book Verdict
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18512" id="menu-item-18512">
+         <a href="http://lj.libraryjournal.com/forms/LJsub.php">
+          Subscribe to Email Newsletters
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22611" id="menu-item-22611">
+       <a href="http://lj.libraryjournal.com/awards/">
+        Awards
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59911" id="menu-item-59911">
+       <a href="http://www.thedigitalshift.com/research/">
+        Research
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66742" id="menu-item-66742">
+       <a href="http://lj.libraryjournal.com/white-papers/">
+        Case Studies
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65565" id="menu-item-65565">
+       <a href="http://learn.libraryjournal.com/?utm_source=ljweb&amp;utm_medium=nav&amp;utm_term=professional%20development%20for%20librarians&amp;utm_campaign=ljpd">
+        Professional Development
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66296" id="menu-item-66296">
+         <a href="http://learn.libraryjournal.com/courses/collection-development/?utm_source=ljweb&amp;utm_medium=nav&amp;utm_campaign=ljpdcollectiondevelopment">
+          Online Course | New Ideas in Collection Development
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66722" id="menu-item-66722">
+         <a href="http://learn.libraryjournal.com/live/community-engagement/?utm_source=ljweb&amp;utm_medium=nav&amp;utm_content=communityengagement&amp;utm_campaign=ljpdworkshops">
+          Live Workshop | The Transformative Power of Community Engagement
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66723" id="menu-item-66723">
+         <a href="http://learn.libraryjournal.com/live/transform-your-stacks/?utm_source=ljweb&amp;utm_medium=nav&amp;utm_content=transformyourstacks&amp;utm_campaign=ljpdworkshops">
+          Live Workshop | Transform Your Stacks to Drive Circulation
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66724" id="menu-item-66724">
+         <a href="http://learn.libraryjournal.com/live/21st-century-leaders/?utm_source=ljweb&amp;utm_medium=nav&amp;utm_content=21stcenturyleaders&amp;utm_campaign=ljpdworkshops">
+          Live Workshop | What 21st Century Library Leaders Know and Do
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-66976" id="menu-item-66976">
+       <a href="http://www.thedigitalshift.com/">
+        The Digital Shift
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66977" id="menu-item-66977">
+         <a href="http://www.thedigitalshift.com/call-for-proposals-the-digital-shift-2016/">
+          2016 Virtual Conference Call for Proposals
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66978" id="menu-item-66978">
+         <a href="http://www.thedigitalshift.com/tds2015-libraries-connecting-communities/">
+          2015 Virtual Conference
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48255" id="menu-item-48255">
+       <a href="http://self-e.libraryjournal.com/">
+        SELF-e
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48257" id="menu-item-48257">
+         <a href="https://library-journal.biblioboard.com/">
+          SELF-e Submissions
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="inner">
+    <div id="content-sidebar-wrap">
+     <div class="hfeed" id="content">
+      <div class="breadcrumb">
+       You are here:
+       <a href="http://lj.libraryjournal.com/">
+        Home
+       </a>
+       /
+       <a href="http://lj.libraryjournal.com/category/schools/">
+        Schools
+       </a>
+       / Drexel Rolls iSchool into New College of Computing and Informatics
+      </div>
+      <div class="post-39985 post type-post status-publish format-standard hentry category-ed-tech category-library-education category-schools tag-drexel-university tag-ischool tag-library-school tag-tds entry">
+       <h1 class="entry-title">
+        Drexel Rolls iSchool into New College of Computing and Informatics
+       </h1>
+       <div class="post-info">
+        By
+        <span class="author vcard">
+         <span class="fn">
+          <a href="http://lj.libraryjournal.com/author/ichant/" rel="author">
+           Ian Chant
+          </a>
+         </span>
+        </span>
+        on
+        <span class="date published time" title="2013-09-16T17:52:01+00:00">
+         September 16, 2013
+        </span>
+       </div>
+       <div class="entry-content">
+        <p>
+         <img alt="Drexel's Mario the Dragon" class="alignright size-full wp-image-39990" height="299" src="http://lj.libraryjournal.com/wp-content/uploads/2013/09/130916_Drexel.jpg" title="130916_Drexel" width="299"/>
+         Earlier this month, Drexel University announced the formation of a
+         <a href="http://drexel.edu/now/news-media/releases/archive/2013/September/CCI/">
+          College of Computing and Informatics
+         </a>
+         , a new educational hub that will act as a home for the school’s computer science and technology programs—including the University’s ALA-accredited iSchool. It joins the growing ranks of MLIS programs that have found themselves under new organizational management recently, for reasons from increasing collaboration between departments to cutting administrative costs.
+        </p>
+        <p>
+         The new college will provide a unified base for computer and information science students on Drexel’s campus, bringing together staff and students from the Department of Computer Science, Department of Computing and Security Technology, and the iSchool College for Information Science and Technology. David E. Fenske, the current dean of the iSchool, will take the helm of the newly formed school, which will open its doors in fall 2014.
+        </p>
+        <p>
+         According to Fenske, no classes in Drexel’s MLIS program will be eliminated by the move to the new college. Indeed, by bringing the MLIS students and faculty under the same umbrella as other data-driven programs, new electives or specializations could grow out of those collaborations. The range of the MLIS program won’t diminish as a result of the move, said Fenske, but increase, as faculty members are encouraged to self-organize and teach outside their field, eschewing the traditional departmental model. Computer science professors will have the opportunity in the coming years to teach classes for MLIS students, while library professionals will be able to pass on their training to aspiring computer scientists.
+        </p>
+        <p>
+         “These new departments are designed not to be traditional silos. There’s a hope this college will be as interdisciplinary as the causes that drove its creation,” said Fenske. “There are parts of the computer science programs that can slide very nicely over to the new college, such as human interface, where faculty on both sides have different interests in the same topic.”
+        </p>
+        <p>
+         The new college—and the iSchool’s place in it— mark a natural next step in the evolution of Drexel’s already tech-centric MLIS. After all, while this is a big move, modifying a program to keep pace with changing technologies or respond to student demand is not a new concept.
+        </p>
+        <p>
+         For example, about a decade ago, Fenske points out, Drexel—long a tech-driven library school—saw an increase in student interest in archival studies. At the time, the school didn’t have much of an archives department, often directing prospective students interested in studying archiving to Temple University, which had a more cohesive program for aspiring archivists. That student interest drove the creation of an archival studies program within Drexel’s MLIS program in the last ten years. In keeping with Drexel’s technology focus, though, about half of the program focuses on digital records, offering students the chance to study both the history of the book and the finer points of information architecture. That’s the kind of interdisciplinary cooperation Fenske hopes to see in the new College of Computing and Informatics.
+        </p>
+        <p>
+         The evolution of the program also marks a broadening of scope for Drexel’s MLIS program. While many grads are happily ensconced in library work, Drexel MLIS alumnae are working in a wide range of other fields as well. Fenske says the increased focus on interdisciplinary collaboration aims to prepare Drexel MLIS students not only for careers in rapidly changing library environments, but outside of them as well. “What we’re seeking to do is provide the most relevant educational framework for graduates to have a career and be able to adjust to changing societies and professions,” said Fenske. “There is a huge variety of careers in the LIS field and we should think of LIS as having a diversified portfolio.”
+        </p>
+        <p class="Subhead">
+         <strong>
+          Consolidation for cost-cutting, too
+         </strong>
+        </p>
+        <p>
+         <strong>
+         </strong>
+         While Drexel’s creation of the unified college was meant to foster collaboration, the reasons behind moving a library science grad program under a new organizational roof aren’t always so high-minded. According to Deborah Grealy, associate dean and director of the MLIS program at
+         <a href="https://www.stkate.edu/academic/mlis/">
+          St. Catherine University
+         </a>
+         in St. Paul, MN, saving money provided the impetus behind the school’s MLIS moving from the auspices of the now-defunct School for Professional Studies to its business school last year.
+        </p>
+        <p>
+         According to Grealy, the decision to eliminate the School of Professional Studies—which also housed St. Kate’s schools for social work and education—was made at the upper levels of the administration, where officials found the school no longer made financial sense. “That decision was made without a lot of forewarning or due process from the faculty,” said Grealy.
+        </p>
+        <p>
+         Though Grealy reports that the transition has been a reasonably smooth one, the lack of consultation rubbed some students and staff the wrong way. Paul Lai, a recent MLIS graduate from St. Catherine, blogged about the transition and his problems with it last fall. While he didn’t notice any changes in the curriculum of the program—indeed, Grealy notes there have been none—Lai’s still uneasy with the new order of things. Just because changes to a program are administrative, he said, doesn’t mean they don’t have a long-term impact.. “There are decisions, like hiring, that are made at the school level, and it matters there how they make decisions,” Lai said. “It concerns me that the dean of a business school might not have the best understanding of the needs of a MLIS program. I worry about the program being overseen by a dean from a very different background.”
+        </p>
+        <p>
+         Rather than cursing the darkness, though, Deborah Grealy is taking the move as an opportunity to light a candle, looking for places—like digital resource management—where the MLIS program and the business school can work together or take lessons from one another. She even hopes the new organization might help the program attract a wider variety of students. “I see the need for business management skills in libraries,” said Grealy. “I’d like to diversify the kinds of students coming in, because librarianship is so diverse and the needs are so diverse that I’d like the breadth of our program to reflect those new needs.”
+        </p>
+        <p class="Subhead">
+         <strong>
+          Challenges of consolidation
+         </strong>
+        </p>
+        <p>
+         As the situation at St. Catherine shows, when programs move to different departments and get reshuffled administratively, there can be hiccups and hurt feelings. Fortunately for students and faculty, ALA accreditation isn’t generally on the list of worries, as an administrative move won’t generally change a program’s accreditation status, according to Laura Dare, assistant director of the ALA’s office of accreditation. An ALA accredited program is accredited through its next review—which occurs every three to seven years depending on the program’s accreditation status—no matter where it lives on campus, provided that the program meets it reporting obligations and continues to comply with ALA’s standards.
+        </p>
+        <p>
+         At Drexel, David Fenske admits that he anticipates a few bumps on the road ahead. While most of the faculty understands the reasoning behind the move, understanding something and being comfortable with it aren’t always the same thing. “Everyone is used to their own professional labels, born of their PhDs and honed in their professions in academia, and they’re being asked to make adjustments now,” said Fenske. “My challenge is to build a new college that works well and collaborates.”
+        </p>
+       </div>
+       <div class="author-box">
+        <div>
+         <img alt="Ian Chant" class="avatar avatar-70 photo" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2013/08/ichant_avatar-70x70.jpg" width="70"/>
+         <strong>
+          About Ian Chant
+         </strong>
+         <br/>
+         <p>
+          Ian Chant is a former editor at
+          <em>
+           LJ
+          </em>
+          and a freelance journalist whose work has appeared in
+          <em>
+           Scientific American
+          </em>
+          and
+          <em>
+           Popular Mechanics
+          </em>
+          and on NPR.
+         </p>
+        </div>
+       </div>
+       <div class="post-meta">
+        <span class="categories">
+         Filed Under:
+         <a href="http://lj.libraryjournal.com/category/ed-tech/" rel="category tag">
+          Ed Tech
+         </a>
+         ,
+         <a href="http://lj.libraryjournal.com/category/library-education/" rel="category tag">
+          Library Education
+         </a>
+         ,
+         <a href="http://lj.libraryjournal.com/category/schools/" rel="category tag">
+          Schools
+         </a>
+        </span>
+        <span class="tags">
+         Tagged With:
+         <a href="http://lj.libraryjournal.com/tag/drexel-university/" rel="tag">
+          Drexel University
+         </a>
+         ,
+         <a href="http://lj.libraryjournal.com/tag/ischool/" rel="tag">
+          iSchool
+         </a>
+         ,
+         <a href="http://lj.libraryjournal.com/tag/library-school/" rel="tag">
+          Library School
+         </a>
+         ,
+         <a href="http://lj.libraryjournal.com/tag/tds/" rel="tag">
+          TDS
+         </a>
+        </span>
+       </div>
+       <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_1">
+        <a class="a2a_button_printfriendly" href="http://www.addtoany.com/add_to/printfriendly?linkurl=http%3A%2F%2Flj.libraryjournal.com%2F2013%2F09%2Fschools%2Fdrexel-rolls-ischool-into-new-college-of-computing-and-informatics%2F&amp;linkname=Drexel%20Rolls%20iSchool%20into%20New%20College%20of%20Computing%20and%20Informatics" rel="nofollow" target="_blank" title="PrintFriendly">
+        </a>
+        <a class="a2a_button_email" href="http://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Flj.libraryjournal.com%2F2013%2F09%2Fschools%2Fdrexel-rolls-ischool-into-new-college-of-computing-and-informatics%2F&amp;linkname=Drexel%20Rolls%20iSchool%20into%20New%20College%20of%20Computing%20and%20Informatics" rel="nofollow" target="_blank" title="Email">
+        </a>
+        <a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Flj.libraryjournal.com%2F2013%2F09%2Fschools%2Fdrexel-rolls-ischool-into-new-college-of-computing-and-informatics%2F&amp;linkname=Drexel%20Rolls%20iSchool%20into%20New%20College%20of%20Computing%20and%20Informatics" rel="nofollow" target="_blank" title="Twitter">
+        </a>
+        <a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Flj.libraryjournal.com%2F2013%2F09%2Fschools%2Fdrexel-rolls-ischool-into-new-college-of-computing-and-informatics%2F&amp;linkname=Drexel%20Rolls%20iSchool%20into%20New%20College%20of%20Computing%20and%20Informatics" rel="nofollow" target="_blank" title="Facebook">
+        </a>
+        <a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Flj.libraryjournal.com%2F2013%2F09%2Fschools%2Fdrexel-rolls-ischool-into-new-college-of-computing-and-informatics%2F&amp;linkname=Drexel%20Rolls%20iSchool%20into%20New%20College%20of%20Computing%20and%20Informatics" rel="nofollow" target="_blank" title="Google+">
+        </a>
+        <a class="a2a_button_tumblr" href="http://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Flj.libraryjournal.com%2F2013%2F09%2Fschools%2Fdrexel-rolls-ischool-into-new-college-of-computing-and-informatics%2F&amp;linkname=Drexel%20Rolls%20iSchool%20into%20New%20College%20of%20Computing%20and%20Informatics" rel="nofollow" target="_blank" title="Tumblr">
+        </a>
+        <a class="a2a_button_reddit" href="http://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Flj.libraryjournal.com%2F2013%2F09%2Fschools%2Fdrexel-rolls-ischool-into-new-college-of-computing-and-informatics%2F&amp;linkname=Drexel%20Rolls%20iSchool%20into%20New%20College%20of%20Computing%20and%20Informatics" rel="nofollow" target="_blank" title="Reddit">
+        </a>
+        <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share">
+         <img alt="Share" height="16" src="http://lj.libraryjournal.com/wp-content/plugins/add-to-any/share_save_171_16.png" width="171"/>
+        </a>
+        <script type="text/javascript">
+         <!--
+if(wpa2a)wpa2a.script_load();
+//-->
+        </script>
+       </div>
+      </div>
+     </div>
+     <div class="sidebar widget-area" id="sidebar">
+      <div class="widget widget_text" id="text-4">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <!-- LJRectangle300x250 -->
+         <script type="text/javascript">
+          GA_googleFillSlot("LJRectangle300x250");
+         </script>
+        </div>
+       </div>
+      </div>
+      <div class="widget popular-widget" id="popular-widget-4">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         Recent &amp; Popular
+        </h4>
+        <div class="pop-layout-v">
+         <ul class="pop-widget-tabs pop-widget-tabs-3" id="pop-widget-tabs-4">
+          <li>
+           <a href="#recent" rel="nofollow">
+            <span>
+             Recent
+            </span>
+            Posts
+           </a>
+          </li>
+          <li>
+           <a href="#commented" rel="nofollow">
+            <span>
+             Most
+            </span>
+            Commented
+           </a>
+          </li>
+          <li>
+           <a href="#viewed" rel="nofollow">
+            <span>
+             Most
+            </span>
+            Viewed
+           </a>
+          </li>
+         </ul>
+         <div class="pop-inside-4 pop-inside">
+          <ul id="pop-widget-recent-4">
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/industry-news/haydens-lc-nomination-to-get-senate-vote-grassroots-support-swings-into-action/" rel="bookmark" title="Hayden's LC Nomination To Get Senate Vote; Grassroots Support Swings Into Action">
+             <img alt="Blunt" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/06/Blunt-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Hayden's LC Nomination To Get Senate Vote; Grassroots Support Swings Into Action
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://www.infodocket.com/2016/06/10/ala-posts-final-report-of-the-ala-task-force-on-equity-diversity-and-inclusion/" rel="bookmark" title="ALA Posts Final Report of the ALA Task Force on Equity, Diversity, and Inclusion">
+             <span class="pop-overlay">
+              <span class="pop-title">
+               ALA Posts Final Report of the ALA Task Force on Equity, Diversity, and Inclusion
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/technology/darien-library-launches-sopac3-catalog-website/" rel="bookmark" title="Darien Library Launches SOPAC3 Catalog, Website">
+             <img alt="Darien Library Logo" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/06/160609_DarienLogo-70x70.png" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Darien Library Launches SOPAC3 Catalog, Website
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/technology/please-rewind-preservation/" rel="bookmark" title="Please Rewind | Preservation">
+             <img alt="A SCREAM David Gary, Kaplanoff ­Librarian for American History at Yale University, New Haven, CT, has assembled a unique collection of low-budget horror movies. Yale’s VHS holdings also include thousands of 
+irreplaceable interviews. And the 
+format is becoming obsolete" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/06/ljx160601webEnis-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Please Rewind | Preservation
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/opinion/steven-bell/we-need-a-growth-mindset-for-learning-library-research-from-the-bell-tower/" rel="bookmark" title="We Need a Growth Mindset for Learning Library Research | From the Bell Tower">
+             <img alt="Steven Bell" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2012/03/steven-bell-newswire.png" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               We Need a Growth Mindset for Learning Library Research | From the Bell Tower
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/opinion/john-berry/keep-copyright-at-lc-blatant-berry/" rel="bookmark" title="Keep Copyright at LC | Blatant Berry">
+             <img alt="John Berry III" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2013/11/BerryWebB-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Keep Copyright at LC | Blatant Berry
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/opinion/field-reports/flipped-classroom-tech-teaching-field-reports/" rel="bookmark" title="Flipped Classroom Tech Teaching | Field Reports">
+             <img alt="Allyson Coan" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/06/allysoncoan_portrait_tightercropped_02-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Flipped Classroom Tech Teaching | Field Reports
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+          </ul>
+          <ul id="pop-widget-commented-4">
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/organizations/ala-organization/library-of-congress-drops-illegal-alien-subject-heading-provokes-backlash-legislation/" rel="bookmark" title="Library of Congress Drops Illegal Alien Subject Heading, Provokes Backlash Legislation">
+             <img alt="library-congress-logo" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/library-congress-logo-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Library of Congress Drops Illegal Alien Subject Heading, Provokes Backlash Legislation
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/awards/2016-galelj-library-of-the-year-topeka-shawnee-county-public-library-ks-leveraging-leadership/" rel="bookmark" title="2016 Gale/LJ Library of the Year: Topeka &amp; Shawnee County Public Library, KS, Leveraging Leadership">
+             <img alt="Photo by Alistair Tutton Photography" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/06/ljx160602webLOY1-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               2016 Gale/LJ Library of the Year: Topeka &amp; Shawnee County Public Library, KS, Leveraging Leadership
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/opinion/editorial/reality-check-falling-short-in-orlando-editorial/" rel="bookmark" title="Reality Check: Falling short in Orlando | Editorial">
+             <img alt="RebeccaWebEdit2015" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2015/09/RebeccaWebEdit20151-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Reality Check: Falling short in Orlando | Editorial
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/technology/darien-library-launches-sopac3-catalog-website/" rel="bookmark" title="Darien Library Launches SOPAC3 Catalog, Website">
+             <img alt="Darien Library Logo" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/06/160609_DarienLogo-70x70.png" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Darien Library Launches SOPAC3 Catalog, Website
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/shows-events/ala/getting-real-annual-ala-2016-preview/" rel="bookmark" title="Getting Real @ Annual | ALA 2016 Preview">
+             <img alt="ljx160601webALA1" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/06/ljx160601webALA1-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Getting Real @ Annual | ALA 2016 Preview
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/academic-libraries/lacuny-institute-2016-race-matters-libraries-racism-and-antiracism/" rel="bookmark" title="LACUNY Institute 2016: Race Matters: Libraries, Racism, and Antiracism">
+             <img alt="LACUNY16_buttons" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/LACUNY16_buttons-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               LACUNY Institute 2016: Race Matters: Libraries, Racism, and Antiracism
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/academic-libraries/megan-lotts-if-you-build-it-they-will-come-to-the-library/" rel="bookmark" title="Megan Lotts: If You Build It, They Will Come (to the Library)">
+             <img alt="Lotts-legos4" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/Lotts-legos4-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Megan Lotts: If You Build It, They Will Come (to the Library)
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+          </ul>
+          <ul id="pop-widget-viewed-4">
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/06/awards/2016-galelj-library-of-the-year-topeka-shawnee-county-public-library-ks-leveraging-leadership/" rel="bookmark" title="2016 Gale/LJ Library of the Year: Topeka &amp; Shawnee County Public Library, KS, Leveraging Leadership">
+             <img alt="Photo by Alistair Tutton Photography" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/06/ljx160602webLOY1-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               2016 Gale/LJ Library of the Year: Topeka &amp; Shawnee County Public Library, KS, Leveraging Leadership
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/organizations/ala-organization/library-of-congress-drops-illegal-alien-subject-heading-provokes-backlash-legislation/" rel="bookmark" title="Library of Congress Drops Illegal Alien Subject Heading, Provokes Backlash Legislation">
+             <img alt="library-congress-logo" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/library-congress-logo-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Library of Congress Drops Illegal Alien Subject Heading, Provokes Backlash Legislation
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/academic-libraries/the-first-year-college-readiness/" rel="bookmark" title="The First Year | College Readiness">
+             <img alt="Four students sitting on a couch in a library" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/ThinkstockPhotos-76945757-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               The First Year | College Readiness
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/buildings/lbd/workspace-library-by-design-spring-2016/" rel="bookmark" title="Work/Space | Library by Design, Spring 2016">
+             <img alt="At left, flexible reference desk space at the Munday 
+Library, St. Edward’s University, Austin, TX." class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/ljx160502webLBDAcademic1-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Work/Space | Library by Design, Spring 2016
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/managing-libraries/safety-first-library-security/" rel="bookmark" title="Safety First | Library Security">
+             <img alt="ljx160502webSafetyQuote1" class="attachment-Mini Square" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/ljx160502webSafetyQuote1-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Safety First | Library Security
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/academic-libraries/megan-lotts-if-you-build-it-they-will-come-to-the-library/" rel="bookmark" title="Megan Lotts: If You Build It, They Will Come (to the Library)">
+             <img alt="Lotts-legos4" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/Lotts-legos4-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               Megan Lotts: If You Build It, They Will Come (to the Library)
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+           <li>
+            <a href="http://lj.libraryjournal.com/2016/05/buildings/lbd/the-art-of-the-matter-library-by-design-spring-2016/" rel="bookmark" title="The Art of the Matter | Library by Design, Spring 2016">
+             <img alt="On the plaza outside the Main Library in Palo Alto, CA, six sculptures made from crowdsourced community text change color in response to patrons’ touch. Danielle Wyckoff’s Surroundings in Park City Library, UT. 
+Palo Alto photo ©Cesar Rubio; Surroundings photo by Nicholas Swan" class="attachment-Mini Square wp-post-image" height="70" src="http://lj.libraryjournal.com/wp-content/uploads/2016/05/ljx160502webLBDart1b-70x70.jpg" width="70"/>
+             <span class="pop-overlay">
+              <span class="pop-title">
+               The Art of the Matter | Library by Design, Spring 2016
+              </span>
+             </span>
+            </a>
+            <br class="pop-cl"/>
+           </li>
+          </ul>
+         </div>
+         <!--.pop-inside-->
+        </div>
+        <!--.pop-layout-v-->
+       </div>
+      </div>
+      <div class="widget widget_rss" id="rss-5">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         <a class="rsswidget" href="http://www.infodocket.com/feed/">
+          <img alt="RSS" height="14" src="http://lj.libraryjournal.com/wp-includes/images/rss.png" style="border:0" width="14"/>
+         </a>
+         <a class="rsswidget" href="http://www.infodocket.com/">
+          INFOdocket by Gary Price
+         </a>
+        </h4>
+        <ul>
+         <li>
+          <a class="rsswidget" href="http://www.infodocket.com/2016/06/11/on-july-1st-loyolanotre-dame-library-will-become-affiliate-member-of-university-system-of-maryland-and-affiliated-institutions-library-consortium/">
+           Loyola/Notre Dame Library Joining University System of Maryland and Affiliated Institutions Library Consortium
+          </a>
+         </li>
+         <li>
+          <a class="rsswidget" href="http://www.infodocket.com/2016/06/11/research-preprint-publication-patterns-of-u-s-academic-librarians-and-libraries-from-2003-to-2012/">
+           Research Preprint: “Publication Patterns of U.S. Academic Librarians and Libraries from 2003 to 2012″
+          </a>
+         </li>
+         <li>
+          <a class="rsswidget" href="http://www.infodocket.com/2016/06/11/reference-new-one-stop-resource-to-search-access-data-about-bridges-in-the-u-s/">
+           Transportation: Reference: New One-Stop Resource to Search, Access Data About Bridges in the U.S.
+          </a>
+         </li>
+         <li>
+          <a class="rsswidget" href="http://www.infodocket.com/2016/06/11/project-to-digitized-state-of-utah-archaeological-records-complete/">
+           Project to Digitize State of Utah Archaeological Records Completed
+          </a>
+         </li>
+         <li>
+          <a class="rsswidget" href="http://www.infodocket.com/2016/06/11/reference-data-tenth-edition-of-the-global-peace-index-gpi-published-interactive-map-also-made-available/">
+           Reference: Data: Tenth Edition of the Global Peace Index (GPI) Published, Interactive Map Also Made Available
+          </a>
+         </li>
+         <li>
+          <a class="rsswidget" href="http://www.infodocket.com/2016/06/11/canada-u-of-manitoba-union-disagree-strongly-on-library-staff-cuts/">
+           Canada: U of Manitoba, Union Disagree Strongly on Library Staff Cuts
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="widget widget_text" id="text-44">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <div style="width:275px; border:1px solid #aaa; padding: 5px 10px 10px 10px; background-color:#efefef;">
+          <a href="http://mcgrawhillprofessionalblog.com/category/librarians/" target="_blank">
+           <img src="https://s3.amazonaws.com/ImageCloud/logos/MH_Education_logo_100x100.png" style="float:right; width:100px; margin:10px 0 0 10px;"/>
+          </a>
+          <div style="width:170px; font-size:0.9em; font-weight:bold; color:#ff0000; margin-bottom:10px; padding-bottom:5px; border-bottom:1px dotted #aaa;">
+           SPONSORED CONTENT
+          </div>
+          <ul>
+           <li>
+            <a href="http://mcgrawhillprofessionalblog.com/3-reasons-excited-see-ala-2016/" june="" pm="" target="_blank" title="Posted ">
+             3 Reasons Why We’re Excited to See You at ALA 2016!
+            </a>
+           </li>
+           <li>
+            <a am="" href="http://mcgrawhillprofessionalblog.com/5-things-medical-librarians-can-help-clinicians-save-lives/" may="" target="_blank" title="Posted ">
+             5 Things Medical Librarians Can Do to Help Clinicians Save Lives
+            </a>
+           </li>
+           <li>
+            <a am="" href="http://mcgrawhillprofessionalblog.com/8-tips-coming-killer-library-programs/" may="" target="_blank" title="Posted ">
+             8 Tips for Coming Up With Killer Library Programs
+            </a>
+           </li>
+           <li>
+            <a am="" href="http://mcgrawhillprofessionalblog.com/entrepreneurship-engineering-education-student-success-story/" may="" target="_blank" title="Posted ">
+             Entrepreneurship in Engineering Education: A Student Success Story
+            </a>
+           </li>
+           <li>
+            <a am="" href="http://mcgrawhillprofessionalblog.com/american-library-association-stem-panel/" may="" target="_blank" title="Posted ">
+             How Makerspaces and DIY Science Promote STEM Learning at Every Age
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="widget widget_text" id="text-5">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         Advertisement
+        </h4>
+        <div class="textwidget">
+         <center>
+          <!-- LJHalfpage300x600 -->
+          <script type="text/javascript">
+           GA_googleFillSlot("LJHalfpage300x600");
+          </script>
+         </center>
+        </div>
+       </div>
+      </div>
+      <div class="widget widget_text" id="text-6">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <!-- LJRectangle300x250_2 -->
+         <script type="text/javascript">
+          GA_googleFillSlot("LJRectangle300x250_2");
+         </script>
+        </div>
+       </div>
+      </div>
+      <div class="widget widget_text" id="text-16">
+       <div class="widget-wrap">
+        <div class="textwidget">
+         <center>
+          <a href="http://jobs.libraryjournal.com?ref=sbar" target="new">
+           <img alt="Job Zone" src="http://lj.libraryjournal.com/wp-content/uploads/2012/01/JobZone_238X90-sidebar.gif"/>
+          </a>
+         </center>
+         <br/>
+         <script id="rm_Source" src="http://jobs.thejobnetwork.com/Widgets/js/FeaturedJob/TJN.js" type="text/javascript">
+         </script>
+         <script type="text/javascript">
+          var rm_FeaturedJobWidgetId = 4787;
+         </script>
+        </div>
+       </div>
+      </div>
+      <div class="widget widget_nav_menu" id="nav_menu-3">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         About Library Journal
+        </h4>
+        <div class="menu-about-menu-container">
+         <ul class="menu" id="menu-about-menu-1">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11">
+           <a href="http://lj.libraryjournal.com/contact-us/">
+            Contact Us
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16031">
+             <a href="http://lj.libraryjournal.com/contact-us/">
+              Masthead
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16029">
+             <a href="http://reviews.libraryjournal.com/about/lj-reviews-editorial-contacts/">
+              Contact the Reviews Editors
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1332">
+             <a href="http://lj.libraryjournal.com/contact-us/lj-social-media/">
+              LJ Social Media
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244">
+             <a href="http://lj.libraryjournal.com/contact-us/media-kit/">
+              Advertising
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62177">
+             <a href="http://lj.libraryjournal.com/contact-us/">
+              Print Subscriptions
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2742">
+           <a href="http://lj.libraryjournal.com/awards/?ref=menu">
+            Awards
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6615">
+           <a>
+            Submissions
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1331">
+             <a href="http://lj.libraryjournal.com/contact-us/submissions/">
+              News, Features, Feedback, etc.
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6614">
+             <a href="http://reviews.libraryjournal.com/about/submitting-titles-for-review/?ref=lj-about">
+              Submitting Titles to the LJ Book Review
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12">
+           <a href="http://lj.libraryjournal.com/about/">
+            About
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56033">
+             <a href="http://lj.libraryjournal.com/about/diversity/">
+              Diversity
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1329">
+             <a href="http://lj.libraryjournal.com/about/privacy-policy/">
+              Privacy Policy
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3673">
+             <a href="http://lj.libraryjournal.com/about/comment-policy/">
+              Comment Policy
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1330">
+             <a href="http://lj.libraryjournal.com/about/terms-of-use/">
+              Terms of Use
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div align="center" style="margin-top:20px; margin-bottom:20px">
+    <!-- 728x90_2 -->
+    <script type="text/javascript">
+     GA_googleFillSlot("LJLeaderboard728x90_2");
+    </script>
+   </div>
+   <div class="footer-widgets" id="footer-widgets">
+    <div class="wrap">
+     <div class="footer-widgets-1 widget-area">
+      <div class="widget widget_text" id="text-31">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         On Twitter
+        </h4>
+        <div class="textwidget">
+         <a class="twitter-timeline" data-widget-id="335135790285873152" href="https://twitter.com/LibraryJournal">
+          Tweets by @LibraryJournal
+         </a>
+         <script>
+          !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="footer-widgets-2 widget-area">
+      <div class="widget widget_text" id="text-32">
+       <div class="widget-wrap">
+        <h4 class="widget-title widgettitle">
+         On Facebook
+        </h4>
+        <div class="textwidget">
+         <div id="fb-root">
+         </div>
+         <script>
+          (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+         </script>
+         <div class="fb-activity" data-font="tahoma" data-header="true" data-height="350" data-recommendations="true" data-site="http://lj.libraryjournal.com" data-width="300">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="footer-widgets-3 widget-area">
+     </div>
+    </div>
+   </div>
+   <div class="footer" id="footer">
+    <div class="wrap">
+     <div class="gototop">
+      <p>
+       <a href="#wrap" rel="nofollow">
+        Top of Page
+       </a>
+      </p>
+     </div>
+     <div class="creds">
+      <p>
+       Copyright
+       <em>
+        Library Journal
+       </em>
+       © 2016
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">
+   <!--
+wpa2a.targets=[
+{title:"Drexel Rolls iSchool into New College of Computing and Informatics",url:"http://lj.libraryjournal.com/2013/09/schools/drexel-rolls-ischool-into-new-college-of-computing-and-informatics/"}];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//-->
+  </script>
+  <!-- Powered by WPtouch Pro: 3.8.4 -->
+  <script type="text/javascript">
+   /* <![CDATA[ */
+  document.write (
+    '<img src="http://mediasource.actonservice.com/acton/bn/10574/visitor.gif?ts='+
+    new Date().getTime()+
+    '&ref='+escape(document.referrer) + '">'
+  );
+  var aoAccountId = '10574';
+  var aoCookieMode = 'STANDARD';
+  var aoCookieDomain = 'actonservice.com';
+  var aoServerContext = 'http://mediasource.actonservice.com/acton';
+  /* ]]> */
+  </script>
+  <script>
+   window.onload = function() {
+    // Delay to allow the async Google Ads to load
+    setTimeout(function() {
+      // Get the first AdSense ad unit on the page
+      var ad = document.querySelector("ins.adsbygoogle");
+      // If the ads are not loaded, track the event
+      if (ad && ad.innerHTML.replace(/s/g, "").length == 0) {
+        if (typeof ga !== 'undefined') {
+            // Log an event in Universal Analytics
+            // but without affecting overall bounce rate
+            ga('send', 'event', 'Adblock', 'Yes', {'nonInteraction': 1});
+        } else if (typeof _gaq !== 'undefined') {
+            // Log a non-interactive event in old Google Analytics
+            _gaq.push(['_trackEvent', 'Adblock', 'Yes', undefined, undefined, true]);
+        }
+      }
+    }, 2000); // Run ad block detection 2 seconds after page load
+  };
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var WPtouchResponsiveImages = {"ajaxurl":"http:\/\/lj.libraryjournal.com\/wp-admin\/admin-ajax.php","nonce":"187cacddc1"};
+/* ]]> */
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-content/wptouch-data/extensions/responsive-images/wptouch-responsive.js?ver=acb766c6067f046105f8b1263b9e5172" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-content/themes/news/js/tabs.js?ver=1.0" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.4" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.1.3" type="text/javascript">
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-content/themes/genesis/lib/js/menu/superfish.compat.min.js?ver=2.1.3" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var popwid = {"postid":"39985","ajaxurl":"http:\/\/lj.libraryjournal.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+  </script>
+  <script src="http://lj.libraryjournal.com/wp-content/plugins/popular-widget/_js/pop-widget.js?ver=1.7.0" type="text/javascript">
+  </script>
+ </body>
+</html>

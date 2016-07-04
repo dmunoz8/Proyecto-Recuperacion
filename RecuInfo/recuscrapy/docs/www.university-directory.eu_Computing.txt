@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+ <head>
+  <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+  </script>
+  <script>
+   (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4469276199762887",
+    enable_page_level_ads: true
+  });
+  </script>
+  <title>
+   School of Computing and Informatics Technology | University Directory
+  </title>
+  <meta content="Welcome to School of Computing and Informatics Technology, Uganda. Find admission contact, job vacancies, courses, programs, degrees, scholarships" name="description"/>
+  <meta content="www.university-directory.eu, School of Computing and Informatics Technology, TOP ranked Faculty in Uganda,social media,social networking,career,jobs,vacancies,admission information,bachelors,masters,degrees,diploma,undergraduate,postgraduate,PhD,doctorate,certificate,fellowship,scholarship,research,higher education,education,co-operation,partners, directory, universities directory, index, list, listing, job, vacancies, master, bachelor, degree, university, cooperation, BvuHVnlvjqkbQswcnGuMhjD6tyQ" name="keywords"/>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="http://www.university-directory.eu/css/foundation.css" rel="stylesheet"/>
+  <link href="http://www.university-directory.eu/css/main.css" rel="stylesheet"/>
+  <link href="http://www.university-directory.eu/css/ud.css" rel="stylesheet"/>
+  <link href="http://www.university-directory.eu/css/responsive-tables.css" rel="stylesheet"/>
+  <link href="http://www.university-directory.eu/index.html" rel="start" title="The University Directory worldwide" type="text/html"/>
+  <link href="http://www.university-directory.eu/images/university-directory.ico" rel="shortcut icon"/>
+  <link href="http://www.university-directory.eu/images/university-directory.ico" rel="icon"/>
+  <link href="http://www.university-directory.eu/js/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://www.university-directory.eu/image/udlogo150.png" rel="image_src"/>
+  <script async="" src="http://www.university-directory.eu/js/head.min.js" type="text/javascript">
+  </script>
+  <script src="http://www.university-directory.eu/js/jquery/jquery.min-1.11.js" type="text/javascript">
+  </script>
+  <script async="" src="http://www.university-directory.eu/js/jquery/jquery-migrate-1.0.0.js" type="text/javascript">
+  </script>
+  <script async="" src="http://www.university-directory.eu/js/jquery/jquery-ui.min.js" type="text/javascript">
+  </script>
+  <script async="" src="http://www.university-directory.eu/js/ud.js" type="text/javascript">
+  </script>
+  <script async="" src="http://www.university-directory.eu/js/fancybox/source/jquery.fancybox.js?v=2.1.5" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function (){ 
+head.js("http://www.university-directory.eu/js/jquery/jquery-ui.min.js",  function() {
+
+$('.fancybox').fancybox({
+         'width' : '50%',
+         'height' : '40%',
+         'autoScale' : true,
+         'transitionIn' : 'none',
+         'transitionOut' : 'none',
+         'type' : 'iframe'
+     });
+});
+$('#UDform').submit(function() {
+window.open('', 'followpopup', 'width=800,height=500,resizeable,moveable,scrollbars');
+this.target = 'followpopup';
+});    
+ohit(23655);
+});
+  </script>
+  <script charset="utf-8" type="text/javascript">
+   (function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
+  arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
+  O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
+  e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
+  </script>
+  <script type="text/javascript">
+   var switchTo5x=true;
+  </script>
+  <script src="http://w.sharethis.com/button/buttons.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   stLight.options({publisher: "44275c3e-1bdb-4d4e-ad9b-6354564b9feb", doNotHash: false, doNotCopy: false, hashAddressBar: false});
+  </script>
+  <style>
+   .social_share_btns{margin:10px 7px 0 0;float:right;}
+  </style>
+ </head>
+ <body>
+  <div id="header">
+   <div class="large-18">
+    <div class="row top_bookmark">
+     <div class="header_top_links floatR">
+      <ul>
+       <li>
+        <a class="book_button fancybox fancybox.ajax bookmark-button" href="http://www.university-directory.eu/signup/register.php?path=http%3A%2F%2Fwww.university-directory.eu%2FUganda%2FSchool-of-Computing-and-Informatics-Technology.html&amp;type=institution&amp;title=School+of+Computing+and+Informatics+Technology" rel="nofollow" title="Bookmark School of Computing and Informatics Technology">
+         Bookmark
+        </a>
+       </li>
+       <li>
+        <a class="world_wide" href="http://www.university-directory.eu/">
+         Worldwide
+        </a>
+       </li>
+       <li>
+        <a class="directory" href="http://www.university-directory.eu/">
+         Directory
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="cleaner">
+     </div>
+     <div class="social_share_btns">
+      <span class="st_sharethis" displaytext="ShareThis">
+      </span>
+      <span class="st_linkedin" displaytext="LinkedIn">
+      </span>
+      <span class="st_facebook" displaytext="Facebook">
+      </span>
+      <span class="st_twitter" displaytext="Tweet">
+      </span>
+      <span class="st_googleplus" displaytext="Google +">
+      </span>
+      <span class="st_pinterest" displaytext="Pinterest">
+      </span>
+      <span class="st_email" displaytext="Email">
+      </span>
+     </div>
+     <div class="cleaner">
+     </div>
+     <div class="header_logo">
+      <div class="large-3 medium-3 columns">
+       <a class="logo" href="http://www.university-directory.eu/index.html">
+        <img alt="logo" src="http://www.university-directory.eu/img/logo.jpg"/>
+       </a>
+      </div>
+      <div class="large-5 medium-5 floatL" style="padding-left:50px;">
+       in cooperation with
+      </div>
+      <div class="header_logo">
+       <a class="logo" href="http://www.job-mentors.com">
+        <img alt="logo Job Mentors" src="http://www.job-mentors.com/public/admin/job-mentors.png"/>
+       </a>
+      </div>
+      <div class="large-5 medium-5 floatR">
+       <script>
+        (function() {
+    var cx = '003562254791193437044:WMX-1517762296';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+       </script>
+       <gcse:search>
+       </gcse:search>
+       <div class="cleaner">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div id="navi">
+    </div>
+   </div>
+  </div>
+  <div id="content">
+   <div class="row">
+    <div class="insti_data">
+     <div class="left_ad large-5 columns">
+      <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+      </script>
+      <ins class="adsbygoogle" data-ad-client="ca-pub-4469276199762887" data-ad-slot="6431965506" style="display:inline-block;width:300px;height:250px">
+      </ins>
+      <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+     </div>
+     <div class="intro large-8 columns">
+      <h1>
+       School of Computing and Informatics Technology
+      </h1>
+      <div class="head1" id="logoimage">
+      </div>
+     </div>
+     <div class="right_ad large-5 columns">
+      <p>
+       Promote your brand with University Directory worldwide. Get your code - it's free!
+      </p>
+      <form action="http://www.university-directory.eu/js/followbutton.php" id="UDform" method="post">
+       <input alt="find us on the UD" src="http://www.university-directory.eu/img/find_us_on_the_UD.jpg" type="image"/>
+       <input id="uniID" name="uniID" type="hidden" value="35"/>
+       <input id="university" name="university" type="hidden" value="School of Computing and Informatics Technology"/>
+       <input id="country" name="country" type="hidden" value="UG"/>
+       <input id="path" name="path" type="hidden" value="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html"/>
+      </form>
+      <div id="container1">
+      </div>
+      <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+      </script>
+      <ins class="adsbygoogle" data-ad-client="ca-pub-4469276199762887" data-ad-format="link" data-ad-slot="6202063506" style="display:block">
+      </ins>
+      <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+     </div>
+     <div class="clearfix">
+     </div>
+    </div>
+    <div class="large-13 medium-13 columns">
+     <div class="university_counter">
+      <p>
+       <a href="http://www.university-directory.eu" title="University Directory worldwide">
+        58811 Faculties worldwide
+       </a>
+       <span>
+        »
+       </span>
+       <a href="http://www.university-directory.eu/Uganda/Uganda-Academic-Institutions.html" title="Faculties in Uganda">
+        Faculties in Uganda
+       </a>
+       <span>
+        »
+       </span>
+       School of Computing and Informatics Technology
+      </p>
+     </div>
+     <div class="table">
+      <div class="symbols">
+       Symbols:
+       <img alt="online" src="http://www.university-directory.eu/img/g.gif"/>
+       : online,
+       <img alt="possibly not online" src="http://www.university-directory.eu/img/y.gif"/>
+       : possibly not online,
+       <img alt="status uncertain" src="http://www.university-directory.eu/img/o.gif"/>
+       : status uncertain,
+       <img alt="possible broken link" src="http://www.university-directory.eu/img/r.gif"/>
+       : possible broken link,
+       <img alt="Url not found" src="http://www.university-directory.eu/img/b.gif"/>
+       :Url not found
+      </div>
+      <p>
+       <strong>
+        Contact details of School of Computing and Informatics Technology
+       </strong>
+      </p>
+      <div class="address responsive">
+       <div class="univer_cont_detail even">
+        <div class="floatL cont_title">
+         <p>
+          <strong>
+           Name (international):
+          </strong>
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          <a href="http://www.cit.ac.ug/" onclick="hit(23655);" rel="nofollow" target="_blank" title="School of Computing and Informatics Technology">
+           <strong>
+            School of Computing and Informatics Technology
+           </strong>
+          </a>
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail odd">
+        <div class="floatL cont_title">
+         <p>
+          <strong>
+           Name (local):
+          </strong>
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          <a href="http://www.cit.ac.ug/" onclick="hit(23655);" rel="nofollow" target="_blank" title="School of Computing and Informatics Technology">
+           <strong>
+            School of Computing and Informatics Technology
+           </strong>
+          </a>
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail even">
+        <div class="floatL cont_title">
+         <p>
+          <strong>
+           Type of institution:
+          </strong>
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          Faculty
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail odd">
+        <div class="floatL cont_title">
+         <p>
+          <strong>
+           Address:
+          </strong>
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          P.O.Box 7062, Plot 56, Makerere University Pool Road, Wandegeya
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail even">
+        <div class="floatL cont_title">
+         <p>
+          <strong>
+           City:
+          </strong>
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          Kampala
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail odd">
+        <div class="floatL cont_title">
+         <p>
+          <strong>
+           Phone:
+          </strong>
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          256-414-540628/534560/9-9
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail even">
+        <div class="floatL cont_title">
+         <p>
+          <strong>
+           Fax:
+          </strong>
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          256-414-540620
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail odd">
+        <div class="floatL cont_title">
+         <p>
+          <strong>
+           Email:
+          </strong>
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          <strong>
+           <a href="mailto:info@cit.mak.ac.ug">
+            info[at]cit.mak.ac.ug
+           </a>
+          </strong>
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail even">
+        <div class="floatL cont_title">
+         <p>
+          Request admission information:
+          <br/>
+          Admission policy:
+          <br/>
+          Contact a representative:
+          <br/>
+          Apply now:
+         </p>
+        </div>
+        <div class="floatL cont_info">
+         <p>
+          <strong>
+           Please contact the Admission Office of School of Computing and Informatics Technology
+          </strong>
+         </p>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+       <div class="univer_cont_detail odd">
+        <div class="floatL cont_title">
+         <h3>
+          Homepage:
+         </h3>
+        </div>
+        <div class="floatL cont_info">
+         <h3>
+          <img alt="online" src="http://www.university-directory.eu/img/g.gif"/>
+          <a href="http://www.cit.ac.ug/" id="univerid" onclick="hit(23655);" rel="nofollow" target="_blank" title="School of Computing and Informatics Technology">
+           School of Computing and Informatics Technology
+          </a>
+         </h3>
+        </div>
+        <div class="clearfix">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="large-5 medium-5 columns">
+     <script type="text/javascript">
+      var pageOptions = { 'pubId' : 'pub-4469276199762887','query' : 'School of Computing and Informatics Technology |  academic jobs','titleBold' : true,'rolloverLinkUnderline' : true,'linkTarget' : '_blank','channel' : '9362399102','hl' : 'en'};
+var adblock1 = {'container' : 'container1','fontSizeTitle' : '12px','colorTitleLink' : '#003399','colorDomainLink' : '#0167b1','colorBackground' : 'white','lines' : '1'};
+var adblock2 = {'container' : 'container2','fontSizeTitle' : '16px','colorTitleLink' : '#086A87','colorDomainLink' : '#0167b1','colorBackground' : '#F8F8F8','lines' : '2'};
+var adblock3 = {'container' : 'container3','fontSizeTitle' : '16px','colorTitleLink' : '#086A87','colorDomainLink' : '#0167b1','colorBackground' : '#F8F8F8','lines' : '3'};
+_googCsa('ads', pageOptions, adblock1, adblock2, adblock3);
+     </script>
+     <div id="container2">
+     </div>
+     <p class="top_ranked">
+      Meet the TOP ranked institutions in Uganda
+     </p>
+     <script type="text/javascript">
+      function mycarousel_itemLoadCallback(carousel, state)
+{
+if (carousel.has(carousel.first, carousel.last)) {
+return;}
+jQuery.get('http://www.university-directory.eu/js/crotator.php',{first: carousel.first,last: carousel.last,country:'UG'},
+function(xml) {
+mycarousel_itemAddCallback(carousel, carousel.first, carousel.last, xml);
+},'xml');
+};
+     </script>
+     <div class="uni_list" style="height: 623px !important">
+      <div id="wrap">
+       <div class="jcarousel-skin-ie7" id="mycarousel">
+        <ul>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix">
+    </div>
+    <div class="large-18 columns float_none">
+     <br/>
+     <div class="googlemiddle" id="container3">
+     </div>
+     <div class="job_oppor">
+      <div class="job_oppor_head">
+       <h3>
+        <strong>
+         Job Opportunities
+        </strong>
+       </h3>
+       <p>
+        <a href="#">
+         job vacancies worldwide
+        </a>
+       </p>
+      </div>
+      <div class="job_block green_block">
+       <a class="iscount" href="http://www.university-directory.eu/createpage/-1/job-vacancies/all-levels/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Internships | School of Computing and Informatics Technology">
+        Internships | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block light_green_block">
+       <a class="sjcount" href="http://www.university-directory.eu/createpage/-1/job-vacancies/all-levels/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Graduate Job Vacancies | School of Computing and Informatics Technology">
+        Graduate Job Vacancies | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block blue_block">
+       <a class="count" href="http://www.university-directory.eu/createpage/-1/job-vacancies/all-levels/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Academic Jobs, Faculty Vacancies, Jobs | School of Computing and Informatics Technology">
+        Academic Jobs, Faculty Vacancies, Jobs | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block dark_blue_block">
+       <a class="ajcount" href="http://www.university-directory.eu/createpage/-1/job-vacancies/all-levels/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Administration, General Job Vacancies | School of Computing and Informatics Technology">
+        Administration, General Job Vacancies | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="clearfix">
+      </div>
+     </div>
+     <div class="study_oppor job_oppor">
+      <div class="job_oppor_head">
+       <h3>
+        <strong>
+         Study Opportunities
+        </strong>
+       </h3>
+       <p>
+        <a href="../degrees-programs-courses.html">
+         Bachelors, Masters, PhD programs worldwide
+        </a>
+       </p>
+      </div>
+      <div class="job_block light_green_block">
+       <h3>
+        <strong>
+         Unspecified courses, programs, degrees
+        </strong>
+       </h3>
+       <a class="degreesb" href="http://www.university-directory.eu/createpage/-1/program-courses/all-levels/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Degrees, Courses, Programs | School of Computing and Informatics Technology">
+        Degrees, Courses, Programs | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block purpule_block">
+       <h3>
+        <strong>
+         Foundation Programs
+        </strong>
+       </h3>
+       <a class="foundationb" href="http://www.university-directory.eu/createpage/-1/program-courses/Fellowship-programs/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Foundation Programs | School of Computing and Informatics Technology">
+        Foundation Programs | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block green_block">
+       <h3>
+        <strong>
+         Undergraduate Courses, Programs, Degrees
+        </strong>
+       </h3>
+       <a class="undergrads" href="http://www.university-directory.eu/createpage/-1/program-courses/Undergraduate-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Undergraduate Programs | School of Computing and Informatics Technology">
+        Undergraduate Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="undergrads" href="http://www.university-directory.eu/createpage/-1/program-courses/Certificate-programs/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Certificate Programs | School of Computing and Informatics Technology">
+        Certificate Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="undergrads" href="http://www.university-directory.eu/createpage/-1/program-courses/Associate-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Associate Programs | School of Computing and Informatics Technology">
+        Associate Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="undergrads" href="http://www.university-directory.eu/createpage/-1/program-courses/Diploma/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Diplomas | School of Computing and Informatics Technology">
+        Diplomas | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="undergradsb" href="http://www.university-directory.eu/createpage/-1/program-courses/Bachelor-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Bachelors Degrees | School of Computing and Informatics Technology">
+        Bachelors Degrees | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block brown_block">
+       <h3>
+        <strong>
+         Postgraduate Courses, Programs, Graduate Degrees, MPhil, PhD
+        </strong>
+       </h3>
+       <a class="postgrads" href="http://www.university-directory.eu/createpage/-1/program-courses/Graduate-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Graduate Programs | School of Computing and Informatics Technology">
+        Graduate Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="postgrads" href="http://www.university-directory.eu/createpage/-1/program-courses/Postgraduate-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Postgraduate Programs | School of Computing and Informatics Technology">
+        Postgraduate Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="postgradsb" href="http://www.university-directory.eu/createpage/-1/program-courses/Masters-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Masters Degrees | School of Computing and Informatics Technology">
+        Masters Degrees | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="postgradsb" href="http://www.university-directory.eu/createpage/-1/program-courses/Doctorate-PhD/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="PhD Programs | School of Computing and Informatics Technology">
+        PhD Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="postgrads" href="http://www.university-directory.eu/createpage/-1/program-courses/Research-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Research Degrees | School of Computing and Informatics Technology">
+        Research Degrees | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block dark_green_block">
+       <h3>
+        <strong>
+         Majors, Minors, Specialities, Teacher Education
+        </strong>
+       </h3>
+       <a class="specialities" href="http://www.university-directory.eu/createpage/-1/program-courses/Majors/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Majors | School of Computing and Informatics Technology">
+        Majors | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="specialities" href="http://www.university-directory.eu/createpage/-1/program-courses/Minors/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Minors | School of Computing and Informatics Technology">
+        Minors | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="specialitiesb" href="http://www.university-directory.eu/createpage/-1/program-courses/Specialities/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Specialities | School of Computing and Informatics Technology">
+        Specialities | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="specialitiesb" href="http://www.university-directory.eu/createpage/-1/program-courses/Degrees-in-education/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Degrees in Education | School of Computing and Informatics Technology">
+        Degrees in Education | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block dark_brown_block">
+       <h3>
+        <strong>
+         Distance Learning, Study Abroad, Continuing Education
+        </strong>
+       </h3>
+       <a class="studyabroad" href="http://www.university-directory.eu/createpage/-1/program-courses/distance-learning-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Distance Learning Programs | School of Computing and Informatics Technology">
+        Distance Learning Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="studyabroad" href="http://www.university-directory.eu/createpage/-1/program-courses/study-abroad-degrees/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Study Abroad Programs | School of Computing and Informatics Technology">
+        Study Abroad Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="studyabroad" href="http://www.university-directory.eu/createpage/-1/program-courses/online-programs/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Online Programs | School of Computing and Informatics Technology">
+        Online Programs | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="studyabroad" href="http://www.university-directory.eu/createpage/-1/program-courses/Continuing-education-programs/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Continuing Education Programs | School of Computing and Informatics Technology">
+        Continuing Education Programs | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block sblue_block">
+       <h3>
+        <strong>
+         Scholarships, Fellowships, Awards
+        </strong>
+       </h3>
+       <a class="scholarships" href="http://www.university-directory.eu/createpage/-1/program-courses/Scholarship-programs/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Scholarships | School of Computing and Informatics Technology">
+        Scholarships | School of Computing and Informatics Technology
+       </a>
+       <br/>
+       <a class="scholarships" href="http://www.university-directory.eu/createpage/-1/program-courses/Fellowship-programs/all-disciplines/all-disciplines/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Fellowships | School of Computing and Informatics Technology">
+        Fellowships | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block brown_block2">
+       <h3>
+        <strong>
+         Colleges and Schools
+        </strong>
+       </h3>
+       <a class="cocount" href="http://www.university-directory.eu/createpage/-1/Colleges/all-levels/-1/Colleges-schools/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Colleges and Schools | School of Computing and Informatics Technology">
+        Colleges and Schools | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block ppurpal_block">
+       <h3>
+        <strong>
+         Faculties
+        </strong>
+       </h3>
+       <a class="fcount" href="http://www.university-directory.eu/createpage/-1/Faculties/all-levels/-1/Faculties/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Faculties | School of Computing and Informatics Technology">
+        Faculties | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block fgreen_block">
+       <h3>
+        <strong>
+         Institutes and Centers
+        </strong>
+       </h3>
+       <a class="icount" href="http://www.university-directory.eu/createpage/-1/Institutes/all-levels/-1/Institutes-Centers/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Institutes and Centers | School of Computing and Informatics Technology">
+        Institutes and Centers | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block dcoffee_block">
+       <h3>
+        <strong>
+         Departments, Divisions and Units
+        </strong>
+       </h3>
+       <a class="dcount" href="http://www.university-directory.eu/createpage/-1/Departments/all-levels/-1/Divisions-Units-Departments/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Departments, Divisions and Units | School of Computing and Informatics Technology">
+        Departments, Divisions and Units | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block dcoffe_block">
+       <h3>
+        <strong>
+         Scientific Cooperation and Partners
+        </strong>
+       </h3>
+       <a class="cpcount" href="http://www.university-directory.eu/createpage/-1/Cooperations/all-levels/-1/Scientific-cooperation-academic-partners/School+of+Computing+and+Informatics+Technology/UG/23655/*" title="Scientific Cooperation and Partners | School of Computing and Informatics Technology">
+        Scientific Cooperation and Partners | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="job_block dark_green_block">
+       <h3>
+        <strong>
+         News and Events
+        </strong>
+       </h3>
+       <a class="ncount" href="http://www.university-directory.eu/createpage/-1/News/all-levels/-1/News-Events/School+of+Computing+and+Informatics+Technology/UG/23655/*" rel="nofollow" target="_blank" title="News and Events | School of Computing and Informatics Technology">
+        News and Events | School of Computing and Informatics Technology
+       </a>
+      </div>
+      <div class="clearfix">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">
+   var _Hasync= _Hasync|| [];
+    _Hasync.push(['Histats.start', '1,1616406,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('http://s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();
+  </script>
+  <noscript>
+   <a href="http://www.histats.com" target="_blank">
+    <img alt="cool hit counter" src="http://sstatic1.histats.com/0.gif?1616406&amp;101" style="border-style:none"/>
+   </a>
+  </noscript>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-791218-17']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function () { 
+head.js("http://www.university-directory.eu/js/jquery/jquery-ui.min.js", "http://www.university-directory.eu/js/jquery/jquery.jcarousel.min.js", function() {
+$('#mycarousel').jcarousel({
+auto: 2,vertical: true,scroll: 1,wrap: 'circular',initCallback: mycarousel_initCallback,itemLoadCallback: mycarousel_itemLoadCallback
+});
+});
+    $('#navi').load('../js/navir.html');
+    $('#footer').load('../js/footerr.html');
+    if('-' != '-') {
+    $('#logoimage').html('<img alt="logo of School of Computing and Informatics Technology" align="center" style="border-style:none" src="-" />');
+    }
+
+});
+  </script>
+  <script src="http://www.google.com/adsense/search/ads.js" type="text/javascript">
+  </script>
+  <div class="job_block mehroon_block">
+   <div class="job_oppor_head">
+    <h3>
+     <strong>
+      Social Media with School of Computing and Informatics Technology
+     </strong>
+    </h3>
+    <p>
+     <a class="socialnetshead" href="http://www.university-directory.eu/" title="Social networking worldwide">
+      Social networking worldwide
+     </a>
+    </p>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="Facebook">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#Facebook" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on Facebook">
+      School of Computing and Informatics Technology on Facebook n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="Twitter">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#Twitter" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on Twitter">
+      School of Computing and Informatics Technology on Twitter n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="Linkedin">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#Linkedin" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on Linkedin">
+      School of Computing and Informatics Technology on Linkedin n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="Googleplus">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#Googleplus" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on Googleplus">
+      School of Computing and Informatics Technology on Google+ n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="Flickr">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#Flickr" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on Flickr">
+      School of Computing and Informatics Technology on Flickr n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="Youtube">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#Youtube" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on Youtube">
+      School of Computing and Informatics Technology on Youtube n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="iTunes">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#iTunes" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on iTunes">
+      School of Computing and Informatics Technology on iTunes n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="OpenCourseWare">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#OpenCourseWare" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on OpenCourseWare">
+      School of Computing and Informatics Technology on OpenCourseWare n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+   <div class="social_link_job">
+    <div class="social_cont">
+     <a id="Wikipedia">
+     </a>
+    </div>
+    <div class="social_cont_links">
+     <a class="socialnetsnf" href="http://www.university-directory.eu/Uganda/School-of-Computing-and-Informatics-Technology.html#Wikipedia" rel="nofollow" target="_blank" title="Social Media and Network of School of Computing and Informatics Technology on Wikipedia">
+      School of Computing and Informatics Technology on Wikipedia n.a.
+     </a>
+    </div>
+    <div class="clearfix">
+    </div>
+   </div>
+  </div>
+  <div id="footer">
+  </div>
+  <script src="http://www.university-directory.eu/js/foundation.min.js" type="text/javascript">
+  </script>
+  <script>
+   $(document).foundation({
+    });
+  </script>
+ </body>
+</html>

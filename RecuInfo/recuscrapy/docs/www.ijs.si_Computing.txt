@@ -1,0 +1,18 @@
+<html>
+ <head>
+  <meta content="0" http-equiv="expires"/>
+  <title>
+   Welcome To Informatica
+  </title>
+  <script>
+   function redirect()
+{
+location = "http://www.informatica.si";
+}
+  </script>
+  <meta content="text/html;
+charset=utf-8" http-equiv="Content-Type"/>
+ </head>
+ <body bgcolor="#ffcc33" leftmargin="0" link="#0080FF" onload="redirect()" topmargin="0" vlink="#0080FF">
+ </body>
+</html>

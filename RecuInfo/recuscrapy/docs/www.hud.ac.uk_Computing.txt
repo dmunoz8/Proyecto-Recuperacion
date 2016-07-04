@@ -1,0 +1,1632 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="Computing has a vibrant and rapidly growing research community with expertise in such diverse areas as visualisation, information and systems engineering and intelligent systems. Our aim is to research and develop new methods and technology in computer science that will have a real impact on global grand challenges in areas such as transport, health, security and energy." name="description"/>
+  <meta content="University of Huddersfield, Huddersfield University, Undergraduate, Postgraduate, University degree, University UK, University Ranking, Research, Student Finance, Tuition fees, Graduate Jobs, Prospectus, University prospectus, University courses, University course, Course finder, Education, Higher education, Computing, Informatics, research, global, grand challenges, industry, computer networking, mobile computing, forensic computing, research groups, visualisation, information, systems engineering, intelligent systems" name="keywords"/>
+  <meta content="Computing has a vibrant and rapidly growing research community with expertise in such diverse areas as visualisation, information and systems engineering and intelligent systems. Our aim is to research and develop new methods and technology in computer science that will have a real impact on global grand challenges in areas such as transport, health, security and energy." name="DC.description"/>
+  <meta content="Computing, Informatics, research, global, grand challenges, industry, computer networking, mobile computing, forensic computing, research groups, visualisation, information, systems engineering, intelligent systems" name="DC.keywords"/>
+  <link href="/media/universityofhuddersfield/styleassets/images/favicon.ico" rel="shortcut icon"/>
+  <title>
+   Computing and Informatics - University of Huddersfield
+  </title>
+  <!-- Bootstrap core CSS -->
+  <link href="/media/universityofhuddersfield/styleassets/css/bootstrap.css" media="screen" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+   var _sf_startpt=(new Date()).getTime()
+  </script>
+  <!-- Custom styles for this template -->
+  <!-- <link href="css/justified-nav.css" rel="stylesheet"> -->
+  <link href="/media/universityofhuddersfield/styleassets/css/2014-custom.css" media="screen" rel="stylesheet" type="text/css"/>
+  <!-- 2014-custom.css -->
+  <link href="/media/universityofhuddersfield/styleassets/css/print-styles.css" media="print" rel="stylesheet"/>
+  <!-- print-styles.css -->
+  <script src="/media/universityofhuddersfield/styleassets/js/jquery.1.9.2.js" type="text/javascript">
+  </script>
+  <!-- jquery.1.9.2.js -->
+  <script src="/media/universityofhuddersfield/styleassets/js/respond.min.js" type="text/javascript">
+  </script>
+  <!-- respond.min.js -->
+  <script src="/media/universityofhuddersfield/styleassets/js/huduni2.js" type="text/javascript">
+  </script>
+  <!-- huduni2.js -->
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+      <script type="text/javascript" src="/media/universityofhuddersfield/styleassets/js/html5shiv.js"></script>
+      <![endif]-->
+  <script src="/media/universityofhuddersfield/styleassets/js/modernizr.js" type="text/javascript">
+  </script>
+  <!-- Hotjar Tracking Code for http://www.hud.ac.uk -->
+  <script>
+   (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:119330,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+  <script type="text/javascript">
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  </script>
+  <!-- navigation object : 2014 responsive HTML start include -->
+  <!-- navigation object : Head section include -->
+  <!-- navigation object : Single page head section includes -->
+  <!-- Audience-type: enquirer -->
+ </head>
+ <body class="bg-style-home">
+  <!-- START: Main site container -->
+  <div class="container">
+   <!-- Main container -->
+   <!-- navigation object : 2014 body start part 1 include -->
+   <!--[if lt IE 8]>
+
+<div class="row-fluid">
+<div class="col-xs-12 alert alert-danger" role="alert">
+<p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+</div>
+</div>
+
+<![endif]-->
+   <div class="row-fluid">
+    <!-- navigation object : Header logo inlcude -->
+    <!-- START: Logo -->
+    <div class="col-lg-2 visible-lg">
+     <a href="/" title="Home page">
+      <img alt="University of Huddersfield Logo" class="logo-internal" src="/media/universityofhuddersfield/styleassets/images/hud-logo-small.png"/>
+     </a>
+    </div>
+    <!-- END: Logo -->
+    <!-- navigation object : Header search box inlcude -->
+    <!-- START: Search box -->
+    <div class="col-lg-4 col-lg-offset-1 visible-lg">
+     <form action="/cgi-bin/search.pl" class="search search-website" method="get" role="search">
+      <div class="form-group fullspan-form-group topbar-search">
+       <input class="form-control" name="crit" placeholder="I'm looking for..." type="text"/>
+       <span class="glyphicon glyphicon-search pull-right">
+       </span>
+      </div>
+      <!-- <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button> -->
+     </form>
+    </div>
+    <!-- END: Search box -->
+    <!-- navigation object : Header social media icons inlcude -->
+    <!-- START: Social media icons -->
+    <div class="col-lg-4 visible-lg">
+     <div class="social-media-font-awesome" style="text-align:right;">
+      <a class="social-twitter" href="/about/maps/">
+       <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x">
+        </i>
+        <i class="fa fa-map-marker fa-stack-1x fa-inverse">
+        </i>
+       </span>
+       Visit us
+      </a>
+      <a class="social-phone" href="/contact/" style="margin-left:15px;">
+       <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x">
+        </i>
+        <i class="fa fa-phone fa-stack-1x fa-inverse">
+        </i>
+       </span>
+       Contact us
+      </a>
+     </div>
+    </div>
+    <!-- END: Social media icons -->
+    <!-- navigation object : Header visitor switcher inlcude -->
+    <!-- START: Visitor switcher bar -->
+    <div class="col-lg-1 visible-lg">
+     <div class="user-menu">
+      <nav class="nav pull-right" role="navigation">
+       <ul class="nav nav-pills nav-justified">
+        <li class="dropdown active">
+         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+          <i class="fa fa-user">
+          </i>
+          User
+          <span class="caret">
+          </span>
+         </a>
+         <ul class="dropdown-menu">
+          <li class="staff-dropdown">
+           <a href="/staff/">
+            Staff
+           </a>
+          </li>
+          <li class="student-dropdown">
+           <a href="/students/">
+            Current students
+           </a>
+          </li>
+          <li class="alumni-dropdown">
+           <a href="/alumni/">
+            Alumni
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </nav>
+     </div>
+    </div>
+    <!-- END: Visitor switcher bar -->
+    <!-- START: Main navigation -->
+    <div class="row-fluid clearfix">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="masthead">
+       <!-- Header -->
+       <nav class="navbar main-navbar navbar-default navbar-inverse visible-lg" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+         <ul class="nav navbar-nav">
+          <!-- navigation object : 2014 recruitment nav include (desktop) -->
+          <li class="mi01">
+           <a href="/courses/">
+            Courses
+           </a>
+          </li>
+          <li class="mi02">
+           <a href="/undergraduate/">
+            Undergraduate
+           </a>
+          </li>
+          <li class="mi03">
+           <a href="/postgraduate/">
+            Postgraduate
+           </a>
+          </li>
+          <li class="mi04">
+           <a href="/international/">
+            International
+           </a>
+          </li>
+          <li class="mi05">
+           <a href="/uni-life/">
+            Uni life
+           </a>
+          </li>
+          <li class="mi06">
+           <a href="/research/">
+            Research
+           </a>
+          </li>
+          <li class="mi07">
+           <a href="/business/">
+            Services to business
+           </a>
+          </li>
+          <li class="mi08">
+           <a href="/schools/">
+            Academic schools
+           </a>
+          </li>
+          <li class="mi09">
+           <a href="/enterpriseandentrepreneurship/">
+            Enterprise
+           </a>
+          </li>
+          <li class="mi10">
+           <a href="/hr/jobs/">
+            Jobs
+           </a>
+          </li>
+          <!-- navigation object : 2014 body start part 2 include -->
+         </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+       </nav>
+       <!-- START: Mobile menu -->
+       <nav class="navbar main-navbar navbar-default navbar-inverse hidden-lg navbar-mobile" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+         <button class="navbar-toggle" data-target=".navbar-ex1-collapse" data-toggle="collapse" title="Navigation menu" type="button">
+          <span class="sr-only">
+           Toggle navigation
+          </span>
+          <span class="menu-button-new">
+           Menu
+          </span>
+          <span class="icon-bar">
+          </span>
+          <span class="icon-bar">
+          </span>
+          <span class="icon-bar">
+          </span>
+         </button>
+         <a class="navbar-brand hidden-lg" href="/">
+          <img alt="" class="mobile-logo" src="/media/universityofhuddersfield/styleassets/images/hp-logo-mob.png"/>
+         </a>
+         <form action="/cgi-bin/search.pl" class="search2 search-website" method="get" role="search">
+          <div class="form-group col-md-6 col-sm-6 col-xs-6 col-md-offset-2 col-sm-offset-2 hidden-xs topbar-search">
+           <input class="form-control" name="crit" placeholder="I'm looking for..." type="text"/>
+           <span class="glyphicon glyphicon-search pull-right">
+           </span>
+          </div>
+         </form>
+         <form action="/cgi-bin/search.pl" class="search2 search-website" method="get" role="search">
+          <div class="form-group visible-xs col-xs-12 mobile-search-form topbar-search">
+           <input class="form-control" name="crit" placeholder="I'm looking for..." type="text"/>
+           <span class="glyphicon glyphicon-search pull-right">
+           </span>
+          </div>
+         </form>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+         <ul class="nav navbar-nav">
+          <!-- navigation object : 2014 context main nav (no uls) -->
+          <li>
+           <a href="http://www.hud.ac.uk/research/">
+            Introduction to Research
+           </a>
+          </li>
+          <li>
+           <a href="/research/researchoutputs/">
+            Research Outputs
+           </a>
+          </li>
+          <li>
+           <a href="http://discover.hud.ac.uk/">
+            Discover Impact
+           </a>
+          </li>
+          <li>
+           <a href="/research/researchcentres/">
+            Research Centres and Institutes
+           </a>
+          </li>
+          <li>
+           <a href="/research/grantsandawards/">
+            Grants and Awards
+           </a>
+          </li>
+          <li>
+           <a href="/research/strategyandpolicy/">
+            Strategy and Policy
+           </a>
+          </li>
+          <li>
+           <a href="/research/research-degrees/">
+            Research Degrees
+           </a>
+          </li>
+          <li>
+           <a href="/ourstaff/">
+            Staff
+           </a>
+          </li>
+          <li>
+           <a href="/international-research/">
+            International Portal
+           </a>
+          </li>
+          <li>
+           <a href="/ref2014/">
+            REF2014
+           </a>
+          </li>
+          <li>
+           <hr/>
+          </li>
+          <!-- navigation object : 2014 recruitment nav include (small scr) -->
+          <li class="mi01">
+           <a href="/courses/">
+            Courses
+           </a>
+          </li>
+          <li class="mi02">
+           <a href="/undergraduate/">
+            Undergraduate
+           </a>
+          </li>
+          <li class="mi03">
+           <a href="/postgraduate/">
+            Postgraduate
+           </a>
+          </li>
+          <li class="mi04">
+           <a href="/international/">
+            International
+           </a>
+          </li>
+          <li class="mi05">
+           <a href="/uni-life/">
+            Uni life
+           </a>
+          </li>
+          <li class="mi06">
+           <a href="/research/">
+            Research
+           </a>
+          </li>
+          <li class="mi07">
+           <a href="/business/">
+            Services to business
+           </a>
+          </li>
+          <li class="mi08">
+           <a href="/schools/">
+            Academic schools
+           </a>
+          </li>
+          <li class="mi09">
+           <a href="/enterpriseandentrepreneurship/">
+            Enterprise
+           </a>
+          </li>
+          <li class="mi10">
+           <a href="/hr/jobs/">
+            Jobs
+           </a>
+          </li>
+          <li>
+           <hr/>
+          </li>
+          <li class="staff-dropdown">
+           <a href="/staff/">
+            Staff
+           </a>
+          </li>
+          <li class="student-dropdown">
+           <a href="/students/">
+            Current Students
+           </a>
+          </li>
+          <li class="alumni-dropdown">
+           <a href="/alumni/">
+            Alumni
+           </a>
+          </li>
+          <!-- navigation object : 2014 body start part 3 include -->
+         </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+       </nav>
+       <!-- END: Mobile menu -->
+       <!-- /Main nav -->
+      </div>
+      <!-- /Header -->
+     </div>
+    </div>
+    <!-- END: Main navigation -->
+    <div class="row-fluid clearfix">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <!-- navigation object : 2014 breadcrumbs -->
+      <ul class="breadcrumb">
+       <li>
+        <a href="/research/">
+         Research
+        </a>
+       </li>
+       <li>
+        <a href="/research/computingandinformatics/">
+         Computing and Informatics
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <!-- navigation object : 2014 body start part 4 include -->
+    <!-- START: Main content -->
+    <div class="main-content-area">
+     <div class="row-fluid">
+      <div class="col-lg-2 hidden-md hidden-sm hidden-xs">
+       <nav>
+        <ul class="nav nav-pills nav-stacked">
+         <!-- navigation object : 2014 context main nav (no uls) -->
+         <li>
+          <a href="http://www.hud.ac.uk/research/">
+           Introduction to Research
+          </a>
+         </li>
+         <li>
+          <a href="/research/researchoutputs/">
+           Research Outputs
+          </a>
+         </li>
+         <li>
+          <a href="http://discover.hud.ac.uk/">
+           Discover Impact
+          </a>
+         </li>
+         <li>
+          <a href="/research/researchcentres/">
+           Research Centres and Institutes
+          </a>
+         </li>
+         <li>
+          <a href="/research/grantsandawards/">
+           Grants and Awards
+          </a>
+         </li>
+         <li>
+          <a href="/research/strategyandpolicy/">
+           Strategy and Policy
+          </a>
+         </li>
+         <li>
+          <a href="/research/research-degrees/">
+           Research Degrees
+          </a>
+         </li>
+         <li>
+          <a href="/ourstaff/">
+           Staff
+          </a>
+         </li>
+         <li>
+          <a href="/international-research/">
+           International Portal
+          </a>
+         </li>
+         <li>
+          <a href="/ref2014/">
+           REF2014
+          </a>
+         </li>
+         <!-- navigation object : 2014 body start part 5 include -->
+        </ul>
+       </nav>
+      </div>
+      <div class="col-lg-10 col-md-12 col-sm-12 col-xs-12">
+       <!-- start main body content area -->
+       <div class="carousel slide" data-ride="carousel" id="Computing and Informatics">
+        <div class="carousel-inner">
+         <!-- navigation object : Photo Item Carousel -->
+         <div class="item">
+          <a class="" href="">
+           <img alt="" class="img-responsive" src="/media/universityofhuddersfield/content2013/research/subjectareaimages/computing-1.jpg"/>
+          </a>
+          <div class="carousel-caption">
+          </div>
+         </div>
+         <div class="item">
+          <a class="" href="">
+           <img alt="" class="img-responsive" src="/media/universityofhuddersfield/content2013/research/subjectareaimages/computing-2.jpg"/>
+          </a>
+          <div class="carousel-caption">
+          </div>
+         </div>
+         <div class="item">
+          <a class="" href="">
+           <img alt="" class="img-responsive" src="/media/universityofhuddersfield/content2013/research/subjectareaimages/computing-3.jpg"/>
+          </a>
+          <div class="carousel-caption">
+          </div>
+         </div>
+         <!-- DO NOT CHANGE THIS! -->
+        </div>
+        <a class="left carousel-control" data-slide="prev" href="#Computing and Informatics">
+         <span class="glyphicon glyphicon-chevron-left">
+         </span>
+        </a>
+        <a class="right carousel-control" data-slide="next" href="#Computing and Informatics">
+         <span class="glyphicon glyphicon-chevron-right">
+         </span>
+        </a>
+       </div>
+       <script>
+        $(function() {
+	$( ".item" ).eq( 0 ).addClass('active');
+});
+       </script>
+       <h1>
+        <br/>
+        Computing and Informatics
+       </h1>
+       <p>
+        <br/>
+        Computing has a vibrant and rapidly growing research community with expertise in such diverse areas as visualisation, information and systems engineering and intelligent systems. Our facilities are state-of-the-art, incorporating a dedicating computer networking, mobile and forensic computing laboratory, as well as creative studio environments and industry standard software.
+       </p>
+       <p>
+        Our aim is to research and develop new methods and technology in computer science that will have a real impact on global grand challenges in areas such as transport, health, security and energy.
+       </p>
+       <p class="p1">
+        <span class="s1">
+         If you are interested in studying for a research degree please see our current
+         <span class="s2">
+          <a href="http://www.hud.ac.uk/ce/research/researchopportunities/">
+           research opportunities
+          </a>
+          .
+         </span>
+        </span>
+       </p>
+       <h3>
+        Centres
+       </h3>
+       <table>
+        <tbody>
+         <tr>
+          <td colspan="2">
+           <hr/>
+          </td>
+         </tr>
+         <tr>
+          <td width="110">
+           <img alt="Centre for high Performance Intelligent Computing" class="img-responsive" src="/media/universityofhuddersfield/content/image/research/centrethumbs/chic-thumb.jpg" style="   "/>
+          </td>
+          <td>
+           <strong>
+            <a href="/research/researchcentres/chic/" target="_blank">
+             Centre for High Performance Intelligent Computing (CHIC)
+            </a>
+           </strong>
+           <br/>
+           The Centre for High-Performance Intelligent Computing aims to research and develop new methods and technology in computer science that will underpin solutions to these major societal challenges.
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <hr/>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <h3>
+        Groups
+       </h3>
+       <table>
+        <tbody>
+         <tr>
+          <td colspan="2">
+           <hr/>
+          </td>
+         </tr>
+         <tr>
+          <td width="110">
+           <img alt="High Performance Computing" class="img-responsive" src="/media/universityofhuddersfield/content/image/research/centrethumbs/hpc.jpg" style="   "/>
+          </td>
+          <td>
+           <strong>
+            <a href="/research/researchcentres/hpcrg/" target="_blank">
+             High Performance Computing (HPC) Research Group
+            </a>
+           </strong>
+           <br/>
+           We aim to promote the links between high performance computer users, developers and researchers across the University, throughout the UK and internationally.
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <hr/>
+          </td>
+         </tr>
+         <tr>
+          <td width="110">
+           <img alt="IMFV thumb" class="img-responsive" src="/media/universityofhuddersfield/content/image/research/centrethumbs/imfv.jpg" style="   "/>
+          </td>
+          <td>
+           <strong>
+            <a href="/imfv/" target="_blank">
+             Intelligent Mobility: Future Vision (iMFV)
+            </a>
+           </strong>
+           <br/>
+           <span>
+            The ‘Intelligent Mobility: Future Vision (iMFV) Collaboration Group’ is an international independent Collaboration Network and Virtual Research Centre
+           </span>
+           <span>
+            for
+           </span>
+           <strong>
+            multidisciplinary free thinkers
+           </strong>
+           <span>
+            from research, governmental and industrial communities
+           </span>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <hr/>
+          </td>
+         </tr>
+         <tr>
+          <td width="110">
+           <img alt="Serious Games" class="img-responsive" src="/media/universityofhuddersfield/content/image/research/centrethumbs/sgrg.jpg" style="   "/>
+          </td>
+          <td>
+           <strong>
+            <a href="http://www.hud.ac.uk/sgrg" target="_blank">
+             Serious Games Research Group (SGRG)
+            </a>
+           </strong>
+           <br/>
+           Founded to act as a focus for our existing research and enterprise in computer games, we are committed to researching and developing computer game technology and game design to promote the wider adoption of serious games.
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <hr/>
+          </td>
+         </tr>
+         <tr>
+          <td width="110">
+           <img alt="CE Pedagogical Research" class="img-responsive" src="/media/universityofhuddersfield/content/image/research/centrethumbs/ceprg.jpg" style="   "/>
+          </td>
+          <td>
+           <strong>
+            <a href="http://www.hud.ac.uk/ceprg" target="_blank">
+             Pedagogical Research Group (CEPRG)
+            </a>
+           </strong>
+           <br/>
+           Our aim is to perform research on pedagogical issues in order to increase the effectiveness of teaching, learning and scholarly activities within the School of Computing and Engineering and across the University.
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <hr/>
+          </td>
+         </tr>
+         <tr>
+          <td width="110">
+           <img alt="CGIV group" class="img-responsive" src="/media/universityofhuddersfield/content/image/computingandengineering/research/thumbs/cgiv.jpg" style="   "/>
+          </td>
+          <td>
+           <strong>
+            <a href="http://www.hud.ac.uk/viv" target="_blank">
+             Visualisation, Interaction and Vision (VIV)
+            </a>
+           </strong>
+           <br/>
+           The Visualisation, Interaction and Vision (VIV) Research Group within the CHIC Centre focuses on regional and international dimensions of knowledge/technology innovation, application and practice development, academic networking, and social service innovation.
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <hr/>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <!-- end main body content area -->
+       <!-- navigation object : 2014 body end no RHC -->
+      </div>
+     </div>
+    </div>
+    <!-- END: : Main content -->
+    <!-- navigation object : 2014 rec feedback form -->
+    <div class="row-fluid">
+     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-2 col-xs-offset-2">
+      <!-- navigation object : Feedback form include -->
+      <!-- Start of feedback form -->
+      <div class="feedbackContainer">
+       <div class="row-fluid">
+        <div class="lastUpdated">
+         <span>
+          <i>
+           Last updated Monday 18 April  2016
+          </i>
+         </span>
+        </div>
+        <div class="feedback">
+         Website feedback
+         <img class="feedbackArrow" src="/media/universityofhuddersfield/styleassets/images/feedbackArrow.png"/>
+        </div>
+        <div class="feedbackArea col-lg-12">
+         <div class="row-fluid">
+          <div class="thankHidden" id="thankYou">
+           <span>
+            Thank you for your feedback.
+            <br/>
+            <br/>
+           </span>
+           <span>
+            Your feedback has been sent to the University Web/Digital Marketing Team.
+           </span>
+          </div>
+          <div class="formDivVis" id="formDiv">
+           <script type="text/javascript">
+            var submitted=false;
+           </script>
+           <iframe id="redirect" name="redirect" onload="if(submitted == true) {
+			$('#formDiv').removeClass('formDivVis');
+			$('#formDiv').addClass('formDivHidden');
+			$('#thankYou').removeClass('thankHidden');
+			$('#thankYou').addClass('thankVis');
+			};" style="display:none;">
+           </iframe>
+           <form action="/styleassets/feedbackform/submissioncode/" method="POST" onsubmit="submitted=true;" role="form" target="redirect">
+            <div class="form-group">
+             <div class="leftFormColumn col-lg-6 col-md-6 col-sm-6 col-xs-12">
+              <label for="name">
+               Name
+              </label>
+              <br/>
+              <input class="feedbackName form-control" id="name" name="name" placeholder="Name" type="text" value=""/>
+             </div>
+             <div class="rightFormColumn col-lg-6 col-md-6 col-sm-6 col-xs-12">
+              <label for="email">
+               E-Mail
+              </label>
+              <br/>
+              <input class="feedbackEmail form-control" id="email" name="email" placeholder="E-mail" type="text" value=""/>
+             </div>
+             <div class="leftFormColumn2 col-lg-4 col-md-4 col-sm-4 col-xs-12">
+              <label for="qualityofinfo">
+               Quality of info
+              </label>
+              <div class="radio">
+               <label>
+                <input name="qualityofinfo" type="radio" value="Excellent"/>
+                Excellent
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="qualityofinfo" type="radio" value="Good"/>
+                Good
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="qualityofinfo" type="radio" value="Satisfactory"/>
+                Satisfactory
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="qualityofinfo" type="radio" value="NeedsImprovement"/>
+                Needs improvement
+               </label>
+              </div>
+             </div>
+             <div class="leftFormColumn2 col-lg-4 col-md-4 col-sm-4 col-xs-12">
+              <label for="qualityofdesign">
+               Quality of design
+              </label>
+              <div class="radio">
+               <label>
+                <input name="qualityofdesign" type="radio" value="Excellent"/>
+                Excellent
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="qualityofdesign" type="radio" value="Good"/>
+                Good
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="qualityofdesign" type="radio" value="Satisfactory"/>
+                Satisfactory
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="qualityofdesign" type="radio" value="NeedsImprovement"/>
+                Needs improvement
+               </label>
+              </div>
+             </div>
+             <div class="leftFormColumn2 col-lg-4 col-md-4 col-sm-4 col-xs-12">
+              <label for="comparison">
+               Comparison with other university sites
+              </label>
+              <div class="radio">
+               <label>
+                <input name="comparison" type="radio" value="Excellent"/>
+                Excellent
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="comparison" type="radio" value="Good"/>
+                Good
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="comparison" type="radio" value="Satisfactory"/>
+                Satisfactory
+               </label>
+              </div>
+              <div class="radio">
+               <label>
+                <input name="comparison" type="radio" value="NeedsImprovement"/>
+                Needs improvement
+               </label>
+              </div>
+             </div>
+             <div class="feedbackBox pull-left col-lg-12 col-md-12 col-sm-12 col-xs-12">
+              <label for="feedbackTextArea">
+               Feedback
+              </label>
+              <textarea class="form-control" name="feedbackTextArea" rows="3">
+              </textarea>
+             </div>
+             <div class="hiddenForm">
+              <input name="getuas" type="text" value="Scrapy/1.1.0 (+http://scrapy.org)"/>
+              <input name="geturl" type="text" value="http://www.hud.ac.uk/research/computingandinformatics/"/>
+              <input name="datecreated" type="text" value=""/>
+              <input name="lastupdated" type="text" value="Monday 18 April  2016"/>
+              <label for="lastname">
+               Leave Blank for Validation - Last Name
+              </label>
+              <input name="lastname" placeholder="Last Name" type="text" value=""/>
+             </div>
+             <div class="col-lg-12 pull-left">
+              <button class="btn btn-default btn-lg submitButton" name="submitter" type="submit" value="Submit">
+               Submit
+              </button>
+             </div>
+            </div>
+           </form>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <script src="/media/universityofhuddersfield/styleassets/js/jQueryRotateCompressed.2.2.js" type="text/javascript">
+      </script>
+      <script>
+       $(".feedbackArea").hide();
+	$('.feedback').css('cursor', 'pointer');
+	$('.feedback').hover(function() {(this).css('color', '#313131')});
+	var rotating = true;
+	var value=0;
+	$(".feedback").rotate({
+			bind:
+			{
+					click: function(){
+					if (rotating == false) {
+							rotating = true;
+							value -=90;
+							$('.feedbackArrow').rotate({ animateTo:value})
+					}else{
+							rotating = false;
+							value +=90;
+							$('.feedbackArrow').rotate({ animateTo:value})
+							}
+					}
+							}
+	});
+	$('.feedback').click(function() {
+			$('.feedbackArea').slideToggle('slow [,easeOutElastic]');
+	});
+      </script>
+      <!-- End of Feedback Form -->
+     </div>
+    </div>
+    <!-- navigation object : 2014 footer include -->
+    <!-- START: Footer -->
+    <!-- Page Created:Friday 23 November  2012-->
+    <!-- START: Large footer -->
+    <div class="row-fluid hidden-xs">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="footer footer-upper">
+       <div class="row-fluid">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-3">
+         <h2>
+          I am...
+         </h2>
+         <!-- navigation object : 2014 footer "I am" include -->
+         <ul>
+          <li class="ia2">
+           <a href="/international/">
+            an international applicant
+           </a>
+          </li>
+          <li class="ia3">
+           <a href="/students/">
+            a current student
+           </a>
+          </li>
+          <li class="ia4">
+           <a href="/staff/">
+            a member of staff
+           </a>
+          </li>
+          <li class="ia5">
+           <a href="/undergraduate/parentsandcarers/">
+            a parent/carer
+           </a>
+          </li>
+          <li class="ia5">
+           <a href="/undergraduate/schools-and-colleges-liaison-service/">
+            a teacher/adviser
+           </a>
+          </li>
+          <li class="ia6">
+           <a href="https://unishare.hud.ac.uk/unicouncil/" rel="nofollow">
+            a University council member
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-3">
+         <h2>
+          I want to...
+         </h2>
+         <!-- navigation object : 2014 footer "I want to" include -->
+         <ul>
+          <li class="iw1">
+           <a href="/courses/">
+            find a course
+           </a>
+          </li>
+          <li class="iw2">
+           <a href="/open-days/">
+            attend an Open Day
+           </a>
+          </li>
+          <li class="iw3">
+           <a href="/about/maps/">
+            visit the campus
+           </a>
+          </li>
+          <li class="iw4">
+           <a href="/contact/">
+            contact the University
+           </a>
+          </li>
+          <li class="iw5">
+           <a href="/news/">
+            see the University news
+           </a>
+          </li>
+          <li class="iw5">
+           <a href="/careers/informationforemployers/recruitastudentorgraduate/">
+            recruit a student or graduate
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+         <h2>
+          Further information
+         </h2>
+         <!-- navigation object : 2014 footer "Further Information" includ -->
+         <ul>
+          <li class="fi1">
+           <a href="/about/services/">
+            A-Z list
+           </a>
+          </li>
+          <li class="fi2">
+           <a href="http://www.store.hud.ac.uk/">
+            Online store
+           </a>
+          </li>
+          <li class="fi3">
+           <a href="/informationgovernance/freedomofinformation/">
+            Freedom of information
+           </a>
+          </li>
+          <li class="fi4">
+           <a href="/about/">
+            About the University
+           </a>
+          </li>
+          <li class="fi5">
+           <a href="/informationgovernance/copyrightanddisclaimer/">
+            Copyright and disclaimer
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- END: Large footer -->
+    <!-- START: Small footer -->
+    <div class="row-fluid visible-xs">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="footer footer-upper">
+       <div class="row-fluid">
+        <div class="col-xs-6">
+         <h2>
+          I am...
+         </h2>
+         <!-- navigation object : 2014 footer "I am" include -->
+         <ul>
+          <li class="ia2">
+           <a href="/international/">
+            an international applicant
+           </a>
+          </li>
+          <li class="ia3">
+           <a href="/students/">
+            a current student
+           </a>
+          </li>
+          <li class="ia4">
+           <a href="/staff/">
+            a member of staff
+           </a>
+          </li>
+          <li class="ia5">
+           <a href="/undergraduate/parentsandcarers/">
+            a parent/carer
+           </a>
+          </li>
+          <li class="ia5">
+           <a href="/undergraduate/schools-and-colleges-liaison-service/">
+            a teacher/adviser
+           </a>
+          </li>
+          <li class="ia6">
+           <a href="https://unishare.hud.ac.uk/unicouncil/" rel="nofollow">
+            a University council member
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="col-xs-6">
+         <h2>
+          I want to...
+         </h2>
+         <!-- navigation object : 2014 footer "I want to" include -->
+         <ul>
+          <li class="iw1">
+           <a href="/courses/">
+            find a course
+           </a>
+          </li>
+          <li class="iw2">
+           <a href="/open-days/">
+            attend an Open Day
+           </a>
+          </li>
+          <li class="iw3">
+           <a href="/about/maps/">
+            visit the campus
+           </a>
+          </li>
+          <li class="iw4">
+           <a href="/contact/">
+            contact the University
+           </a>
+          </li>
+          <li class="iw5">
+           <a href="/news/">
+            see the University news
+           </a>
+          </li>
+          <li class="iw5">
+           <a href="/careers/informationforemployers/recruitastudentorgraduate/">
+            recruit a student or graduate
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row-fluid visible-xs">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="footer">
+       <div class="row-fluid">
+        <div class="col-xs-6">
+         <h2>
+          Further information
+         </h2>
+         <!-- navigation object : 2014 footer "Further Information" split -->
+         <ul>
+          <li class="fi6">
+           <a href="/about/services/">
+            University services
+           </a>
+          </li>
+          <li class="fi2">
+           <a href="http://www.store.hud.ac.uk/">
+            Online store
+           </a>
+          </li>
+          <li class="fi3">
+           <a href="/informationgovernance/freedomofinformation/">
+            Freedom of Information
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="col-xs-6">
+         <h2>
+         </h2>
+         <ul>
+          <li class="fi4">
+           <a href="/about/">
+            The University
+           </a>
+          </li>
+          <li class="fi5">
+           <a href="/informationgovernance/copyrightanddisclaimer/">
+            Copyright and disclaimer
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- END: Small footer -->
+    <!-- navigation object : 2014 footer underfooter include -->
+    <!-- START: Footer -->
+    <div class="row-fluid">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="row-fluid">
+       <div class="awards">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+          <a class="ab3" href="/about/our-awards/awards-history/">
+           <img alt="The awards winner 2012, 13, 14, 15" class="img-responsive" src="/media/universityofhuddersfield/styleassets/images/footer/uniofyearawards_15.png"/>
+          </a>
+         </div>
+         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+          <a class="ab4" href="/about/our-awards/the-university-of-the-year/">
+           <img alt="University of the year 2013" class="img-responsive" src="/media/universityofhuddersfield/styleassets/images/footer/UniofTheYear2013.png"/>
+          </a>
+         </div>
+         <div class="awards-row hidden-lg hidden-md hidden-sm">
+         </div>
+         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+          <a class="ab1" href="/about/our-awards/qs-four-star/">
+           <img alt="QS 4 Star Logo" class="img-responsive" src="/media/universityofhuddersfield/styleassets/images/footer/qs_white_2015.png"/>
+          </a>
+         </div>
+         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+          <a class="ab1" href="/research/strategyandpolicy/athenaswan/">
+           <img alt="Athena Swan Bronze Award" class="img-responsive" src="/media/universityofhuddersfield/styleassets/images/footer/AS_Award.png"/>
+          </a>
+         </div>
+         <style>
+          .queens-award {
+margin:15px auto;
+}
+
+.queens-award2 {
+float:right;
+}
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+.queens-award { 
+margin:15px auto;
+}
+.queens-award2 {
+float:initial;
+}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+.queens-award { 
+margin:15px auto;
+}
+.queens-award2 {
+float:initial;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+.queens-award {
+margin:15px;
+}
+.queens-award2 {
+float:right;
+}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+.queens-award {
+margin:15px;
+}
+.queens-award2 {
+float:right;
+}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+.queens-award {
+margin:15px;
+}
+.queens-award2 {
+float:right;
+}
+}
+
+.social-footer {
+margin: 0 auto 0 auto !important; 
+text-align:center;
+}
+
+.social-footer a:hover {
+color:#00ADEF;
+}
+         </style>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row-fluid">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="footer footer-lower">
+       <style type="text/css">
+        #map { height: 300px; width:100%; margin-top:25px; }
+       </style>
+       <!-- <div id="map"></div> -->
+       <div class="row-fluid">
+        <div class="col-lg-3 col-md-3 col-sm-3">
+         <img alt="Queens International Business Award" class="img-responsive queens-award" src="/media/universityofhuddersfield/styleassets/images/footer/QueensAward.png"/>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6">
+         <p class="footer-yorkshire">
+          ‌‌
+          <a class="uf1" href="http://www.yorkshireuniversities.ac.uk/">
+           The University of Huddersfield is a member of Yorkshire Universities
+          </a>
+          <br/>
+          <a class="uf2" href="/informationgovernance/cookiepolicy/">
+           Cookie policy
+          </a>
+         </p>
+         <!-- START: Social media icons -->
+         <div class="social-media-font-awesome social-footer">
+          <a class="social-twitter" href="https://twitter.com/HuddersfieldUni">
+           <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x">
+            </i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse">
+            </i>
+           </span>
+          </a>
+          <a class="social-facebook" href="https://www.facebook.com/huddersfielduniversity">
+           <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x">
+            </i>
+            <i class="fa fa-facebook fa-stack-1x fa-inverse">
+            </i>
+           </span>
+          </a>
+          <a class="social-youtube" href="https://www.youtube.com/user/hudduni">
+           <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x">
+            </i>
+            <i class="fa fa-youtube fa-stack-1x fa-inverse">
+            </i>
+           </span>
+          </a>
+          <a class="social-instagram" href="http://instagram.com/huddersfielduni">
+           <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x">
+            </i>
+            <i class="fa fa-instagram fa-stack-1x fa-inverse">
+            </i>
+           </span>
+          </a>
+          <a class="social-email" href="/hud-enews/">
+           <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x">
+            </i>
+            <i class="fa fa-envelope fa-stack-1x fa-inverse">
+            </i>
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-3">
+         <img alt="Queens Anniversary Award" class="img-responsive queens-award queens-award2" src="/media/universityofhuddersfield/styleassets/images/footer/QueensAnniversary.png"/>
+        </div>
+        <!-- END: Social media icons -->
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- END: Site footer -->
+    <!-- START: Under footer -->
+    <div class="row-fluid">
+     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+      <p class="pull-left">
+       VAT registration number 516 3101 90
+      </p>
+     </div>
+     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+      <p class="pull-right">
+       All rights reserved ©
+      </p>
+     </div>
+    </div>
+    <!-- END: Under footer -->
+    <script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfrtB6NLXmMjJjx6a9Ss7OhUGR6fOIO1w&amp;libraries=places&amp;callback=initMap">
+    </script>
+    <script>
+     var map;
+function initMap() {
+  // Create an array of styles.
+  var styles = [
+    {
+        "featureType": "all",
+        "elementType": "labels.text.fill",
+        "stylers": [
+            {
+                "saturation": "48"
+            },
+            {
+                "color": "#ffffff"
+            },
+            {
+                "lightness": "80"
+            }
+        ]
+    },
+    {
+        "featureType": "all",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#222222"
+            },
+            {
+                "lightness": 16
+            }
+        ]
+    },
+    {
+        "featureType": "all",
+        "elementType": "labels.icon",
+        "stylers": [
+            {
+                "visibility": "off"
+            },
+            {
+                "saturation": "-32"
+            },
+            {
+                "weight": "4.29"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#000000"
+            },
+            {
+                "lightness": 20
+            }
+        ]
+    },
+    {
+        "featureType": "administrative",
+        "elementType": "geometry.stroke",
+        "stylers": [
+            {
+                "color": "#000000"
+            },
+            {
+                "lightness": 17
+            },
+            {
+                "weight": 1.2
+            }
+        ]
+    },
+    {
+        "featureType": "landscape",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#000000"
+            },
+            {
+                "lightness": 20
+            }
+        ]
+    },
+    {
+        "featureType": "poi",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#000000"
+            },
+            {
+                "lightness": 21
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#003976"
+            },
+            {
+                "lightness": 17
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "geometry.stroke",
+        "stylers": [
+            {
+                "color": "#000000"
+            },
+            {
+                "lightness": 29
+            },
+            {
+                "weight": 0.2
+            }
+        ]
+    },
+    {
+        "featureType": "road.arterial",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#f89828"
+            },
+            {
+                "lightness": 18
+            },
+            {
+                "visibility": "simplified"
+            }
+        ]
+    },
+    {
+        "featureType": "road.local",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#fdbb30"
+            },
+            {
+                "lightness": 16
+            }
+        ]
+    },
+    {
+        "featureType": "transit",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#ec008c"
+            },
+            {
+                "lightness": 19
+            }
+        ]
+    },
+    {
+        "featureType": "water",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#00adef"
+            },
+            {
+                "lightness": 17
+            }
+        ]
+    }
+];
+
+  // Create a new StyledMapType object, passing it the array of styles,
+  // as well as the name to be displayed on the map type control.
+  var styledMap = new google.maps.StyledMapType(styles,
+  {name: "Styled Map"});
+
+  // Create a map object, and include the MapTypeId to add
+  // to the map type control.
+  var mapOptions = {
+  center: {lat: 53.644191, lng: -1.777340},
+  zoom: 9,
+  mapTypeControlOptions: {
+  mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
+  }
+  };
+  var map = new google.maps.Map(document.getElementById('map'),
+  mapOptions);
+
+  //Associate the styled map with the MapTypeId and set it to display.
+  map.mapTypes.set('map_style', styledMap);
+  map.setMapTypeId('map_style');
+
+  var infowindow = new google.maps.InfoWindow();
+  var service = new google.maps.places.PlacesService(map);
+  service.getDetails({
+    placeId: 'ChIJgTPIFnPce0gRHxWLbCsDL2I'
+  }, function(place, status) {
+    if (status === google.maps.places.PlacesServiceStatus.OK) {
+      var marker = new google.maps.Marker({
+        map: map,
+        position: place.geometry.location
+      });
+      google.maps.event.addListener(marker, 'click', function() {
+        infowindow.setContent(place.name);
+        infowindow.open(map, this);
+      });
+    }
+  });
+}
+// ChIJgTPIFnPce0gRHxWLbCsDL2I - Place ID
+    </script>
+    <!-- -->
+   </div>
+   <!-- Hello to Jason Isaacs -->
+  </div>
+  <!-- /Main container -->
+  <!-- END: Main site container -->
+  <!-- navigation object : 2014 BS core JS include -->
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="/media/universityofhuddersfield/styleassets/js/bootstrap.min.js" type="text/javascript">
+  </script>
+  <!-- bootstrap.min.js -->
+  <!-- navigation object : 2014 Analytics include -->
+  <script type="text/javascript">
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  </script>
+  <script type="text/javascript">
+   ga('create', 'UA-23457701-1', 'auto');
+	ga('create', 'UA-45152532-1', 'auto', {'name': 'Schools'});
+	ga('create', 'UA-45158331-1', 'auto', {'name': 'Playground'});
+	ga('send', 'pageview');
+  	ga('Schools.send', 'pageview');
+  	ga('Playground.send', 'pageview');
+  var _sf_async_config = { uid: 62961, domain: 'hud.ac.uk', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+  </script>
+  <!-- Google Code for Remarketing Tag -->
+  <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var google_conversion_id = 959953259;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+  </script>
+  <script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+  </script>
+  <noscript>
+   <div style="display:inline;">
+    <img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/959953259/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+   </div>
+  </noscript>
+ </body>
+</html>

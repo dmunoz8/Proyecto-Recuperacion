@@ -1,0 +1,3560 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en" class="no-js ie6 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 7]> <html lang="en" class="no-js ie7 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie9"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta content="IE=edge" http-equiv="x-ua-compatible"/>
+  <link href="http://www.springer.com/us/book/9783642390616" rel="canonical"/>
+  <link href="//static.springer.com/app-pp/assets-v/stylesheets_gen/95685a86f179a6515c10eb06e471dc8a-modern_sgw.min.css" rel="stylesheet" type="text/css"/>
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel="stylesheet" type="text/css" href='//static.springer.com/app-pp/assets-v/stylesheets_gen/104d3324c7fafa7117639de5c276ab43-ielt9_sgw.min.css' media="screen">
+    <![endif]-->
+  <meta content="This book constitutes the refereed proceedings of the First International Conference on Human Factors in Computing and Informatics, SouthCHI 2013, held in" name="description"/>
+  <title>
+   Human Factors in Computing and Informatics - First | Andreas Holzinger | Springer
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, minimum-scale=1, maximum-scale=1" name="viewport"/>
+  <meta content="Human Factors in Computing and Informatics - First | Andreas Holzinger | Springer" property="og:title"/>
+  <meta content="book" property="og:type"/>
+  <meta content="http://www.springer.com/us/book/9783642390616" property="og:url"/>
+  <meta content="https://images.springer.com/sgw/books/medium/9783642390616.jpg" property="og:image:secure_url"/>
+  <meta content="This book constitutes the refereed proceedings of the First International Conference on Human Factors in Computing and Informatics, SouthCHI 2013, held in..." property="og:description"/>
+  <meta content="100001154999617" property="fb:admins"/>
+  <script>
+   /*<![CDATA[*/
+		document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+/*]]>*/
+  </script>
+  <script src="//cdn.optimizely.com/js/262426511.js" type="text/javascript">
+  </script>
+  <!-- Country(US) -->
+ </head>
+ <body class="cms" itemscope="" itemtype="http://schema.org/WebPage">
+  <script type="text/javascript">
+   dataLayer = [
+    {
+  "pageType" : "product",
+  "topLevelCategory" : "Computer",
+  "subLevel1" : "Database Management & Information Retrieval",
+  "productCategory" : "Computer",
+  "isbn" : "9783642390616",
+  "productId" : "9783642390616",
+  "pPriceGross" : "143.0",
+  "ePriceGross" : "109.0",
+  "eIsbn" : "9783642390623",
+  "pIsbn" : "9783642390616",
+  "fn" : "Human Factors in Computing and",
+  "description" : "This book constitutes the refereed proceedings of the First International Conference on",
+  "currency" : "USD",
+  "url" : "http://www.springer.com/978-3-642-39061-6",
+  "photo" : "https://images.springer.com/sgw/books/medium/9783642390616.jpg"
+}
+   ];
+  </script>
+  <!-- Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-38BW" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script type="text/javascript">
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-38BW');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script src="//static.springer.com/app-pp/assets-v/minified/022ff9f319046cae9a6dc464205fcbc3-concatenated.min.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var jsRoutes = {}; (function(_root){
+var _nS = function(c,f,b){var e=c.split(f||"."),g=b||_root,d,a;for(d=0,a=e.length;d<a;d++){g=g[e[d]]=g[e[d]]||{}}return g}
+var _qS = function(items){var qs = ''; for(var i=0;i<items.length;i++) {if(items[i]) qs += (qs ? '&' : '') + items[i]}; return qs ? ('?' + qs) : ''}
+var _s = function(p,s){return p+((s===true||(s&&s.secure))?'s':'')+':\/\/'}
+var _wA = function(r){return {ajax:function(c){c=c||{};c.url=r.url;c.type=r.method;return jQuery.ajax(c)}, method:r.method,type:r.method,url:r.url,absoluteURL: function(s){return _s('http',s)+'sprcom-product-page.live.cf.private.springer.com'+r.url},webSocketURL: function(s){return _s('ws',s)+'sprcom-product-page.live.cf.private.springer.com'+r.url}}}
+_nS('controllers.edition.BasketController'); _root.controllers.edition.BasketController.addRendition = 
+      function() {
+      return _wA({method:"POST", url:"\/" + "app-pp\/basket\/addRendition"})
+      }
+   
+_nS('controllers.edition.BasketController'); _root.controllers.edition.BasketController.addChapter = 
+      function() {
+      return _wA({method:"POST", url:"\/" + "app-pp\/basket\/addChapter"})
+      }
+   
+})(jsRoutes)
+  </script>
+  <div class="banner-message banner-message-primary banner-message-warning" id="change-site-message" style="display: block">
+   <div>
+    <a class="close-message" href="#" id="close-change-site-message">
+    </a>
+    <p>
+     It seems that you're in Costa Rica. We have a dedicated site for
+     <a href="/la/book/9783642390616" onmousedown="wt.sendinfo({linkId:'change_site'});" rel="nofollow">
+      Costa Rica
+     </a>
+    </p>
+   </div>
+  </div>
+  <div id="wrapper">
+   <header data-src="/_comp/header/us/DEFAULT">
+    <div class="hidden banner-message banner-message-info" id="cookie-banner">
+     <div>
+      <a class="close-message" href="#" id="cookies-dismiss">
+      </a>
+      <p>
+       This website uses cookies. By using our website and agreeing to our cookies policy, you consent to our use of cookies in accordance with the terms of this policy.
+       <a href="/gp/privacy-statement/627414">
+        Read more
+       </a>
+      </p>
+     </div>
+    </div>
+    <script type="text/javascript">
+     /*<![CDATA[*/
+
+var $buoop = {vs:{i:7,f:15,o:12,s:5},c:2};
+function $buo_f(){
+var e = document.createElement("script");
+e.setAttribute("type", "text/javascript");
+e.setAttribute("src", "/spcom/js/oldbrowser.js");
+document.body.appendChild(e);
+};
+try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+catch(e){window.attachEvent("onload", $buo_f)}
+
+/*]]>*/
+    </script>
+    <script defer="defer" src="//static.springer.com/spcom/min/201606061500-13/header.prod.js" type="text/javascript">
+    </script>
+    <div id="header" role="banner">
+     <a href="/" id="headerlogo" style="background-image: url(/spcom/sites/sgw/images/logo.png);">
+     </a>
+     <div class="panel-search">
+      <form action="https://www.springer.com/?SGWID=0-102-24-0-0" class="big-search" id="global-search" method="get">
+       <input name="SGWID" type="hidden" value="0-102-24-0-0"/>
+       <input name="searchType" type="hidden" value="EASY_CDA"/>
+       <div class="search-field">
+        <input class="text focus placeholder" id="query" name="queryText" placeholder="Search" type="text"/>
+       </div>
+       <div>
+        <input class="search-submit" id="search" name="submit" type="submit"/>
+       </div>
+       <div id="search-options">
+        <button class="pillow-btn-header open-search-options" onclick="window.location.href='https://www.springer.com/?SGWID=0-102-13-0-0';return false;" title="Open search options" type="button">
+        </button>
+        <div class="flyout-content">
+        </div>
+       </div>
+      </form>
+     </div>
+     <button class="pillow-btn-header open-search" title="Open search">
+      Search
+     </button>
+     <button class="pillow-btn-header open-menu" title="Open menu">
+      Menu
+     </button>
+     <div class="panel-menu">
+      <div id="cross-nav">
+       <div class="flyout empty" data-cart-page-link="https://www.springer.com/?SGWID=0-102-34-0-0" data-site-prefix="us" id="basket-widget">
+        <button class="flyout-caption">
+         <a class="headerbasket">
+         </a>
+         <span class="totalQuantity">
+         </span>
+        </button>
+        <div class="flyout-content">
+         <div class="loading-cart-msg">
+          <div class="spinner">
+          </div>
+          <div class="msg">
+           Loading..
+          </div>
+         </div>
+         <div class="empty-cart-msg">
+          Your cart is empty.
+         </div>
+         <ul class="cart-items">
+         </ul>
+         <div class="full-cart-msg">
+          ...you'll find more products in the shopping cart.
+         </div>
+         <div class="cart-summary">
+          <div class="summary-item total">
+           <span class="left-column column">
+            Total
+           </span>
+           <!--
+-->
+           <span class="right-column column">
+            €239.99
+           </span>
+          </div>
+          <a class="btn btn-primary btn-monster view-cart" href="#">
+           View cart
+          </a>
+         </div>
+        </div>
+       </div>
+       <script id="cart-widget-cart-item" type="text/template">
+        <li>
+<div class="cart-item">
+<div class="cover">
+{{coverTemplate}}
+</div><!--
+--><div class="title">
+{{titleTemplate}}
+<p class="description">{{description}}</p>
+<p class="quantity">
+{{resources.quantity}}: {{quantity}}
+</p>
+</div><!--
+--><div class="totalPrice">{{price}}</div>
+</div>
+</li>
+       </script>
+       <script id="cart-widget-cover-with-link" type="text/template">
+        <a data-href="{{productLinkFragment}}">
+<img data-src="{{coverUrl}}" width="41" alt="{{title}}"/>
+</a>
+       </script>
+       <script id="cart-widget-cover-without-link" type="text/template">
+        <img data-src="{{coverUrl}}" width="41" alt="{{title}}"/>
+       </script>
+       <div class="flyout" id="auth">
+        <button class="flyout-caption">
+         Login / Register
+        </button>
+        <div class="flyout-content">
+         <ul id="service-links">
+          <li>
+           <a href="https://www.springer.com/my+springer?SGWID=4-1716000-25-653405-0">
+            Manage Account
+           </a>
+          </li>
+          <li>
+           <a href="https://www.springer.com/?SGWID=4-102-25-968706-0">
+            My Bookshelf
+           </a>
+          </li>
+          <li>
+           <a href="http://www.springer.com/alert?SGWID=4-103-0-0-0">
+            Manage Alerts
+           </a>
+          </li>
+          <li>
+           <a href="https://www.springer.com/my+springer/article+tracking?SGWID=4-1716011-25-653439-0">
+            Article Tracking
+           </a>
+          </li>
+          <li>
+           <a href="https://www.springer.com/us/myspringer/book-publications">
+            Book Tracking
+           </a>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <a class="loginButton returnURL" href="https://www.springer.com/?SGWID=0-102-25-0-0">
+            Login / Register
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="flyout" id="lang">
+        <button class="flyout-caption">
+         America
+        </button>
+        <div class="flyout-content">
+         <ul>
+          <li>
+           <a class="returnURL" href="https://www.springer.com/?SGWID=0-102-2010-0-0" rel="nofollow">
+            Change
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="navwrapper">
+       <nav>
+        <ul id="global-nav">
+         <li class="mainNavigationMark" id="mainNavigation0">
+          <div class="nav-main">
+           <a class="mainNavigationLinkMark noSubnavigation" href="http://www.springer.com/us/" id="mainnav.home">
+            Home
+           </a>
+          </div>
+         </li>
+         <li class="mainNavigationMark" id="mainNavigation1">
+          <div class="nav-main">
+           <a class="mainNavigationLinkMark" href="#" onclick="return false;">
+            Subjects
+           </a>
+          </div>
+          <div class="nav-sub">
+           <ul class="firstList">
+            <li>
+             <a href="http://www.springer.com/us/astronomy" id="mainnav.astronomy">
+              Astronomy
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/behavioral-sciences" id="mainnav.behavioral_sciences">
+              Behavioral Sciences
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/biomedical-sciences" id="mainnav.biomedical_sciences">
+              Biomedical Sciences
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/business-management" id="mainnav.business_&amp;_management">
+              Business &amp; Management
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/chemistry" id="mainnav.chemistry">
+              Chemistry
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/climate?SGWID=0-1755018-0-0-0" id="mainnav.climate">
+              Climate
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/computer?SGWID=0-146-0-0-0" id="mainnav.computer_science">
+              Computer Science
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="http://www.springer.com/us/earth-sciences" id="mainnav.earth_sciences">
+              Earth Sciences
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/economics" id="mainnav.economics">
+              Economics
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/education-language" id="mainnav.education_&amp;_language">
+              Education &amp; Language
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/energy" id="mainnav.energy">
+              Energy
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/engineering" id="mainnav.engineering">
+              Engineering
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/environmental-sciences" id="mainnav.environmental_sciences">
+              Environmental Sciences
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/food-science-nutrition" id="mainnav.food_science_&amp;_nutrition">
+              Food Science &amp; Nutrition
+             </a>
+            </li>
+           </ul>
+           <ul>
+            <li>
+             <a href="http://www.springer.com/us/geography" id="mainnav.geography">
+              Geography
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/law" id="mainnav.law">
+              Law
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/life-sciences" id="mainnav.life_sciences">
+              Life Sciences
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/materials" id="mainnav.materials">
+              Materials
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/mathematics" id="mainnav.mathematics">
+              Mathematics
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/medicine" id="mainnav.medicine">
+              Medicine
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/philosophy" id="mainnav.philosophy">
+              Philosophy
+             </a>
+            </li>
+           </ul>
+           <ul class="lastList">
+            <li>
+             <a href="http://www.springer.com/us/physics" id="mainnav.physics">
+              Physics
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/popular-science" id="mainnav.popular_science">
+              Popular Science
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/public-health" id="mainnav.public_health">
+              Public Health
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/social-sciences" id="mainnav.social_sciences">
+              Social Sciences
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/statistics" id="mainnav.statistics">
+              Statistics
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/water?SGWID=0-1755013-0-0-0" id="mainnav.water">
+              Water
+             </a>
+            </li>
+           </ul>
+          </div>
+         </li>
+         <li class="mainNavigationMark" id="mainNavigation2">
+          <div class="nav-main">
+           <a class="mainNavigationLinkMark" href="#" onclick="return false;">
+            Services
+           </a>
+          </div>
+          <div class="nav-sub">
+           <ul class="firstList">
+            <li>
+             <a href="http://www.springer.com/us/advertisers" id="mainnav.advertisers">
+              Advertisers
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/authors-editors" id="mainnav.authors_&amp;_editors">
+              Authors &amp; Editors
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/booksellers/" id="mainnav.booksellers">
+              Booksellers
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/reviewers" id="mainnav.book_reviewers">
+              Book Reviewers
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/instructors" id="mainnav.instructors">
+              Instructors
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/about-springer/media" id="mainnav.journalists">
+              Journalists
+             </a>
+            </li>
+           </ul>
+           <ul class="lastList">
+            <li>
+             <a href="http://www.springer.com/us/librarians" id="mainnav.librarians">
+              Librarians
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/rights-permissions" id="mainnav.rights_&amp;_permissions">
+              Rights &amp; Permissions
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/partners" id="mainnav.societies_&amp;_publishing_partners">
+              Societies &amp; Publishing Partners
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/subscriptions" id="mainnav.subscription_agencies">
+              Subscription Agencies
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/help" id="mainnav.help_&amp;_contact">
+              Help &amp; Contact
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/open-access" id="mainnav.open_access_&amp;_springer">
+              Open Access &amp; Springer
+             </a>
+            </li>
+           </ul>
+          </div>
+         </li>
+         <li class="mainNavigationMark" id="mainNavigation3">
+          <div class="nav-main">
+           <a class="mainNavigationLinkMark" href="#" onclick="return false;">
+            Products
+           </a>
+          </div>
+          <div class="nav-sub">
+           <ul class="firstList lastList">
+            <li>
+             <a href="http://www.springer.com/us/products/journals" id="mainnav.journals">
+              Journals
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/products/books" id="mainnav.books">
+              Books
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/products/springerlink" id="mainnav.springerlink">
+              SpringerLink
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/products/springer-rnd" id="mainnav.springer_for_r&amp;d">
+              Springer for R&amp;D
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/products/hospital-health-products" id="mainnav.springer_for_hospitals_&amp;_health">
+              Springer for Hospitals &amp; Health
+             </a>
+            </li>
+            <li>
+             <a href="http://www.springer.com/us/products/databases-and-software" id="mainnav.databases_and_software">
+              Databases and Software
+             </a>
+            </li>
+           </ul>
+          </div>
+         </li>
+         <li class="mainNavigationMark" id="mainNavigation4">
+          <div class="nav-main">
+           <a class="mainNavigationLinkMark noSubnavigation" href="http://www.springer.com/shop" id="mainnav.springer_shop">
+            Springer Shop
+           </a>
+          </div>
+         </li>
+         <li class="mainNavigationMark" id="mainNavigation5">
+          <div class="nav-main">
+           <a class="mainNavigationLinkMark noSubnavigation" href="http://www.springer.com/us/about-springer" id="mainnav.about_us">
+            About us
+           </a>
+          </div>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div class="product-page edition-page" id="content" itemscope="" itemtype="http://schema.org/Book">
+    <!-- Debug Info Product Page
+        Buildnumber: 201602081739-234
+        X-site: us
+        X-Country: us
+        -->
+    <div class="layout-8-4">
+     <div class="col-main">
+      <div class="breadcrumb channels">
+       <a href="http://www.springer.com/computer?SGWID=0-146-0-0-0" onmousedown="wt.sendinfo({linkId:'breadcrumb.Computer'});">
+        Computer Science
+       </a>
+       <a href="http://www.springer.com/computer/database+management+%26+information+retrieval?SGWID=0-153-0-0-0" onmousedown="wt.sendinfo({linkId:'breadcrumb.Database Management &amp; Information Retrieval'});">
+        Database Management &amp; Information Retrieval
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="layout-8-4">
+     <div class="col-main">
+      <div class="product-title">
+       <a class="series" href="/series/7408">
+        Programming and Software Engineering
+       </a>
+       <div class="copyright">
+        © 2013
+       </div>
+       <div class="main-information">
+        <div class="product-cover">
+         <a class="link-image" data-preview-doi="10.1007%2F978-3-642-39062-3_1" href="#" onmousedown="wt.sendinfo({linkId:'look_inside'});">
+          <span class="look-inside-badge">
+           Free Preview
+          </span>
+          <img itemprop="image" src="https://images.springer.com/sgw/books/medium/9783642390616.jpg"/>
+         </a>
+        </div>
+        <div class="bibliographic-information">
+         <h1>
+          Human Factors in Computing and Informatics
+         </h1>
+         <h2>
+          First International Conference, SouthCHI 2013, Maribor, Slovenia, July 1-3, 2013, Proceedings
+         </h2>
+         <p>
+          Editors:
+          <strong>
+           Holzinger
+          </strong>
+          , A.,
+          <strong>
+           Ziefle
+          </strong>
+          , M.,
+          <strong>
+           Hitz
+          </strong>
+          , M.,
+          <strong>
+           Debevc
+          </strong>
+          , M. (Eds.)
+         </p>
+        </div>
+       </div>
+       <div class="usps">
+        <ul>
+         <li>
+          State-of-the-art research
+         </li>
+         <li>
+          Fast-track conference proceedings
+         </li>
+         <li>
+          Unique visibility
+         </li>
+        </ul>
+        <a class="action-show-all" href="#">
+         see more benefits
+        </a>
+       </div>
+      </div>
+      <div class="product-buy">
+       <div class="box-primary">
+        <h3>
+         Buy this book
+        </h3>
+        <dl class="expander">
+         <dt class="buy-rendition-9783642390623 open ">
+          <span class="cover-type">
+           eBook
+          </span>
+          <span class="price-box">
+           <span class="price">
+            $109.00
+           </span>
+          </span>
+         </dt>
+         <dd>
+          <div class="list-price">
+           price for USA
+          </div>
+          <div class="actions">
+           <a class="btn btn-monster btn-primary buy" href="#">
+            Buy eBook
+           </a>
+           <input name="price" type="hidden" value="$109.00"/>
+           <input name="isbn" type="hidden" value="978-3-642-39062-3"/>
+           <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+          </div>
+          <ul>
+           <li>
+            ISBN 978-3-642-39062-3
+           </li>
+           <li>
+            Digitally watermarked, no DRM
+           </li>
+           <li>
+            Included format: PDF
+           </li>
+           <li>
+            eBooks can be used on all reading devices
+           </li>
+           <li>
+            Download immediately after purchase
+           </li>
+          </ul>
+         </dd>
+         <dt class="buy-rendition-9783642390616 ">
+          <span class="cover-type">
+           Softcover
+          </span>
+          <span class="price-box">
+           <span class="price">
+            $143.00
+           </span>
+          </span>
+         </dt>
+         <dd>
+          <div class="list-price">
+           price for USA
+          </div>
+          <div class="actions">
+           <a class="btn btn-monster btn-primary buy" href="#">
+            Buy Softcover
+           </a>
+           <input name="price" type="hidden" value="$143.00"/>
+           <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+           <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+          </div>
+          <ul>
+           <li>
+            ISBN 978-3-642-39061-6
+           </li>
+           <li>
+            Free shipping for individuals worldwide
+           </li>
+           <li>
+            <!-- POD-PODACT -->
+            Usually dispatched within 3 to 5 business days.
+           </li>
+          </ul>
+         </dd>
+        </dl>
+        <div class="buy-footer">
+         <p>
+          <i class="cms-icon-shop payment-visa">
+          </i>
+          <i class="cms-icon-shop payment-mastercard">
+          </i>
+          <i class="cms-icon-shop payment-amex">
+          </i>
+          <i class="cms-icon-shop payment-paypal">
+          </i>
+          <i class="cms-icon-shop payment-invoice">
+          </i>
+         </p>
+         <div class="buy-footer-links">
+          <a href="/help/orders?SGWID=0-40026-12-687403-0">
+           FAQ
+          </a>
+          <a href="/generic/terms?SGWID=0-40112-0-0-0">
+           Policy
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="product-about">
+       <!-- Edition id is: 247850 -->
+       <dl class="cms-tab-panel">
+        <dt>
+         <a href="#aboutBook" onmousedown="wt.sendinfo({linkId:'aboutThis'});">
+          About this book
+         </a>
+        </dt>
+        <dd>
+         <div>
+          <div class="springer-html">
+           <p>
+            This book constitutes the refereed proceedings of the First International Conference on Human Factors in Computing and Informatics, SouthCHI 2013, held in Maribor, Slovenia, in July 2013. SouthCHI is the successor of the USAB Conference series and promotes all aspects of human-computer interaction. The 38 revised full papers presented together with 12 short papers, 4 posters and 3 doctoral thesis papers were carefully reviewed and selected from 169 submissions. The papers are organized in the following topical sections: measurement and usability evaluation; usability evaluation - medical environments; accessibility methodologies; game-based methodologies; Web-based systems and attribution research; virtual environments; design culture for ageing well: designing for "situated elderliness"; input devices; adaptive systems and intelligent agents; and assessing the state of HCI research and practice in South-Eastern Europe.
+           </p>
+          </div>
+          <div class="action-footer">
+           <div class="actions-right">
+            <a class="action-show-all" href="#">
+             Show all
+            </a>
+           </div>
+          </div>
+         </div>
+        </dd>
+       </dl>
+      </div>
+      <div class="product-toc">
+       <dl class="expander">
+        <dt class="open">
+         <h2>
+          Table of contents
+          <span class="chapter-count">
+           (65 chapters)
+          </span>
+         </h2>
+        </dt>
+        <dd>
+         <ul class="toc">
+          <li class="toc-item chapter-item open ">
+           <div class="main">
+            <p class="title">
+             Design and Development Methodology for the Emotional State Estimation of Verbs
+            </p>
+            <p class="authors">
+             Kouroupetroglou, Georgios (et al.)
+            </p>
+            <p class="page-range">
+             Pages 1-15
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190283"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_1"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Automatic Recognition of the Unconscious Reactions from Physiological Signals
+            </p>
+            <p class="authors">
+             Ivonin, Leonid (et al.)
+            </p>
+            <p class="page-range">
+             Pages 16-35
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190288"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_2"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Technique for Evaluating Photo Sharing Interfaces with the Early Prototypes - Group Simulation
+            </p>
+            <p class="authors">
+             Ojala, Jarno Aulis Olavi (et al.)
+            </p>
+            <p class="page-range">
+             Pages 36-53
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190292"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_3"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Usability Evaluation of Configuration-Based API Design Concepts
+            </p>
+            <p class="authors">
+             Scheller, Thomas (et al.)
+            </p>
+            <p class="page-range">
+             Pages 54-73
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190296"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_4"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Monitoring Learning Activities in PLE Using Semantic Modelling of Learner Behaviour
+            </p>
+            <p class="authors">
+             Softic, Selver (et al.)
+            </p>
+            <p class="page-range">
+             Pages 74-90
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190300"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_5"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+         </ul>
+         <ul class="toc toc-hidden" style="display:none;">
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Back to User-Centered Usability Testing
+            </p>
+            <p class="authors">
+             Tarkkanen, Kimmo (et al.)
+            </p>
+            <p class="page-range">
+             Pages 91-106
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190304"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_6"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Comparing the Levels of Frustration between an Eye-Tracker and a Mouse: A Pilot Study
+            </p>
+            <p class="authors">
+             Noronha, Hildegardo (et al.)
+            </p>
+            <p class="page-range">
+             Pages 107-121
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190308"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_7"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Study of the Influence of Prototype Aesthetic Fidelity (A Realism Factor) in Usability Tests
+            </p>
+            <p class="authors">
+             Rueda, Diana (et al.)
+            </p>
+            <p class="page-range">
+             Pages 122-136
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190312"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_8"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Exploiting Classical Bibliometrics of CSCW: Classification, Evaluation, Limitations, and the Odds of Semantic Analytics
+            </p>
+            <p class="authors">
+             Correia, António (et al.)
+            </p>
+            <p class="page-range">
+             Pages 137-156
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190315"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_9"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             An Empirical Evaluation of a Usability Measurement Method in a Model Driven Framework
+            </p>
+            <p class="authors">
+             Ben Ammar, Lassad (et al.)
+            </p>
+            <p class="page-range">
+             Pages 157-173
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190318"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_10"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             The Impact of User Diversity on the Willingness to Disclose Personal Information in Social Network Services
+            </p>
+            <p class="authors">
+             Schaar, Anne Kathrin (et al.)
+            </p>
+            <p class="page-range">
+             Pages 174-193
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190321"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_11"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Practical Neurophysiological Analysis of Readability as a Usability Dimension
+            </p>
+            <p class="authors">
+             Oliveira, Inês Isabel Pimentel (et al.)
+            </p>
+            <p class="page-range">
+             Pages 194-211
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190324"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_12"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Query Behavior: The Impact of Health Literacy, Topic Familiarity and Terminology
+            </p>
+            <p class="authors">
+             Lopes, Carla Teixeira (et al.)
+            </p>
+            <p class="page-range">
+             Pages 212-223
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190326"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_13"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             MeD UD – A Process Reference Model for Usability Design in Medical Devices
+            </p>
+            <p class="authors">
+             Flood, Derek (et al.)
+            </p>
+            <p class="page-range">
+             Pages 224-239
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="175462659"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_14"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Dictionary of the Slovenian Sign Language on the WWW
+            </p>
+            <p class="authors">
+             Cempre, Luka (et al.)
+            </p>
+            <p class="page-range">
+             Pages 240-259
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190330"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_15"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             A Usability Requirements Analysis for Wireless Interaction and Connectivity for Elderly Hearing Aid Users
+            </p>
+            <p class="authors">
+             Debevc, Matjaž (et al.)
+            </p>
+            <p class="page-range">
+             Pages 260-271
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190333"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_16"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Investigating an Accessible and Usable ePub Book via VoiceOver: A Case Study
+            </p>
+            <p class="authors">
+             Bartalesi Lenzi, Valentina (et al.)
+            </p>
+            <p class="page-range">
+             Pages 272-283
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190336"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_17"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Route Descriptions in Advance and Turn-by-Turn Instructions - Usability Evaluation of a Navigational System for Visually Impaired and Blind People in Public Transport
+            </p>
+            <p class="authors">
+             Mattheiss, Elke (et al.)
+            </p>
+            <p class="page-range">
+             Pages 284-295
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190340"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_18"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Elements of Play for Cognitive, Physical and Social Health in Older Adults
+            </p>
+            <p class="authors">
+             Kayali, Fares (et al.)
+            </p>
+            <p class="page-range">
+             Pages 296-313
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190345"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_19"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Understanding the Digital Game Classification System: A Review of the Current Classification System and Its Implications for Use within Games for Health
+            </p>
+            <p class="authors">
+             Marston, Hannah Ramsden (et al.)
+            </p>
+            <p class="page-range">
+             Pages 314-331
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190348"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_20"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             A Preliminary Evaluation of a Participation-Centered Gameplay Experience Design Model
+            </p>
+            <p class="authors">
+             Pereira, Luís Lucas (et al.)
+            </p>
+            <p class="page-range">
+             Pages 332-348
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190351"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_21"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Increase Physical Fitness and Create Health Awareness through Exergames and Gamification
+            </p>
+            <p class="authors">
+             Brauner, Philipp (et al.)
+            </p>
+            <p class="page-range">
+             Pages 349-362
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190354"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_22"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Design of a Game-Based Pre-hospital Resuscitation Training for First Responders
+            </p>
+            <p class="authors">
+             Kalz, Marco (et al.)
+            </p>
+            <p class="page-range">
+             Pages 363-372
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190357"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_23"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             The Resigned, the Confident, and the Humble: A Typology of Computer-Related Attribution Styles
+            </p>
+            <p class="authors">
+             Janneck, Monique (et al.)
+            </p>
+            <p class="page-range">
+             Pages 373-390
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190360"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_24"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Next Generation Tele-Teaching: Latest Recording Technology, User Engagement and Automatic Metadata Retrieval
+            </p>
+            <p class="authors">
+             Grünewald, Franka (et al.)
+            </p>
+            <p class="page-range">
+             Pages 391-408
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190362"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_25"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+         </ul>
+         <ul class="toc toc-hidden" style="display:none;">
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Towards the Personalization of CAPTCHA Mechanisms Based on Individual Differences in Cognitive Processing
+            </p>
+            <p class="authors">
+             Belk, Marios (et al.)
+            </p>
+            <p class="page-range">
+             Pages 409-426
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190364"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_26"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Personality Influences on Etiquette Requirements for Social Media in the Work Context
+            </p>
+            <p class="authors">
+             Calero Valdez, André (et al.)
+            </p>
+            <p class="page-range">
+             Pages 427-446
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190366"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_27"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Role of Information Scent and Link Position in a Successful Navigation on Web
+            </p>
+            <p class="authors">
+             Velagapuri, Vamshi (et al.)
+            </p>
+            <p class="page-range">
+             Pages 447-456
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190367"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_28"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             The Minimal Group Paradigm in Virtual Teams
+            </p>
+            <p class="authors">
+             Janneck, Monique (et al.)
+            </p>
+            <p class="page-range">
+             Pages 457-476
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="175496951"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_29"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             “Atlas 2012” Augmented Reality: A Case Study in the Domain of Fine Arts
+            </p>
+            <p class="authors">
+             Bovcon, Narvika (et al.)
+            </p>
+            <p class="page-range">
+             Pages 477-496
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190368"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_30"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Unfolding – A Library for Interactive Maps
+            </p>
+            <p class="authors">
+             Nagel, Till (et al.)
+            </p>
+            <p class="page-range">
+             Pages 497-513
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190370"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_31"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Improving Students’ Technical Skills Using Mobile Virtual Laboratory: Pilot Study of Assembly Language Input Methods for Touchscreen Devices
+            </p>
+            <p class="authors">
+             Kukec, Mihael (et al.)
+            </p>
+            <p class="page-range">
+             Pages 514-533
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190371"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_32"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Exploring the Adaptation to Learning Styles: The Case of
+            </p>
+            <p class="authors">
+             Nakić, Jelena (et al.)
+            </p>
+            <p class="page-range">
+             Pages 534-550
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190373"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_33"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Design and Evaluation of a Learner-Centric Immersive Virtual Learning Environment for Physics Education
+            </p>
+            <p class="authors">
+             Pirker, Johanna (et al.)
+            </p>
+            <p class="page-range">
+             Pages 551-561
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190375"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_34"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Towards Unification for Pointing Task Evaluation in 3D Desktop Virtual Environment
+            </p>
+            <p class="authors">
+             Raynal, Mathieu (et al.)
+            </p>
+            <p class="page-range">
+             Pages 562-580
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190377"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_35"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Design Culture for Ageing Well: Designing for ‘Situated Elderliness’
+            </p>
+            <p class="authors">
+             Subasi, Özge (et al.)
+            </p>
+            <p class="page-range">
+             Pages 581-584
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190379"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_36"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Towards Community-Based Co-creation
+            </p>
+            <p class="authors">
+             Huldtgren, Alina (et al.)
+            </p>
+            <p class="page-range">
+             Pages 585-592
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190381"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_37"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Course and Perception of Ageing in Different Cultures Relevant for Intercultural HCI Design
+            </p>
+            <p class="authors">
+             Heimgärtner, Rüdiger
+            </p>
+            <p class="page-range">
+             Pages 593-600
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190383"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_38"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Memoryscape: Designing with Senior Citizens as Memory Meditation
+            </p>
+            <p class="authors">
+             Bagalkot, Naveen L. (et al.)
+            </p>
+            <p class="page-range">
+             Pages 601-608
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="175369132"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_39"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Design and Interaction in a Smart Gym: Cognitive and Bodily Mastering
+            </p>
+            <p class="authors">
+             Culén, Alma Leora (et al.)
+            </p>
+            <p class="page-range">
+             Pages 609-616
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190385"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_40"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             From Research to Design - Sketching a Game to Trigger Reminiscence in Older Adults
+            </p>
+            <p class="authors">
+             Luckner, Naemi (et al.)
+            </p>
+            <p class="page-range">
+             Pages 617-624
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190387"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_41"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             kommTUi – A Design Process for a Tangible Communication Technology with Seniors
+            </p>
+            <p class="authors">
+             Ehrenstrasser, Lisa (et al.)
+            </p>
+            <p class="page-range">
+             Pages 625-632
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190389"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_42"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Keeping “InTOUCH”: An Ongoing Co-design Project to Share Memories, Skills and Demands through an Interactive Table
+            </p>
+            <p class="authors">
+             Giorgi, Sabina (et al.)
+            </p>
+            <p class="page-range">
+             Pages 633-640
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190391"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_43"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Assisting Lifestyles: “Laughing, Living and Learning”
+            </p>
+            <p class="authors">
+             Markovic, Boris (et al.)
+            </p>
+            <p class="page-range">
+             Pages 641-648
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190393"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_44"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Older People as Equal Partners in Creative Design
+            </p>
+            <p class="authors">
+             Sustar, Helena (et al.)
+            </p>
+            <p class="page-range">
+             Pages 649-656
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190396"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_45"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+         </ul>
+         <ul class="toc toc-hidden" style="display:none;">
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Designing Guiding Garments for People Affected by Dementias
+            </p>
+            <p class="authors">
+             Schulte, Britta Friederike
+            </p>
+            <p class="page-range">
+             Pages 657-663
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190398"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_46"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Towards Rapid Technology Probes for Senior People
+            </p>
+            <p class="authors">
+             Güldenpfennig, Florian (et al.)
+            </p>
+            <p class="page-range">
+             Pages 664-671
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190401"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_47"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Towards an Acceptance Model for AAL
+            </p>
+            <p class="authors">
+             Leitner, Gerhard (et al.)
+            </p>
+            <p class="page-range">
+             Pages 672-679
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190404"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_48"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Gestyboard 2.0: A Gesture-Based Text Entry Concept for High Performance Ten-Finger Touch-Typing and Blind Typing on Touchscreens
+            </p>
+            <p class="authors">
+             Coskun, Tayfur (et al.)
+            </p>
+            <p class="page-range">
+             Pages 680-691
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190407"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_49"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             On-Screen Marker Fields for Reliable Screen-to-Screen Task Migration
+            </p>
+            <p class="authors">
+             Kajan, Rudolf (et al.)
+            </p>
+            <p class="page-range">
+             Pages 692-710
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="175389154"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_50"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Reading on eInk and Backlit LED – The Influence of Positive and Negative Contrast on Eye Movements
+            </p>
+            <p class="authors">
+             Bochud, Yves Etienne (et al.)
+            </p>
+            <p class="page-range">
+             Pages 711-720
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190412"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_51"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Exploring Hand Posture for Smart Mobile Devices
+            </p>
+            <p class="authors">
+             Zaiţi, Ionuţ-Alexandru (et al.)
+            </p>
+            <p class="page-range">
+             Pages 721-731
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190415"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_52"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Pointing in the Air: Measuring the Effect of Hand Selection Strategies on Performance and Effort
+            </p>
+            <p class="authors">
+             Schwaller, Matthias (et al.)
+            </p>
+            <p class="page-range">
+             Pages 732-747
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190417"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_53"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             The Influence of Proactivity on Interactive Help Agents
+            </p>
+            <p class="authors">
+             Lang, Helmut (et al.)
+            </p>
+            <p class="page-range">
+             Pages 748-767
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190419"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_54"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Platform-Aware Rich-Form Generation for Adaptive Systems through Code-Inspection
+            </p>
+            <p class="authors">
+             Macik, Miroslav (et al.)
+            </p>
+            <p class="page-range">
+             Pages 768-784
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190421"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_55"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Kinect Web Kiosk Framework
+            </p>
+            <p class="authors">
+             Bohak, Ciril (et al.)
+            </p>
+            <p class="page-range">
+             Pages 785-790
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190423"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_56"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Enhancement of Web Application Design of the Open Platform for Clinical Nutrition
+            </p>
+            <p class="authors">
+             Novak, Peter (et al.)
+            </p>
+            <p class="page-range">
+             Pages 791-802
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190425"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_57"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             HDCMD: A Clustering Algorithm to Support Hand Detection on Multitouch Displays
+            </p>
+            <p class="authors">
+             Blažica, Bojan (et al.)
+            </p>
+            <p class="page-range">
+             Pages 803-814
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190427"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_58"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Augmentative Requirements Engineering for Trustworthy and Usable ICT-Based Services
+            </p>
+            <p class="authors">
+             Belani, Hrvoje
+            </p>
+            <p class="page-range">
+             Pages 815-818
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190429"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_59"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Research Goals for Evolving the ‘Form’ User Interface Metaphor towards More Interactivity
+            </p>
+            <p class="authors">
+             Harms, Johannes
+            </p>
+            <p class="page-range">
+             Pages 819-822
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190430"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_60"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Intentions: A Confident-Based Interaction Design for Smart Spaces
+            </p>
+            <p class="authors">
+             Vega-Barbas, Mario (et al.)
+            </p>
+            <p class="page-range">
+             Pages 823-826
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190431"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_61"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Combining Spatial and Temporal Information of Eye Movements in Goal-Oriented Tasks
+            </p>
+            <p class="authors">
+             Chen, Monchu (et al.)
+            </p>
+            <p class="page-range">
+             Pages 827-830
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190432"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_62"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Dyslexia Explorer: A Screening System for Learning Difficulties in the Arabic Language Using Eye Tracking
+            </p>
+            <p class="authors">
+             Al-Edaily, Arwa (et al.)
+            </p>
+            <p class="page-range">
+             Pages 831-834
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190433"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_63"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             An Analysis of Social Interaction between Older and Children: Augmented Reality Integration in Table Game Design
+            </p>
+            <p class="authors">
+             Lin, Chan-Li (et al.)
+            </p>
+            <p class="page-range">
+             Pages 835-838
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190435"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_64"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+          <li class="toc-item chapter-item ">
+           <div class="main">
+            <p class="title">
+             Justification of User Profiles Based on the Mental Models’ Competency
+            </p>
+            <p class="authors">
+             Bolakova, Ieva (et al.)
+            </p>
+            <p class="page-range">
+             Pages 839-842
+             <span class="toc-expander">
+             </span>
+            </p>
+           </div>
+           <div class="detail">
+            <a class="btn preview" href="#" onmousedown="wt.sendinfo({linkId:'look_inside_chapter'});">
+             Preview
+            </a>
+            <!--
+-->
+            <a class="btn btn-primary buy" href="#">
+             Buy Chapter
+            </a>
+            <span class="price">
+             $29.95
+            </span>
+            <input name="price" type="hidden" value="$29.95"/>
+            <input name="chapterId" type="hidden" value="176190437"/>
+            <input name="doi" type="hidden" value="10.1007/978-3-642-39062-3_65"/>
+            <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+            <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+           </div>
+          </li>
+         </ul>
+         <div class="action-footer">
+          <div class="actions-right">
+           <a class="action-show-all" href="#" onmousedown="wt.sendinfo({linkId:'showMore.toc'});">
+            Show next
+            <span>
+             xx
+            </span>
+           </a>
+          </div>
+         </div>
+        </dd>
+       </dl>
+      </div>
+      <div class="extra-materials">
+       <a class="btn btn-secondary" href="http://link.springer.com/978-3-642-39061-6" onmousedown="wt.sendinfo({linkId:'read_online'});">
+        Read this book on SpringerLink
+       </a>
+      </div>
+     </div>
+     <div class="col-aside">
+      <div class="product-buy">
+       <div class="box-primary">
+        <h3>
+         Buy this book
+        </h3>
+        <dl class="expander">
+         <dt class="buy-rendition-9783642390623 open ">
+          <span class="cover-type">
+           eBook
+          </span>
+          <span class="price-box">
+           <span class="price">
+            $109.00
+           </span>
+          </span>
+         </dt>
+         <dd>
+          <div class="list-price">
+           price for USA
+          </div>
+          <div class="actions">
+           <a class="btn btn-monster btn-primary buy" href="#">
+            Buy eBook
+           </a>
+           <input name="price" type="hidden" value="$109.00"/>
+           <input name="isbn" type="hidden" value="978-3-642-39062-3"/>
+           <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+          </div>
+          <ul>
+           <li>
+            ISBN 978-3-642-39062-3
+           </li>
+           <li>
+            Digitally watermarked, no DRM
+           </li>
+           <li>
+            Included format: PDF
+           </li>
+           <li>
+            eBooks can be used on all reading devices
+           </li>
+           <li>
+            Download immediately after purchase
+           </li>
+          </ul>
+         </dd>
+         <dt class="buy-rendition-9783642390616 ">
+          <span class="cover-type">
+           Softcover
+          </span>
+          <span class="price-box">
+           <span class="price">
+            $143.00
+           </span>
+          </span>
+         </dt>
+         <dd>
+          <div class="list-price">
+           price for USA
+          </div>
+          <div class="actions">
+           <a class="btn btn-monster btn-primary buy" href="#">
+            Buy Softcover
+           </a>
+           <input name="price" type="hidden" value="$143.00"/>
+           <input name="isbn" type="hidden" value="978-3-642-39061-6"/>
+           <input name="title" type="hidden" value="Human Factors in Computing and Informatics"/>
+          </div>
+          <ul>
+           <li>
+            ISBN 978-3-642-39061-6
+           </li>
+           <li>
+            Free shipping for individuals worldwide
+           </li>
+           <li>
+            <!-- POD-PODACT -->
+            Usually dispatched within 3 to 5 business days.
+           </li>
+          </ul>
+         </dd>
+        </dl>
+        <div class="buy-footer">
+         <p>
+          <i class="cms-icon-shop payment-visa">
+          </i>
+          <i class="cms-icon-shop payment-mastercard">
+          </i>
+          <i class="cms-icon-shop payment-amex">
+          </i>
+          <i class="cms-icon-shop payment-paypal">
+          </i>
+          <i class="cms-icon-shop payment-invoice">
+          </i>
+         </p>
+         <div class="buy-footer-links">
+          <a href="/help/orders?SGWID=0-40026-12-687403-0">
+           FAQ
+          </a>
+          <a href="/generic/terms?SGWID=0-40112-0-0-0">
+           Policy
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="book-metrics" data-bookmetrix-ajax-url="/app-pp/bookmetrix?doi=10.1007%2F978-3-642-39062-3">
+       <img alt="Loading..." src="//static.springer.com/app-pp/assets-v/images/4fa48143767ef3bef326660dab576c75-loading.gif"/>
+      </div>
+      <div>
+       <h3>
+        <div class="breadcrumb">
+         Services for this Book
+        </div>
+       </h3>
+       <dl>
+        <dd>
+         <div class="product-services">
+          <a href="http://www.springer.com/services+for+this+book?SGWID=0-1772415-3260-0-9783642390616">
+           Download Product Flyer
+          </a>
+          <a href="http://www.springer.com/services+for+this+book?SGWID=0-1772415-3261-0-9783642390616">
+           Access an Online Book Review Copy
+          </a>
+          <a href="https://images.springer.com/sgw/books/raw/9783642390616.tif">
+           Download High-Resolution Cover
+          </a>
+         </div>
+         <dd>
+         </dd>
+        </dd>
+       </dl>
+      </div>
+      <div class="product-share">
+       <div class="cms-social">
+        <div class="cms-social-buttons">
+         <div class="cms-social-left">
+          <a alt="Share on Facebook" href="#" id="tool-facebook" onmousedown="wt.sendinfo({linkId: 'social media button', customClickParameter : { 550 : 'facebook - share'}});" rel="nofollow">
+           <span class="icon">
+            Facebook
+           </span>
+          </a>
+          <a alt="Share on Twitter+" href="#" id="tool-twitter" onmousedown="wt.sendinfo({linkId: 'social media button', customClickParameter : { 550 : 'twitter - share'}});" rel="nofollow">
+           <span class="icon">
+            Twitter
+           </span>
+          </a>
+          <a alt="Share on Linkedin" href="#" id="tool-linkedin" onmousedown="wt.sendinfo({linkId: 'social media button', customClickParameter : { 550 : 'linkedin - share'}});" rel="nofollow">
+           <span class="icon">
+            LinkedIn
+           </span>
+          </a>
+          <a alt="Share on Google+" href="#" id="tool-gplus" onmousedown="wt.sendinfo({linkId: 'social media button', customClickParameter : { 550 : 'google - share'}});" rel="nofollow">
+           <span class="icon">
+            Google++
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="layout-12">
+     <div class="col-main">
+      <div class="product-recommendation" data-baynote-service-url="/app-pp/recommendation/us/978-3-642-39061-6">
+       <h2>
+        Recommended for you
+       </h2>
+       <div class="product-recommendation-data">
+        <img alt="Loading..." src="//static.springer.com/app-pp/assets-v/images/4fa48143767ef3bef326660dab576c75-loading.gif"/>
+       </div>
+      </div>
+      <div class="product-bibliographic">
+       <h2>
+        Bibliographic Information
+       </h2>
+       <dl class="cms-tab-panel">
+        <dt>
+         <a href="#bibliographic">
+          Bibliographic Information
+         </a>
+        </dt>
+        <dd>
+         <div>
+          <div class="cms-row-3-tablet summary">
+           <dl class="cms-col">
+            <dt>
+             Book Title
+            </dt>
+            <dd itemprop="name">
+             Human Factors in Computing and Informatics
+            </dd>
+            <dt>
+             Book Subtitle
+            </dt>
+            <dd>
+             First International Conference, SouthCHI 2013, Maribor, Slovenia, July 1-3, 2013, Proceedings
+            </dd>
+            <dt>
+             Editors
+            </dt>
+            <dd>
+             <ul>
+              <li itemprop="editor" itemscope="" itemtype="http://schema.org/Person">
+               <span itemprop="name">
+                Andreas Holzinger
+               </span>
+              </li>
+              <li itemprop="editor" itemscope="" itemtype="http://schema.org/Person">
+               <span itemprop="name">
+                Martina Ziefle
+               </span>
+              </li>
+              <li itemprop="editor" itemscope="" itemtype="http://schema.org/Person">
+               <span itemprop="name">
+                Martin Hitz
+               </span>
+              </li>
+              <li itemprop="editor" itemscope="" itemtype="http://schema.org/Person">
+               <span itemprop="name">
+                Matjaž Debevc
+               </span>
+              </li>
+             </ul>
+            </dd>
+            <dt>
+             Series Title
+            </dt>
+            <dd>
+             <a href="/series/7408">
+              Programming and Software Engineering
+             </a>
+            </dd>
+            <dt>
+             Series Volume
+            </dt>
+            <dd>
+             7946
+            </dd>
+            <dt>
+             Copyright
+            </dt>
+            <dd>
+             2013
+            </dd>
+            <dt>
+             Publisher
+            </dt>
+            <dd itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+             <span itemprop="name">
+              Springer-Verlag Berlin Heidelberg
+             </span>
+            </dd>
+            <dt>
+             Copyright Holder
+            </dt>
+            <dd>
+             Springer-Verlag Berlin Heidelberg
+            </dd>
+           </dl>
+           <dl class="cms-col">
+            <dt>
+             eBook ISBN
+            </dt>
+            <dd>
+             978-3-642-39062-3
+            </dd>
+            <dt>
+             DOI
+            </dt>
+            <dd>
+             10.1007/978-3-642-39062-3
+            </dd>
+            <dt>
+             Softcover ISBN
+            </dt>
+            <dd itemprop="isbn">
+             978-3-642-39061-6
+            </dd>
+            <dt>
+             Edition Number
+            </dt>
+            <dd>
+             1
+            </dd>
+           </dl>
+           <dl class="cms-col">
+            <dt>
+             Number of Pages
+            </dt>
+            <dd itemprop="numberOfPages">
+             XXIV, 845
+            </dd>
+            <dt>
+             Number of Illustrations and Tables
+            </dt>
+            <dd>
+             294 b/w illustrations
+            </dd>
+            <dt>
+             Topics
+            </dt>
+            <dd>
+             <ul>
+              <li>
+               <a href="/?SGWID=0-102-24-0-0&amp;searchType=ADVANCED_CDA&amp;subject=I18040" itemprop="genre">
+                Information Systems Applications (incl.Internet)
+               </a>
+              </li>
+              <li>
+               <a href="/?SGWID=0-102-24-0-0&amp;searchType=ADVANCED_CDA&amp;subject=I21017" itemprop="genre">
+                Artificial Intelligence (incl. Robotics)
+               </a>
+              </li>
+              <li>
+               <a href="/?SGWID=0-102-24-0-0&amp;searchType=ADVANCED_CDA&amp;subject=I18032" itemprop="genre">
+                Information Storage and Retrieval
+               </a>
+              </li>
+              <li>
+               <a href="/?SGWID=0-102-24-0-0&amp;searchType=ADVANCED_CDA&amp;subject=I18067" itemprop="genre">
+                User Interfaces and Human Computer Interaction
+               </a>
+              </li>
+              <li>
+               <a href="/?SGWID=0-102-24-0-0&amp;searchType=ADVANCED_CDA&amp;subject=I13022" itemprop="genre">
+                Computer Communication Networks
+               </a>
+              </li>
+              <li>
+               <a href="/?SGWID=0-102-24-0-0&amp;searchType=ADVANCED_CDA&amp;subject=H28009" itemprop="genre">
+                Health Informatics
+               </a>
+              </li>
+             </ul>
+            </dd>
+           </dl>
+          </div>
+         </div>
+        </dd>
+       </dl>
+      </div>
+     </div>
+    </div>
+    <span id="9783642390616" itemscope="" itemtype="http://schema.org/Product">
+     <meta content="Human Factors in Computing and Informatics" itemprop="name"/>
+     <span id="offer0" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+      <span itemprop="itemOffered" itemref="9783642390616" itemscope="" itemtype="http://schema.org/Product">
+       <meta content="9783642390623" itemprop="gtin13"/>
+      </span>
+      <meta content="USD" itemprop="priceCurrency"/>
+      <meta content="109.0" itemprop="price"/>
+      <meta content="http://schema.org/NewCondition" itemprop="itemCondition" itemtype="http://schema.org/OfferItemCondition"/>
+      <meta content="http://schema.org/InStock" itemprop="availability"/>
+     </span>
+     <span id="offer1" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+      <span itemprop="itemOffered" itemref="9783642390616" itemscope="" itemtype="http://schema.org/Product">
+       <meta content="9783642390616" itemprop="gtin13"/>
+      </span>
+      <meta content="USD" itemprop="priceCurrency"/>
+      <meta content="143.0" itemprop="price"/>
+      <meta content="http://schema.org/NewCondition" itemprop="itemCondition" itemtype="http://schema.org/OfferItemCondition"/>
+      <meta content="http://schema.org/InStock" itemprop="availability"/>
+     </span>
+    </span>
+    <!-- BEGIN READER OVERLAY -->
+    <div id="reader-overlay" style="display: none">
+     <div class="reader-position">
+      <div id="reader">
+       <div id="reader-buttons">
+        <a class="btn btn-close right" onclick="window.readerOverlay.close();">
+         CLOSE
+        </a>
+       </div>
+       <div class="show-pdf" id="viewer">
+        <div id="scroller">
+         <div id="page-1">
+          <div class="page-number">
+           PAGE 1
+          </div>
+          <div class="pdf-page" id="page-img-container-0">
+           <img alt="" class="pdf-image" style="width: 738px; display: inline;" width="738"/>
+          </div>
+         </div>
+         <div id="page-2">
+          <div class="page-number">
+           PAGE 2
+          </div>
+          <div class="pdf-page" id="page-img-container-1">
+           <img alt="" class="pdf-image" style="width: 738px; display: inline;" width="738"/>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="top-shadow" style="width: 795px;">
+       </div>
+       <div class="bottom-shadow" style="width: 795px;">
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- END READER OVERLAY -->
+   </div>
+   <footer>
+    <div class="page-wrapper">
+     <div id="footer">
+      <div class="section" id="footer-nav">
+       <div id="footer-nav-misc">
+        <div class="block" role="navigation">
+         <h6>
+          My Account
+         </h6>
+         <ul>
+          <li>
+           <a href="https://checkout.springer.com/checkout">
+            Shopping Cart
+           </a>
+          </li>
+          <li>
+           <a href="https://www.springer.com/myspringer">
+            MySpringer
+           </a>
+          </li>
+          <li>
+           <a href="https://www.springer.com/myspringer">
+            Login/Registration
+           </a>
+          </li>
+          <li>
+           <a href="http://www.springer.com/alert">
+            SpringerAlerts
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="block" role="navigation">
+         <h6>
+          About Springer
+         </h6>
+         <ul>
+          <li>
+           <a href="http://www.springer.com/gp/about-springer/company-information">
+            Company
+           </a>
+          </li>
+          <li>
+           <a href="http://www.springer.com/about+springer/media/pressreleases">
+            Media
+           </a>
+          </li>
+          <li>
+           <a href="http://www.springer.com/gp/about-springer/company-information/compliance">
+            Compliance
+           </a>
+          </li>
+          <li>
+           <a href="http://www.springer.com/us/about-springer/careers">
+            Careers
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="block" role="navigation">
+         <h6>
+          Help &amp; Contact
+         </h6>
+         <ul>
+          <li>
+           <a href="http://www.springer.com/us/help">
+            Help Overview
+           </a>
+          </li>
+          <li>
+           <a href="http://www.springer.com/us/help/buying-in-the-springer-shop/16712">
+            Order FAQ
+           </a>
+          </li>
+          <li>
+           <a href="http://www.springer.com/us/help/contact">
+            Contact Us
+           </a>
+          </li>
+          <li>
+           <a href="http://www.springer.com/us/imprint/610056">
+            Imprint
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="section" id="footer-legal" role="contentinfo">
+       <div id="mobile-nav">
+        <span class="pillow-btn open-legal" title="Show Legal Information">
+         Legal
+        </span>
+       </div>
+       <div id="legal" role="contentinfo">
+        <span id="footer-copyright">
+         © Springer, Part of Springer Science+Business Media
+        </span>
+        <span class="footer-links">
+         <a href="http://www.springer.com/gp/privacy-statement/627414">
+          Privacy Policy
+         </a>
+         ,
+         <a href="http://www.springer.com/generic/terms">
+          General Terms &amp; Conditions
+         </a>
+         ,
+         <a href="#">
+          2016
+         </a>
+        </span>
+        <div id="diagnostic-info">
+        </div>
+       </div>
+      </div>
+      <div class="section" id="footer-branding">
+       <div class="block">
+        <span id="branding-logo" title="Springer">
+         Springer
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script type="text/javascript">
+   /*<![CDATA[*/
+
+wt = $.extend(new webtrekkV3({
+  "trackId" : "196033507532344",
+  "domain" : "www.springer.com;checkout.springer.com;secure.worldpay.com",
+  "form" : "0",
+  "contentGroup" : {
+    "1" : "Computer",
+    "2" : "Database Management & Information Retrieval"
+  },
+  "heatmap" : "0",
+  "linkTrack" : "link",
+  "contentId" : "Computer.9783642390616_Human Factors in Computing and Informatics"
+}), {
+  "product" : "9783642390623_Human Factors in Computing and Informatics;9783642390616_Human Factors in Computing and Informatics",
+  "productStatus" : "view",
+  "productCategory" : {
+    "1" : "ebook;print",
+    "2" : "EN;EN",
+    "3" : "Computer;Computer",
+    "4" : "2013;2013",
+    "5" : "Springer-Verlag Berlin Heidelberg;Springer-Verlag Berlin Heidelberg"
+  },
+  "mediaCode" : "wt_mc;cm_mmc",
+  "linkTrackDownloads" : "avi;bmp;csv;doc;docx;dotx;eps;exe;gif;gz;jpeg;jpg;m4v;mov;mp3;mp4;mpg;pdf;png;ppt;pptx;ps;rss;rtf;swf;tar;tar.gz;tgz;tif;txt;wmv;xls;xlsx;zip"
+});
+
+wt.customParameter = {};
+
+if (window.isEntitled) {
+    wt.customParameter[6] = "access";
+} else {
+    wt.customParameter[6] = "noaccess";
+}
+
+wt.sendinfo();
+
+/*]]>*/
+  </script>
+  <noscript>
+   <div class="prompt-bar" id="jsnotice">
+    <p>
+     JavaScript is currently disabled, this site works much better if you
+     <a href="http://enable-javascript.com/">
+      enable JavaScript in your browser
+     </a>
+     .
+    </p>
+   </div>
+  </noscript>
+ </body>
+</html>

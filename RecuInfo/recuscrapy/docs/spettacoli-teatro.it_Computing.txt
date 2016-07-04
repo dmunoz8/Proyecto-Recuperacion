@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<html class="no-js" lang="it-IT" prefix="og: http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks - Spettacoli Teatro
+  </title>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://spettacoli-teatro.it/xmlrpc.php" rel="pingback"/>
+  <link href="https://www.evensi.com/css/blog.css" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+   #top-header button, #promote-evensi button, #promote-evensi a.red, #promote-evensi a.redgp {
+	      font-size: 14px;
+    line-height: 32px;
+	}
+  </style>
+  <script>
+   function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}
+  </script>
+  <script>
+   var theChampSiteUrl = 'http://spettacoli-teatro.it';
+  </script>
+  <script>
+   var theChampSharingAjaxUrl = 'http://spettacoli-teatro.it/wp-admin/admin-ajax.php', theChampCloseIconPath = 'http://spettacoli-teatro.it/wp-content/plugins/super-socializer/images/close.png', theChampPluginIconPath = 'http://spettacoli-teatro.it/wp-content/plugins/super-socializer/images/logo.png', theChampHorizontalSharingCountEnable = 1, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = 0, theChampCounterOffset = 0
+  </script>
+  <!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+  <link href="http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" rel="canonical"/>
+  <meta content="it_IT" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks - Spettacoli Teatro" property="og:title"/>
+  <meta content='Share the post "Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks" FacebookTwitterGoogle+PinterestLinkedInDiggE-mail 12 luglio 2016 presso Faculty of Computer Science – Free University of Bozen-Bolzano a Bolzano. SPEAKER: Iordanis Koutsopoulos, Associate Professor, Department of Informatics, Athens University of Economics and Business (AUEB) The main themes of the talk are …' property="og:description"/>
+  <meta content="http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" property="og:url"/>
+  <meta content="Spettacoli Teatro" property="og:site_name"/>
+  <meta content="culturateatribusinessistruzionestreamingtecnologia" property="article:tag"/>
+  <meta content="Bolzano" property="article:section"/>
+  <meta content="2016-06-12T03:56:23+00:00" property="article:published_time"/>
+  <meta content="http://spettacoli-teatro.it/wp-content/uploads/2016/06/1465696584_13412975_1399282826764056_8143403045896323294_n.jpg" property="og:image"/>
+  <!-- / Yoast WordPress SEO plugin. -->
+  <link href="http://spettacoli-teatro.it/feed" rel="alternate" title="Spettacoli Teatro » Feed" type="application/rss+xml"/>
+  <link href="http://spettacoli-teatro.it/comments/feed" rel="alternate" title="Spettacoli Teatro » Feed dei commenti" type="application/rss+xml"/>
+  <link href="http://spettacoli-teatro.it/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=4.0.11" id="cookielawinfo-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://spettacoli-teatro.it/wp-content/plugins/juiz-social-post-sharer/css/juiz-social-post-sharer-1.min.css?ver=1.3.8" id="juiz_sps_styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://spettacoli-teatro.it/wp-content/plugins/wp-siren-recent-posts-by-category/wpsiren-recent-posts-by-category-style.css?ver=4.0.11" id="rpbcStyle-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://spettacoli-teatro.it/wp-content/themes/noteworthy/style.css?ver=4.0.11" id="noteworthy_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://spettacoli-teatro.it/wp-content/plugins/super-socializer/css/front.css?ver=5.4.2" id="the-champ-frontend-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52540577-3']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+  </script>
+  <!-- / Google Analytics by Yoast -->
+  <script src="http://spettacoli-teatro.it/wp-includes/js/jquery/jquery.js?ver=1.11.1" type="text/javascript">
+  </script>
+  <script src="http://spettacoli-teatro.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <script src="http://spettacoli-teatro.it/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=4.0.11" type="text/javascript">
+  </script>
+  <script src="http://spettacoli-teatro.it/wp-content/themes/noteworthy/library/js/modernizr-2.6.1.min.js?ver=2.6.1" type="text/javascript">
+  </script>
+  <script src="http://spettacoli-teatro.it/wp-content/themes/noteworthy/library/js/jquery.nicescroll.js?ver=3.0.0" type="text/javascript">
+  </script>
+  <script src="http://spettacoli-teatro.it/wp-content/themes/noteworthy/library/js/scripts.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <script src="http://spettacoli-teatro.it/wp-content/plugins/super-socializer/js/modernizr.custom.82187.js?ver=5.4.2" type="text/javascript">
+  </script>
+  <script src="http://spettacoli-teatro.it/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=5.4.2" type="text/javascript">
+  </script>
+  <script src="http://spettacoli-teatro.it/wp-content/plugins/super-socializer/js/front/sharing/sharing.js?ver=5.4.2" type="text/javascript">
+  </script>
+  <link href="http://spettacoli-teatro.it/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://spettacoli-teatro.it/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 4.0.11" name="generator"/>
+  <link href="http://spettacoli-teatro.it/?p=64532" rel="shortlink"/>
+  <meta content="297297850305218" property="fb:app_id"/>
+  <meta content="" property="fb:admins"/>
+  <meta content="it_IT" property="og:locale"/>
+  <meta content="it_IT" property="og:locale:alternate"/>
+  <style id="custom-background-css" type="text/css">
+   body.custom-background { background-image: url('http://spettacoli-teatro.it/wp-content/themes/noteworthy/library/images/bg.jpg'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+  </style>
+ </head>
+ <body class="single single-post postid-64532 single-format-standard custom-background">
+  <div id="top-header" style="position: relative;">
+   <div id="logo-evensi">
+    <a href="https://www.evensi.com" target="_blank" title="Evensi">
+     <img alt="Evensi - The events search engine" height="30" src="https://www.evensi.com/image/logo/logo_evensi_blog.png"/>
+    </a>
+   </div>
+   <div id="buttons">
+    <button class="red" onclick="onlink('log')">
+     Registrati
+    </button>
+    <button class="redgp" onclick="onlink('ce')">
+     Crea un evento
+    </button>
+   </div>
+   <div id="clear">
+   </div>
+  </div>
+  <script type="text/javascript">
+   function onlink(page) {
+	var site = "spettacoliteatro";
+	var login = "https://www.evensi.com/blogs/signin.php";
+	window.location.href = login+"?site="+site+"&action="+page;
+  }
+  </script>
+  <div id="wrapper">
+   <header id="branding" role="banner">
+    <div id="top-red">
+     <div id="search-box">
+      <div id="close-x">
+       x
+      </div>
+      <form action="http://spettacoli-teatro.it/" class="searchform" id="searchform" method="get" role="search">
+       <div>
+        <label class="screen-reader-text" for="s">
+         Ricerca per:
+        </label>
+        <input id="s" name="s" type="text" value=""/>
+        <input id="searchsubmit" type="submit" value="Cerca"/>
+       </div>
+      </form>
+     </div>
+    </div>
+    <div class="clearfix" id="inner-header">
+     <hgroup id="site-heading">
+      <h1>
+       <a href="http://spettacoli-teatro.it/" rel="home" title="Spettacoli Teatro">
+        <img alt="Spettacoli Teatro" src="http://spettacoli-teatro.it/files/logo-spettacoli-teatro.png" title="Spettacoli Teatro"/>
+       </a>
+      </h1>
+      <!--<h1 id="site-title"><a href="http://spettacoli-teatro.it/" title="Spettacoli Teatro" rel="home">Spettacoli Teatro</a></h1>-->
+     </hgroup>
+     <!--<nav id="access" role="navigation">
+            <h1 class="assistive-text section-heading">Main menu</h1>
+            <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+            <div class="menu"><ul><li ><a href="http://spettacoli-teatro.it/">Home</a></li><li class="page_item page-item-13581"><a href="http://spettacoli-teatro.it/activity">Activity</a></li><li class="page_item page-item-26520"><a href="http://spettacoli-teatro.it/contatti">Contatti</a></li><li class="page_item page-item-13582"><a href="http://spettacoli-teatro.it/members">Members</a></li></ul></div>
+            
+        </nav>-->
+     <!-- #access -->
+     <div id="search-icon">
+     </div>
+    </div>
+   </header>
+   <!-- #branding -->
+   <div id="container">
+    <div class="clearfix" id="content">
+     <div class="col620 clearfix" id="main" role="main">
+      <article class="post-64532 post type-post status-publish format-standard has-post-thumbnail hentry category-bolzano tag-culturateatribusinessistruzionestreamingtecnologia" id="post-64532">
+       <header class="entry-header">
+        <div class="entry-meta">
+         <span class="sep">
+          Posted on
+         </span>
+         <a href="http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" rel="bookmark" title="3:56">
+          <time class="entry-date" datetime="2016-06-12T03:56:23+00:00">
+           12 giugno 2016
+          </time>
+         </a>
+         <span class="byline">
+          <span class="sep">
+           by
+          </span>
+          <span class="author vcard">
+           <a class="url fn n" href="http://spettacoli-teatro.it/author/giuseppe-loberto" rel="author" title="View all posts by Giuseppe Loberto">
+            Giuseppe Loberto
+           </a>
+          </span>
+         </span>
+        </div>
+        <!-- .entry-meta -->
+        <h1 class="entry-title">
+         Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks
+        </h1>
+        <div class="item-cat">
+         <span class="cat-links">
+          <a href="http://spettacoli-teatro.it/category/bolzano" rel="tag">
+           Bolzano
+          </a>
+         </span>
+        </div>
+        <div class="img-post-ev">
+         <img alt="Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks-img" class="attachment-post-thumbnail wp-post-image" height="270" src="http://spettacoli-teatro.it/wp-content/uploads/2016/06/1465696584_13412975_1399282826764056_8143403045896323294_n.jpg" width="720"/>
+        </div>
+       </header>
+       <!-- .entry-header -->
+       <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+       </script>
+       <!-- Trova eventi - Articolo (responsive) -->
+       <ins class="adsbygoogle" data-ad-client="ca-pub-6563385292851505" data-ad-format="auto" data-ad-slot="6489628677" style="display:block">
+       </ins>
+       <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+       <div class="entry-content post_content">
+        <div class="juiz_sps_links counters_both juiz_sps_displayed_both">
+         <p class="screen-reader-text juiz_sps_maybe_hidden_text">
+          Share the post "Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks"
+         </p>
+         <ul class="juiz_sps_links_list">
+          <li class="juiz_sps_item juiz_sps_link_facebook">
+           <a href="https://www.facebook.com/sharer/sharer.php?u=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.facebook.com/sharer/sharer.php?u=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532', 'Facebook']);" rel="nofollow" target="_blank" title="Share this article on Facebook">
+            <span class="juiz_sps_icon jsps-facebook">
+            </span>
+            <span class="juiz_sps_network_name">
+             Facebook
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_twitter">
+           <a href="https://twitter.com/intent/tweet?source=webclient&amp;original_referer=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;text=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;related=evensi_app&amp;via=evensi_app" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/intent/tweet?source=webclient&amp;original_referer=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;text=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;related=evensi_app&amp;via=evensi_app', 'Twitter']);" rel="nofollow" target="_blank" title="Share this article on Twitter">
+            <span class="juiz_sps_icon jsps-twitter">
+            </span>
+            <span class="juiz_sps_network_name">
+             Twitter
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_google">
+           <a href="https://plus.google.com/share?url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://plus.google.com/share?url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532', 'Google+']);" rel="nofollow" target="_blank" title="Share this article on Google+">
+            <span class="juiz_sps_icon jsps-google">
+            </span>
+            <span class="juiz_sps_network_name">
+             Google+
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_pinterest">
+           <a href="javascript:void((function(){var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" rel="nofollow" title="Share an image of this article on Pinterest">
+            <span class="juiz_sps_icon jsps-pinterest">
+            </span>
+            <span class="juiz_sps_network_name">
+             Pinterest
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_linkedin">
+           <a href="https://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;trk=JuizSocialPostSharer&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;trk=JuizSocialPostSharer&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532', 'LinkedIn']);" rel="nofollow" title="Share this article on LinkedIn">
+            <span class="juiz_sps_icon jsps-linkedin">
+            </span>
+            <span class="juiz_sps_network_name">
+             LinkedIn
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_digg">
+           <a href="https://digg.com/submit?phase=2%20&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://digg.com/submit?phase=2%20&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks', 'Digg']);" rel="nofollow" title="Share this article on Digg">
+            <span class="juiz_sps_icon jsps-digg">
+            </span>
+            <span class="juiz_sps_network_name">
+             Digg
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_mail">
+           <a href='mailto:?subject=Guarda cosa ho trovato su Spettacoli Teatro&amp;body=Ciao, ho trovato questo evento: "Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks"! Questo è il link: http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532' rel="nofollow" title="Share this article with a friend (email)">
+            <span class="juiz_sps_icon jsps-mail">
+            </span>
+            <span class="juiz_sps_network_name">
+             E-mail
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+        <h2 class="event-info">
+         12 luglio 2016 presso
+         <span class="event-location">
+          Faculty of Computer Science – Free University of Bozen-Bolzano
+         </span>
+         a Bolzano.
+        </h2>
+        <p>
+         <img alt="tracking.php?code=7OzgH0ylqDbGqW7bxaZBYE" src="https://www.evensi.it/tracking.php?code=7OzgH0ylqDbGqW7bxaZBYEldXXt6Ly4i7hhIGw9WbvVQtlAWEfV482i9yPN1W9sRl0LgWNEnkMK3sXgaBgI0KMrTI0jAPdUY01v8n5rKsPIDZC3sZxAh9hxF7zQPrBCT" style="width:1px;height:1px"/>
+        </p>
+        <div class="event-body">
+         <div class="event-description">
+          SPEAKER:
+          <br/>
+          Iordanis Koutsopoulos, Associate Professor, Department of Informatics, Athens University of Economics and Business (AUEB)
+          <p>
+           The main themes of the talk are the
+           <b>
+            optimization of mobile crowd
+           </b>
+           -sensing,
+           <b>
+            online platforms and wireless networks
+           </b>
+           . In the first part of the talk, we discuss
+           <b>
+            optimization of mobile crowd
+           </b>
+           -sensing campaigns in terms of total expected quality for a set of tasks to be accomplished, and in terms of compensation cost to task contributors. We profile users with respect to the impact of different task attributes on their decision-making by drawing on logistic-regression techniques from machine learning to learn from past data and then perform incentive targeting. In the second part of the talk, we take a first step towards rethinking recommender systems by exploiting the expected social-network diffusion and withholding recommendation of items that will anyway reach a user through reposting. We formulate the problem of maximizing total user engagement as a post  allocation problem and evaluate our approach through real datasets. In the last part of the talk, we will outline another direction of interest, namely dynamic computation allocation for streaming data in time-varying
+           <b>
+            wireless networks
+           </b>
+           . This problem is a core one in fog computing architectures where streaming data analytics needs to be performed. We seek to characterize the network performance limits in attainable computation rate. We will conclude with a high-level overview of few other
+           <b>
+            research areas and challenges that will shape our research agenda in the next few years
+           </b>
+           .
+          </p>
+          <p>
+           Iordanis Koutsopoulos received the Diploma degree in Electrical and Computer Engineering from the National Technical University of Athens (NTUA), Greece, in 1997 and the M.S and Ph.D. degrees in Electrical and Computer Engineering from the University of Maryland, College Park (UMCP), MD, USA, in 1999 and 2002, respectively. He is now Associate Professor at the Department of Informatics, Athens University of Economics and Business (AUEB). He was Assistant Professor (2013-2016) with AUEB. Before that, he was Assistant Professor (2010-2013) and Lecturer (2005-2010) with the Department of Computer Engineering and Communications, University of Thessaly. He received the single-investigator European
+           <b>
+            Research Council
+           </b>
+           (ERC) competition runner-up award for the project RECITAL: Resource Management for Self-coordinated Autonomic
+           <b>
+            Wireless Networks
+           </b>
+           (2012-2015). He is a senior member of IEEE. His
+           <b>
+            research interests are in the general area of network control and optimization
+           </b>
+           , with applications in
+           <b>
+            mobile computing
+           </b>
+           ,
+           <b>
+            wireless networks
+           </b>
+           , social and community
+           <b>
+            networks
+           </b>
+           , crowd-sensing systems, smart energy grid and cloud computing.
+          </p>
+         </div>
+         <div class="event-to-evensi">
+          <a href="https://www.evensi.it/research-challenges-in-optimization-of-mobile-crowdsensing/179880651" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.evensi.it/research-challenges-in-optimization-of-mobile-crowdsensing/179880651', 'Visualizza Research challenges in optimization of mobile crow… su Evensi']);">
+           Visualizza Research challenges in optimization of mobile crow… su Evensi
+          </a>
+         </div>
+         <p>
+          <span class="event-address">
+           Indirizzo:
+           <b>
+            Piazza Domenicani, 3, Bolzano
+           </b>
+          </span>
+          <br/>
+          <span class="event-map">
+           <a href="https://www.evensi.it/maps/?lat=46.49746&amp;lng=11.35234&amp;day=2016-07-12&amp;z=16" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.evensi.it/maps/?lat=46.49746&amp;lng=11.35234&amp;day=2016-07-12&amp;z=16', '']);">
+            <img alt="Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyC95y5jF58EfiXLtmy1jmXja1Z1OeWlsfU&amp;size=1000x270&amp;zoom=14&amp;markers=%7C46.49746,11.35234"/>
+           </a>
+          </span>
+         </p>
+         <p>
+          <span class="event-explore-evensi">
+           <a href="https://www.evensi.it/maps/?lat=46.49746&amp;lng=11.35234" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.evensi.it/maps/?lat=46.49746&amp;lng=11.35234', 'Trova altri eventi a Bolzano su Evensi!']);">
+            Trova altri eventi a Bolzano su Evensi!
+           </a>
+          </span>
+         </p>
+        </div>
+        <!-- FB Comments For Wp: http://www.vivacityinfotech.com -->
+        <h3 class="coments-title">
+         Commenta con Facebook
+        </h3>
+        <div class="fb-comments" data-colorscheme="light" data-href="http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" data-numposts="20" data-width="100%">
+        </div>
+        <div class="juiz_sps_links counters_both juiz_sps_displayed_both">
+         <p class="screen-reader-text juiz_sps_maybe_hidden_text">
+          Share the post "Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks"
+         </p>
+         <ul class="juiz_sps_links_list">
+          <li class="juiz_sps_item juiz_sps_link_facebook">
+           <a href="https://www.facebook.com/sharer/sharer.php?u=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.facebook.com/sharer/sharer.php?u=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532', 'Facebook']);" rel="nofollow" target="_blank" title="Share this article on Facebook">
+            <span class="juiz_sps_icon jsps-facebook">
+            </span>
+            <span class="juiz_sps_network_name">
+             Facebook
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_twitter">
+           <a href="https://twitter.com/intent/tweet?source=webclient&amp;original_referer=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;text=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;related=evensi_app&amp;via=evensi_app" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/intent/tweet?source=webclient&amp;original_referer=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;text=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;related=evensi_app&amp;via=evensi_app', 'Twitter']);" rel="nofollow" target="_blank" title="Share this article on Twitter">
+            <span class="juiz_sps_icon jsps-twitter">
+            </span>
+            <span class="juiz_sps_network_name">
+             Twitter
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_google">
+           <a href="https://plus.google.com/share?url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://plus.google.com/share?url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532', 'Google+']);" rel="nofollow" target="_blank" title="Share this article on Google+">
+            <span class="juiz_sps_icon jsps-google">
+            </span>
+            <span class="juiz_sps_network_name">
+             Google+
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_pinterest">
+           <a href="javascript:void((function(){var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" rel="nofollow" title="Share an image of this article on Pinterest">
+            <span class="juiz_sps_icon jsps-pinterest">
+            </span>
+            <span class="juiz_sps_network_name">
+             Pinterest
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_linkedin">
+           <a href="https://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;trk=JuizSocialPostSharer&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;trk=JuizSocialPostSharer&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532', 'LinkedIn']);" rel="nofollow" title="Share this article on LinkedIn">
+            <span class="juiz_sps_icon jsps-linkedin">
+            </span>
+            <span class="juiz_sps_network_name">
+             LinkedIn
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_digg">
+           <a href="https://digg.com/submit?phase=2%20&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://digg.com/submit?phase=2%20&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks', 'Digg']);" rel="nofollow" title="Share this article on Digg">
+            <span class="juiz_sps_icon jsps-digg">
+            </span>
+            <span class="juiz_sps_network_name">
+             Digg
+            </span>
+           </a>
+          </li>
+          <li class="juiz_sps_item juiz_sps_link_mail">
+           <a href='mailto:?subject=Guarda cosa ho trovato su Spettacoli Teatro&amp;body=Ciao, ho trovato questo evento: "Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks"! Questo è il link: http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532' rel="nofollow" title="Share this article with a friend (email)">
+            <span class="juiz_sps_icon jsps-mail">
+            </span>
+            <span class="juiz_sps_network_name">
+             E-mail
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="the_champ_sharing_container the_champ_vertical_sharing" style="width:39px;left: 0px;top: 100px;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;" super-socializer-data-href="http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532">
+         <ul class="the_champ_sharing_ul">
+          <li class="theChampFacebookBackground theChampFacebookSquareBackground">
+           <i alt="Facebook" class="theChampSharing theChampFacebookBackground" onclick=' theChampPopup("https://www.facebook.com/sharer/sharer.php?u=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532")' style="width:35px;height:35px;margin:0;" title="Facebook">
+            <ss class="theChampSharingSvg theChampFacebookSvg" style="display:block;">
+            </ss>
+           </i>
+          </li>
+          <li class="theChampTwitterBackground theChampTwitterSquareBackground">
+           <i alt="Twitter" class="theChampSharing theChampTwitterBackground" onclick=' theChampPopup("http://twitter.com/intent/tweet?via=evensi_app&amp;text=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532")' style="width:35px;height:35px;margin:0;" title="Twitter">
+            <ss class="theChampSharingSvg theChampTwitterSvg" style="display:block;">
+            </ss>
+           </i>
+          </li>
+          <li class="theChampGoogleBackground theChampGoogleSquareBackground">
+           <i alt="Google Plus" class="theChampSharing theChampGoogleBackground" onclick=' theChampPopup("https://plus.google.com/share?url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532")' style="width:35px;height:35px;margin:0;" title="Google Plus">
+            <ss class="theChampSharingSvg theChampGoogleSvg" style="display:block;">
+            </ss>
+           </i>
+          </li>
+          <li class="theChampLinkedinBackground theChampLinkedinSquareBackground">
+           <i alt="Linkedin" class="theChampSharing theChampLinkedinBackground" onclick=' theChampPopup("http://www.linkedin.com/shareArticle?mini=true&amp;url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks")' style="width:35px;height:35px;margin:0;" title="Linkedin">
+            <ss class="theChampSharingSvg theChampLinkedinSvg" style="display:block;">
+            </ss>
+           </i>
+          </li>
+          <li class="theChampPinterestBackground theChampPinterestSquareBackground">
+           <i alt="Pinterest" class="theChampSharing theChampPinterestBackground" onclick="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" style="width:35px;height:35px;margin:0;" title="Pinterest">
+            <ss class="theChampSharingSvg theChampPinterestSvg" style="display:block">
+            </ss>
+           </i>
+          </li>
+          <li class="theChampDeliciousBackground theChampDeliciousSquareBackground">
+           <i alt="Delicious" class="theChampSharing theChampDeliciousBackground" onclick=' theChampPopup("http://del.icio.us/post?url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks")' style="width:35px;height:35px;margin:0;" title="Delicious">
+            <ss class="theChampSharingSvg theChampDeliciousSvg" style="display:block;">
+            </ss>
+           </i>
+          </li>
+          <li class="theChampDiggBackground theChampDiggSquareBackground">
+           <i alt="Digg" class="theChampSharing theChampDiggBackground" onclick=' theChampPopup("http://digg.com/submit?url=http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532&amp;title=Bolzano%3A+Research+challenges+in+optimization+of+mobile+crowdsensing+and+online+platforms+and+wireless+networks")' style="width:35px;height:35px;margin:0;" title="Digg">
+            <ss class="theChampSharingSvg theChampDiggSvg" style="display:block;">
+            </ss>
+           </i>
+          </li>
+         </ul>
+         <div style="clear:both">
+         </div>
+        </div>
+       </div>
+       <!-- .entry-content -->
+       <p id="breadcrumbs">
+        <span xmlns:v="http://rdf.data-vocabulary.org/#">
+         <span typeof="v:Breadcrumb">
+          <a href="http://spettacoli-teatro.it" property="v:title" rel="v:url">
+           Spettacoli Teatro
+          </a>
+          »
+          <span rel="v:child" typeof="v:Breadcrumb">
+           <a href="http://spettacoli-teatro.it/category/bolzano" property="v:title" rel="v:url">
+            Bolzano
+           </a>
+           »
+           <span class="breadcrumb_last">
+            Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks
+           </span>
+          </span>
+         </span>
+        </span>
+       </p>
+       <footer class="entry-meta">
+        This entry was  tagged
+        <a href="http://spettacoli-teatro.it/tag/culturateatribusinessistruzionestreamingtecnologia" rel="tag">
+         culturateatribusinessistruzionestreamingtecnologia
+        </a>
+        . Bookmark the
+        <a href="http://spettacoli-teatro.it/bolzano/bolzano-research-challenges-in-optimization-of-mobile/64532" rel="bookmark" title="Permalink to Bolzano: Research challenges in optimization of mobile crowdsensing and online platforms and wireless networks">
+         permalink
+        </a>
+        .
+       </footer>
+       <!-- .entry-meta -->
+      </article>
+      <!-- #post-64532 -->
+      <div id="promote-evensi">
+       <div style="max-width: 1120px !important;margin:0 auto;">
+        <div class="evfl-left" id="ev-data-plus">
+         Fai conoscere il tuo evento in tutto il network Evensi
+         <br/>
+         <a class="um-sotto" href="https://www.evensi.com/promote.php" target="_blank">
+          Maggiori informazioni
+         </a>
+        </div>
+        <a class="redgp evfl-right" href="https://www.evensi.com/promote.php?blog=spettacoli-teatro.it&amp;id=64532" id="btn-pomote" target="_blank">
+         Promuovi questo evento
+        </a>
+        <div class="evfl-clear">
+        </div>
+       </div>
+      </div>
+      <style type="text/css">
+       #footer {margin-bottom: 95px;}
+				@media only screen and (max-width: 40em) {
+				  #footer {margin-bottom: 69px;}
+				  }
+      </style>
+      <nav id="nav-below">
+       <h1 class="assistive-text section-heading">
+        Post navigation
+       </h1>
+       <div class="nav-previous">
+        <a href="http://spettacoli-teatro.it/florence/firenze-open-day-proiezioni-premiazioni-e-aperitivo/64530" rel="prev">
+         <span class="meta-nav">
+          Previous
+         </span>
+        </a>
+       </div>
+       <div class="nav-next">
+        <a href="http://spettacoli-teatro.it/rome/roma-adunanza-docks/64534" rel="next">
+         <span class="meta-nav">
+          Next
+         </span>
+        </a>
+       </div>
+      </nav>
+      <!-- #nav-below -->
+      <!-- <div id="promote-evensi">
+				<div style="max-width: 1120px;margin:0 auto;">
+				  <div class="evfl-left" id="ev-data-plus">Fai conoscere il tuo evento in tutto il network Evensi<br/><a class="um-sotto" href="https://www.evensi.com/promote.php" target="_blank">Maggiori Informazioni</a></div>
+				  <a id="btn-pomote" href="https://www.evensi.com/promote.php?blog=spettacoli-teatro.it&id=64532" target="_blank" class="redgp evfl-right">Promuovi questo evento</a>
+				  <div class="evfl-clear"></div>
+				</div>
+			  </div>
+			  <style type="text/css">
+				footer {margin-bottom: 85px;}
+				@media only screen and (max-width: 40em) {
+				  footer {margin-bottom: 69px;}
+				  }
+			  </style>-->
+     </div>
+     <!-- end #main -->
+     <div class="widget-area col300" id="sidebar" role="complementary">
+      <div class="clearfix" id="social-media">
+      </div>
+      <aside class="widget widget_tag_cloud" id="tag_cloud-3">
+       <h2 class="widget-title">
+        Città
+       </h2>
+       <div class="tagcloud">
+        <a class="tag-link-143" href="http://spettacoli-teatro.it/category/ancona" style="font-size: 10.646341463415pt;" title="175 argomenti">
+         Ancona
+        </a>
+        <a class="tag-link-211" href="http://spettacoli-teatro.it/category/bari" style="font-size: 13.634146341463pt;" title="396 argomenti">
+         Bari
+        </a>
+        <a class="tag-link-331" href="http://spettacoli-teatro.it/category/bergamo" style="font-size: 10.475609756098pt;" title="169 argomenti">
+         Bergamo
+        </a>
+        <a class="tag-link-272" href="http://spettacoli-teatro.it/category/bologna" style="font-size: 15.682926829268pt;" title="685 argomenti">
+         Bologna
+        </a>
+        <a class="tag-link-288" href="http://spettacoli-teatro.it/category/brescia" style="font-size: 11.329268292683pt;" title="212 argomenti">
+         Brescia
+        </a>
+        <a class="tag-link-206" href="http://spettacoli-teatro.it/category/cagliari" style="font-size: 12.865853658537pt;" title="320 argomenti">
+         Cagliari
+        </a>
+        <a class="tag-link-606" href="http://spettacoli-teatro.it/category/caserta" style="font-size: 8.1707317073171pt;" title="91 argomenti">
+         Caserta
+        </a>
+        <a class="tag-link-178" href="http://spettacoli-teatro.it/category/catania" style="font-size: 14.658536585366pt;" title="520 argomenti">
+         Catania
+        </a>
+        <a class="tag-link-541" href="http://spettacoli-teatro.it/category/cesena" style="font-size: 9.4512195121951pt;" title="128 argomenti">
+         Cesena
+        </a>
+        <a class="tag-link-283" href="http://spettacoli-teatro.it/category/como" style="font-size: 8.5121951219512pt;" title="98 argomenti">
+         Como
+        </a>
+        <a class="tag-link-325" href="http://spettacoli-teatro.it/category/ferrara" style="font-size: 9.9634146341463pt;" title="146 argomenti">
+         Ferrara
+        </a>
+        <a class="tag-link-150" href="http://spettacoli-teatro.it/category/florence" style="font-size: 15.512195121951pt;" title="666 argomenti">
+         Firenze
+        </a>
+        <a class="tag-link-343" href="http://spettacoli-teatro.it/category/forli" style="font-size: 8.5975609756098pt;" title="102 argomenti">
+         Forlì
+        </a>
+        <a class="tag-link-153" href="http://spettacoli-teatro.it/category/genova" style="font-size: 15.59756097561pt;" title="677 argomenti">
+         Genova
+        </a>
+        <a class="tag-link-260" href="http://spettacoli-teatro.it/category/lecce" style="font-size: 11.158536585366pt;" title="203 argomenti">
+         Lecce
+        </a>
+        <a class="tag-link-291" href="http://spettacoli-teatro.it/category/livorno" style="font-size: 8.5975609756098pt;" title="101 argomenti">
+         Livorno
+        </a>
+        <a class="tag-link-383" href="http://spettacoli-teatro.it/category/mantua" style="font-size: 8.8536585365854pt;" title="108 argomenti">
+         Mantua
+        </a>
+        <a class="tag-link-163" href="http://spettacoli-teatro.it/category/messina" style="font-size: 8pt;" title="87 argomenti">
+         Messina
+        </a>
+        <a class="tag-link-151" href="http://spettacoli-teatro.it/category/milan" style="font-size: 20.548780487805pt;" title="2.559 argomenti">
+         Milano
+        </a>
+        <a class="tag-link-274" href="http://spettacoli-teatro.it/category/modena" style="font-size: 11.585365853659pt;" title="228 argomenti">
+         Modena
+        </a>
+        <a class="tag-link-540" href="http://spettacoli-teatro.it/category/monza" style="font-size: 8.0853658536585pt;" title="88 argomenti">
+         Monza
+        </a>
+        <a class="tag-link-186" href="http://spettacoli-teatro.it/category/naples" style="font-size: 18.158536585366pt;" title="1.333 argomenti">
+         Napoli
+        </a>
+        <a class="tag-link-232" href="http://spettacoli-teatro.it/category/padua" style="font-size: 14.060975609756pt;" title="450 argomenti">
+         Padua
+        </a>
+        <a class="tag-link-195" href="http://spettacoli-teatro.it/category/palermo" style="font-size: 15.426829268293pt;" title="640 argomenti">
+         Palermo
+        </a>
+        <a class="tag-link-334" href="http://spettacoli-teatro.it/category/parma" style="font-size: 10.134146341463pt;" title="155 argomenti">
+         Parma
+        </a>
+        <a class="tag-link-158" href="http://spettacoli-teatro.it/category/perugia" style="font-size: 9.4512195121951pt;" title="129 argomenti">
+         Perugia
+        </a>
+        <a class="tag-link-280" href="http://spettacoli-teatro.it/category/pescara" style="font-size: 10.30487804878pt;" title="163 argomenti">
+         Pescara
+        </a>
+        <a class="tag-link-348" href="http://spettacoli-teatro.it/category/pisa" style="font-size: 11.5pt;" title="224 argomenti">
+         Pisa
+        </a>
+        <a class="tag-link-210" href="http://spettacoli-teatro.it/category/pordenone" style="font-size: 8.8536585365854pt;" title="108 argomenti">
+         Pordenone
+        </a>
+        <a class="tag-link-471" href="http://spettacoli-teatro.it/category/prato" style="font-size: 9.109756097561pt;" title="116 argomenti">
+         Prato
+        </a>
+        <a class="tag-link-337" href="http://spettacoli-teatro.it/category/ravenna" style="font-size: 9.7073170731707pt;" title="136 argomenti">
+         Ravenna
+        </a>
+        <a class="tag-link-376" href="http://spettacoli-teatro.it/category/reggio-nell-emilia" style="font-size: 8.9390243902439pt;" title="111 argomenti">
+         Reggio nell Emilia
+        </a>
+        <a class="tag-link-142" href="http://spettacoli-teatro.it/category/rimini" style="font-size: 9.1951219512195pt;" title="118 argomenti">
+         Rimini
+        </a>
+        <a class="tag-link-156" href="http://spettacoli-teatro.it/category/rome" style="font-size: 22pt;" title="3.831 argomenti">
+         Roma
+        </a>
+        <a class="tag-link-282" href="http://spettacoli-teatro.it/category/salerno" style="font-size: 10.219512195122pt;" title="157 argomenti">
+         Salerno
+        </a>
+        <a class="tag-link-295" href="http://spettacoli-teatro.it/category/taranto" style="font-size: 8.3414634146341pt;" title="94 argomenti">
+         Taranto
+        </a>
+        <a class="tag-link-164" href="http://spettacoli-teatro.it/category/turin" style="font-size: 17.817073170732pt;" title="1.228 argomenti">
+         Torino
+        </a>
+        <a class="tag-link-200" href="http://spettacoli-teatro.it/category/trento" style="font-size: 11.073170731707pt;" title="198 argomenti">
+         Trento
+        </a>
+        <a class="tag-link-408" href="http://spettacoli-teatro.it/category/treviso" style="font-size: 8.0853658536585pt;" title="88 argomenti">
+         Treviso
+        </a>
+        <a class="tag-link-300" href="http://spettacoli-teatro.it/category/trieste" style="font-size: 11.414634146341pt;" title="216 argomenti">
+         Trieste
+        </a>
+        <a class="tag-link-198" href="http://spettacoli-teatro.it/category/udine" style="font-size: 9.7926829268293pt;" title="139 argomenti">
+         Udine
+        </a>
+        <a class="tag-link-442" href="http://spettacoli-teatro.it/category/varese" style="font-size: 9.1951219512195pt;" title="118 argomenti">
+         Varese
+        </a>
+        <a class="tag-link-172" href="http://spettacoli-teatro.it/category/venice" style="font-size: 12.951219512195pt;" title="328 argomenti">
+         Venezia
+        </a>
+        <a class="tag-link-154" href="http://spettacoli-teatro.it/category/verona" style="font-size: 12.609756097561pt;" title="301 argomenti">
+         Verona
+        </a>
+        <a class="tag-link-197" href="http://spettacoli-teatro.it/category/vicenza" style="font-size: 11.329268292683pt;" title="213 argomenti">
+         Vicenza
+        </a>
+       </div>
+      </aside>
+      <aside class="widget widget_text" id="text-5">
+       <div class="textwidget">
+        <script type="text/javascript">
+         if (jQuery('.event-to-evensi a').length > 0) {
+        var uri = jQuery('.event-to-evensi a').attr('href');
+        if (jQuery('h1.entry-title').length) {
+            jQuery('h1.entry-title').html('<a href="' + uri + '">' + jQuery('h1.entry-title').html() + '</a>');
+        } else {
+            jQuery('h1:last').html('<a href="' + uri + '">' + jQuery('h1:last').html() + '</a>');
+        }
+    }
+        </script>
+        <!-- Blog descrizione responsive -->
+        <script src="https://www.evensi.com/js/injectAd.js" type="text/javascript">
+        </script>
+        <script type="text/javascript">
+         jQuery('div .entry-content').injectAd({
+                    ad: '<ins class="adsbygoogle"'
+                            + 'style="display:block"'
+                            + 'data-ad-client="ca-pub-6563385292851505"'
+                            + 'data-ad-slot="5608750676"'
+                            + 'data-ad-format="auto"></ins>'
+                });
+            //jQuery('div .entry-content a').remove();
+        </script>
+        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+        </script>
+        <!-- Blog - Articolo (responsive) -->
+        <ins class="adsbygoogle" data-ad-client="ca-pub-6563385292851505" data-ad-format="auto" data-ad-slot="6489628677" style="display:block">
+        </ins>
+        <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+       </div>
+      </aside>
+      <aside class="widget widget_archive" id="archives-2">
+       <h2 class="widget-title">
+        Archivi
+       </h2>
+       <ul>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2016/06">
+          giugno 2016
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2016/05">
+          maggio 2016
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2016/04">
+          aprile 2016
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2016/03">
+          marzo 2016
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2016/02">
+          febbraio 2016
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2016/01">
+          gennaio 2016
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/12">
+          dicembre 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/11">
+          novembre 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/10">
+          ottobre 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/09">
+          settembre 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/08">
+          agosto 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/07">
+          luglio 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/06">
+          giugno 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/05">
+          maggio 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/04">
+          aprile 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/03">
+          marzo 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/02">
+          febbraio 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2015/01">
+          gennaio 2015
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2014/12">
+          dicembre 2014
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2014/11">
+          novembre 2014
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2014/10">
+          ottobre 2014
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2014/09">
+          settembre 2014
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2014/08">
+          agosto 2014
+         </a>
+        </li>
+        <li>
+         <a href="http://spettacoli-teatro.it/date/2014/07">
+          luglio 2014
+         </a>
+        </li>
+       </ul>
+      </aside>
+     </div>
+     <!-- #sidebar .widget-area -->
+    </div>
+    <!-- end #content -->
+   </div>
+   <!-- #container -->
+  </div>
+  <!-- #wrapper -->
+  <footer id="colophon" role="contentinfo">
+   <div id="site-generator">
+    © Spettacoli Teatro		  	  •
+    <a href="http://spettacoli-teatro.it/contatti">
+     Contatti
+    </a>
+    •  Un progetto di
+    <a href="https://www.evensi.com/" title="Il motore di ricerca degli Eventi">
+     Evensi
+    </a>
+    •   Sviluppato da
+    <a href="http://atlantiastudios.com/">
+     Atlantia Studios
+    </a>
+   </div>
+  </footer>
+  <!-- #colophon -->
+  <script type="text/javascript">
+   //<![CDATA[
+			jQuery(document).ready(function() {
+				
+				// Edit 09/05: remove globals and package into Object Literal, and removed the debug function
+				cli_show_cookiebar({
+					html: '<div id="cookie-law-info-bar"><span>Utilizzando www.spettacoli-teatro.it, accetti il nostro uso dei cookie, per una migliore esperienza di navigazione.<a href=\"#\" id=\"cookie_action_close_header\"  class=\"medium cli-plugin-button cli-plugin-main-button\" >Accetto</a> <a href=\"https://www.evensi.com/privacy.php\" id=\"CONSTANT_OPEN_URL\" target=\"_new\"  class=\"cli-plugin-main-link\"  >Maggiorni informazioni</a></span></div>',
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":true,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"font_family":"inherit","notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"top","showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":true,"show_once":"4000"}'
+				});
+				
+			});
+			//]]>
+  </script>
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&appId=297297850305218&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+  </script>
+ </body>
+</html>

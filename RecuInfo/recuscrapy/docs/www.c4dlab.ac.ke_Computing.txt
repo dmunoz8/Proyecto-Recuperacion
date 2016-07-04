@@ -1,0 +1,1152 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en-US" class="ie6"> <![endif]-->
+<!--[if IE 7]>    <html lang="en-US" class="ie7"> <![endif]-->
+<!--[if IE 8]>    <html lang="en-US" class="ie8"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en-US">
+ <!--<![endif]-->
+ <!-- BEGIN head -->
+ <head>
+  <!-- Meta Tags -->
+  <meta charset="utf-8"/>
+  <meta content="IE=Edge;chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/uploads/2014/04/favicon.jpg" rel="shortcut icon" type="image/x-icon"/>
+  <!-- Title -->
+  <title>
+   C4DLab | Research &amp; Development Arm for the School of Computing &amp; Informatics, University of Nairobi
+  </title>
+  <!-- RSS Feeds & Pingbacks -->
+  <link href="http://www.c4dlab.ac.ke/feed/" rel="alternate" title="C4DLab RSS Feed" type="application/rss+xml"/>
+  <link href="http://www.c4dlab.ac.ke/xmlrpc.php" rel="pingback"/>
+  <!-- font awesome css -->
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+  <script src="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/bootstrap/js/jquery/jquery.js">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/bootstrap/js/bootstrap.min.js">
+  </script>
+  <style type="text/css">
+   h1, h2, h3, h4, h5, h6, .slides .flex-caption p, .page-content blockquote, .event-full .event-info h4, .page-content table th, #cancel-comment-reply-link {
+	font-family: 'Merriweather', serif !important;}.content-wrapper {
+			margin: 0 auto 0 auto !important;
+		}
+  </style>
+  <script src="http://c4dlab.ac.ke/wp-content/themes/parkcollege/js/pimax_v1/pimax.min.js" type="text/javascript">
+  </script>
+  <script>
+   var googleUserName = "https://plus.google.com/113238396682065478664/photos"; 
+	// or use "http://plus.google.com/110764258896584230255/photos"
+	 
+	//optional parameters-----------------------------------------------
+	// var albumNames = ["BlogPictures","Blog Pictures"];
+	var pathToLoadingImage = "./loader.gif";
+	var pimaxColumns = 3; 
+	var pimaxWidgetWidth = 700;
+	var pimaxWidgetHeight = 500;
+  </script>
+  <link href="http://www.c4dlab.ac.ke/feed/" rel="alternate" title="C4DLab » Feed" type="application/rss+xml"/>
+  <link href="http://www.c4dlab.ac.ke/comments/feed/" rel="alternate" title="C4DLab » Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.c4dlab.ac.ke\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="http://www.c4dlab.ac.ke/wp-content/plugins/siteorigin-panels/css/front.css?ver=2.4.6" id="siteorigin-panels-front-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/style.css?ver=4.4.3" id="parkcollege-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/css/superfish.css?ver=4.4.3" id="superfish-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/css/prettyPhoto.css?ver=4.4.3" id="prettyPhoto-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/css/flexslider.css?ver=4.4.3" id="flexslider-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/css/responsive.css?ver=4.4.3" id="responsive-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/css/colour.css?ver=4.4.3" id="colour-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&amp;ver=4.4.3" id="qns-opensans-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Merriweather%3A400%2C300%2C700%2C900%27+rel%3D%27stylesheet&amp;ver=4.4.3" id="qns-merriweather-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/plugins/youtube-channel-gallery/styles.css?ver=4.4.3" id="youtube-channel-gallery-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=4.4.3" id="jquery.magnific-popup-css" media="all" rel="stylesheet" type="text/css"/>
+  <!-- This site uses the Google Analytics by MonsterInsights plugin v5.5 - Universal disabled - https://www.monsterinsights.com/ -->
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-33951040-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+  </script>
+  <!-- / Google Analytics by MonsterInsights -->
+  <script src="http://www.c4dlab.ac.ke/wp-includes/js/jquery/jquery.js?ver=1.11.3" type="text/javascript">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <link href="http://www.c4dlab.ac.ke/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://www.c4dlab.ac.ke/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://www.c4dlab.ac.ke/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 4.4.3" name="generator"/>
+  <link href="http://www.c4dlab.ac.ke/" rel="canonical"/>
+  <link href="http://www.c4dlab.ac.ke/" rel="shortlink"/>
+  <link href="http://www.c4dlab.ac.ke/wp-content/plugins/oauth-twitter-sidebar-widget/oauth_twitter_widget.css" rel="stylesheet" type="text/css"/>
+  <!-- END head -->
+ </head>
+ <!-- BEGIN body -->
+ <body class="home page page-id-78 page-template page-template-page-templates page-template-template-homepage page-template-page-templatestemplate-homepage-php loading" id="top">
+  <!-- BEGIN #header-wrapper -->
+  <div id="header-wrapper">
+   <!-- BEGIN #header-border -->
+   <div id="header-border">
+    <!-- BEGIN #header-top -->
+    <div class="clearfix" id="header-top">
+     <ul class="top-left-nav clearfix">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-78 current_page_item menu-item-1470" id="menu-item-1470">
+       <a href="http://www.c4dlab.ac.ke/">
+        Home
+       </a>
+       <span>
+        /
+       </span>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-984" id="menu-item-984">
+       <a href="http://sci.uonbi.ac.ke" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://sci.uonbi.ac.ke', 'SCI']);" target="_blank">
+        SCI
+       </a>
+       <span>
+        /
+       </span>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231" id="menu-item-1231">
+       <a href="http://www.c4dlab.ac.ke/contact-us/">
+        Contact Us
+       </a>
+       <span>
+        /
+       </span>
+      </li>
+     </ul>
+     <ul class="top-right-nav clearfix">
+      <li class="email-icon">
+       hello@c4dlab.ac.ke
+      </li>
+     </ul>
+     <!-- END #header-top -->
+    </div>
+    <!-- BEGIN #header-content-wrapper -->
+    <div class="clearfix" id="header-content-wrapper">
+     <div class="site-title-image" id="logo">
+      <h1>
+       <a href="http://www.c4dlab.ac.ke">
+        <img alt="" src="http://www.c4dlab.ac.ke/wp-content/uploads/2014/01/c4dlab-uon-logo3.jpg"/>
+       </a>
+      </h1>
+     </div>
+     <ul class="social-icons clearfix">
+      <li>
+       <a href="http://twitter.com/c4dlab" target="_blank">
+        <span class="twitter-icon">
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="http://www.facebook.com/c4dlab" target="_blank">
+        <span class="facebook-icon">
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="http://gplus.to/c4dlab" target="_blank">
+        <span class="gplus-icon">
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.youtube.com/channel/UCwjiD9mdUB80mx3dOIAQSgA" target="_blank">
+        <span class="youtube-icon">
+        </span>
+       </a>
+      </li>
+     </ul>
+     <!-- END #header-content-wrapper -->
+    </div>
+    <!-- BEGIN #main-menu-wrapper -->
+    <div class="clearfix" id="main-menu-wrapper">
+     <ul id="main-menu">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-78 current_page_item menu-item-has-children menu-item-931" id="menu-item-931">
+       <a href="http://www.c4dlab.ac.ke/">
+        Home
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232" id="menu-item-1232">
+         <a href="http://www.c4dlab.ac.ke/about/">
+          About C4DLab
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1749" id="menu-item-1749">
+         <a href="http://www.c4dlab.ac.ke/team/ops-team/">
+          Team
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425" id="menu-item-1425">
+         <a href="http://www.c4dlab.ac.ke/contact-us/">
+          Contact Us
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1700" id="menu-item-1700">
+       <a href="http://www.c4dlab.ac.ke/startups/">
+        Incubation
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1701" id="menu-item-1701">
+         <a href="http://www.c4dlab.ac.ke/startups/">
+          About Incubation
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4170" id="menu-item-4170">
+         <a href="http://aftia.co" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://aftia.co', 'AfTIA Program']);" target="_blank">
+          AfTIA Program
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4247" id="menu-item-4247">
+         <a href="http://www.c4dlab.ac.ke/startups/2016x/">
+          Startup 2016
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4248" id="menu-item-4248">
+         <a href="http://www.c4dlab.ac.ke/startups/2015x/">
+          Startups 2015
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1787" id="menu-item-1787">
+         <a href="http://www.c4dlab.ac.ke/startups/2014x/">
+          Startups 2014
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2056" id="menu-item-2056">
+       <a href="#">
+        Research
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1889" id="menu-item-1889">
+         <a href="http://www.c4dlab.ac.ke/research/">
+          Publications
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1593" id="menu-item-1593">
+         <a href="http://www.c4dlab.ac.ke/project/">
+          Projects
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3905" id="menu-item-3905">
+       <a href="http://www.c4dlab.ac.ke/training/cisco/">
+        Training
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3904" id="menu-item-3904">
+         <a href="http://www.c4dlab.ac.ke/training/cisco/">
+          Cisco Courses
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3011" id="menu-item-3011">
+           <a href="http://www.c4dlab.ac.ke/training/cisco/">
+            CCNA
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3900" id="menu-item-3900">
+           <a href="http://www.c4dlab.ac.ke/training/pc_hardware/">
+            PC Hardware &amp; Software Training
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4336" id="menu-item-4336">
+         <a href="http://ndts.c4dlab.ac.ke/" target="_blank">
+          Design Thinking
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2055" id="menu-item-2055">
+         <a href="http://www.c4dlab.ac.ke/training/cybersecurity/">
+          CyberSecurity
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2061" id="menu-item-2061">
+         <a href="http://www.c4dlab.ac.ke/training/big-data/">
+          Big Data
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2062" id="menu-item-2062">
+         <a href="http://www.c4dlab.ac.ke/training/cloud-computing/">
+          Cloud Computing
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4507" id="menu-item-4507">
+         <a href="http://www.c4dlab.ac.ke/oracle-database-administration-training/">
+          Oracle Database Administration
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1468" id="menu-item-1468">
+       <a href="http://www.c4dlab.ac.ke/events/">
+        Programmes
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2509" id="menu-item-2509">
+         <a href="http://www.c4dlab.ac.ke/events/">
+          All Events
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4145" id="menu-item-4145">
+         <a href="http://innovationweek.co.ke" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://innovationweek.co.ke', 'Innovation Week']);" target="_blank">
+          Innovation Week
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4144" id="menu-item-4144">
+         <a href="http://eacloudsummit.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://eacloudsummit.com/', 'E.A Cloud Summit']);" target="_blank">
+          E.A Cloud Summit
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4290" id="menu-item-4290">
+         <a href="http://innovationforums.c4dlab.ac.ke/">
+          Innovation Forums
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4300" id="menu-item-4300">
+         <a href="http://www.c4dlab.ac.ke/frideation/">
+          Frideation
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1726" id="menu-item-1726">
+       <a href="http://www.c4dlab.ac.ke/blogx/">
+        Blog
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3140" id="menu-item-3140">
+       <a href="#">
+        Media
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3139" id="menu-item-3139">
+         <a href="http://www.c4dlab.ac.ke/videos/">
+          Videos
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2329" id="menu-item-2329">
+         <a href="http://www.c4dlab.ac.ke/pictorial/">
+          Pictorial
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <div class="menu-search-button">
+     </div>
+     <form action="http://www.c4dlab.ac.ke/" class="menu-search-form" method="get">
+      <input class="menu-search-field" name="s" onblur="if(this.value=='')this.value='To search, type and hit enter';" onfocus="if(this.value=='To search, type and hit enter')this.value='';" type="text" value="To search, type and hit enter"/>
+     </form>
+     <!-- END #main-menu-wrapper -->
+    </div>
+    <!-- END #header-border -->
+   </div>
+   <a href="https://plus.google.com/113238396682065478664" rel="publisher" style="display:none;">
+    Google+
+   </a>
+   <!-- END #header-wrapper -->
+  </div>
+  <!-- <div class="slider clearfix">
+		<ul class="slides slide-loader">
+				
+							<li style="background:url(http://www.c4dlab.ac.ke/wp-content/uploads/2014/01/c4dlab-activation.jpg) no-repeat bottom center">
+					<a href="http://www.c4dlab.ac.ke/2014/04/c4dlab-activation/" target="_blank" class="slide-link">					&nbsp;					</a>				</li>	
+							<li style="background:url(http://www.c4dlab.ac.ke/wp-content/uploads/2014/01/incubation-team3.jpg) no-repeat bottom center">
+					<a href="http://www.c4dlab.ac.ke/startups/2014x/" target="_blank" class="slide-link">					<div class="flex-caption-wrapper"><div class="flex-caption"><div class="bg">
+2014 Startups Team
+<div class="txt">10 startups admitted in March, 2014 </div>
+</div></div></div>					</a>				</li>	
+							<li style="background:url(http://www.c4dlab.ac.ke/wp-content/uploads/2014/01/digital-matatus-e1.jpg) no-repeat bottom center">
+					<a href="http://www.c4dlab.ac.ke/?page_id=1584" target="_blank" class="slide-link">					<div class="flex-caption-wrapper"><div class="flex-caption"><div class="bg">
+The Digital Matatus Project
+<div class="txt">
+The Digital Matatu project is about improving the legibility of the public commuter service by providing the base data that is required and making it open and accessible. Data was collected on matatu and buses, and the Nairobi commuter railway. We currently have data on Nairobi city, others in the pipeline include Eldoret city. 
+</div>
+</div></div></div>					</a>				</li>	
+							<li style="background:url(http://www.c4dlab.ac.ke/wp-content/uploads/2014/01/pivot-east-e1.jpg) no-repeat bottom center">
+					<a href="http://www.c4dlab.ac.ke/2014/02/c4dlab-partners-on-pivot-east-2014/" target="_blank" class="slide-link">					<div class="flex-caption-wrapper"><div class="flex-caption"><div class="bg">
+C4DLab Partners on PivotEast 2014
+<div class="txt">
+C4DLab was selected as one of the HUB partners for PivotEast 2014.
+</div>
+</div></div></div>					</a>				</li>	
+					</ul>
+	</div> -->
+  <div class="landing-placeholder">
+   <div class="carousel slide" id="myCarousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+     <li class="active" data-slide-to="0" data-target="#myCarousel">
+     </li>
+     <li data-slide-to="1" data-target="#myCarousel">
+     </li>
+     <li data-slide-to="2" data-target="#myCarousel">
+     </li>
+     <li data-slide-to="3" data-target="#myCarousel">
+     </li>
+    </ol>
+    <div class="carousel-inner">
+     <div class="item active" style="background: #DC8827 url('http://www.c4dlab.ac.ke/wp-content/uploads/2016/02/ndts-1.png');">
+      <div class="txt">
+       <h1>
+        Nairobi Design Thinking School
+       </h1>
+       <p style="padding-top:10px;padding-bottom:10px;">
+        Apply for the Design Thinking course on Internet of Things (IoT). We seek to engage
+various personnel in the industry to incorporate Design Thinking principles in their day to day activities.
+       </p>
+       <a class="btn-o" href="http://ndts.c4dlab.ac.ke" target="_blank">
+        Submit Application
+       </a>
+      </div>
+     </div>
+     <div class="item" style="background: #DC8827 url('http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/images/slider1.png');">
+      <div class="txt">
+       <h1>
+        Building the Silicon Savannah
+       </h1>
+       <p>
+        C4DLab is an R&amp;D (research &amp; development) and startup incubation lab, based at the School of Computing and Informatics, University of Nairobi. The lab aims at contributing towards building the Silicon Savannah, 
+            			leveraging on the large University community.
+       </p>
+      </div>
+     </div>
+     <div class="item" style="background: #DC8827 url('http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/images/slider3.png');">
+      <div class="txt">
+       <h1>
+        60,000+ University Community
+       </h1>
+       <p>
+        Diversified multi-disciplinary community — students,
+        <br/>
+        lecturers, support staff and beyond.
+       </p>
+       <a class="btn-o" href="http://community.c4dlab.ac.ke" target="_blank">
+        Join the Community Now
+       </a>
+      </div>
+     </div>
+     <div class="item" style="background: #DC8827 url('http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/images/slider2.png');">
+      <div class="txt">
+       <h1>
+        Startup Incubation
+       </h1>
+       <p style="padding-top:3px;">
+        Currently incubating 4 startups (innovations),in the sectors of finance, smart cities, e-learning, agriculture and entertainment.
+        <br/>
+        Stay tuned for our Call for Startups 2016.
+       </p>
+      </div>
+     </div>
+    </div>
+    <a class="left carousel-control" data-slide="prev" href="#myCarousel">
+     <span class="glyphicon glyphicon-chevron-left">
+     </span>
+    </a>
+    <a class="right carousel-control" data-slide="next" href="#myCarousel">
+     <span class="glyphicon glyphicon-chevron-right">
+     </span>
+    </a>
+   </div>
+   <!-- /.carousel -->
+   <!--
+	<div class="lp-inner">
+			<div class="lp-content">
+				<h1>Building the Silicon Savannah</h1>
+				<p>Research &bull; Innovation &bull; Incubation</p>
+			</div>
+	</div>
+-->
+  </div>
+  <!-- BEGIN .content-wrapper -->
+  <div class="content-wrapper clearfix">
+   <div class="stat" style="margin-top:23px;">
+    <a class="bootcamps" href="http://aftia.co/en/apply" target="_blank">
+     <i class="fa fa-settings">
+     </i>
+     Call for Startups
+    </a>
+    <a href="http://www.c4dlab.ac.ke/blogx">
+     <i class="fa fa-bullhorn">
+     </i>
+     152 Blog posts
+    </a>
+    <a href="http://www.c4dlab.ac.ke/events">
+     <i class="fa fa-calendar">
+     </i>
+     56 Events held
+    </a>
+    <a href="http://www.c4dlab.ac.ke/startups/2014x/">
+     <i class="fa fa-cog">
+     </i>
+     12 Startups
+    </a>
+    <a class="bootcamps" href="http://www.c4dlab.ac.ke/training/bootcamps/">
+     <i class="fa fa-code">
+     </i>
+     Sign Up for Programming Bootcamps
+    </a>
+   </div>
+   <!-- BEGIN .content-wrapper-inner -->
+   <div class="content-wrapper-inner clearfix">
+    <div class="home-main">
+     <!-- BEGIN .sidebar-left -->
+     <div class="sidebar-left- page-content">
+      <div class="widget content-block">
+       <h3 class="block-title">
+        Latest Blog Posts
+       </h3>
+       <ul class="latest-posts-list clearfix">
+        <li class="clearfix">
+         <div class="lpl-img">
+          <a href="http://www.c4dlab.ac.ke/2016/06/role-of-government-in-curbing-online-crime-highlighted-as-fifth-edition-of-cybersec-training-begins/" rel="bookmark">
+           <img alt="C4DLab_CyberSecurity-14(2)" class="attachment-image-style2 size-image-style2 wp-post-image" src="http://www.c4dlab.ac.ke/wp-content/uploads/2014/07/C4DLab_CyberSecurity-142-73x52.jpg"/>
+          </a>
+         </div>
+         <div class="lpl-content">
+          <h6>
+           <a href="http://www.c4dlab.ac.ke/2016/06/role-of-government-in-curbing-online-crime-highlighted-as-fifth-edition-of-cybersec-training-begins/" rel="bookmark">
+            Role of Government in Curbing online Crime Highlighted as Fifth Edition of Cybersec Training Begins
+           </a>
+          </h6>
+          <p>
+          </p>
+          <p>
+           ICT Authority Project Manager Evans Kahuthu (center) takes participants through a demonstration during a previous cybersecurity training session organised at the University of Nairobi Chiromo Campus.   The role of
+          </p>
+          <span>
+           <i class="fa fa-calendar">
+           </i>
+           <em>
+            June 8th, 2016
+           </em>
+           <i class="fa fa-file-text">
+           </i>
+           <a href="http://www.c4dlab.ac.ke/2016/06/role-of-government-in-curbing-online-crime-highlighted-as-fifth-edition-of-cybersec-training-begins/" rel="bookmark">
+            Read full post
+            <i class="fa fa-angle-right">
+            </i>
+           </a>
+          </span>
+         </div>
+        </li>
+        <li class="clearfix">
+         <div class="lpl-img">
+          <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-champion-registration-of-participants-in-a-challenge-seeking-to-recognise-women-startup-founders/" rel="bookmark">
+           <img alt="Flyer approve" class="attachment-image-style2 size-image-style2 wp-post-image" src="http://www.c4dlab.ac.ke/wp-content/uploads/2016/05/Flyer-Start-Tel-Aviv-2016-Website-73x52.jpg"/>
+          </a>
+         </div>
+         <div class="lpl-content">
+          <h6>
+           <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-champion-registration-of-participants-in-a-challenge-seeking-to-recognise-women-startup-founders/" rel="bookmark">
+            Lab to champion Registration of Participants in a Challenge seeking to Recognise Women Startup founders
+           </a>
+          </h6>
+          <p>
+          </p>
+          <p>
+           C4DLab has officially been selected to join forces with the Embassy of Israel in Kenya to run a two-month campaign targeting tech startups to participate in this year’s ‘Start Tel
+          </p>
+          <span>
+           <i class="fa fa-calendar">
+           </i>
+           <em>
+            May 17th, 2016
+           </em>
+           <i class="fa fa-file-text">
+           </i>
+           <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-champion-registration-of-participants-in-a-challenge-seeking-to-recognise-women-startup-founders/" rel="bookmark">
+            Read full post
+            <i class="fa fa-angle-right">
+            </i>
+           </a>
+          </span>
+         </div>
+        </li>
+        <li class="clearfix">
+         <div class="lpl-img">
+          <a href="http://www.c4dlab.ac.ke/2016/05/new-partnership-to-see-the-lab-accomplish-5-flagship-projects/" rel="bookmark">
+           <img alt="unicef and C4DLAB MOU" class="attachment-image-style2 size-image-style2 wp-post-image" src="http://www.c4dlab.ac.ke/wp-content/uploads/2016/05/unicef-and-C4DLAB-MOU-73x52.jpg"/>
+          </a>
+         </div>
+         <div class="lpl-content">
+          <h6>
+           <a href="http://www.c4dlab.ac.ke/2016/05/new-partnership-to-see-the-lab-accomplish-5-flagship-projects/" rel="bookmark">
+            New Partnership to see the Lab accomplish 5 flagship Projects
+           </a>
+          </h6>
+          <p>
+          </p>
+          <p>
+           UoN Vice-Chancellor, Prof Peter Mbithi(L) engages UNICEF Kenya representative Dr Pirkko Heinonen(R) before the signing of an MoU that will see the children’s organisation work with C4DLab in various projects.
+          </p>
+          <span>
+           <i class="fa fa-calendar">
+           </i>
+           <em>
+            May 13th, 2016
+           </em>
+           <i class="fa fa-file-text">
+           </i>
+           <a href="http://www.c4dlab.ac.ke/2016/05/new-partnership-to-see-the-lab-accomplish-5-flagship-projects/" rel="bookmark">
+            Read full post
+            <i class="fa fa-angle-right">
+            </i>
+           </a>
+          </span>
+         </div>
+        </li>
+        <li class="clearfix">
+         <div class="lpl-img">
+          <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-become-an-oracle-academy-offering-database-admin-courses/" rel="bookmark">
+           <img alt="oracleEdit2-Image" class="attachment-image-style2 size-image-style2 wp-post-image" src="http://www.c4dlab.ac.ke/wp-content/uploads/2016/05/oracleEdit2-Image-73x52.png"/>
+          </a>
+         </div>
+         <div class="lpl-content">
+          <h6>
+           <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-become-an-oracle-academy-offering-database-admin-courses/" rel="bookmark">
+            Lab to become an Oracle Academy offering Database Admin Courses
+           </a>
+          </h6>
+          <p>
+          </p>
+          <p>
+           C4DLab has teamed up with Oracle Corporation to train IT savvy individuals in database administration. To be offered in both part time and full time sessions, candidates for Oracle Certified
+          </p>
+          <span>
+           <i class="fa fa-calendar">
+           </i>
+           <em>
+            May 11th, 2016
+           </em>
+           <i class="fa fa-file-text">
+           </i>
+           <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-become-an-oracle-academy-offering-database-admin-courses/" rel="bookmark">
+            Read full post
+            <i class="fa fa-angle-right">
+            </i>
+           </a>
+          </span>
+         </div>
+        </li>
+        <li class="clearfix">
+         <div class="lpl-img">
+          <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-host-third-public-lecture-on-innovation-at-innovation-forum/" rel="bookmark">
+           <img alt="israeli-ambass" class="attachment-image-style2 size-image-style2 wp-post-image" src="http://www.c4dlab.ac.ke/wp-content/uploads/2016/05/israeli-ambass-73x52.jpg"/>
+          </a>
+         </div>
+         <div class="lpl-content">
+          <h6>
+           <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-host-third-public-lecture-on-innovation-at-innovation-forum/" rel="bookmark">
+            Lab to Host Third Public Lecture on Innovation at ‘Innovation Forum’
+           </a>
+          </h6>
+          <p>
+          </p>
+          <p>
+           Mr Yahel Vilan, Israel Ambassador to Kenya, Uganda, Tanzania, Malawi, and Sychelles. Photo credit: kkl-jnf.org   Three months after C4DLab organised a public lecture on ICT and innovation, another one
+          </p>
+          <span>
+           <i class="fa fa-calendar">
+           </i>
+           <em>
+            May 10th, 2016
+           </em>
+           <i class="fa fa-file-text">
+           </i>
+           <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-host-third-public-lecture-on-innovation-at-innovation-forum/" rel="bookmark">
+            Read full post
+            <i class="fa fa-angle-right">
+            </i>
+           </a>
+          </span>
+         </div>
+        </li>
+        <li class="clearfix">
+         <div class="lpl-img">
+          <a href="http://www.c4dlab.ac.ke/2016/05/lab-inks-deal-with-barclays-to-prepare-youth-for-employment/" rel="bookmark">
+           <img alt="Awori JERE" class="attachment-image-style2 size-image-style2 wp-post-image" src="http://www.c4dlab.ac.ke/wp-content/uploads/2016/05/Awori-JERE-e1462442875119-73x52.jpg"/>
+          </a>
+         </div>
+         <div class="lpl-content">
+          <h6>
+           <a href="http://www.c4dlab.ac.ke/2016/05/lab-inks-deal-with-barclays-to-prepare-youth-for-employment/" rel="bookmark">
+            Lab inks Deal with Barclays to prepare Youth for Employment
+           </a>
+          </h6>
+          <p>
+          </p>
+          <p>
+           Jeremy Awori Managing Director, Barclays Bank of Kenya Ltd.   C4DLab, University of Nairobi’s startup incubation center, has inked a multi-million shilling partnership with Barclays Bank PLC to roll out
+          </p>
+          <span>
+           <i class="fa fa-calendar">
+           </i>
+           <em>
+            May 5th, 2016
+           </em>
+           <i class="fa fa-file-text">
+           </i>
+           <a href="http://www.c4dlab.ac.ke/2016/05/lab-inks-deal-with-barclays-to-prepare-youth-for-employment/" rel="bookmark">
+            Read full post
+            <i class="fa fa-angle-right">
+            </i>
+           </a>
+          </span>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <!-- END .sidebar-left -->
+     </div>
+     <!-- BEGIN .center-content -->
+     <div class="center-content- page-content">
+      <div class="widget content-block">
+       <h3 class="block-title">
+        Latest Events
+       </h3>
+       <ul class="event-list">
+        <!-- BEGIN .event-wrapper -->
+        <li class="event-wrapper clearfix">
+         <div class="event-date">
+          <div class="event-m">
+           Jun
+          </div>
+          <div class="event-d">
+           08
+          </div>
+         </div>
+         <div class="event-info">
+          <div class="event-meta">
+           <h4>
+            <a href="http://www.c4dlab.ac.ke/event/cybersecurity-training-3/" rel="bookmark" title="Cybersecurity Training">
+             Cybersecurity Training
+            </a>
+           </h4>
+           <p>
+            8. 00 AM
+           </p>
+          </div>
+         </div>
+         <!-- END .event-wrapper -->
+        </li>
+        <!-- BEGIN .event-wrapper -->
+        <li class="event-wrapper clearfix">
+         <div class="event-date">
+          <div class="event-m">
+           Apr
+          </div>
+          <div class="event-d">
+           06
+          </div>
+         </div>
+         <div class="event-info">
+          <div class="event-meta">
+           <h4>
+            <a href="http://www.c4dlab.ac.ke/event/cybersecurity-training-2/" rel="bookmark" title="Cybersecurity Training">
+             Cybersecurity Training
+            </a>
+           </h4>
+           <p>
+            8:00 am
+           </p>
+          </div>
+         </div>
+         <!-- END .event-wrapper -->
+        </li>
+        <!-- BEGIN .event-wrapper -->
+        <li class="event-wrapper clearfix">
+         <div class="event-date">
+          <div class="event-m">
+           Mar
+          </div>
+          <div class="event-d">
+           10
+          </div>
+         </div>
+         <div class="event-info">
+          <div class="event-meta">
+           <h4>
+            <a href="http://www.c4dlab.ac.ke/event/conference-on-ict-integration-in-education/" rel="bookmark" title="Conference on ICT Integration in Education">
+             Conference on ICT Integration in Education
+            </a>
+           </h4>
+           <p>
+            9:00 am
+           </p>
+          </div>
+         </div>
+         <!-- END .event-wrapper -->
+        </li>
+       </ul>
+      </div>
+      <!-- END .center-content -->
+     </div>
+    </div>
+    <!-- BEGIN .sidebar-right -->
+    <div class="sidebar-right page-content">
+     <div class="widget content-block">
+      <div class="oauth-twitter-tweet">
+       "RT
+       <a href="http://twitter.com/InnovWkNairobi">
+        @InnovWkNairobi
+       </a>
+       : Unlocking the potential of innovators in Kenya
+       <a href="http://twitter.com/#!/search?q=%23NIW2016">
+        #NIW2016
+       </a>
+       . Register here
+       <a href="https://t.co/OQ3cjPv9ay">
+        https://t.co/OQ3cjPv9ay
+       </a>
+       <a href="http://twitter.com/C4DLab">
+        @C4DLab
+       </a>
+       <a href="http://twitter.com/tomwansa">
+        @tomwansa
+       </a>
+       http…"
+      </div>
+      <div class="oauth-twitter-tweet-time" id="oauth-twitter-tweet-time-1">
+       yesterday
+      </div>
+      <div id="oauth-twitter-follow-link">
+       <a href="http://twitter.com/c4dlab" target="_blank">
+        By @c4dlab
+       </a>
+      </div>
+     </div>
+     <div class="widget content-block">
+      <div class="textwidget">
+       <a href="http://www.c4dlab.ac.ke/training/">
+        <img alt="News Courses in 2015" src="http://www.c4dlab.ac.ke/wp-content/uploads/2014/12/new-course.png"/>
+       </a>
+      </div>
+     </div>
+     <div class="widget content-block">
+      <h3 class="block-title">
+       Join Our Mailinglist
+      </h3>
+      <div class="textwidget">
+       <div id="mc_embed_signup">
+        <p>
+         To keep you updated with what we are doing.
+        </p>
+        <form action="http://uonbi.us5.list-manage1.com/subscribe/post?u=bd8238cf32f7130ef06323ad5&amp;id=6049a02603" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_blank">
+         <div class="mc-field-group">
+          <label for="mce-EMAIL">
+           Email Address
+           <span class="asterisk">
+            *
+           </span>
+          </label>
+          <input class="required email" id="mce-EMAIL" name="EMAIL" type="email" value=""/>
+         </div>
+         <div class="clear" id="mce-responses">
+          <div class="response" id="mce-error-response" style="display:none">
+          </div>
+          <div class="response" id="mce-success-response" style="display:none">
+          </div>
+         </div>
+         <div class="clear">
+          <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"/>
+         </div>
+        </form>
+       </div>
+      </div>
+     </div>
+     <!-- END .sidebar-right -->
+    </div>
+    <!-- END .content-wrapper-inner -->
+   </div>
+   <div class="partners">
+    <!-- <a href="http://ict.uonbi.ac.ke/" class="ictuon" target="_blank"></a> -->
+    <a class="icta" href="http://www.icta.go.ke" target="_blank">
+    </a>
+    <a class="ibm" href="#">
+    </a>
+    <a class="msft" href="#">
+    </a>
+    <a class="google" href="#">
+    </a>
+    <a class="barclays" href="#" target="_blank">
+    </a>
+    <a class="oracle" href="#" target="_blank">
+    </a>
+    <a class="intel" href="#" target="_blank">
+    </a>
+    <a class="unicef" href="#" target="_blank">
+    </a>
+    <a class="unhabitat" href="#" target="_blank">
+    </a>
+    <a class="jambopay" href="https://www.jambopay.com" target="_blank">
+    </a>
+    <a class="afrilabs" href="http://afrilabs.com/labs/" target="_blank">
+    </a>
+   </div>
+   <!-- END .content-wrapper -->
+  </div>
+  <!-- BEGIN #footer-wrapper -->
+  <div id="footer-wrapper">
+   <!-- BEGIN #footer -->
+   <div id="footer">
+    <ul class="columns-4 clearfix">
+     <li class="col">
+      <div class="widget">
+       <div class="widget-title clearfix">
+        <h4>
+         Announcements
+        </h4>
+        <div class="widget-title-block">
+        </div>
+       </div>
+       <div class="textwidget">
+        <ul>
+         <li>
+          C4DLab closing for holidays on 20th December. Thanks for your support this year.
+         </li>
+         <li>
+          C4DLab partners with ICT Authority to build capacity for CyberSecurity in the country.
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+     <li class="col">
+      <div class="widget">
+       <div class="widget-title clearfix">
+        <h4>
+         Recent Posts
+        </h4>
+        <div class="widget-title-block">
+        </div>
+       </div>
+       <ul>
+        <li>
+         <a href="http://www.c4dlab.ac.ke/2016/06/role-of-government-in-curbing-online-crime-highlighted-as-fifth-edition-of-cybersec-training-begins/">
+          Role of Government in Curbing online Crime Highlighted as Fifth Edition of Cybersec Training Begins
+         </a>
+        </li>
+        <li>
+         <a href="http://www.c4dlab.ac.ke/2016/05/lab-to-champion-registration-of-participants-in-a-challenge-seeking-to-recognise-women-startup-founders/">
+          Lab to champion Registration of Participants in a Challenge seeking to Recognise Women Startup founders
+         </a>
+        </li>
+        <li>
+         <a href="http://www.c4dlab.ac.ke/2016/05/new-partnership-to-see-the-lab-accomplish-5-flagship-projects/">
+          New Partnership to see the Lab accomplish 5 flagship Projects
+         </a>
+        </li>
+       </ul>
+      </div>
+     </li>
+     <li class="col">
+      <div class="widget">
+       <div class="widget-title clearfix">
+        <h4>
+         Events
+        </h4>
+        <div class="widget-title-block">
+        </div>
+       </div>
+       <ul class="event-list">
+        <!-- BEGIN .event-wrapper -->
+        <li class="event-wrapper clearfix">
+         <div class="event-date">
+          <div class="event-m">
+           Jun
+          </div>
+          <div class="event-d">
+           08
+          </div>
+         </div>
+         <div class="event-info">
+          <div class="event-meta">
+           <h4>
+            <a href="http://www.c4dlab.ac.ke/event/cybersecurity-training-3/" rel="bookmark" title="Cybersecurity Training">
+             Cybersecurity Training
+            </a>
+           </h4>
+           <p>
+            8. 00 AM
+           </p>
+          </div>
+         </div>
+         <!-- END .event-wrapper -->
+        </li>
+        <!-- BEGIN .event-wrapper -->
+        <li class="event-wrapper clearfix">
+         <div class="event-date">
+          <div class="event-m">
+           Apr
+          </div>
+          <div class="event-d">
+           06
+          </div>
+         </div>
+         <div class="event-info">
+          <div class="event-meta">
+           <h4>
+            <a href="http://www.c4dlab.ac.ke/event/cybersecurity-training-2/" rel="bookmark" title="Cybersecurity Training">
+             Cybersecurity Training
+            </a>
+           </h4>
+           <p>
+            8:00 am
+           </p>
+          </div>
+         </div>
+         <!-- END .event-wrapper -->
+        </li>
+       </ul>
+      </div>
+     </li>
+     <li class="col">
+      <div class="widget">
+       <div class="widget-title clearfix">
+        <h4>
+         Quick Stats
+        </h4>
+        <div class="widget-title-block">
+        </div>
+       </div>
+       <div class="textwidget">
+        <ul>
+         <li>
+          Community Reach -
+          <strong>
+           60,000 +
+          </strong>
+         </li>
+         <li>
+          Incubated Startups -
+          <strong>
+           12
+          </strong>
+         </li>
+         <li>
+          Built Prototypes -
+          <strong>
+           9
+          </strong>
+         </li>
+         <li>
+          Deployed Projects -
+          <strong>
+           3
+          </strong>
+         </li>
+         <li>
+          PhD holders -
+          <strong>
+           15
+          </strong>
+         </li>
+         <li>
+          Year founded -
+          <strong>
+           2013
+          </strong>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </li>
+    </ul>
+    <!-- BEGIN #footer-bottom -->
+    <div class="clearfix" id="footer-bottom">
+     <p class="fl">
+      © Copyright - C4DLab,
+      <a href="http://sci.uonbi.ac.ke" target="_blank">
+       School of Computing &amp; Informatics (SCI)
+      </a>
+      ,
+      <a href="http://www.uonbi.ac.ke" target="_blank">
+       University of Nairobi
+      </a>
+      <a>
+      </a>
+      .
+     </p>
+     <p class="go-up fr">
+      <a class="scrollup" href="#top">
+       Top
+      </a>
+     </p>
+     <!-- END #footer-bottom -->
+    </div>
+    <!-- END #footer -->
+   </div>
+   <!-- END #footer-wrapper -->
+  </div>
+  <script type="text/javascript">
+   // <![CDATA[
+        var disqus_shortname = 'c4dlabblog';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+  </script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js?ver=1.8" type="text/javascript">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/js/tinynav.min.js?ver=1.4.8" type="text/javascript">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/js/jquery.uniform.js?ver=1.4.8" type="text/javascript">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/js/superfish.js?ver=1.4.8" type="text/javascript">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/js/jquery.prettyPhoto.js?ver=1.1.9" type="text/javascript">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/js/jquery.flexslider-min.js?ver=1.1.9" type="text/javascript">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-content/themes/parkcollege/js/scripts.js?ver=1" type="text/javascript">
+  </script>
+  <script src="http://www.c4dlab.ac.ke/wp-includes/js/wp-embed.min.js?ver=4.4.3" type="text/javascript">
+  </script>
+  <!-- END body -->
+ </body>
+</html>

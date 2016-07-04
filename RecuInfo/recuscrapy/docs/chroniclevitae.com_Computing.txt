@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<!--[if lt IE 9 ]><html lang="en" class="no-js ie lte8 lte9"><![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie ie9 lte9"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+ <!--<![endif]-->
+ <head>
+  <base href="/"/>
+  <meta charset="utf-8"/>
+  <title>
+   DEAN, COLLEGE OF COMPUTING AND INFORMATICS | Vitae
+  </title>
+  <meta content="authenticity_token" name="csrf-param"/>
+  <meta content="p7sL8voXBEmzDZkXx1waNLJgfOQ3S9x+Ma3zaZgpdXE=" name="csrf-token"/>
+  <meta content="Vitae" name="apple-mobile-web-app-title"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <meta content="DEAN, COLLEGE OF COMPUTING AND INFORMATICS" property="og:description"/>
+  <meta content="Vitae, the online career hub for higher ed" property="og:site_name"/>
+  <meta content="DEAN, COLLEGE OF COMPUTING AND INFORMATICS" property="og:title"/>
+  <meta content="https://chroniclevitae.com/jobs/0000917140-01" property="og:url"/>
+  <meta content="https://chroniclevitae.comvitae-logo_300x300.png?v=1" property="og:image"/>
+  <meta content="m-4WaLlGq9kj8Kpne3NnWaJ7H9v-0Qy9rifpWgg3o1c" name="google-site-verification"/>
+  <link href="/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+  <link href="/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+  <link href="/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+  <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
+  <!--[if lt IE 9 ]><link href="/assets/application--no-mq-6e2c3bb4ab9bd62a6d920d3e61afd845.css" media="screen" rel="stylesheet" /><![endif]-->
+  <!--[if gte IE 9]><!-->
+  <link href="/assets/application-0b0984dc6374e60caf3dc81f53e65776.css" media="screen" rel="stylesheet"/>
+  <!--<![endif]-->
+  <link href="/assets/print-6f0f6c0dd2c7e36e341e77e765119362.css" media="print" rel="stylesheet"/>
+  <script src="/assets/header-1314be895ac8210c0521d6864940b0ed.js">
+  </script>
+  <!-- Start Visual Website Optimizer Asynchronous Code -->
+  <script type="text/javascript">
+   var _vwo_code=(function(){
+    var account_id=65803,
+        settings_tolerance=2000,
+        library_tolerance=2500,
+        use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+        f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+  <!-- End Visual Website Optimizer Asynchronous Code -->
+  <!-- Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-TMDMLK" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TMDMLK');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script type="text/javascript">
+   adroll_adv_id = "CWJYIMOWPVBRRND7R5XBVV";
+  adroll_pix_id = "Y5WBAKLCONAQTFZ7OSTPUW";
+  /* OPTIONAL: provide email to improve user identification */
+  /* adroll_email = "username@example.com"; */
+  (function () {
+    var _onload = function(){
+      if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+      if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+      var scr = document.createElement("script");
+      var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+      scr.setAttribute('async', 'true');
+      scr.type = "text/javascript";
+      scr.src = host + "/j/roundtrip.js";
+      ((document.getElementsByTagName('head') || [null])[0] ||
+      document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+    };
+    if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+    else {window.attachEvent('onload', _onload)}
+  }());
+  </script>
+ </head>
+ <body data-features=" institutionMap  ">
+  <header class="global-header" id="global-header" role="banner">
+   <h1 class="global-header__logo">
+    <a href="https://chroniclevitae.com/">
+     <i aria-hidden="true" class="icon--logo icon">
+      
+     </i>
+     <span class="visually-hidden">
+      Vitae
+     </span>
+    </a>
+   </h1>
+   <button class="global-header__control global-header__control--open global-header__control--open--active" type="button">
+    <i aria-hidden="true" class="icon">
+     
+    </i>
+    <span class="visually-hidden">
+     Open
+    </span>
+   </button>
+   <button class="global-header__control global-header__control--close" type="button">
+    <i aria-hidden="true" class="icon">
+     
+    </i>
+    <span class="visually-hidden">
+     Close
+    </span>
+   </button>
+   <nav class="global-header__nav" role="navigation">
+    <ul>
+     <li class="global-header__item global-header__item--utility">
+      <a class="global-header__item__toggle global-header__item__toggle--utility" href="/job_search/new">
+       <i aria-hidden="true" class="icon">
+        
+       </i>
+       <span class="visually-hidden">
+        Main
+       </span>
+      </a>
+      <ul class="global-header__sub-nav global-header__sub-nav--utility">
+       <li>
+        <a class="global-header__sub-link global-header__sub-link--utility-link" href="/job_search/new">
+         Find Jobs
+        </a>
+       </li>
+       <li>
+        <a class="global-header__sub-link global-header__sub-link--utility-link" href="/news">
+         Get News &amp; Advice
+        </a>
+       </li>
+       <li>
+        <a class="global-header__sub-link global-header__sub-link--utility-link" href="/groups">
+         Groups
+        </a>
+       </li>
+       <li>
+        <a class="global-header__sub-link global-header__sub-link--utility-link" href="/document_library">
+         Syllabi Database
+        </a>
+       </li>
+       <li>
+        <form accept-charset="UTF-8" action="/search" autocomplete="off" class="global-header__nav__search global-header__nav__search--logged-out" method="get">
+         <div style="display:none">
+          <input name="utf8" type="hidden" value="✓"/>
+         </div>
+         <label class="global-header__nav__search__label" for="q">
+          Search
+         </label>
+         <input autocomplete="off" class="global-header__nav__search__input" id="q" name="q" type="text"/>
+         <button class="global-header__nav__search__button" type="submit">
+          <i aria-hidden="true" class="icon">
+           
+          </i>
+          <span class="visually-hidden">
+           Search
+          </span>
+         </button>
+        </form>
+       </li>
+       <li>
+        <a class="global-header__sub-link global-header__sub-link--session-link global-header__sub-link--login-link" href="/login">
+         Log In
+        </a>
+       </li>
+       <li>
+        <a class="global-header__sub-link global-header__sub-link--session-link" href="/account/new?cid=VTJSHOW">
+         Sign Up
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </nav>
+   <script>
+    user_status = false
+   </script>
+  </header>
+  <div class="global-content" role="main">
+   <div class="utility-bar">
+    <div class="utility-bar__slot--left">
+     <a href="/job_search/new">
+      Job Search
+     </a>
+    </div>
+   </div>
+   <span data-embed="shareThis">
+    <div class="pinned-controls--job pinned-controls">
+     <ul>
+      <li>
+       <a class="shareThis__cue" href="#" title="Share this Job">
+        <i aria-hidden="true" class="icon">
+         
+        </i>
+        <span class="visually-hidden">
+         Share This Job
+        </span>
+       </a>
+       <div class="shareThis__wrapper">
+        <a class="shareThis__button st_twitter_custom" href="https://twitter.com/intent/tweet?text=DEAN%2C+COLLEGE+OF+COMPUTING+AND+INFORMATICS+https%3A%2F%2Fchroniclevitae.com%2Fjobs%2F0000917140-01&amp;via=chroniclevitae" st_via="chroniclevitae" target="_blank">
+         <i aria-hidden="true" class="icon">
+          
+         </i>
+         <span class="visually-hidden">
+          Twitter
+         </span>
+        </a>
+        <a class="shareThis__button st_facebook_custom" href="http://www.facebook.com/sharer/sharer.php?p%5Bsummary%5D=DEAN%2C+COLLEGE+OF+COMPUTING+AND+INFORMATICS&amp;p%5Btitle%5D=DEAN%2C+COLLEGE+OF+COMPUTING+AND+INFORMATICS&amp;p%5Burl%5D=https%3A%2F%2Fchroniclevitae.com%2Fjobs%2F0000917140-01&amp;s=100" target="_blank">
+         <i aria-hidden="true" class="icon">
+          
+         </i>
+         <span class="visually-hidden">
+          Facebook
+         </span>
+        </a>
+        <a class="shareThis__button st_linkedin_custom" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=https%3A%2F%2Fchroniclevitae.com%2F&amp;summary=DEAN%2C+COLLEGE+OF+COMPUTING+AND+INFORMATICS&amp;title=DEAN%2C+COLLEGE+OF+COMPUTING+AND+INFORMATICS&amp;url=https%3A%2F%2Fchroniclevitae.com%2Fjobs%2F0000917140-01" target="_blank">
+         <i aria-hidden="true" class="icon">
+          
+         </i>
+         <span class="visually-hidden">
+          LinkedIn
+         </span>
+        </a>
+        <a class="shareThis__button st_googleplus_custom" href="https://plus.google.com/share?url=https%3A%2F%2Fchroniclevitae.com%2Fjobs%2F0000917140-01" target="_blank">
+         <i aria-hidden="true" class="icon">
+          
+         </i>
+         <span class="visually-hidden">
+          Google+
+         </span>
+        </a>
+        <a class="shareThis__button st_email_custom" href="mailto:?subject=DEAN,%20COLLEGE%20OF%20COMPUTING%20AND%20INFORMATICS&amp;body=DEAN,%20COLLEGE%20OF%20COMPUTING%20AND%20INFORMATICS%20https://chroniclevitae.com/jobs/0000917140-01" target="_blank">
+         <i aria-hidden="true" class="icon">
+          
+         </i>
+         <span class="visually-hidden">
+          E-mail
+         </span>
+        </a>
+       </div>
+      </li>
+     </ul>
+    </div>
+   </span>
+   <div class="page-title page-title--two-col">
+    <h1>
+     DEAN, COLLEGE OF COMPUTING AND INFORMATICS
+    </h1>
+    <p class="job-listing__location">
+     Drexel University
+    </p>
+   </div>
+   <section class="content-wrapper">
+    <div class="job-listing__content-wrapper layout__content-wrapper content-wrapper">
+     <div class="job-listing__content layout__content">
+      <ul class="job-listing__actions--secondary">
+       <li>
+        <a class="button button--low button--small" href="/login?cid=VTSaveJob">
+         Save
+        </a>
+       </li>
+       <li>
+        <a class="js-only button button--low button--small" href="javascript:window.print();">
+         Print
+        </a>
+       </li>
+      </ul>
+      <table class="job-listing__content__data table--data">
+       <tr>
+        <th scope="row">
+         Date Posted
+        </th>
+        <td>
+         December 21, 2015
+        </td>
+       </tr>
+      </table>
+      <div class="job-listing__content__description">
+       <p style="text-align: center;">
+        <strong>
+         DEAN, COLLEGE
+OF
+        </strong>
+        <br/>
+        <strong>
+         COMPUTING AND INFORMATICS Philadelphia, PA
+        </strong>
+       </p>
+       <p>
+        Drexel University seeks applications and nominations for the
+position of Dean of the College of Computing and Informatics (CCI).
+Drexel University is one of the most innovative, exciting, and
+entrepreneurial research universities in America. Founded in 1891
+by Philadelphia financier and philanthropist Anthony J. Drexel, the
+university has become recognized as a national research university
+with global reach and as a worldwide leader in experiential
+education.
+        <br/>
+        <br/>
+        The newly-formed College of Computing and Informatics draws its
+strength from the convergence of Drexel's multiple highly-regarded
+professional computing and informatics programs from across the
+University. The College's preeminent faculty (over 70 full-time)
+represents diverse, multidisciplinary interests ranging from the
+social and behavioral sciences, through business and engineering to
+library, computer and information sciences; their research shapes
+these fields and informs both the disciplines and industry. The
+College prepares students to enter the professional world during
+this unprecedented era of technological transformation through its
+undergraduate, masters and doctoral programs.
+        <br/>
+        <br/>
+        The new Dean will step into the role at a momentous time for CCI.
+With two highly-regarded and productive departments (Computer
+Science and Information Science) already brought together under the
+auspices of one College, the Dean will have the unique opportunity
+to ensure its identity evolves into that of a fully integrated,
+cohesive college and is recognized as a leader in its growing
+academic field. The Dean will set a vision for CCI that clearly
+communicates its identity and mission to the relevant markets-for
+employers, students, alumni, and external funding agencies. The
+Dean will put the College on a path to meet the needs of a
+constantly changing field, and of the employer marketplace, and
+will help the College to capitalize on the opportunities within the
+Drexel community-such as collaborations with other Schools and
+Colleges, and leveraging the University's new Innovation
+Neighborhood initiative.
+        <br/>
+        <br/>
+        A Ph.D in a discipline relevant to the academic mission of CCI is
+preferred. Candidates with distinguished scholarly accomplishments
+and records of success in academic administration are strongly
+encouraged. Candidates with compelling experience and
+accomplishment outside of academia will be considered.
+        <br/>
+        <br/>
+        Applications will begin immediately. Inquiries, nominations and
+applications should be directed electronically to:
+       </p>
+       <p style="text-align: center;">
+        <strong>
+         Email:
+         <a href="mailto:drexelccidean@kornferry.com">
+          drexelccidean@kornferry.com
+         </a>
+         <br/>
+         Korn/Ferry
+         <br/>
+         1835 Market Street, Suite 2000
+        </strong>
+        <br/>
+        <strong>
+         Philadelphia, PA 19103
+        </strong>
+        <br/>
+        <br/>
+        <em>
+         Drexel University is an Equal Opportunity/Affirmative Action
+employer, welcomes individuals from diverse backgrounds and
+perspectives, and believes that an inclusive and respectful
+environment enriches the University community and the educational
+and employment experience of its members. The University prohibits
+discrimination against individuals on the basis of race, color,
+national origin, religion, sex, sexual orientation, disability,
+age, status as a veteran or special disabled veteran, gender
+identity or expression, genetic information, pregnancy, childbirth
+or related medical conditions and any other prohibited
+characteristic. Please visit our website to view all University
+Policies and Workplace Postings.
+        </em>
+       </p>
+      </div>
+     </div>
+     <aside class="job-listing__sidebar layout__sidebar">
+      <section class="content-module layout__sidebar__map">
+       <a data-searchable-location="39.9638,-75.1982" href="http://maps.google.com/?q=39.9638,-75.1982" id="layout__sidebar__map__link" target="_blank">
+        <i aria-hidden="true" class="icon">
+         
+        </i>
+        <noscript>
+         <img alt="" class="layout__sidebar__map__img" src="http://maps.googleapis.com/maps/api/staticmap?&amp;markers=39.9638,-75.1982&amp;zoom=5&amp;size=359x295&amp;maptype=roadmap&amp;scale=1&amp;sensor=false"/>
+        </noscript>
+       </a>
+      </section>
+     </aside>
+    </div>
+   </section>
+  </div>
+  <!--BEGIN QUALTRICS SITE INTERCEPT-->
+  <script type="text/javascript">
+   (function(){var g=function(e,h,f,g){
+    this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+    this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+    this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+    this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+    this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+    try{(new g(100,"r","QSI_S_ZN_eQEhLXlciLaYj6B","https://zn_eqehlxlcilayj6b-chronicle.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_eQEhLXlciLaYj6B&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+  </script>
+  <div id="ZN_eQEhLXlciLaYj6B">
+   <!--DO NOT REMOVE-CONTENTS PLACED HERE-->
+  </div>
+  <!--END SITE INTERCEPT-->
+  <script type="text/javascript">
+   var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '2423']);
+    _elqQ.push(['elqTrackPageView']);
+    
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//img.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load); 
+    })();
+  </script>
+  <!-- Facebook Pixel Code -->
+  <script>
+   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '742443735892741');
+  fbq('track', "PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=742443735892741&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+  <footer class="global-footer">
+   <section class="universal-cta universal-cta__job-detail " id="universal-cta">
+    <div class="universal-cta__wrapper">
+     <h1 class="universal-cta__title">
+      Save money on your job search with our FREE dossier service.
+     </h1>
+     <p class="universal-cta__body">
+      Sign up for Vitae to save your job search, receive job alerts, and access our FREE dossier service.
+      <br/>
+      <br/>
+      Vitae provides inside career advice, tools, the best jobs, and an active community to help you succeed in higher education.
+     </p>
+     <p class="universal-cta__cta">
+      <a class="button" href="/account/new?cid=VTJobDetailPromo">
+       Join Vitae
+      </a>
+      <span class="universal-cta__peer-pressure">
+       Signing up is fast, easy, and
+       <strong>
+        free
+       </strong>
+       .
+      </span>
+     </p>
+    </div>
+   </section>
+   <div class="content-wrapper">
+    <h1 class="global-footer__logo">
+     <a href="https://chroniclevitae.com/">
+      <i aria-hidden="true" class="icon--logo icon">
+       
+      </i>
+      <span class="visually-hidden">
+       Vitae
+      </span>
+     </a>
+    </h1>
+    <nav class="global-footer__nav" role="navigation">
+     <ul>
+      <li>
+       <a href="/about">
+        About Vitae
+       </a>
+      </li>
+      <li>
+       <a href="/partners">
+        Partners
+       </a>
+      </li>
+      <li>
+       <a href="http://chronicle.com/article/Privacy-Policy/1612/">
+        Privacy Policy
+       </a>
+      </li>
+      <li>
+       <a href="http://chronicle.com/article/User-Agreement/47435/">
+        Terms of Service
+       </a>
+      </li>
+      <li>
+       <a href="/contact">
+        Contact Us
+       </a>
+      </li>
+      <li>
+       <a href="/faq">
+        FAQ
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <nav class="global-footer__nav" role="navigation">
+     <ul>
+      <li>
+       <a href="https://twitter.com/chroniclevitae" target="_blank">
+        <i aria-hidden="true" class="icon item__meta icon--social-media-link">
+         
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.facebook.com/chroniclevitae" target="_blank">
+        <i aria-hidden="true" class="icon item__meta icon--social-media-link">
+         
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://plus.google.com/111061391119395885530/posts" target="_blank">
+        <i aria-hidden="true" class="icon item__meta icon--social-media-link">
+         
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.youtube.com/user/ChronicleVitae" target="_blank">
+        <i aria-hidden="true" class="icon item__meta icon--social-media-link">
+         
+        </i>
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <span class="service-text">
+     A service of The Chronicle of Higher Education
+    </span>
+    <p class="global-footer__contentinfo" role="contentinfo">
+     <span class="address">
+      1255 Twenty-Third St, N.W. Washington, D.C. 20037
+     </span>
+     <span class="dot">
+      •
+     </span>
+     <span class="license">
+      Copyright © 2016 The Chronicle of Higher Education
+     </span>
+    </p>
+   </div>
+  </footer>
+  <a class="feedback-link" href="/feedback">
+   Feedback &amp; Support
+  </a>
+  <div id="jq-modal">
+  </div>
+  <script data-events="" id="omniture-data">
+   s_addBackendOmintureVars = function() {
+		s.prop46=s.eVar19= 'No User ID' ; // Member ID
+s.eVar54= 'No Profile' ; // RESUME - Profile Complete
+s.eVar52= 'No Career Track' ; // RESUME - CAREER TRACK
+s.eVar51= 'No State' ; // RESUME - STATE
+s.eVar50= 'No City' ; // RESUME - CITY
+s.prop20=s.eVar20= 'not logged in' ; // Login status
+s.eVar55= 'No Institution Type' ; // RESUME -PUBLIC/PRIVATE
+s.pageName=s.eVar11= 'JobAd:0000917140-01' ; // Page Name
+s.channel=s.eVar62= 'Jobs' ; // Site Section
+s.prop1=s.eVar1= 'No sub-section' ; // Sub-Section
+s.prop3=s.eVar3= 'No sub-sub-section' ; // Sub-Sub-Section
+s.prop4=s.eVar4= 'JobAds:free:none' ; // Content Type/Level/State
+s.prop48= 'JobAds' ; // Page Type/KPI Pathing
+s.prop13=s.eVar41= '0000917140-01' ; // Job ID
+s.eVar12= 'No Institution Name' ; // Job Institution
+s.eVar13= 'Pennsylvania' ; // Job Location
+s.eVar15= 'No Employment Level' ; // Job Employment Level
+s.eVar16= 'No Employment Status' ; // Employment Status
+s.eVar17= 'not specified' ; // Salary
+s.eVar69= '+1' ; // # of Job Views
+s.eVar72= '+3' ; // Visitor Engagement
+s.prop5=s.eVar5= 'no title' ; // Content title
+s.prop6=s.eVar6= 'no id' ; // Content ID
+s.prop2=s.eVar2= 'no author' ; // Content Author
+	};
+  </script>
+  <script src="/assets/application-cba1155c212f114ab9853cae3f2398c9.js">
+  </script>
+  <script>
+   function auth_check(logged_in) {
+				if (logged_in) {
+					document.write('<script src="https://chronicle.com/api/v1/account/auth/?client_id=vitae&redirect_uri=https%3A%2F%2Fchroniclevitae.com%2Fauth&response_type=code&scope=userinfo&state=1465749173"></scr' + 'ipt>');
+				} else {
+					var expiration = new Date();
+					expiration.setMinutes(expiration.getMinutes() + 30);
+
+					$.cookie("auth_checked", "true", { expires: expiration , path: "/" });
+				}
+			}
+  </script>
+  <script src="https://chronicle.com/api/v1/account/status.js?callback=auth_check&amp;state=1465749173">
+  </script>
+  <script id="inspectletjs">
+   window.__insp = window.__insp || [];
+__insp.push(['wid', 301965267]);
+(function() {
+	function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+	if (window.attachEvent){
+		window.attachEvent('onload', __ldinsp);
+	}else{
+		window.addEventListener('load', __ldinsp, false);
+	}
+})();
+  </script>
+ </body>
+</html>

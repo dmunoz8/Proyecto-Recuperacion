@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <title>
+   Scientific Computing &amp; Informatics | Axle Info
+  </title>
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,600" rel="stylesheet" type="text/css"/>
+  <link href="/wp-content/themes/AxleInformaticsResponsive/css/normalize.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="/wp-content/themes/AxleInformaticsResponsive/css/grid.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="/wp-content/themes/AxleInformaticsResponsive/css/style.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="/wp-content/themes/AxleInformaticsResponsive/css/nav.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="/wp-content/themes/AxleInformaticsResponsive/css/superslides.css" rel="stylesheet"/>
+  <link href="http://axleinfo.com/feed/" rel="alternate" title="Axle Info » Feed" type="application/rss+xml"/>
+  <link href="http://axleinfo.com/comments/feed/" rel="alternate" title="Axle Info » Comments Feed" type="application/rss+xml"/>
+  <link href="http://axleinfo.com/scientific-computing-informatics/feed/" rel="alternate" title="Axle Info » Scientific Computing &amp; Informatics Comments Feed" type="application/rss+xml"/>
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" id="twentytwelve-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://axleinfo.com/wp-content/themes/AxleInformaticsResponsive/style.css?ver=4.0.11" id="twentytwelve-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://axleinfo.com/wp-content/themes/AxleInformaticsResponsive/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+  <script src="http://axleinfo.com/wp-includes/js/jquery/jquery.js?ver=1.11.1" type="text/javascript">
+  </script>
+  <script src="http://axleinfo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <link href="http://axleinfo.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://axleinfo.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 4.0.11" name="generator"/>
+  <link href="http://axleinfo.com/scientific-computing-informatics/" rel="canonical"/>
+  <link href="http://axleinfo.com/?p=11" rel="shortlink"/>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="/wp-content/themes/AxleInformaticsResponsive/js/menu_jquery.js" type="text/javascript">
+  </script>
+  <!-- <link rel="stylesheet" href="css/style.min.css" type="text/css" media="screen"> -->
+  <!--[if IE]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <script>
+   $(function() {
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+  </script>
+  <link href="favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://axleinfo.com/xmlrpc.php" rel="pingback"/>
+ </head>
+ <body class="page page-id-11 page-template-default full-width custom-font-enabled single-author">
+  <div class="menu">
+   <div class="container clearfix tophead">
+    <div class="grid_4" id="content">
+     <div id="logo">
+      <a href="/" title="Home">
+       <img src="/wp-content/themes/AxleInformaticsResponsive/images/AxleInformaticsLOGO.png"/>
+      </a>
+     </div>
+    </div>
+    <div class="grid_8 omega" id="nav">
+     <div id="navcontain">
+      <div id="navleft">
+       <div id="cssmenu">
+        <ul>
+         <li class="has-sub">
+          <a href="/capabilities/">
+           <span>
+            CAPABILITIES
+           </span>
+          </a>
+          <ul>
+           <li>
+            <a href="/scientific-computing-informatics/">
+             <span>
+              Scientific Computing Informatics
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/technology-support-services/">
+             <span>
+              Technology Support Services
+             </span>
+            </a>
+           </li>
+           <li class="last">
+            <a href="/program-management/">
+             <span>
+              Program Management
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="/clients/">
+           <span>
+            CLIENTS
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="/us/">
+           <span>
+            US
+           </span>
+          </a>
+         </li>
+         <li class="last">
+          <a href="https://jobs-axleinfo.icims.com">
+           <span>
+            CAREERS
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div id="navright">
+       <div id="email">
+        <a href="#contact">
+         <img alt="Contact Us" src="/wp-content/themes/AxleInformaticsResponsive/images/phone_icon.png"/>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="slide" data-stellar-background-ratio="0.5" id="slide_core">
+   <div class="container clearfix">
+    <div id="innerhead">
+     <h2>
+      Scientific Computing
+      <br/>
+      &amp; Informatics
+     </h2>
+    </div>
+   </div>
+  </div>
+  <div class="slide" data-stellar-background-ratio="0.5" id="slide_innercontent">
+   <div class="container clearfix">
+    <div class="grid_12" id="content">
+     <p>
+      Axle’s team has a rare combination of laboratory science, IT, business and regulatory expertise. Our clients come from industries where sharing research-related data among different systems and stakeholders is necessary to improve business operations – from life sciences to contract testing laboratories to public health. We also help convert this research data into information, so it can be used to achieve business goals. Most importantly, we are passionate about what we do and committed to designing and implementing solutions that enable our clients to be the heroes of their organizations.
+     </p>
+     <h4>
+      Bioinformatics &amp; Computational Biology:
+     </h4>
+     <p>
+      Axle Informatics has a successful track record supporting public and private research and health sectors for more than 10 years. Axle supports several laboratories at the NIH in clinical and research applications. By effectively combining our expertise in information technology (IT), business management, bioinformatics and computational sciences, we are able to provide our customers with best-value solutions that deliver top performance at reasonable costs.
+     </p>
+     <h4>
+      Laboratory Informatics:
+     </h4>
+     <p>
+      Axle Informatics has developed multiple software programs and applications specialized for different types of research facilities &amp; universities aimed at optimizing laboratory operations. Our solutions encompass sample management, data acquisition and processing, reporting, and scientific data management. Axle’s solutions increase productivity, elevate experimental data quality, and reduce lab process cycle times.
+     </p>
+     <h4>
+      Biomedical &amp; Clinical Research
+     </h4>
+     <p>
+      Axle Informatics has expertise in enabling scientific and clinical research and has developed LabShare for The National Institutes of Health, which can be customized for other research facilities. The platform makes many of the tasks of managing and operating research facilities transparent to scientists and clinicians, allowing them to focus on research.
+     </p>
+     <p>
+      Through LabShare, Axle provides a functional multifaceted informatics platform that easily integrates with other systems and provides built-in visualization tools geared towards simple collaboration among researchers. Axle works to develop cutting-edge research technologies and project-specific applications for everyday use at multiple facilities.
+     </p>
+     <p>
+      Labshare can easily be customized for other research facilities and universities.
+     </p>
+    </div>
+   </div>
+  </div>
+  <div class="comments-area" id="comments">
+  </div>
+  <!-- #comments .comments-area -->
+  <script src="http://axleinfo.com/wp-content/themes/AxleInformaticsResponsive/js/navigation.js?ver=20140318" type="text/javascript">
+  </script>
+  <div class="slide" data-slide="footer" data-stellar-background-ratio="0.5" id="footer">
+   <a name="contact">
+   </a>
+   <div class="container clearfix">
+    <div class="grid_6 footer" id="content">
+     <ul class="footerinfo">
+      <li>
+       1700 Rockville Pike, Suite 400
+      </li>
+      <li class="padbot">
+       Rockville, MD 20852
+      </li>
+      <li>
+       P: (301) 637-6868
+      </li>
+     </ul>
+     <ul class="footerinfo">
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ul class="footerinfo social">
+      <li>
+       <a href="https://www.linkedin.com/company/axle-informatics" target="_blank">
+        <img alt="LinkedIn Link" src="/wp-content/themes/AxleInformaticsResponsive/images/social_linkedin.png"/>
+       </a>
+      </li>
+      <!--<li><a href="https://www.facebook.com/LabShare" target="_blank"><img src="/wp-content/themes/AxleInformaticsResponsive/images/social_facebook.png" alt="Facebook Link" /></a></li>
+                    <li><a href="#" target="_blank"><img src="/wp-content/themes/AxleInformaticsResponsive/images/social_twitter.png" alt="Twitter Link" /></a></li>-->
+     </ul>
+     <ul class="copyright">
+      <li>
+       <a href="/copyright/">
+        Copyright
+       </a>
+      </li>
+      <li>
+       <a href="/privacy/">
+        Privacy
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js">
+  </script>
+  <script src="/wp-content/themes/AxleInformaticsResponsive/js/jquery.stellar.min.js" type="text/javascript">
+  </script>
+  <script src="/wp-content/themes/AxleInformaticsResponsive/js/waypoints.min.js" type="text/javascript">
+  </script>
+  <script src="/wp-content/themes/AxleInformaticsResponsive/js/jquery.easing.1.3.js" type="text/javascript">
+  </script>
+  <script src="/wp-content/themes/AxleInformaticsResponsive/js/scripts.js" type="text/javascript">
+  </script>
+  <!-- <script type="text/javascript" src="js/scripts.min.js"></script> -->
+  <script src="/wp-content/themes/AxleInformaticsResponsive/js/jquery.animate-enhanced.min.js">
+  </script>
+  <script src="/wp-content/themes/AxleInformaticsResponsive/js/hammer.min.js">
+  </script>
+  <script charset="utf-8" src="/wp-content/themes/AxleInformaticsResponsive/js/jquery.superslides.js" type="text/javascript">
+  </script>
+  <script>
+   $('#slides').superslides({
+			animation: 'fade',
+			play: 8000
+		});
+  </script>
+  <script>
+   $(function() {
+			var $slides = $('#slides');
+
+		Hammer($slides[0]).on("swipeleft", function(e) {
+			$slides.data('superslides').animate('next');
+		});
+
+		Hammer($slides[0]).on("swiperight", function(e) {
+			$slides.data('superslides').animate('prev');
+		});
+
+		$slides.superslides({
+			hashchange: true
+		});
+    });
+  </script>
+ </body>
+</html>

@@ -1,0 +1,472 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <!-- InstanceBegin template="/Templates/comsc-general.dwt" codeOutsideHTMLIsLocked="false" -->
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>
+   Cardiff School of Computer Science &amp; Informatics
+  </title>
+  <!-- InstanceEndEditable -->
+  <style media="screen, print" type="text/css">
+   <!--
+@import url("styles09/_layout/vert/nav_horiz.css");
+@import url("styles09/_layout/horiz/100.css");
+@import url("styles09/_tools/hacks.css");
+@import url("styles09/_core/css/contentsub.css");
+@import url("styles09/_core/css/headfoot.css");
+@import url("styles09/_tools/tools.css");
+@import url("styles09/_core/css/navs.css");
+/*comsc Specific Styles*/
+@import url("styles09/comsc/css/contentsub.css");
+@import url("styles09/comsc/css/navs.css");
+-->
+  </style>
+  <style media="screen" type="text/css">
+   @import url("styles09/comsc/css/headfoot.css");
+  </style>
+  <link href="styles09/_core/css/print.css" media="print" rel="stylesheet"/>
+  <!-- Meta data -->
+  <!-- Dublin Core Meta data -->
+  <link href="favicon.ico" rel="shortcut icon"/>
+  <!-- End Meta data -->
+  <!-- Web logging script -->
+  <script src="scripts/search.js" type="text/javascript">
+  </script>
+  <script src="scripts/mail.js" type="text/javascript">
+  </script>
+  <script src="scripts/seq.cujs.min.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+   var pageTracker = _gat._getTracker("UA-6361662-1");
+pageTracker._trackPageview();
+  </script>
+  <!-- End web logging -->
+  <!-- InstanceBeginEditable name="head" -->
+  <meta content="Computer Science and Informatics, Cardiff University, Prifysgol Caerdydd, research, education" name="Description"/>
+  <meta content="computer science, informatics, computing, Cardiff, research, distributed computing, scientific computing, visual computing, undergraduate, postgrauate" name="Keywords"/>
+  <!-- InstanceEndEditable -->
+ </head>
+ <body class="core comsc" id="cf.ac.uk" lang="en-gb" onload="searchDefaults();">
+  <p>
+   <a class="access" href="#top">
+    Skip to content
+   </a>
+   <br class="access"/>
+   <a class="access" href="#nav_local">
+    Skip to navigation menu
+   </a>
+  </p>
+  <div class="clearfix" id="header">
+   <a href="http://www.cf.ac.uk/" title="Cardiff University | Prifysgol Caerdydd">
+    <img alt="Cardiff University | Prifysgol Caerdydd" src="images/cu_logo.gif"/>
+   </a>
+  </div>
+  <div class="clearfix" id="wrapper">
+   <div class="clearfix" id="content">
+    <!-- Page Content -->
+    <!-- InstanceBeginEditable name="content" -->
+    <div class="row">
+     <div style="padding:0 0.9em 0.9em 0.9em">
+      <script src="http://www.cardiff.ac.uk/scripts/seq.cujs.js" type="text/javascript">
+      </script>
+      <div id="slideshow">
+       <div class="slide" title=" ">
+        <div class="slide-content" style="background-image:url(images/mainpi.jpg); height:376px">
+         <div style="position: absolute; overflow:hidden; top: 20px; left: 20px; width: 230px; padding:13px; background-image:url(images/shadeblack.png); background-repeat:repeat; background-position:left top; height: 175px;">
+          <p class="callout">
+           <strong>
+            Look ahead to your future in computing
+           </strong>
+          </p>
+          <p>
+           Our dynamic
+           <a href="degreeprogrammes/undergraduate.html">
+            BSc
+           </a>
+           and
+           <a href="degreeprogrammes/postgraduate.html">
+            MSc
+           </a>
+           degrees will equip you with what industry demands
+          </p>
+          <p>
+           <a href="degreeprogrammes/undergraduate.html">
+            Undergraduate (BSc) degrees
+           </a>
+          </p>
+          <p>
+           <a href="degreeprogrammes/postgraduate.html">
+            Postgraduate (MSc) degrees
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+       <script type="text/javascript">
+        new seq.cujs("slideshow", "fader", { autostart : true, delay : 12000, loop:true });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div class="row">
+     <div class="leftcol col28em">
+      <div class="padlr09">
+       <div class="floatCaptionLeft" style="width:25px; padding-right:0.4em">
+        <a href="feed://www.cs.cf.ac.uk/rss/news.xml">
+         <img alt="Subscribe to the School's RSS news feed" height="24" src="images/rsslogo.jpg" title="Subscribe to the School's RSS news feed" width="24"/>
+        </a>
+       </div>
+       <p>
+        <a href="http://www.cs.cf.ac.uk/newsandevents/">
+         <strong>
+          PhD Scholarships available - find out more
+         </strong>
+        </a>
+        <br/>
+        <a href="http://www.cs.cf.ac.uk/newsandevents/">
+         <strong>
+          Lecturer posts available - find out more
+         </strong>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="rightcol col35em">
+      <div class="padlr09">
+       <form action="http://www.cs.cf.ac.uk/search/search.php">
+        <h5 style="text-align:right">
+         School Search:
+         <input name="cx" type="hidden" value="015690584223256926759:pf_id5sazq8"/>
+         <input name="cof" type="hidden" value="FORID:11"/>
+         <input name="q" size="30" type="text"/>
+         <input alt="Go" class="button" name="sa" src="./styles/comsc/images/button_go.gif" style="width:31px; height:20px; border:none; vertical-align:middle;" type="image" value="Go"/>
+        </h5>
+       </form>
+       <script src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+       </script>
+      </div>
+     </div>
+    </div>
+    <div class="row">
+     <div class="padlr09" style="float:left;">
+      <div style="float:left; width:61.8em; background:url(images/box-background.jpg)">
+       <div class="col33" style="float:left;">
+        <div class="pad09">
+         <h4>
+          <strong>
+           Prospective students
+          </strong>
+         </h4>
+         <p>
+          We offer a variety of  undergraduate and postgraduate degrees featuring  industry and research themed content:
+         </p>
+         <ul class="none">
+          <li>
+           <a href="degreeprogrammes/undergraduate.html">
+            Undergraduate degree programmes
+           </a>
+          </li>
+          <li>
+           <a href="degreeprogrammes/postgraduate.html">
+            Postgraduate study
+           </a>
+          </li>
+          <li>
+           <a href="degreeprogrammes/research/">
+            Research degrees
+           </a>
+          </li>
+          <li>
+           <a href="degreeprogrammes/whycardiff.html">
+            Why choose Cardiff
+           </a>
+          </li>
+          <li>
+           <a href="softwareacademy/">
+            National Software Academy
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="col34" style="float:left;">
+        <div class="pad09">
+         <h4>
+          Current students and staff
+         </h4>
+         <p>
+          Quick links and useful information including degree module descriptions and exam timetables:
+         </p>
+         <ul class="none">
+          <li>
+           <a href="currentstudents/">
+            Resources for current students
+           </a>
+          </li>
+          <li>
+           <a href="http://docs.cs.cf.ac.uk/">
+            School facilities and documentation
+           </a>
+          </li>
+          <li>
+           <a href="/admin">
+            Information for staff
+           </a>
+          </li>
+          <li>
+           <a href="http://mail.cardiff.ac.uk/">
+            Cardiff email
+           </a>
+           and
+           <a href="https://portal.cf.ac.uk">
+            Portal
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="col33" style="float:left;">
+        <div class="pad09">
+         <h4>
+          Research
+         </h4>
+         <p>
+          Discover more about our internationally recognised research and interests in the areas of:
+         </p>
+         <ul class="none">
+          <li>
+           <a href="research/dsc.php">
+            Distributed &amp; Scientific Computing
+           </a>
+          </li>
+          <li>
+           <a href="research/inf.php">
+            Informatics
+           </a>
+          </li>
+          <li>
+           <a href="research/vis.php">
+            Visual Computing
+           </a>
+          </li>
+         </ul>
+         <p>
+          Join us as a
+          <a href="degreeprogrammes/research/">
+           research student
+          </a>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row" style="clear:both">
+     <div class="leftcol col66">
+      <div class="row">
+       <div class="leftcol col20 pad09">
+        <div class="floatCaptionLeft" style="width:80px; padding-right:0.4em">
+         <img alt="Athena Swan bronze award logo" height="45" src="images/Athena-Swan-bronze-award.png" width="75"/>
+        </div>
+        <p>
+         We are proud to hold the Athena SWAN Bronze Award
+        </p>
+       </div>
+       <div class="rightcol col70 pad09">
+        <h6 style="color:#666">
+         Contact the Cardiff School of Computer Science &amp; Informatics
+        </h6>
+        <p style="color:#666">
+         <strong>
+          Email
+         </strong>
+         :
+         <script type="text/javascript">
+          maillink('comsc-office', 'cardiff.ac.uk')
+         </script>
+         <br/>
+         <strong>
+          Tel
+         </strong>
+         : +44 (0)29 2087 4812 |
+         <strong>
+          Fax
+         </strong>
+         : +44 (0)29 2087 4598
+         <br/>
+         Cardiff University, Queen's Buildings, 5 The Parade, Roath, Cardiff CF24 3AA, UK
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="rightcol col33">
+      <div class="pad09" style="padding-bottom:10px;">
+       <div class="floatCaptionLeft" style="width:40px; padding-right:0.4em">
+        <a href="http://www.facebook.com/csicardiff">
+         <img alt="View the School's Facebook page" height="40" src="images/facebooklogo.png" title="View the School's Facebook page" width="40"/>
+        </a>
+       </div>
+       <div class="floatCaptionLeft" style="width:40px; padding-right:0.4em">
+        <a href="http://twitter.com/csicardiff">
+         <img alt="Read the School's Twitter page" height="40" src="images/twitterlogo.png" title="Read the School's Twitter page" width="40"/>
+        </a>
+       </div>
+       <div class="floatCaptionLeft" style="width:40px; padding-right:0.4em">
+        <a href="http://www.linkedin.com/groups/Cardiff-School-Computer-Science-Informatics-4529987?gid=4529987&amp;trk=hb_side_g">
+         <img alt="Join our LinkedIn group" height="40" src="images/linkedinlogo.jpg" title="Join our LinkedIn group" width="40"/>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- InstanceEndEditable -->
+   </div>
+   <div id="nav_local">
+   </div>
+   <!-- Horizontal navigation -->
+   <div id="nav_horiz">
+    <!-- #BeginLibraryItem "/Library/horizontal-navigation.lbi" -->
+    <ul>
+     <li id="nav_horiz_first">
+      <a href="../">
+       School Home
+      </a>
+     </li>
+     <li>
+      <a href="aboutus">
+       About Us
+      </a>
+     </li>
+     <li>
+      <a href="degreeprogrammes">
+       Degree Programmes
+      </a>
+     </li>
+     <li>
+      <a href="research">
+       Research
+      </a>
+     </li>
+     <li>
+      <a href="newsandevents">
+       News &amp; Events
+      </a>
+     </li>
+     <li id="nav_horiz_last">
+      <a href="contactsandpeople">
+       Contacts &amp; People
+      </a>
+     </li>
+    </ul>
+    <!-- #EndLibraryItem -->
+   </div>
+   <!-- END Horizontal navigation -->
+   <div id="nav_main">
+    <ul>
+     <li>
+      <strong>
+       Explore Cardiff University
+      </strong>
+     </li>
+     <li>
+      <a href="http://www.cardiff.ac.uk/">
+       Home
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cardiff.ac.uk/about/">
+       About
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cardiff.ac.uk/education/">
+       STUDY
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cardiff.ac.uk/research/">
+       Research
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cardiff.ac.uk/news/">
+       News
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cardiff.ac.uk/events/">
+       Events
+      </a>
+     </li>
+     <li>
+      <a href="http://www.cardiff.ac.uk/az/">
+       A-Z
+      </a>
+     </li>
+    </ul>
+    <form action="http://www.cardiff.ac.uk/search/index.html" id="cse-search-box">
+     <input name="cx" type="hidden" value="004497668956212682542:ltvwfafuryg"/>
+     <input name="cof" type="hidden" value="FORID:9"/>
+     <input name="ie" type="hidden" value="ISO-8859-1"/>
+     <input id="q" name="q" type="text"/>
+     <input alt="Search" height="20" id="submit" name="submit" src="http://www.cardiff.ac.uk/images/button_go.gif" type="image" value="Submit" width="31"/>
+    </form>
+    <script src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+    </script>
+   </div>
+  </div>
+  <div class="clearfix" id="footer">
+   <!-- #BeginLibraryItem "/Library/footer.lbi" -->
+   <ul>
+    <li id="copy">
+     <a href="http://www.cardiff.ac.uk/legals/copyright.html">
+      © Cardiff University
+     </a>
+    </li>
+    <li>
+     <a href="http://www.cardiff.ac.uk/accessibility/">
+      Accessibility
+     </a>
+    </li>
+    <li>
+     <a href="http://www.cs.cardiff.ac.uk/feedback/">
+      Feedback
+     </a>
+    </li>
+    <li>
+     <a href="http://www.cardiff.ac.uk/cookies/">
+      Cookies
+     </a>
+    </li>
+    <li>
+     <a href="http://www.cardiff.ac.uk/legals/privacy.html">
+      Privacy Policy
+     </a>
+    </li>
+    <li>
+     <a href="http://www.cardiff.ac.uk/legals/terms.html">
+      Terms of Use
+     </a>
+    </li>
+    <li>
+     <a href="http://www.cardiff.ac.uk/az/">
+      A-Z
+     </a>
+    </li>
+   </ul>
+   <!-- #EndLibraryItem -->
+  </div>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-1911909-3";
+       urchinTracker();
+  </script>
+ </body>
+ <!-- InstanceEnd -->
+</html>

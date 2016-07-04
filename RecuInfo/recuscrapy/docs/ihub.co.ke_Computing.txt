@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <meta content="#000" name="theme-color"/>
+  <!-- Place this data between the <head> tags of your website -->
+  <meta content="University of Nairobi's School of Computing and Informatics invites qualified people to apply for their new and exciting Masters Courses commencing on 27th of May, 2013.  All Courses are Module II (parallel/non-government sponsored) and include MSc. Applied Computing, Msc. Computational Intelligence, Msc. Distributed Computing Technology and MSc. IT Management.  The courses will be taught in the evenings, Mondays to Fridays between 5.30pm – 8.30pm  If interested, submit a completed application..." name="description"/>
+  <link href="http://ihub.co.ke/blogs/13008" rel="canonical"/>
+  <meta content="983" property="og:image:width"/>
+  <meta content="558" property="og:image:height"/>
+  <!-- Open Graph data -->
+  <meta content="article" property="og:type"/>
+  <meta content="New MSc Courses at University of Nairobi | School of Computing and Informatics" property="og:title"/>
+  <meta content="http://ihub.co.ke/blogs/13008" property="og:url"/>
+  <meta content="University of Nairobi's School of Computing and Informatics invites qualified people to apply for their new and exciting Masters Courses commencing on 27th of May, 2013.  All Courses are Module II (parallel/non-government sponsored) and include MSc. Applied Computing, Msc. Computational Intelligence, Msc. Distributed Computing Technology and MSc. IT Management.  The courses will be taught in the evenings, Mondays to Fridays between 5.30pm – 8.30pm  If interested, submit a completed application..." property="og:description"/>
+  <meta content="IHUB" property="og:site_name"/>
+  <!-- Twitter Card data -->
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="New MSc Courses at University of Nairobi | School of Computing and Informatics" name="twitter:title"/>
+  <meta content="University of Nairobi's School of Computing and Informatics invites qualified people to apply for their new and exciting Masters Courses commencing on 27th of May, 2013.  All Courses are Module II (parallel/non-government sponsored) and include MSc. Applied Computing, Msc. Computational Intelligence, Msc. Distributed Computing Technology and MSc. IT Management.  The courses will be taught in the evenings, Mondays to Fridays between 5.30pm – 8.30pm  If interested, submit a completed application..." name="twitter:description"/>
+  <meta content="@ihub" name="twitter:site"/>
+  <meta content="http://ihub.co.ke/blogs/13008" name="twitter:url"/>
+  <meta content="@ihub" name="twitter:creator"/>
+  <link href="/output/css/stylesheet_v1.css" rel="stylesheet"/>
+  <title>
+   New MSc Courses at University of Nairobi | School of Computing and Informatics -
+  </title>
+  <!--[if lt IE 9]>
+            <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          var ip = document.location.hostname;
+
+          if (ip != '127.0.0.1' && ip != 'kies.symfony.dev') {
+              ga('create', 'UA-53839743-1', 'auto');
+              ga('send', 'pageview');
+          }
+  </script>
+  <meta content="y67ZztyNEn0BH_xhWYDBGULrB2VhOzQZYNZ79z45wtw" name="google-site-verification"/>
+ </head>
+ <body>
+  <div id="wrapper">
+   <header>
+    <div class="container-fluid main-menu">
+     <nav class="navbar navbar-inverse navbar-fixed-top " data-offset-top="60" data-spy="affix" role="navigation">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button class="navbar-toggle" data-target="#navbarCollapse" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="/">
+        <img alt="iHub Community" class="full-logo" src="/images/classic-logo.png"/>
+       </a>
+      </div>
+      <!-- Collection of nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+       <ul class="nav navbar-nav">
+        <li class="first">
+         <a href="/about">
+          About
+         </a>
+        </li>
+        <li>
+         <a href="/members/">
+          Community
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/">
+          Blog
+         </a>
+        </li>
+        <li>
+         <a href="/events/">
+          Events
+         </a>
+        </li>
+        <li>
+         <a href="/jobs">
+          Jobs
+         </a>
+        </li>
+        <li>
+         <a href="/research">
+          Research
+         </a>
+        </li>
+        <li>
+         <a href="/consulting">
+          Consulting
+         </a>
+        </li>
+        <li>
+         <a href="/uxlab">
+          UXLab
+         </a>
+        </li>
+        <li class="last">
+         <a href="/contacts">
+          Contacts
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="user-icon">
+       <a href="/private/profile/view">
+        <i class="glyphicon glyphicon-user">
+        </i>
+       </a>
+      </div>
+     </nav>
+    </div>
+   </header>
+   <div class="content-block">
+    <div class="new-submenu clearfix">
+     <div class="container-fluid seaarch-widget">
+      <form action="/blogs/search" method="GET">
+       <div class="search-group">
+        <input class="form-control" id="search-input" name="q" placeholder="" type="text" value=""/>
+        <button class="btn btn-default" type="submit">
+         <i class="fa fa-search">
+         </i>
+        </button>
+        <button class="btn btn-close" id="search-close" type="button">
+         <i class="fa fa-close">
+         </i>
+        </button>
+       </div>
+      </form>
+     </div>
+     <div class="container-fluid submenubox blogs-submenu">
+      <ul class="submenulist">
+       <li class="first">
+        <a href="/blogs/">
+         All
+        </a>
+       </li>
+       <li>
+        <a href="/blogs/category/ihub-community">
+         Community
+        </a>
+       </li>
+       <li>
+        <a href="/blogs/category/ihub-research">
+         Research
+        </a>
+       </li>
+       <li>
+        <a href="/blogs/category/ihub-consulting">
+         Consulting
+        </a>
+       </li>
+       <li>
+        <a href="/blogs/category/ihub-uxlab">
+         UX Lab
+        </a>
+       </li>
+       <li class="last">
+        <a href="/blogs/category/m:lab">
+         m:lab
+        </a>
+       </li>
+      </ul>
+      <div class="searchmenu">
+       <a href="#">
+        <i class="fa fa-search">
+        </i>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="container-fluid blogs-wrapper">
+     <div class="blog-article clearfix">
+      <div class="blog-head-box">
+       <h1 class="main-heading">
+        New MSc Courses at University of Nairobi | School of Computing and Informatics
+       </h1>
+       <div class="meta_wrapper clearfix">
+        <div class="item-author">
+         By Leo Mutuku
+        </div>
+        <div class="initiative">
+         iHub
+        </div>
+        <div class="item-pub-date">
+         <i class="fa fa-calendar-o">
+         </i>
+         Published 15 Mar 2013
+        </div>
+       </div>
+      </div>
+      <div class="blog-main clearfix">
+       <div class="blog-left">
+        <div class="blog-share">
+         <span>
+          Share this Article
+         </span>
+         <a class="sfb modal_dlg" href="https://www.facebook.com/sharer/sharer.php?u=http://ihub.co.ke/blogs/13008" target="_blank">
+          <i class="fa fa-facebook">
+          </i>
+         </a>
+         <a class="stw modal_dlg" href="https://twitter.com/intent/tweet?text=New MSc Courses at University of Nairobi | School of Computing and Informatics: http://ihub.co.ke/blogs/13008/new-msc-courses-at-university-of-nairobi-school-of-computing-and-informatics via @iHub" target="_blank">
+          <i class="fa fa-twitter">
+          </i>
+         </a>
+         <a class="sgp modal_dlg" href="https://plus.google.com/share?url=http://ihub.co.ke/blogs/13008/new-msc-courses-at-university-of-nairobi-school-of-computing-and-informatics" target="_blank">
+          <i class="fa fa-google-plus">
+          </i>
+         </a>
+        </div>
+        <div class="blog-main-pic">
+        </div>
+        <div class="article-content">
+         <div class="article-content-desc">
+          University of Nairobi's School of Computing and Informatics invites qualified people to apply for their new and exciting Masters Courses commencing on 27th of May, 2013.
+
+All Courses are Module II (parallel/non-government sponsored) and include MSc. Applied Computing, Msc. Computational Intelligence, Msc. Distributed Computing Technology and MSc. IT Management.
+
+The courses will be taught in the evenings, Mondays to Fridays between 5.30pm – 8.30pm
+
+If interested, submit a completed application form together with copies of certificates, transcripts, CV, and application fees receipt on or before 28th March 2013, to the office of Director, School of Computing and Informatics, Chiromo Campus.
+
+You can find more information in their
+          <a href="http://research.ihub.co.ke/uploads/2013/march/1363355321__334.pdf">
+           brochure
+          </a>
+          and
+          <a href="http://research.ihub.co.ke/uploads/2013/march/1363355380_819_581.pdf">
+           advertisement
+          </a>
+         </div>
+         <div class="disqus-box">
+          <div id="disqus_thread">
+          </div>
+          <script type="text/javascript">
+           var disqus_shortname = 'ihubcommunity';
+    
+
+	(function() {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+          </script>
+          <noscript>
+           Please enable JavaScript to view the
+           <a href="http://disqus.com/?ref_noscript">
+            comments powered by Disqus.
+           </a>
+          </noscript>
+          <a class="dsq-brlink" href="http://disqus.com">
+           comments powered by
+           <span class="logo-disqus">
+            Disqus
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="blog-right">
+        <h3 class="blog-right-heading">
+         Latest Blogs
+        </h3>
+        <div class="blog-small-list">
+         <div class="blog-small">
+          <a href="/blogs/27711/afroes-graduates-out-of-the-incubation-at-m-lab-east-africa">
+           <h3>
+            Afroes Graduates out of the incubation at m:lab East Africa
+           </h3>
+           <p>
+            Afroes, short for ‘African heroes’,is an African Social enterprise that gamify learning. Afroes develops cutting-edge interactive digital media solutions rooted in Africa’s rich heritage and designed  […]
+           </p>
+          </a>
+         </div>
+        </div>
+        <div class="blog-small-list">
+         <div class="blog-small">
+          <a href="/blogs/27701/the-world-bank-vice-president-s-visit-to-the-ihub">
+           <h3>
+            The World Bank Vice President’s Visit to the iHub
+           </h3>
+           <p>
+            The World Bank Vice President Africa, Mr.Makhart Diop visited the iHub on Friday during his visit to Kenya. Mr.Diop’s visit is as a result of the World Bank’s keen interest in supporting the tech ecos […]
+           </p>
+          </a>
+         </div>
+        </div>
+        <div class="blog-small-list">
+         <div class="blog-small">
+          <a href="/blogs/27696/the-smartcitynairobi-finals">
+           <h3>
+            The #SmartCityNairobi Finals
+           </h3>
+           <p>
+            On a balmy Friday afternoon, 3 anxious, excited and hardworking teams of enterprising young Kenyans huddled at 3 separate spots around the iHub Japan area. They were in deep conversations, gesticulati […]
+           </p>
+          </a>
+         </div>
+        </div>
+        <div class="blog-small-list">
+         <div class="blog-small">
+          <a href="/blogs/27686/ihub-the-next-chapter-business-model-and-ceo-search">
+           <h3>
+            iHub: The Next Chapter - Business Model and CEO Search
+           </h3>
+           <p>
+            Earlier this year in March, we announced the next phase of the iHub. Over the past six years, iHub has become a critical part of the Kenyan innovation ecosystem. From launching the first User Experien […]
+           </p>
+          </a>
+         </div>
+        </div>
+        <div class="blog-small-list">
+         <div class="blog-small">
+          <a href="/blogs/27675/10-common-ways-software-projects-fail">
+           <h3>
+            10 common ways software projects fail
+           </h3>
+           <p>
+            [Guest Blog Post By Jacob Chencha] [Op-Ed]A paradoxical scenario plays out all too regularly in a good number of software development studios. The organization hires great developers who have done gre […]
+           </p>
+          </a>
+         </div>
+        </div>
+        <a class="blog-backlink" href="/blogs/">
+         See More
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer>
+    <div class="footer-container clearfix">
+     <div class="col-xs-12 col-md-3">
+      <div class="footer-logo">
+       <div class="col-xs-12 col-lg-4">
+        <a href="http://ihub.co.ke">
+         <img alt="iHub" class="foot-logo" src="/images/footer-logo.png"/>
+        </a>
+       </div>
+       <div class="col-xs-12 col-lg-8 techno">
+        <div class="footer-tagline uppercase">
+         Technology . innovation . community
+        </div>
+        <div class="copyright">
+         Copyright © 2016 iHub Nairobi. All rights reserved
+         <br/>
+         Powered by the Community
+        </div>
+       </div>
+       <div class="xj-line">
+       </div>
+      </div>
+     </div>
+     <div class="col-xs-12 col-md-4 contact-max">
+      <div class="footer-contacts uppercase">
+       <p>
+        4th floor, Bishop Magua Centre, Ngong Road, Nairobi Kenya.
+       </p>
+       <p>
+        P.O Box 58275, 00200
+        <br/>
+        Nairobi Kenya.
+       </p>
+       <p>
+        Email:
+        <a href="/cdn-cgi/l/email-protection#6c05020a032c0504190e420f03420709">
+         <span class="__cf_email__" data-cfemail="ddb4b3bbb29db4b5a8bff3beb2f3b6b8">
+          [email protected]
+         </span>
+         <script data-cfhash="f9e31" type="text/javascript">
+          /* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */
+         </script>
+        </a>
+        |
+        <a href="/contacts">
+         VIEW MAP
+        </a>
+        |
+        <a href="http://goo.gl/8vF8ni" target="_blank">
+         NEWSLETTER SIGNUP
+        </a>
+       </p>
+      </div>
+      <div class="xj-line">
+      </div>
+     </div>
+     <div class="col-xs-12 col-md-5">
+      <div class="footer-social inlinelist">
+       <h3 class="uppercase">
+        Follow iHub
+       </h3>
+       <ul>
+        <li>
+         <a href="https://www.facebook.com/pages/IHub/104916726273623?fref=ts" target="_blank">
+          <i class="fa fa-facebook">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.twitter.com/iHub" target="_blank">
+          <i class="fa fa-twitter">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a href="https://plus.google.com/u/1/b/110205481031337326623/110205481031337326623/posts" target="_blank">
+          <i class="fa fa-google-plus">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.youtube.com/user/ihubnairobi" target="_blank">
+          <i class="fa fa-youtube-play">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.flickr.com/photos/ihub/" target="_blank">
+          <i class="fa fa-flickr">
+          </i>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <!-- end wrapper -->
+  <!-- inject js files -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js">
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js">
+  </script>
+  <script src="/assets/js/underscore-min.js">
+  </script>
+  <script src="/output/js/javascript.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */
+  </script>
+ </body>
+</html>

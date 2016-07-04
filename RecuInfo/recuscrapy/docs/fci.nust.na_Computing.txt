@@ -1,0 +1,1048 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="http://fci.nust.na/sites/default/files/xnust-shield.png.pagespeed.ic.YMr3eoVZMD.png" rel="shortcut icon" type="image/png"/>
+  <link href="/?q=node/1" rel="shortlink"/>
+  <link href="/?q=homepage" rel="canonical"/>
+  <meta content="Drupal 7 (http://drupal.org)" name="Generator"/>
+  <title>
+   Welcome to the Faculty of Computing &amp; Informatics | Faculty of Computing and Informatics
+  </title>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+  <meta content="true" name="HandheldFriendly"/>
+  <meta content="YES" name="apple-touch-fullscreen"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="http://fci.nust.na/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css+css_IoO0RXUhndl-0J25myNQNYp91mQgES4ykf1Z2ePa7QE.css+css_Wvx69yhFdFBmmlrnemSBfnf7QPBiSNR1Z8wpWOmbFpY.css.pagespeed.cc.UVw33HbwGj.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fci.nust.na/sites/default/files/css/css__vYyylnn2m5795ixzH_1BzUdxRIoGFIlLnq1zStm_nM.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fci.nust.na/sites/default/files/css/css_mbDCEhdK2bb5kQwPlsX9YDwIZGhtnuD49yflTkjQDB4.css" media="all" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="http://fci.nust.na/sites/default/files/css/css_b8aLHIO7noS6cRI-HT5RqIcwselU4KHSfIhqhv1rl8g.css" media="all" />
+<![endif]-->
+  <!--[if IE 9]>
+<link type="text/css" rel="stylesheet" href="http://fci.nust.na/sites/default/files/css/css_neGToSXucSf9eIPb6PK7cb2bzF5VRIND9XeRfN7Ej6E.css" media="all" />
+<![endif]-->
+  <link href="http://fci.nust.na/sites/default/files/css/css_lJG0V3rmPMLlOKXn2ZnfaZM_g-dUHBIFiMxu_a0wYw4.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fci.nust.na/sites/default/files/css/css_4m2kKNNyaVZhpE9xDGsj8AYhuzLSEWti6bMXW5Koq1A.css" media="only screen and (min-width:992px) and (max-width:1199px)" rel="stylesheet" type="text/css"/>
+  <link href="http://fci.nust.na/sites/default/files/css/css_OXGSXo6tagKarbRjkqIJZSZgA6k9ESLb6lm0Gy6l2Pw.css" media="only screen and (max-width:991px)" rel="stylesheet" type="text/css"/>
+  <link href="http://fci.nust.na/sites/default/files/css/css_rqWu29OE-ghofjnfxeGxI0oo5ZbPRZyPaONn7jBBB4s.css" media="only screen and (min-width:768px) and (max-width:991px)" rel="stylesheet" type="text/css"/>
+  <link href="http://fci.nust.na/sites/default/files/css/css__0VM6UYacWc-N7n8fDWMGa7p9Ca4VQIeHlJiPKV1kc8.css" media="only screen and (max-width:767px)" rel="stylesheet" type="text/css"/>
+  <link href="http://fci.nust.na/sites/default/files/css/css_D5H3P7MgLU3-7hb2zBC_GNDqkCwWVq4kKsHGriYWv6g.css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://fci.nust.na/sites/all/modules/respondjs/respondjs/lib/respond.min.js?o6ykrf" type="text/javascript">
+  </script>
+  <script src="http://fci.nust.na/sites/default/files/js/js__f68e_8XeUlfXt8beK1NzdRNXq3xoREWOu0DHRsUHJ0.js" type="text/javascript">
+  </script>
+  <script src="http://fci.nust.na/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js+js_DZ9OptWXHyyB-5ymrRujq41g0768sMUyo_61ub2IB0I.js+js_sDOqWVklbzbib42cPDoFdUqd3_5EJ5iOvTTswvDwtHw.js.pagespeed.jc.inig-OckKx.js">
+  </script>
+  <script>
+   eval(mod_pagespeed_lFCvEBbyy1);
+  </script>
+  <script>
+   eval(mod_pagespeed_BhIQ34sf_C);
+  </script>
+  <script src="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js" type="text/javascript">
+  </script>
+  <script>
+   eval(mod_pagespeed_72BysI93bY);
+  </script>
+  <script src="http://fci.nust.na/sites/default/files/js/js_hJ8gBk9KcLdAdZNl6slJy36sFZIvZ1GB5dqeAgVEJ3I.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   //<![CDATA[
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"educational","theme_token":"Q8AezkHY_Tmy_r97PPzizHdBIgD9ZDATLsG1H_jP-VY","js":{"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/respondjs\/respondjs\/lib\/respond.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.1\/jquery.qtip.min.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/educational\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/themes\/educational\/js\/uikit.min.js":1,"sites\/all\/themes\/educational\/js\/waypoints.js":1,"sites\/all\/themes\/educational\/js\/educational.js":1,"sites\/all\/themes\/educational\/js\/jquery.smooth-scroll.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.1\/jquery.qtip.min.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"sites\/all\/modules\/views_metro\/css\/metro.css":1,"sites\/all\/modules\/views_metro\/views_metro.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/educational\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/educational\/bootstrap\/css\/bootstrap-theme.css":1,"sites\/all\/themes\/educational\/css\/html.css":1,"sites\/all\/themes\/educational\/css\/base.css":1,"sites\/all\/themes\/educational\/css\/page.css":1,"sites\/all\/themes\/educational\/css\/block.css":1,"sites\/all\/themes\/educational\/css\/view.css":1,"sites\/all\/themes\/educational\/css\/menu.css":1,"sites\/all\/themes\/educational\/css\/off-canvas.css":1,"sites\/all\/themes\/educational\/css\/animate.css":1,"sites\/all\/themes\/educational\/css\/ie8-and-below.css":1,"sites\/all\/themes\/educational\/css\/ie.css":1,"sites\/default\/files\/fontyourface\/wysiwyg.css":1,"sites\/all\/themes\/educational\/css\/screens\/tablet.css":1,"sites\/all\/themes\/educational\/css\/screens\/common.css":1,"sites\/all\/themes\/educational\/css\/screens\/vertical_tablet.css":1,"sites\/all\/themes\/educational\/css\/screens\/mobile.css":1,"public:\/\/fontyourface\/local_fonts\/RopaSoftPro_Regular-normal-normal\/stylesheet.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/?q=jcarousel\/ajax\/views"},"instances":"{\u0022staff\u0022:{\u0022content\u0022:{\u0022button\u0022:\u0022close\u0022,\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:false,\u0022classes\u0022:\u0022qtip-blue qtip-shadow qtip-rounded\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022bottom center\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022\u0022},\u0022my\u0022:\u0022top center\u0022},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter \u0022},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022}}}","qtipDebug":"{\u0022leaveElement\u0022:0}","flexslider":{"optionsets":{"default":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":false,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":7000,"directionNav":true,"controlNav":"1","prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"default","flexslider-2":"default"}}});
+//]]>
+  </script>
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	  <script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+ </head>
+ <body class="html front not-logged-in two-sidebars page-node page-node- page-node-1 node-type-page animation-zoomIn">
+  <div id="skip-link">
+   <a class="element-invisible element-focusable" href="#main-content">
+    Skip to main content
+   </a>
+  </div>
+  <div class="uk-offcanvas" id="mobile-menu">
+   <div class="uk-offcanvas-bar">
+    <div class="region region-panel-mobile-menu">
+     <div class="block block-system block-menu" id="block-system-main-menu--2">
+      <div class="content">
+       <ul class="menu">
+        <li class="first leaf">
+         <a class="active" href="/">
+          Home
+         </a>
+        </li>
+        <li class="collapsed">
+         <a href="/?q=about-faculty">
+          About
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/?q=courses">
+          Programmes
+         </a>
+        </li>
+        <li class="collapsed">
+         <a href="/?q=departments">
+          Departments
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/?q=faculty-research-strategies-2014-2018">
+          Research
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/?q=publications">
+          Publications
+         </a>
+        </li>
+        <li class="collapsed">
+         <a href="/?q=students">
+          Students
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/?q=list-all-staff">
+          Staff
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/?q=content/contacts">
+          Contact
+         </a>
+        </li>
+        <li class="last leaf">
+         <a href="/?q=faqs">
+          FAQs
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="page">
+   <header class="header section" id="header">
+    <div class="container">
+     <div>
+      <a class="off-canvas-toggle navbar-canvas-toggle icon-toggle hidden-lg" data-uk-offcanvas="{target:'#mobile-menu'}" href="javascript:;">
+       <i class="fa fa-bars">
+       </i>
+      </a>
+      <div class="region region-header">
+       <div class="block block-menu" id="block-menu-menu-headline-link">
+        <div class="content">
+         <ul class="menu">
+          <li class="first leaf">
+           <a class="edustation-logout fa fa-bars" href="http://www.nust.na" target="_blank">
+            NUST Home
+           </a>
+          </li>
+          <li class="last leaf">
+           <a class="edustation-logout fa fa-bars" href="http://www.nust.na/?q=schools" target="_blank">
+            Other Faculties
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <a href="/" id="logo" rel="home" title="Back To Home">
+       <img alt="Back To Home" src="http://fci.nust.na/sites/all/themes/educational/xlogo.png.pagespeed.ic.-1bRSBv_ga.png"/>
+      </a>
+     </div>
+    </div>
+   </header>
+   <section class="slideshow section" id="slideshow">
+    <div class="container-fluid">
+     <div class="region region-slideshow">
+      <div class="block block-views main-slideshow" id="block-views-slideshow-block">
+       <div class="content">
+        <div class="view view-slideshow view-id-slideshow view-display-id-block view-dom-id-31d5ee6050542074a4d8cd25744b86e2">
+         <div class="view-content">
+          <div class="flexslider" id="flexslider-1">
+           <ul class="slides">
+            <li>
+             <div class="views-field views-field-field-image">
+              <div class="field-content">
+               <img alt="" height="855" src="http://fci.nust.na/sites/default/files/images/slideshow/xslide1.jpg.pagespeed.ic.FO3msGH7_i.jpg" typeof="foaf:Image" width="1288"/>
+              </div>
+             </div>
+            </li>
+            <li>
+             <div class="views-field views-field-field-image">
+              <div class="field-content">
+               <img alt="" height="855" src="http://fci.nust.na/sites/default/files/images/slideshow/xslide2_0.jpg.pagespeed.ic.6mhqXH-JeV.jpg" typeof="foaf:Image" width="1288"/>
+              </div>
+             </div>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <nav class="collapse navbar-collapse width" id="main-menu-inner">
+    <div class="container">
+     <div class="region region-main-menu">
+      <div class="block block-tb-megamenu" id="block-tb-megamenu-main-menu">
+       <div class="content">
+        <div class="tb-megamenu tb-megamenu-main-menu">
+         <ul class="tb-megamenu-nav nav level-0 items-11">
+          <li class="tb-megamenu-item level-1 mega active" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="221" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="" href="/">
+            Home
+           </a>
+          </li>
+          <li class="tb-megamenu-item level-1 mega dropdown" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="547" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="dropdown-toggle" href="/?q=about-faculty">
+            About
+            <span class="caret">
+            </span>
+           </a>
+           <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+            <div class="mega-dropdown-inner">
+             <div class="tb-megamenu-row row-fluid">
+              <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-1">
+               <div class="tb-megamenu-column-inner mega-inner clearfix">
+                <ul class="tb-megamenu-subnav mega-nav level-1 items-4">
+                 <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1113" data-level="2" data-type="menu_item" data-xicon="">
+                  <a class="" href="/?q=message-dean">
+                   Message from the Dean
+                  </a>
+                 </li>
+                 <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="549" data-level="2" data-type="menu_item" data-xicon="">
+                  <a class="" href="/?q=news">
+                   News
+                  </a>
+                 </li>
+                 <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="550" data-level="2" data-type="menu_item" data-xicon="">
+                  <a class="" href="/?q=events">
+                   Events &amp; Announcements
+                  </a>
+                 </li>
+                 <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1074" data-level="2" data-type="menu_item" data-xicon="">
+                  <a class="" href="/?q=gallery">
+                   Gallery
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1081" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="" href="/?q=courses">
+            Programmes
+           </a>
+          </li>
+          <li class="tb-megamenu-item level-1 mega dropdown" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1129" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="dropdown-toggle" href="/?q=departments">
+            Departments
+            <span class="caret">
+            </span>
+           </a>
+           <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+            <div class="mega-dropdown-inner">
+             <div class="tb-megamenu-row row-fluid">
+              <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-2">
+               <div class="tb-megamenu-column-inner mega-inner clearfix">
+                <ul class="tb-megamenu-subnav mega-nav level-1 items-2">
+                 <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1223" data-level="2" data-type="menu_item" data-xicon="">
+                  <a class="" href="/?q=department/informatics">
+                   Informatics
+                  </a>
+                 </li>
+                 <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1204" data-level="2" data-type="menu_item" data-xicon="">
+                  <a class="" href="/?q=department/computer-science">
+                   Computer Science
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1115" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="" href="/?q=faculty-research-strategies-2014-2018">
+            Research
+           </a>
+          </li>
+          <li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1255" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="" href="/?q=publications">
+            Publications
+           </a>
+          </li>
+          <li class="tb-megamenu-item level-1 mega dropdown" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1352" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="dropdown-toggle" href="/?q=students">
+            Students
+            <span class="caret">
+            </span>
+           </a>
+           <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+            <div class="mega-dropdown-inner">
+             <div class="tb-megamenu-row row-fluid">
+              <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-3">
+               <div class="tb-megamenu-column-inner mega-inner clearfix">
+                <ul class="tb-megamenu-subnav mega-nav level-1 items-2">
+                 <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1354" data-level="2" data-type="menu_item" data-xicon="">
+                  <a class="" href="/?q=fci-society">
+                   FCI Society
+                  </a>
+                 </li>
+                 <li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1353" data-level="2" data-type="menu_item" data-xicon="">
+                  <a class="" href="http://students.nust.na/">
+                   Student Intranet
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1184" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="" href="/?q=list-all-staff">
+            Staff
+           </a>
+          </li>
+          <li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="553" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="" href="/?q=content/contacts">
+            Contact
+           </a>
+          </li>
+          <li class="tb-megamenu-item level-1 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="1068" data-level="1" data-type="menu_item" data-xicon="">
+           <a class="" href="/?q=faqs">
+            FAQs
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </nav>
+   <section class="main section" id="main">
+    <div class="container">
+     <div class="row">
+      <aside class="sidebar col-md-3" id="sidebar-first">
+       <div class="region region-sidebar-first">
+        <div class="block block-block" id="block-block-4--2">
+         <div class="content">
+          <ul class="socials-list">
+           <li>
+            <a data-original-title="Facebook" data-placement="top" data-toggle="tooltip" href="https://www.facebook.com/pages/The-Polytechnic-of-Namibia/133007053412643?ref=ts..." target="_blank">
+             <i class="fa fa-facebook">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a data-original-title="Google Plus" data-placement="top" data-toggle="tooltip" href="https://plus.google.com/118111929441911999980/posts" target="_blank">
+             <i class="fa fa-google-plus">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a data-original-title="Twitter" data-placement="top" data-toggle="tooltip" href="https://twitter.com/PolytechNam" target="_blank">
+             <i class="fa fa-twitter">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a data-original-title="LinkedIn" data-placement="top" data-toggle="tooltip" href="http://www.linkedin.com/company/polytechnic-of-namibia?trk=top_nav_home" target="_blank">
+             <i class="fa fa-linkedin">
+             </i>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="block block-views events-view animation" id="block-views-up-coming-events-block--2">
+         <h2>
+          Events &amp; Announcements
+         </h2>
+         <div class="content">
+          <div class="view view-up-coming-events view-id-up_coming_events view-display-id-block view-dom-id-20013338fb2ce10a62b2a544d8fd8327">
+           <div class="view-content">
+            <div class="views-row views-row-1 views-row-odd views-row-first">
+             <div class="date-group views-fieldset" data-module="views_fieldsets">
+              <div class="views-field views-field-field-start-date">
+               <div class="field-content">
+                <span class="date-display-single" content="2016-04-22T00:00:00+07:00" datatype="xsd:dateTime" property="dc:date">
+                 22
+                </span>
+               </div>
+              </div>
+              <div class="views-field views-field-field-start-date-1">
+               <div class="field-content">
+                <span class="date-display-single" content="2016-04-22T00:00:00+07:00" datatype="xsd:dateTime" property="dc:date">
+                 Apr
+                </span>
+               </div>
+              </div>
+             </div>
+             <div class="content-group views-fieldset" data-module="views_fieldsets">
+              <div class="views-field views-field-title">
+               <span class="field-content">
+                <a href="/?q=events/android-development-training-beginners">
+                 Android Development training for beginners
+                </a>
+               </span>
+              </div>
+              <div class="views-field views-field-body">
+               <div class="field-content">
+                <p>
+                 Training is scheduled to take place on the 22 April 2016 from 17:30-21:30 and 23 April 2016 from...
+                </p>
+               </div>
+              </div>
+              <div class="views-field views-field-view-node">
+               <span class="field-content">
+                <a href="/?q=events/android-development-training-beginners">
+                 Read more...
+                </a>
+               </span>
+              </div>
+             </div>
+            </div>
+            <div class="views-row views-row-2 views-row-even views-row-last">
+             <div class="date-group views-fieldset" data-module="views_fieldsets">
+              <div class="views-field views-field-field-start-date">
+               <div class="field-content">
+                <span class="date-display-single" content="2016-10-29T00:00:00+07:00" datatype="xsd:dateTime" property="dc:date">
+                 29
+                </span>
+               </div>
+              </div>
+              <div class="views-field views-field-field-start-date-1">
+               <div class="field-content">
+                <span class="date-display-single" content="2016-10-29T00:00:00+07:00" datatype="xsd:dateTime" property="dc:date">
+                 Oct
+                </span>
+               </div>
+              </div>
+             </div>
+             <div class="content-group views-fieldset" data-module="views_fieldsets">
+              <div class="views-field views-field-title">
+               <span class="field-content">
+                <a href="/?q=events/namibia-national-cyber-security-competition-nncsc">
+                 Namibia National Cyber security Competition (NNCSC)
+                </a>
+               </span>
+              </div>
+              <div class="views-field views-field-body">
+               <div class="field-content">
+                <p>
+                 Registration is in progress and will close on the 20th of October. We would appreciate it if the...
+                </p>
+               </div>
+              </div>
+              <div class="views-field views-field-view-node">
+               <span class="field-content">
+                <a href="/?q=events/namibia-national-cyber-security-competition-nncsc">
+                 Read more...
+                </a>
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </aside>
+      <div class="column col-md-6" id="content">
+       <h1 class="title" id="page-title">
+        Welcome to the Faculty of Computing &amp; Informatics
+       </h1>
+       <div class="region region-content">
+        <div class="block block-system" id="block-system-main">
+         <div class="content">
+          <article about="/?q=homepage" class="node node-page animation clearfix" id="node-1" typeof="foaf:Document">
+           <span class="rdf-meta element-hidden" content="Welcome to the Faculty of Computing &amp; Informatics" property="dc:title">
+           </span>
+           <span class="rdf-meta element-hidden" content="0" datatype="xsd:integer" property="sioc:num_replies">
+           </span>
+           <div class="content">
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+             <div class="field-items">
+              <div class="field-item even" property="content:encoded">
+               <p class="rtejustify">
+                Computing &amp; Informatics studies at Namibia University of Science and Technology offer different areas of specialisations as well as different exit levels.
+                <br/>
+                The Diploma programme is being awarded to students who successfully passed all subjects required for the first year of studies and who have mastered  the skills and knowledge needed to deal with modern  computing and communication technologies in the workplace such as  introduction to computers, the internet, mathematics for IT, programming, and databases. This programme leads to the possibility of study on a range of degrees in Computing &amp; Informatics studies.
+               </p>
+               <p class="rtejustify">
+                Informatics aims at providing educational opportunities for students who are interested in and motivated to work as Informatics Specialists in Business Computing, Information Systems or related practices. Computer Science aims at providing educational opportunities for students who are interested in and motivated to work as Computer Scientists, Software Developers, Systems Administrators or Networks Specialists.
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </article>
+         </div>
+        </div>
+       </div>
+      </div>
+      <aside class="sidebar col-md-3" id="sidebar-second">
+       <div class="region region-sidebar-second">
+        <div class="block block-search animation" id="block-search-form--2">
+         <div class="content">
+          <form accept-charset="UTF-8" action="/" id="search-block-form" method="post">
+           <div>
+            <div class="container-inline">
+             <h2 class="element-invisible">
+              Search form
+             </h2>
+             <div class="form-item form-type-textfield form-item-search-block-form">
+              <label class="element-invisible" for="edit-search-block-form--2">
+               Search
+              </label>
+              <input class="form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" placeholder="Enter any terms..." size="15" title="Enter the terms you wish to search for." type="text" value=""/>
+             </div>
+             <div class="form-actions form-wrapper" id="edit-actions">
+              <input class="form-submit" id="edit-submit" name="op" type="submit" value="Search"/>
+             </div>
+             <input name="form_build_id" type="hidden" value="form-rcupxGFlKV7YIypgeoXzx2LLR-J0-_1IaNAQwun6rcg"/>
+             <input name="form_id" type="hidden" value="search_block_form"/>
+            </div>
+           </div>
+          </form>
+         </div>
+        </div>
+        <div class="block block-views animation why-choose-us" id="block-views-why-choose-us-block--2">
+         <h2>
+          Departments
+         </h2>
+         <div class="content">
+          <div class="view view-why-choose-us view-id-why_choose_us view-display-id-block view-dom-id-640aaf1caa999fb2fd3f652fdcaed12e">
+           <div class="view-content">
+            <div class="views-bootstrap-accordion-plugin-style panel-group" id="views-bootstrap-accordion-1">
+             <div class="panel panel-default">
+              <div class="panel-heading">
+               <h4 class="panel-title">
+                <a class="accordion-toggle" data-parent="#views-bootstrap-accordion-1" data-toggle="collapse" href="#collapse-1-0">
+                 Informatics
+                </a>
+               </h4>
+              </div>
+              <div class="panel-collapse collapse" id="collapse-1-0">
+               <div class="panel-body">
+                <div class="views-field views-field-body">
+                 <div class="field-content">
+                  <p class="rtejustify">
+                   Welcome to the Department of Informatics at Namibia University of Science and Technology.
+                  </p>
+                  <p class="rtejustify">
+                   Informatics aims at providing educational opportunities for students who are interested in and motivated to work as Informatics Specialists in Business Computing...
+                  </p>
+                 </div>
+                </div>
+                <div class="views-field views-field-field-link-to-department">
+                 <strong class="field-content views-field-view-node a">
+                  <a href="http://fci.nust.na/?q=department/informatics">
+                   Visit Department
+                  </a>
+                 </strong>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="panel panel-default">
+              <div class="panel-heading">
+               <h4 class="panel-title">
+                <a class="accordion-toggle" data-parent="#views-bootstrap-accordion-1" data-toggle="collapse" href="#collapse-1-1">
+                 Computer Science
+                </a>
+               </h4>
+              </div>
+              <div class="panel-collapse collapse" id="collapse-1-1">
+               <div class="panel-body">
+                <div class="views-field views-field-body">
+                 <div class="field-content">
+                  <p class="rtejustify">
+                   Welcome to the Department of Computer Science at Namibia University of Science and Technology.
+                  </p>
+                  <p class="rtejustify">
+                   Computer Science aims at providing educational opportunities for students who are interested in and motivated to work as Computer Scientists, Software...
+                  </p>
+                 </div>
+                </div>
+                <div class="views-field views-field-field-link-to-department">
+                 <strong class="field-content views-field-view-node a">
+                  <a href="http://fci.nust.na/?q=department/computer-science">
+                   Visit Department
+                  </a>
+                 </strong>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="block block-block" id="block-block-11--2">
+         <h2>
+          isNotes
+         </h2>
+         <div class="content">
+          <p>
+           <a href="http://isnotes.students.nust.na" target="_blank">
+            <img alt="" src="sites/default/files/xisnotes.jpg.pagespeed.ic.p8MLgANd1B.jpg" style="height:60px; width:300px"/>
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+      </aside>
+     </div>
+    </div>
+   </section>
+   <section class="panel" id="panel-second">
+    <div class="container">
+     <div class="panel-column col-sm-4 panel-second-1">
+      <div class="grid-inner clearfix">
+       <div class="region region-panel-second-1">
+        <div class="block block-block about-us animation" id="block-block-1--2">
+         <h2>
+          Message from the Dean
+         </h2>
+         <div class="content">
+          <p class="rtejustify">
+           <img alt="Dr Anicia Peters" src="sites/default/files/styles/staff/public/pictures/xpicture-110-1463646981.jpg.pagespeed.ic.RbL1S_PVE8.jpg" style="float:left; height:180px; margin:2px 5px; width:150px"/>
+           Thank you for visiting the Faculty of Computer Science &amp; Informatics website. Please contact me if we can be of help to you as you consider study, research or collaboration with us at the Namibia University of Science and Technology. Our vision as a Faculty is to provide the best regional practical-oriented tertiary education, in Information and Communication Technology and computer studies, through internationally recognised programs, research and service to enable students to be professional leaders within the national, regional and global knowledge-based society.
+          </p>
+          <p class="rtejustify">
+           <a href="?q=message-dean" style="color: #b51546; ">
+            Read more
+           </a>
+           ...
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="panel-column col-sm-4 panel-second-2">
+      <div class="grid-inner clearfix">
+       <div class="region region-panel-second-2">
+        <div class="block block-views animation why-choose-us" id="block-views-programmes-offered-list-block--2">
+         <h2>
+          Programmes offered
+         </h2>
+         <div class="content">
+          <div class="view view-programmes-offered-list view-id-programmes_offered_list view-display-id-block list-items view-dom-id-58ad7076fca275f1228232711a9ef59b">
+           <div class="view-content">
+            <table class="views-table cols-0 table table-hover table-0 table-0 table-0">
+             <tbody>
+              <tr class="odd views-row-first">
+               <td>
+                <a href="/?q=course/postgraduate-certificate-informatics-information-systems-audit">
+                 Postgraduate Certificate in Informatics (Information Systems Audit)
+                </a>
+               </td>
+              </tr>
+              <tr class="even">
+               <td>
+                <a href="/?q=course/bachelor-informatics">
+                 Bachelor of Informatics
+                </a>
+               </td>
+              </tr>
+              <tr class="odd">
+               <td>
+                <a href="/?q=course/bachelor-computer-science-systems-administration-communication-networks-software-development">
+                 Bachelor of Computer Science (Systems Administration, Communication Networks, Software Development or Cyber Security)
+                </a>
+               </td>
+              </tr>
+              <tr class="even">
+               <td>
+                <a href="/?q=course/bachelor-informatics-honours-web-informatics-business-informatics">
+                 Bachelor of Informatics Honours (Web Informatics, Business Informatics)
+                </a>
+               </td>
+              </tr>
+              <tr class="odd">
+               <td>
+                <a href="/?q=course/bachelor-computer-science-honours-communication-networks-software-development-mobile">
+                 Bachelor of Computer Science Honours (Communication Networks, Software  Development, Mobile Development,  Information Security, Digital Forensics)
+                </a>
+               </td>
+              </tr>
+              <tr class="even">
+               <td>
+                <a href="/?q=course/master-informatics">
+                 Master of Informatics
+                </a>
+               </td>
+              </tr>
+              <tr class="odd">
+               <td>
+                <a href="/?q=course/master-computer-science">
+                 Master of Computer Science
+                </a>
+               </td>
+              </tr>
+              <tr class="even">
+               <td>
+                <a href="/?q=course/doctor-philosophy-informatics">
+                 Doctor of Philosophy in Informatics
+                </a>
+               </td>
+              </tr>
+              <tr class="odd views-row-last">
+               <td>
+                <a href="/?q=course/doctor-philosophy-computer-science">
+                 Doctor of Philosophy in Computer Science
+                </a>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="panel-column col-sm-4 panel-second-3">
+      <div class="grid-inner clearfix">
+       <div class="region region-panel-second-3">
+        <div class="block block-views home-testimonial animation" id="block-views-documents-block--2">
+         <h2>
+          Admission
+         </h2>
+         <div class="content">
+          <div class="view view-documents view-id-documents view-display-id-block view-home-testimonial view-dom-id-9f2e28414dcc7062025bffd4642614fd">
+           <div class="view-content">
+            <div class="flexslider" id="flexslider-2">
+             <ul class="slides">
+              <li>
+               <div class="views-field views-field-field-doc-picture">
+                <div class="field-content">
+                 <img alt="" height="150" src="http://fci.nust.na/sites/default/files/styles/flexslider_thumbnail/public/xDSC_0704.JPG,qitok=QdK4FvP6.pagespeed.ic.2jbe1DdVK7.jpg" typeof="foaf:Image" width="150"/>
+                </div>
+               </div>
+               <div class="fieldset views-fieldset" data-module="views_fieldsets">
+                <div class="views-field views-field-title">
+                 <span class="field-content">
+                  When &amp; How to Apply
+                 </span>
+                </div>
+                <div class="views-field views-field-field-docs-link">
+                 <div class="field-content">
+                  <a href="http://www.nust.na/?q=study-nust/admission/when-and-how-apply" target="_blank">
+                   More Information
+                  </a>
+                 </div>
+                </div>
+                <div class="views-field views-field-field-documents-files">
+                 <div class="field-content">
+                 </div>
+                </div>
+                <div class="views-field views-field-body">
+                 <div class="field-content">
+                  <p>
+                   Read more on the general application process at the Namibia University of Science and Technology.
+                  </p>
+                 </div>
+                </div>
+               </div>
+              </li>
+              <li>
+               <div class="views-field views-field-field-doc-picture">
+                <div class="field-content">
+                 <img alt="" height="150" src="http://fci.nust.na/sites/default/files/styles/flexslider_thumbnail/public/xgraduates-at-pon.png,qitok=KqReaF6U.pagespeed.ic.gsfJqiNhgE.jpg" typeof="foaf:Image" width="150"/>
+                </div>
+               </div>
+               <div class="fieldset views-fieldset" data-module="views_fieldsets">
+                <div class="views-field views-field-title">
+                 <span class="field-content">
+                  Yearbook 2016
+                 </span>
+                </div>
+                <div class="views-field views-field-field-docs-link">
+                 <div class="field-content">
+                 </div>
+                </div>
+                <div class="views-field views-field-field-documents-files">
+                 <div class="field-content">
+                  <a href="http://fci.nust.na/sites/default/files/FINAL%20Yearbook%202016%20Part%204%20Computing%20%26%20Informatics.pdf" target="_blank">
+                   Download
+                  </a>
+                 </div>
+                </div>
+                <div class="views-field views-field-body">
+                 <div class="field-content">
+                  <p>
+                   The Yearbook for the Faculty of Computing and Informatics is valid for 2016 only. Curricula and syllabi may be amended for 2017
+                  </p>
+                 </div>
+                </div>
+               </div>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="panel" id="panel-third">
+    <div class="container">
+     <div class="region region-panel-third">
+      <div class="block block-views home-student animation" id="block-views-front-external-links-block">
+       <h2>
+        Links &amp; Resources
+       </h2>
+       <div class="content">
+        <div class="view view-front-external-links view-id-front_external_links view-display-id-block view-images view-dom-id-728695da00687ab32b946a0cd4648e39">
+         <div class="view-content">
+          <div class="views-view-grid cols-5">
+           <div class="views-row row-1 row-first row-last clearfix">
+            <div class="grid views-col col-1 col-first">
+             <div class="grid-inner col-inner clearfix">
+              <div class="views-field views-field-field-image-external-link-">
+               <div class="field-content">
+                <a href="/?q=content/e-learning">
+                 <img alt="" height="260" src="http://fci.nust.na/sites/default/files/styles/external_links/public/external-images-links/xe-learning-external-links.png,qitok=MNqxROI3.pagespeed.ic.Pfsnc1x6O4.jpg" typeof="foaf:Image" width="275"/>
+                </a>
+               </div>
+              </div>
+              <div class="fieldset views-fieldset" data-module="views_fieldsets">
+               <div class="views-field views-field-title">
+                <span class="field-content">
+                 <a href="http://elearning.polytechnic.edu.na/elearn/" target="_blank">
+                  e-Learning
+                 </a>
+                </span>
+               </div>
+              </div>
+              <div class="views-field views-field-title-1">
+               <span class="field-content">
+                e-Learning
+               </span>
+              </div>
+             </div>
+            </div>
+            <div class="grid views-col col-2">
+             <div class="grid-inner col-inner clearfix">
+              <div class="views-field views-field-field-image-external-link-">
+               <div class="field-content">
+                <a href="/?q=content/nust-fm">
+                 <img alt="" height="260" src="http://fci.nust.na/sites/default/files/styles/external_links/public/external-images-links/xnust-fm-pagelist.jpg,qitok=2gQAtmJ9.pagespeed.ic.YQWG95AMzr.jpg" typeof="foaf:Image" width="275"/>
+                </a>
+               </div>
+              </div>
+              <div class="fieldset views-fieldset" data-module="views_fieldsets">
+               <div class="views-field views-field-title">
+                <span class="field-content">
+                 <a href="http://www.nustfm.na" target="_blank">
+                  NUST FM
+                 </a>
+                </span>
+               </div>
+              </div>
+              <div class="views-field views-field-title-1">
+               <span class="field-content">
+                NUST FM
+               </span>
+              </div>
+             </div>
+            </div>
+            <div class="grid views-col col-3">
+             <div class="grid-inner col-inner clearfix">
+              <div class="views-field views-field-field-image-external-link-">
+               <div class="field-content">
+                <a href="/?q=content/admission-study">
+                 <img alt="" height="260" src="http://fci.nust.na/sites/default/files/styles/external_links/public/external-images-links/xstudy-nust-external.png,qitok=42rOJndx.pagespeed.ic.-6ueJEpjK6.jpg" typeof="foaf:Image" width="275"/>
+                </a>
+               </div>
+              </div>
+              <div class="fieldset views-fieldset" data-module="views_fieldsets">
+               <div class="views-field views-field-title">
+                <span class="field-content">
+                 <a href="http://www.nust.na/?q=study-nust" target="_blank">
+                  Admission &amp; Study
+                 </a>
+                </span>
+               </div>
+              </div>
+              <div class="views-field views-field-title-1">
+               <span class="field-content">
+                Admission &amp; Study
+               </span>
+              </div>
+             </div>
+            </div>
+            <div class="grid views-col col-4">
+             <div class="grid-inner col-inner clearfix">
+              <div class="views-field views-field-field-image-external-link-">
+               <div class="field-content">
+                <a href="/?q=content/student-webmail">
+                 <img alt="" height="260" src="http://fci.nust.na/sites/default/files/styles/external_links/public/external-images-links/xwebmail-external.png,qitok=Bwj6LH3R.pagespeed.ic.7SpzShZoU9.jpg" typeof="foaf:Image" width="275"/>
+                </a>
+               </div>
+              </div>
+              <div class="fieldset views-fieldset" data-module="views_fieldsets">
+               <div class="views-field views-field-title">
+                <span class="field-content">
+                 <a href="https://webmail.students.nust.na/webapp/" target="_blank">
+                  Student Webmail
+                 </a>
+                </span>
+               </div>
+              </div>
+              <div class="views-field views-field-title-1">
+               <span class="field-content">
+                Student Webmail
+               </span>
+              </div>
+             </div>
+            </div>
+            <div class="grid views-col col-5 col-last">
+             <div class="grid-inner col-inner clearfix">
+              <div class="views-field views-field-field-image-external-link-">
+               <div class="field-content">
+                <a href="/?q=content/student-intranet">
+                 <img alt="" height="260" src="http://fci.nust.na/sites/default/files/styles/external_links/public/external-images-links/xstudent-intra-external.png,qitok=2dFQnNbV.pagespeed.ic.wJQsGVw86S.jpg" typeof="foaf:Image" width="275"/>
+                </a>
+               </div>
+              </div>
+              <div class="fieldset views-fieldset" data-module="views_fieldsets">
+               <div class="views-field views-field-title">
+                <span class="field-content">
+                 <a href="http://www.students.nust.na" target="_blank">
+                  Student Intranet
+                 </a>
+                </span>
+               </div>
+              </div>
+              <div class="views-field views-field-title-1">
+               <span class="field-content">
+                Student Intranet
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <footer class="section" id="footer">
+    <div class="container">
+     <div class="region region-footer">
+      <div class="block block-menu footer-menu animation" id="block-menu-menu-footer-menu">
+       <div class="content">
+        <ul class="menu">
+         <li class="first leaf">
+          <a href="/?q=faculty-research-strategies-2014-2018">
+           Research
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/?q=publications">
+           Publications
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/?q=courses">
+           Programmes Offered
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/?q=list-all-staff">
+           Staff
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="http://www.nust.na/?q=vacancies" target="_blank">
+           Job Opportunities
+          </a>
+         </li>
+         <li class="last leaf">
+          <a href="/?q=privacy-policy">
+           Privacy Policy
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="block block-block logo-footer animation" id="block-block-5">
+       <div class="content">
+        <p>
+         <a href="http://www.nust.na" rel="home" target="_blank" title="Namibia University of Science and Technology">
+          <img alt="NUST" src="/sites/default/files/images/xnust-academic-crest-mini.png.pagespeed.ic.jm0NxIQrHv.png"/>
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="block block-block logo-footer animation" id="block-block-2">
+       <div class="content">
+        <address>
+         <p>
+          13 Storch Street, Windhoek, Namibia . Private Bag 13388 Windhoek, Namibia
+          <br/>
+          TEL: +264-61-207-9111 / FAX: +264-61-207-2444
+         </p>
+        </address>
+       </div>
+      </div>
+      <div class="block block-block edusation-copyright" id="block-block-3">
+       <div class="content">
+        <p>
+         Copyright © 2016
+         <a href="http://www.nust.na" target="_blank">
+          Namibia University of Science &amp; Technology
+         </a>
+         . All rights reserved. Developed &amp; Maintained by
+         <a href="http://www.nust.na/?q=university-administration/dict/about-dict" target="_blank">
+          DICT
+         </a>
+         .
+        </p>
+       </div>
+      </div>
+     </div>
+     <!--?php print $feed_icons; ?-->
+    </div>
+   </footer>
+   <a class="btn-btt" href="#Top" title="Back to Top">
+    Back to Top
+   </a>
+  </div>
+  <script src="http://fci.nust.na/sites/default/files/js/js_5idECjjAo-X5YdkT65CaIiodkWmZlZv-WjSkHlWhoYk.js" type="text/javascript">
+  </script>
+ </body>
+</html>

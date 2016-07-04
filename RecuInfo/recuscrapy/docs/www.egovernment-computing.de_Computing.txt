@@ -1,0 +1,1890 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE]>
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !IE]> -->
+<html>
+ <!-- <![endif]-->
+ <head>
+  <title>
+   Pegasystems geht in die Philips Cloud
+  </title>
+  <script data-dtconfig="rid=RID_-1300676452|rpid=1893555311|md=keywords=a[name='keywords']@content|tp=500,50,0,1|reportUrl=/rb_vfo12241|domain=egovernment-computing.de" src="/ruxitagentjs_2fhjnqr_10095160607131029.js" type="text/javascript">
+  </script>
+  <link href="http://www.egovernment-computing.de/pegasystems-geht-in-die-philips-cloud-a-537945/" rel="canonical"/>
+  <meta content="Die Kooperation zwischen Royal Philips und Pegasystems soll es Managed-Care-Serviceprovidern und Gesundheitsorganisationen ermöglichen, Gesundheitsdaten und -geräte für eine bessere personalisierte Gesundheitsvorsorge zu nutzen. " name="description"/>
+  <meta content="INDEX, FOLLOW" name="robots"/>
+  <meta content="http://images.vogel.de/vogelonline/bdb/1033700/1033749/4.jpg" itemprop="image"/>
+  <meta content="http://images.vogel.de/vogelonline/bdb/1033700/1033749/44.jpg" property="og:image"/>
+  <meta content="300" property="og:image:width"/>
+  <meta content="image/jpeg" property="og:image:type"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Pegasystems geht in die Philips Cloud" property="og:title"/>
+  <meta content="http://www.egovernment-computing.de/pegasystems-geht-in-die-philips-cloud-a-537945/" property="og:url"/>
+  <meta content="Die Kooperation zwischen Royal Philips und Pegasystems soll es Managed-Care-Serviceprovidern und Gesundheitsorganisationen ermöglichen, Gesundheitsdaten und -geräte für eine bessere personalisierte Gesundheitsvorsorge zu nutzen." property="og:description"/>
+  <link href="http://images.vogel.de/vogelonline/bdb/1033700/1033749/4.jpg" rel="image_src"/>
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+  <!--[if lt IE 9]>
+<script>document.createElement('video');document.createElement('header');document.createElement('section');document.createElement('article');document.createElement('footer');</script>
+<![endif]-->
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="no-cache" http-equiv="pragma"/>
+  <meta content="fATE" http-equiv="CACHE-CONTROL"/>
+  <meta content="0" http-equiv="EXPIRES"/>
+  <meta content="de" http-equiv="content-language"/>
+  <meta content="de" name="language"/>
+  <meta content="Vogel Business Media GmbH &amp; Co. KG" name="Copyright"/>
+  <meta content="Alle" name="Audience"/>
+  <meta content="Vogel Business Media GmbH &amp; Co. KG" name="Publisher"/>
+  <meta content="Vogel Business Media GmbH &amp; Co. KG" name="Author"/>
+  <meta content="info@vogel.de" name="Author-mail"/>
+  <meta content="app-id=1040458104" name="apple-itunes-app"/>
+  <meta content="380567245386235" property="fb:app_id"/>
+  <meta content="100003533317132" property="fb:admins"/>
+  <meta content="width=device-width,initial-scale=1.0,user-scalable=no" name="viewport"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <link href="/img/bep30/touch/icon-60x60.png" rel="apple-touch-icon"/>
+  <link href="/img/bep30/touch/icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/img/bep30/touch/icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/img/bep30/touch/icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/img/bep30/touch/icon-192x192.png" rel="icon" sizes="192x192"/>
+  <meta content="eGovernment Computing" name="application-name"/>
+  <meta content="#000000" name="msapplication-TileColor"/>
+  <meta content="/img/bep30/touch/icon-152x152.png" name="msapplication-square70x70logo"/>
+  <meta content="/img/bep30/touch/icon-152x152.png" name="msapplication-square150x150logo"/>
+  <meta content="/img/bep30/touch/icon-310x150.png" name="msapplication-wide310x150logo"/>
+  <meta content="/img/bep30/touch/icon-310x310.png" name="msapplication-square310x310logo"/>
+  <link href="/favicon.ico" rel="SHORTCUT ICON"/>
+  <link href="//www.egovernment-computing.de/shared/vogelonline/opensearch/opensearch.cfm?pid=11539&amp;name=eGovernment Computing&amp;server=http://www.egovernment-computing.de" rel="search" title="eGovernment Computing" type="application/opensearchdescription+xml"/>
+  <link href="//files.vogel.de/shared/lib/bundle/libraries_v270116.css" rel="stylesheet" type="text/css"/>
+  <link href="/shared/vogelonline/css/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/shared/vogelonline/css/bep30/global_responsive.css" rel="stylesheet" type="text/css"/>
+  <link href="/shared/vogelonline/css/bep30/banner_960.css" rel="stylesheet" type="text/css"/>
+  <link href="/shared/vogelonline/css/bep30/sizes.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/bep30/screen_basic.css" rel="stylesheet" type="text/css"/>
+  <!--[if IE 7]>
+<link rel="stylesheet" type="text/css"	href="/shared/vogelonline/css/bep30/ie7.css">
+<![endif]-->
+  <!--[if IE 6]>
+<link rel="stylesheet" type="text/css"	href="/shared/vogelonline/css/bep30/ie7.css">
+<![endif]-->
+  <script src="https://www.google.com/recaptcha/api.js" type="text/javascript">
+  </script>
+  <script src="//files.vogel.de/shared/lib/bundle/libraries_v070316.js" type="text/javascript">
+  </script>
+  <script src="/shared/vogelonline/js/ads.js" type="text/javascript">
+  </script>
+  <script src="/shared/vogelonline/js/functions.js" type="text/javascript">
+  </script>
+  <script src="//script.ioam.de/iam.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  </script>
+  <script type="text/javascript">
+   (function() {
+	var useSSL = 'https:' == document.location.protocol;
+	var src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+  </script>
+  <script type="text/javascript">
+   if (typeof googletag != "undefined" && typeof googletag.sizeMapping != "undefined")
+{
+	var map_12986_960x250_RX0 = googletag.sizeMapping().addSize([0, 0], [1, 1]).addSize([1025, 0], [960, 250]).build();
+	googletag.defineSlot('/2686/eGovernment/DE_eGov_Healthcare', [960, 250], 'ban_12986_960x250_RX0').
+		defineSizeMapping(map_12986_960x250_RX0).setCollapseEmptyDiv(true).addService(googletag.companionAds()).addService(googletag.pubads());
+	var map_12986_728x90_468x60_RX1 = googletag.sizeMapping().addSize([0, 0], [1, 1]).addSize([1025, 0], [[728, 90],[468, 60]]).build();
+	googletag.defineSlot('/2686/eGovernment/DE_eGov_Healthcare', [[728, 90],[468, 60]], 'ban_12986_728x90_468x60_RX1').
+defineSizeMapping(map_12986_728x90_468x60_RX1).setCollapseEmptyDiv(true).addService(googletag.pubads());
+	googletag.defineOutOfPageSlot('/2686/eGovernment/DE_eGov_Healthcare', 'ban_12986_728x90_oop').addService(googletag.pubads());
+	var map_12986_160x600_RX2 = googletag.sizeMapping().addSize([0, 0], [1, 1]).addSize([1025, 0], [160, 600]).build();
+	googletag.defineSlot('/2686/eGovernment/DE_eGov_Healthcare', [160, 600], 'ban_12986_160x600_RX2').
+		defineSizeMapping(map_12986_160x600_RX2).setCollapseEmptyDiv(true).addService(googletag.pubads());
+	var map_12986_162x600_RX3 = googletag.sizeMapping().addSize([0, 0], [162, 600]).build();
+	googletag.defineSlot('/2686/eGovernment/DE_eGov_Healthcare', [162, 600], 'ban_12986_162x600_RX3').
+		defineSizeMapping(map_12986_162x600_RX3).addService(googletag.pubads());
+	var map_12986_161x600_RX4 = googletag.sizeMapping().addSize([0, 0], [161, 600]).build();
+	googletag.defineSlot('/2686/eGovernment/DE_eGov_Healthcare', [161, 600], 'ban_12986_161x600_RX4').
+		defineSizeMapping(map_12986_161x600_RX4).addService(googletag.pubads());
+	var map_12986_300x250_RX5 = googletag.sizeMapping().addSize([0, 0], [300, 250]).build();
+	googletag.defineSlot('/2686/eGovernment/DE_eGov_Healthcare', [300, 250], 'ban_12986_300x250_RX5').
+		defineSizeMapping(map_12986_300x250_RX5).addService(googletag.pubads());
+	var map_12986_300x251_RX6 = googletag.sizeMapping().addSize([0, 0], [300, 251]).build();
+	googletag.defineSlot('/2686/eGovernment/DE_eGov_Healthcare', [300, 251], 'ban_12986_300x251_RX6').
+		defineSizeMapping(map_12986_300x251_RX6).addService(googletag.pubads());
+	googletag.pubads().setTargeting('kw', ['wallpaper','Harting_284259']);
+	googletag.pubads().enableSingleRequest();
+	googletag.pubads().enableSyncRendering();
+	googletag.enableServices();
+}
+  </script>
+ </head>
+ <body id="cid_24">
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-N5DK62" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5DK62');
+  </script>
+  <div id="ivwcode">
+   <!-- start ivw-aufruf szm version="2.0" pid 12986 //-->
+   <script type="text/javascript">
+    var iam_data = {
+"st":"egovcomp",
+"cp":"themen/healthcare/facility",
+"co":"12986",
+"sv":"ke"
+}
+if (typeof iom != "undefined")
+{
+iom.c(iam_data, 1);
+}
+   </script>
+   <!-- ende ivw-aufruf szm version="2.0" //-->
+  </div>
+  <script type="text/javascript">
+   /* SiteCatalyst Variablen setzen */
+var STR_sc_account="";
+var STR_sc_clientshortcut="";
+STR_sc_account="vsegovernmentcomputingde";
+if(window.location.host.search(/^red\./) >= 0 || window.location.host.search(/^dev\./) >= 0 || window.location.host.search(/^preview\./) >= 0 || window.location.host.search(/^task\./) >= 0)
+{
+STR_sc_account=STR_sc_account + "dev";
+}
+else
+{
+STR_sc_account=STR_sc_account + "prod";
+}
+STR_sc_clientshortcut="egov";
+STR_sc_linkInternalFilters="javascript:,egovernment-computing.de,egovernment.eu";
+STR_sc_cookieDomainPeriods="2";
+STR_sc_fpCookieDomainPeriods="2";
+STR_sc_currencyCode="EUR";
+  </script>
+  <script src="/shared/vogelonline/js/s_code.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function() {
+if ($(window).width() >= 520)
+{
+$(".colorbox_imagedetail").colorbox({iframe:true, innerWidth:"20%", innerHeight:"20%", scrolling:false, fastIframe:false});
+}
+else
+{
+$(".colorbox_imagedetail").click(function(e){
+e.preventDefault();
+window.open($(this).find('img').attr('src'), '_blank');
+});
+}
+if (typeof SmartAppBanner === 'function')
+{
+var OBJ_smartbanner = new SmartAppBanner();
+OBJ_smartbanner.init({
+daysAfterClosed: 14,
+title: 'eGovernment Computing',
+desc: 'Jetzt downloaden!',
+button: 'INSTALLIEREN',
+store: {
+ios: '1040458104',
+android: 'de.vogel.egovnews',
+windows: '9NBLGGH5XNR9'
+}
+});
+}
+if ($('#mobile-header').length)
+{
+var INT_headerpos = $('#mobile-header').offset().top;
+var INT_headerheight = $('#mobile-header').height();
+var BOO_cookiestatement = ($('#cookie-statement').length == 0 || $('#cookie-statement').is(":visible") == false);
+var BOO_mobileheader = $('#mobile-header').is(":visible");
+$(document).on("scroll", function() {
+if ($(window).width() > 1024 && BOO_cookiestatement ) {
+if ($(document).scrollTop() > INT_headerpos && !$('#mobile-header').hasClass("small")) {
+$('#mobile-header').addClass("small");
+if (BOO_mobileheader) {
+$("#website").addClass("fixed-header").css("padding-top",INT_headerheight+'px');
+}
+}
+else if ($(document).scrollTop() <= INT_headerpos && $('#mobile-header').hasClass("small")) {
+$('#mobile-header').removeClass("small");
+if (BOO_mobileheader) {
+$("#website").removeClass("fixed-header").css("padding-top",'0px');
+}
+}
+}
+});
+}
+});
+  </script>
+  <div id="fb-root">
+  </div>
+  <script type="text/javascript">
+   $(window).load(function () {
+$.ajax({
+url: "//connect.facebook.net/de_DE/sdk.js",
+cache: true,
+dataType: "script",
+success: function(){
+if (typeof(FB) != 'undefined')
+{
+FB.init({
+appId : '380567245386235',
+status : true,
+xfbml : true,
+version	: 'v2.3'
+});
+}
+}
+});
+});
+  </script>
+  <div id="website">
+   <div id="leaderboard">
+    <script type="text/javascript">
+     $(document).ready(function(){if (typeof removeDFPSync == 'function'){removeDFPSync("ban_12986_728x90_468x60_RX1 img",""); }});
+    </script>
+    <div class=" " id="ban_12986_728x90_468x60_RX1" style="position:relative;">
+     <div id="24_leaderboard">
+      <script type="text/javascript">
+       if (typeof googletag != "undefined" && typeof googletag.display != "undefined")
+{
+googletag.display('ban_12986_728x90_468x60_RX1');
+}
+      </script>
+     </div>
+    </div>
+    <div id="ban_12986_728x90_oop">
+     <script type="text/javascript">
+      if (typeof googletag != "undefined" && typeof googletag.display != "undefined")
+{
+googletag.display('ban_12986_728x90_oop');
+}
+     </script>
+    </div>
+   </div>
+   <div id="skyright">
+    <script type="text/javascript">
+     $(document).ready(function(){if (typeof removeDFPSync == 'function'){removeDFPSync("ban_12986_160x600_RX2 img",""); }});
+    </script>
+    <div class=" " id="ban_12986_160x600_RX2" style="position:relative;">
+     <div id="24_skyright">
+      <script type="text/javascript">
+       if (typeof googletag != "undefined" && typeof googletag.display != "undefined")
+{
+googletag.display('ban_12986_160x600_RX2');
+}
+      </script>
+     </div>
+    </div>
+   </div>
+   <div class="secondsky" id="skyright">
+    <script type="text/javascript">
+     $(document).ready(function(){if (typeof removeDFPSync == 'function'){removeDFPSync("ban_12986_162x600_RX3 img",""); }});
+    </script>
+    <div class="banner bannerl " id="ban_12986_162x600_RX3" style="position:relative;">
+     <div id="24_skyright2">
+      <script type="text/javascript">
+       if (typeof googletag != "undefined" && typeof googletag.display != "undefined")
+{
+googletag.display('ban_12986_162x600_RX3');
+}
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="skyleft">
+    <script type="text/javascript">
+     $(document).ready(function(){if (typeof removeDFPSync == 'function'){removeDFPSync("ban_12986_161x600_RX4 img",""); }});
+    </script>
+    <div class=" " id="ban_12986_161x600_RX4" style="position:relative;">
+     <div id="24_skyleft">
+      <script type="text/javascript">
+       if (typeof googletag != "undefined" && typeof googletag.display != "undefined")
+{
+googletag.display('ban_12986_161x600_RX4');
+}
+      </script>
+     </div>
+    </div>
+   </div>
+   <!-- Out of Cache-Include: /modules/header/head/mobilenavi.cfm -->
+   <div id="mobile-navi">
+    <ul id="service-menu">
+     <li class="item-login">
+      <a href="/login/">
+       Login
+      </a>
+     </li>
+     <li class="item-reg">
+      <a href="/registrierung/">
+       Registrierung
+      </a>
+     </li>
+     <li class="item-nl">
+      <a href="/newsletter/">
+       Newsletter
+      </a>
+     </li>
+    </ul>
+    <ul id="main-navi">
+     <li class="menueitemhome">
+      <a href="/" target="">
+       Startseite
+      </a>
+     </li>
+     <li class=" menueitem1">
+      <a href="/forum/habbel-blog/" target="">
+       Habbel Blog
+      </a>
+     </li>
+     <li class=" menueitem2">
+      <a href="/politik-und-verwaltung/" target="">
+       Politik &amp; Verwaltung
+      </a>
+     </li>
+     <li class=" menueitem3">
+      <a href="/praxis-und-innovation/" target="">
+       Praxis &amp; Innovation
+      </a>
+     </li>
+     <li class=" menueitem4">
+      <a href="/healthcare/" target="">
+       Healthcare
+      </a>
+     </li>
+     <li class=" menueitem5">
+      <a href="/datenbanken/termine/" target="">
+       Veranstaltungen
+      </a>
+     </li>
+     <li class=" menueitem6">
+      <a href="/videos" target="">
+       Mediathek
+      </a>
+     </li>
+     <li class=" menueitem7">
+      <a href="/datenbanken/firmen/" target="">
+       Anbieter
+      </a>
+     </li>
+     <li class=" menueitem8">
+      <a href="/pp/products/" target="">
+       +PLUS
+      </a>
+     </li>
+     <li class=" menueitem9">
+      <a href="/forum/" target="">
+       Forum
+      </a>
+     </li>
+     <li class=" menueitem10">
+      <a href="/specials/" target="">
+       Specials
+      </a>
+     </li>
+     <li class=" menueitem11">
+      <a href="/vogel-it/" target="">
+       Service
+      </a>
+     </li>
+     <li class=" menueitem12">
+      <a href="/inhalte/whitepaper/" target="">
+       Whitepapers
+      </a>
+     </li>
+     <li class=" menueitem13">
+      <a href="http://www.akademie.vogel-it.com/" target="_blank">
+       Akademie
+      </a>
+     </li>
+     <li class=" menueitem14">
+      <a href="/mediadaten/" target="">
+       Media-Daten
+      </a>
+     </li>
+     <li class=" menueitem15">
+      <a href="/service/kontakt/" target="">
+       Kontakt
+      </a>
+     </li>
+    </ul>
+    <ul id="footer-navi">
+     <li class="footer-impress">
+      <a href="/index.cfm?pid=7473">
+       Impressum
+      </a>
+     </li>
+     <li class="footer-media">
+      <a href="/mediadaten/" target="_blank">
+       Media
+      </a>
+     </li>
+     <li class="footer-privacy">
+      <a href="/index.cfm?pid=7582">
+       Datenschutz
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div id="mobile-header">
+    <button id="menu">
+     <span>
+      Menü
+     </span>
+    </button>
+    <button id="searchexpander">
+     <span>
+      Suche
+     </span>
+    </button>
+    <a href="/" id="mobile-logo">
+     <img src="/img/bep30/logo.png"/>
+    </a>
+    <button id="mobile-close">
+     <img src="/shared/vogelonline/img/bep30/close_x.png"/>
+    </button>
+    <form action="/suchergebnis/" method="get">
+     <input id="mobile-search" name="keyword" type="text" value=""/>
+     <button>
+      <span>
+       suchen..
+      </span>
+     </button>
+    </form>
+   </div>
+   <script type="text/javascript">
+    $(document).ready(function() {
+$('#menu').click(function(){
+$('body').toggleClass('open');
+});
+$('#searchexpander').click(function(){
+$('#mobile-header').toggleClass('open');
+if ('' != '')
+{
+// Blur-Effekt auf Suchfeld
+$("#mobile-search").bind("focusin", function(a)
+{
+STR_val = $(this).val();
+if ( a.type == "focusin" && ( STR_val == '' || STR_val == '') )
+{
+$(this).val('');
+}
+});
+}
+else
+{
+$('#mobile-search').focus();
+}
+});
+$('#mobile-close').click(function(){
+$('#mobile-header').toggleClass('open');
+});
+$('#mobile-navi li.gosubnavi a,#mobile-navi li.gosubnavi div').click(function(e){
+e.preventDefault();
+$(this).parent('li').next('li.mob-submenu').toggle();
+});
+$("#service-menu .profilelink").click(function(){
+window.location.href= "/my/publicprofile/#crop-avatar";
+});
+});
+   </script>
+   <div id="wrapper">
+    <div class="head_12986 head" id="head_24">
+     <div id="head_top">
+      <img class="vbm" src="/img/bep30/vogel_top.png"/>
+      <div>
+       <a href="https://plus.google.com/+egovernment-computingde" rel="publisher" target="_blank">
+        <img alt="Google+" src="/shared/vogelonline/img/google_icon.png" title="Google+"/>
+       </a>
+       <a href="https://www.facebook.com/egovernmentcomputing" target="_blank">
+        <img alt="Facebook" src="/shared/vogelonline/img/facebook.png" title="Facebook"/>
+       </a>
+       <a href="http://twitter.com/egovcomde" target="_blank">
+        <img alt="Twitter" src="/shared/vogelonline/img/twitter.png" title="Twitter"/>
+       </a>
+       <a href="/rss/news.xml" target="_self">
+        <img alt="RSS" src="/shared/vogelonline/img/rss.png" title="RSS"/>
+       </a>
+       <a href="/impressum/" target="_self">
+        Impressum
+       </a>
+       <a href="/index.cfm?pid=7411" target="_self">
+        Kontakt
+       </a>
+       <a href="/mediadaten/" target="_blank">
+        Media
+       </a>
+       <a href="/index.cfm?pid=12510" target="_self">
+        Abo
+       </a>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div id="head_logo">
+      <a href="/">
+       <img id="logo" src="/img/bep30/logo.png"/>
+      </a>
+      <div id="search">
+       <form action="/suchergebnis/" id="quicksearchform" method="get" name="quicksearchform">
+        <a href="javascript:void(0);" id="searchbutton">
+         <span class="button">
+          suchen
+         </span>
+        </a>
+        <input class="searchfield" id="searchfield" name="keyword" type="text" value=""/>
+       </form>
+      </div>
+      <script type="text/javascript">
+       $(document).ready(function(){
+// Blur-Effekt auf Suchfeld
+$("#searchfield").bind("focusin focusout", function(a)
+{
+STR_val = $(this).val();
+if ( a.type == "focusin" && ( STR_val == '' || STR_val == '') )
+{
+$(this).val('');
+}
+else if ( a.type == "focusout" && STR_val == '' )
+{
+$(this).val('');
+}
+});
+// Suche auf Button-Klick abschicken
+$("#searchbutton").click(function(e)
+{
+var STR_value = $('#searchfield').val();
+if (STR_value == "" || STR_value == "" || STR_value == "")
+{
+STR_value = "";
+e.preventDefault();
+}
+else
+{
+// Trim
+$('#searchfield').val($.trim(STR_value));
+$('#quicksearchform').submit();
+}
+});
+});
+      </script>
+      <div class="clear">
+      </div>
+     </div>
+    </div>
+    <div id="main_menu">
+     <ul id="main_nav">
+      <li class=" main_nav_first menueitem1">
+       <a alt="" href="/politik-und-verwaltung/" name="Politik &amp; Verwaltung" target="">
+        Politik &amp; Verwaltung
+       </a>
+      </li>
+      <li class=" menueitem2">
+       <a alt="" href="/praxis-und-innovation/" name="Praxis &amp; Innovation" target="">
+        Praxis &amp; Innovation
+       </a>
+      </li>
+      <li class="active menueitem3">
+       <a alt="" href="/healthcare/" name="Healthcare" target="">
+        Healthcare
+       </a>
+      </li>
+      <li class=" menueitem4">
+       <a alt="" href="/datenbanken/termine/" name="Veranstaltungen" target="">
+        Veranstaltungen
+       </a>
+      </li>
+      <li class=" menueitem5">
+       <a alt="" href="/videos" name="Mediathek" target="">
+        Mediathek
+       </a>
+      </li>
+      <li class=" menueitem6">
+       <a alt="" href="/datenbanken/firmen/" name="Anbieter" target="">
+        Anbieter
+       </a>
+      </li>
+      <li class=" main_nav_last menueitem7">
+       <a alt="" href="/pp/products/" name="+PLUS" target="">
+        +PLUS
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="breadcrumb_bg">
+     <p id="cookietrail">
+      <span>
+       Sie befinden sich hier:
+      </span>
+      <a class="" href="/healthcare/">
+       Healthcare
+      </a>
+     </p>
+     <!-- Out of Cache-Include: /modules/header/head/mysiteheader.cfm -->
+     <p id="login">
+      Sie sind noch nicht angemeldet
+      <a class="colorbox_log" href="https://www.egovernment-computing.de/index.cfm?pid=13218&amp;tab=0&amp;cf=%2Findex%2Ecfm%3Fpid%3D1%26pk%3D537945%26p%3D1&amp;os=848F1536EADEB8F8A3A5120B852B900D">
+       Login
+      </a>
+      |
+      <a class="colorbox_reg" href="https://www.egovernment-computing.de/index.cfm?pid=13218&amp;tab=1&amp;cf=%2Findex%2Ecfm%3Fpid%3D1%26pk%3D537945%26p%3D1&amp;os=848F1536EADEB8F8A3A5120B852B900D">
+       Registrierung
+      </a>
+      |
+      <a href="/index.cfm?pid=7413">
+       Newsletter
+      </a>
+     </p>
+     <!-- Out of Cache-Include: /modules/header/head/usermenue.cfm -->
+    </div>
+    <div id="resp_container">
+     <script type="text/javascript">
+      $(document).ready(function(){if (typeof removeDFPSync == 'function'){removeDFPSync("ban_12986_960x250_RX0 img",""); }});
+     </script>
+     <div class=" " id="ban_12986_960x250_RX0" style="position:relative;">
+      <div id="containerobject_415631">
+       <script type="text/javascript">
+        if (typeof googletag != "undefined" && typeof googletag.display != "undefined")
+{
+googletag.display('ban_12986_960x250_RX0');
+}
+       </script>
+      </div>
+     </div>
+    </div>
+    <div class="silver-lake" id="content_wrap">
+     <article class="" id="containerobject_430005">
+      <header class="no-top page1">
+       <div>
+        <span class="subhead">
+         Kooperation
+        </span>
+        <h1 class="headline">
+         Pegasystems geht in die Philips Cloud
+        </h1>
+        <p id="autor">
+         <time pubdate="pubdate">
+          09.06.16
+         </time>
+         | Autor:
+         <a href="/ira-zahorsky/">
+          Ira Zahorsky
+         </a>
+        </p>
+       </div>
+       <div class="img-infos">
+        <a class="colorbox_imagedetail" href="/index.cfm?pid=11099&amp;pk=1033749&amp;type=article&amp;fk=537945" id="articleimageurl">
+         <div class="div_aufm">
+          <img alt="Jeroen Tas, CEO Connected Care and Health Informatics bei Philips" border="0" class="img_1" id="articleimage" src="http://images.vogel.de/vogelonline/bdb/1033700/1033749/4.jpg" title="Jeroen Tas, CEO Connected Care and Health Informatics bei Philips"/>
+         </div>
+        </a>
+        <div class="bildunterschrift" id="artimgcomment">
+         Jeroen Tas, CEO Connected Care and Health Informatics bei Philips
+         <span class="picsource">
+          (Bild: Bild: Jacob.rosen3	/
+          <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" target="_blank">
+           CC BY-SA 4.0
+          </a>
+          )
+         </span>
+        </div>
+       </div>
+      </header>
+      <div class="rolling-prairie" id="page1">
+       <div class="dog-fish">
+        <div class="optionen">
+         <!-- Socialmedia Leiste -->
+         <script src="/shared/vogelonline/js/socialprivacy.js" type="text/javascript">
+         </script>
+         <div class="social_media_art" id="art_socialmedia_24">
+          <ul class="socialmedia_privacy_area responsive" id="socialmedia_privacy_area">
+           <li class="socialmedia" id="xing">
+           </li>
+           <li class="socialmedia" id="facebook">
+           </li>
+           <li class="socialmedia" id="twitter">
+           </li>
+           <li class="socialmedia" id="linkedin">
+           </li>
+           <li class="socialmedia" id="whatsapp">
+           </li>
+          </ul>
+         </div>
+         <div class="clear">
+         </div>
+         <script language="javascript">
+          $(document).ready(function() {
+var ARR_sharecountsart_socialmedia_24 = new Array();
+ARR_sharecountsart_socialmedia_24['xing'] = "";
+ARR_sharecountsart_socialmedia_24['facebook'] = "";
+ARR_sharecountsart_socialmedia_24['facebooklike'] = "";
+ARR_sharecountsart_socialmedia_24['twitter'] = "";
+ARR_sharecountsart_socialmedia_24['linkedin'] = "";
+ARR_sharecountsart_socialmedia_24['googleplus'] = "";
+ARR_sharecountsart_socialmedia_24['whatsapp'] = "";
+var ARR_sharetxtart_socialmedia_24 = new Array();
+ARR_sharetxtart_socialmedia_24['xing'] = "share me";
+ARR_sharetxtart_socialmedia_24['facebook'] = "share me";
+ARR_sharetxtart_socialmedia_24['facebooklike'] = "like me";
+ARR_sharetxtart_socialmedia_24['twitter'] = "tweet me";
+ARR_sharetxtart_socialmedia_24['linkedin'] = "share me";
+ARR_sharetxtart_socialmedia_24['googleplus'] = "share me";
+ARR_sharetxtart_socialmedia_24['whatsapp'] = "share me";
+createSocialBar(
+layout = "responsive",
+links = "popup",
+privacy = "0",
+sharecounts = ARR_sharecountsart_socialmedia_24,
+sharetxts = ARR_sharetxtart_socialmedia_24,
+url = "http://www.egovernment-computing.de/pegasystems-geht-in-die-philips-cloud-a-537945/"
+);
+});
+         </script>
+         <!-- Optionsleiste -->
+         <!-- Out of Cache-Include: /modules/bars/dyn_options.cfm -->
+         <div class="options" id="art_options_24">
+          <ul>
+           <li class="option_pdf">
+            <a class="" href="https://www.egovernment-computing.de/index.cfm?pid=13218&amp;st=pdf&amp;iscontent=10&amp;pk=537945&amp;tab=0&amp;cf=%2Findex%2Ecfm%3Fpid%3D1%26pk%3D537945%26p%3D1&amp;os=848F1536EADEB8F8A3A5120B852B900D">
+             <img src="/shared/vogelonline/img/bep30/options/pdf.png"/>
+             <span>
+              PDF
+             </span>
+            </a>
+           </li>
+           <li class="option_recommend">
+            <a class="colorbox_recommend" href="/index.cfm?pid=7477&amp;pk=537945&amp;ct=10">
+             <img src="/shared/vogelonline/img/bep30/options/mail.png"/>
+             <span>
+              Weiterempfehlen
+             </span>
+            </a>
+           </li>
+           <li class="option_print">
+            <a class="colorbox_print" href="/index.cfm?pid=7476&amp;pk=537945&amp;print=true&amp;printtype=article">
+             <img src="/shared/vogelonline/img/bep30/options/print.png"/>
+             <span>
+              Drucken
+             </span>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="arkansas">
+        <p class="vortext">
+         Die Kooperation zwischen Royal Philips und Pegasystems soll es Managed-Care-Serviceprovidern und Gesundheitsorganisationen ermöglichen, Gesundheitsdaten und -geräte für eine bessere personalisierte Gesundheitsvorsorge zu nutzen.
+        </p>
+        <p>
+         Royal Philips, ein Unternehmen in der Gesundheitstechnologie, und Pegasystems, Anbieter von strategischen Software-Lösungen für Vertrieb, Marketing, Service und Operations, haben ihre Zusammenarbeit angekündigt.
+        </p>
+        <p>
+         Durch die Verbindung der Pega Care Management Application mit der Philips HealthSuite Cloud Platform können Betreuer Gesundheitsapplikationen aus der Ferne steuern, und damit sofortigen Zugang zum Gesundheitsstatus eines Patienten zu bekommen. Pflege-Teams mit Ärzten, Krankenschwestern, ambulanten Betreuern oder Pflegedienstleistern sollen damit potenzielle gesundheitliche Probleme sofort erkennen und schnell reagieren können sowie die Einhaltung persönlicher Pflegepläne verbessern. Die neuen Gesundheitslösungen, die von Pegasystems entwickelt und angeboten werden, sind voraussichtlich noch in diesem Jahr verfügbar.
+        </p>
+        <p>
+         Auf der diesjährigen
+         <a class="link_article" href="https://www.pega.com/about/events/pegaworld" id="nointelliTXT" target="_blank">
+          Pegaworld in Las Vegas
+         </a>
+         demonstrierten die Unternehmen ihre ersten integrierten Versorgungskonzepte, die auf evidenzbasierten Richtlinien zur Behandlung chronischer Erkrankungen und dem neuen FHIR-Standard (Fast Healthcare Interoperability Resources) basieren. Mit Hilfe eines tragbaren Gerätes kann damit beispielsweise ein Patient mit einer chronisch obstruktiven Lungenerkrankung, der einer Inhalationsbehandlung ausgesetzt ist, seine Sauerstoffwerte selbst verfolgen. Diese Werte stehen auch dem Betreuungsteam in Echtzeit zur Verfügung, so dass es bei Bedarf schnell eingreifen kann.
+        </p>
+        <script type="text/javascript">
+         $(document).ready(function(){if (typeof removeDFPSync == 'function'){removeDFPSync("ban_12986_300x250_RX5 img",""); }});
+        </script>
+        <div class="banner bannerr txt " id="ban_12986_300x250_RX5" style="position:relative;">
+         <div id="24_banner_article_1">
+          <script type="text/javascript">
+           if (typeof googletag != "undefined" && typeof googletag.display != "undefined")	{	googletag.display('ban_12986_300x250_RX5');	}
+          </script>
+         </div>
+        </div>
+        <p>
+         Die Pega Care Management Application ermöglicht Gesundheitsdienstleistern und Versicherern, unterschiedliche Pflegeteams zu koordinieren und zu betreuen. Die Lösung wird durch den Beitritt Pegasystems ins wachsende Ökosystem der Philips Cloud Platform weiter verbessert. Sie unterstützt den Anschluss von Millionen Gesundheitsgeräten, den Austausch von Patienten-Längsschnittdaten sowie die Integration von Gesundheitsakten, Klinik-Systemen, Predictive-Analytics-Lösungen und Cloud-Storage.
+        </p>
+        <p>
+         Die Verbreitung von Wearables und Sensoren und der Fortschritt bei medizinischen Geräten ermöglichen Pegasystems, die Vorteile des Internet of Things zu nutzen. Durch die Kombination von klinischen Daten, Industrie-Best-Practice-Pflegerichtlinien und Predictive Analytics bietet Pega Care Management den Betreuungsteams einen ganzheitlichen Blick auf die Gesundheit ihrer Patienten und die Pflegepläne. Damit können sie die personalisierte Betreuung weiter ausbauen.
+        </p>
+        <div class="bannercenter">
+         <script type="text/javascript">
+          $(document).ready(function(){if (typeof removeDFPSync == 'function'){removeDFPSync("ban_12986_300x251_RX6 img",""); }});
+         </script>
+         <div class="banner bannerl " id="ban_12986_300x251_RX6" style="position:relative;">
+          <div id="24_banner_article_2">
+           <script type="text/javascript">
+            if (typeof googletag != "undefined" && typeof googletag.display != "undefined")	{	googletag.display('ban_12986_300x251_RX6');	}
+           </script>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <footer>
+       <section>
+        <div class="authorbox" id="art_authorinfo_24">
+         <div class="a-info">
+          <a href="/ira-zahorsky/">
+           <img class="a-img" src="//images.vogel.de/vogelonline/bdb//995700/995757/4.jpg"/>
+          </a>
+          <div class="a-person">
+           <span class="a-about">
+            Über den Autor
+           </span>
+           <a href="/ira-zahorsky/">
+            <p class="a-title">
+             Ira Zahorsky
+            </p>
+           </a>
+           <a href="/ira-zahorsky/">
+            <p class="a-name">
+             Redakteurin und Online-CvD
+            </p>
+           </a>
+          </div>
+          <div class="a-social">
+           <a href="http://www.facebook.com/itbusinessde" target="_blank">
+            <img src="/shared/vogelonline/img/bep30/smbutton/facebook.png"/>
+           </a>
+           <a href="https://twitter.com/@itbusinessde" target="_blank">
+            <img src="/shared/vogelonline/img/bep30/smbutton/twitter.png"/>
+           </a>
+           <a href="https://de.linkedin.com/pub/ira-zahorsky/96/336/b81?" target="_blank">
+            <img src="/shared/vogelonline/img/bep30/smbutton/linkedin.png"/>
+           </a>
+           <a href="https://www.xing.com/profile/Ira_Zahorsky?sc_o=mxb_p" target="_blank">
+            <img src="/shared/vogelonline/img/bep30/smbutton/xing.png"/>
+           </a>
+          </div>
+         </div>
+         <div class="a-bestarticle">
+          <a class="a-name" href="/medizin-40-ausbildung-mangelhaft-a-537974/">
+           Digitalisierung kommt zu kurz
+          </a>
+          <a class="a-title" href="/medizin-40-ausbildung-mangelhaft-a-537974/">
+           Medizin 4.0: Ausbildung mangelhaft
+          </a>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+       </section>
+       <section>
+        <!--Kommentarbox -->
+        <!-- Out of Cache-Include: /modules/teasers/forum/dyn_comments.cfm -->
+        <script type="text/javascript">
+         function newPost()
+{
+var STR_comment = $('#commentform #comment_text').val();
+var INT_pkarticles = 537945;
+var STR_spamschutz = $('#commentform #spamschutz').val();
+$('#comments').fadeTo("slow", 0.33);
+var STR_username = $('#commentform #username').val();
+var BOO_subscribe = $("#commentform #subscribe").val();
+var challengeField = $("#g-recaptcha-response").val();
+$.post("/shared/vogelonline/_ajax/article_discuss_box/article_discuss_box.cfm", {
+comment:STR_comment, pkarticles:INT_pkarticles, challengeField: challengeField, subscribe: BOO_subscribe}, function(jsonObj){donePost(jsonObj);});
+}
+function donePost(jsonObj)
+{
+var jsonObj = eval('(' + jsonObj + ')');
+if(jsonObj.success == 0)
+{
+$('#comment_error').remove();
+$('#comments').fadeTo("slow", 1);
+$('#comments').prepend('<div id="comment_error"><br/><span style="font-size:14px;font-weight:bold;color:#B30F1D;padding:7px;">'+jsonObj.message+'</span><br /><br /></div>');
+}
+else if (jsonObj.success == 2)
+{
+window.location = jsonObj.message+'&cf='+encodeURIComponent(window.location.href);
+}
+else
+{
+//$('#comments').fadeTo("slow", 0);
+$('#comments').empty();
+var STR_subscribe = "";
+var STR_userid = jsonObj.userid;
+var STR_threadid = jsonObj.threadid;
+var STR_forum = jsonObj.forum;
+var INT_pkgalleon_forums = jsonObj.pkgalleon_forums;
+var STR_message = jsonObj.message;
+if(STR_userid == 'C1ABB0DB-9507-43CC-8411C989BFE956A0')
+{
+STR_subscribe = '<span class="subscription"><b>Thema abonnieren:</b></span><br /><form id="subscribeform" method="post"><input type="text" name="email" value="E-Mail-Adresse" style="width:250px;" id="email" /></form><a class="subscription" href="javascript:subscribe(\'' + STR_userid + '\', \'' + STR_threadid + '\', \'' + STR_forum + '\', \'' + INT_pkgalleon_forums + '\', \'' + STR_message + '\');"><span class="subscription button">Abonnieren</span> </a><br/><br />';
+}
+else
+{
+}
+$('#comments').html('<br /><span style="font-size:14px;font-weight:bold;color:#006633;padding:7px;">Ihr Kommentar wurde gespeichert !</span><br /><div style="padding:7px;">'+jsonObj.message+'<br /><br />' + STR_subscribe + 'Ihr Beitrag wird in unserem Forum unter der Kategorie <a href="/forum/threads.cfm?forumid='+jsonObj.forumid+'" class="link1" >'+jsonObj.forum+'</a> erscheinen<br /><br /><a href="/rss/forum'+jsonObj.pkgalleon_forums+'.xml" target="_blank" >Das Thema <b>'+jsonObj.forum+'</b> als RSS-Feed abonnieren <img style="top:-2px;position:relative;" src="/shared/vogelonline/img/ico_rss.gif"></a><br /><br /></div>');
+$('#comments').append('<script type="text/javascript" charset="utf-8">$("input[name=email]").blur(function(){ $("#subscribeform").validate({rules:{email:{required: false, email: true}}} ) } ); jQuery.extend(jQuery.validator.messages, { email: "Bitte geben Sie eine g&uuml;ltige E-Mail-Adresse ein" }); </scr' + 'ipt>');
+$('#comments').append('<script type="text/javascript" charset="utf-8">$("input[name=email]").click(function(){ $(this).val(""); }); </scr' + 'ipt>');
+$('#comments').fadeTo("slow", 1);
+}
+}
+function subscribe(STR_userid, STR_forumid, STR_forum, INT_pkgalleon_forums, STR_message)
+{
+var STR_email = $('#subscribeform #email').val().length != 0 ? $('#subscribeform #email').val() : "empty";
+$.post("/shared/vogelonline/_ajax/article_discuss_box/thread_subscribe.cfm", {userid:STR_userid, forumid:STR_forumid, email:STR_email, forum:STR_forum, fkgalleon_forums:INT_pkgalleon_forums, message:STR_message}, function(jsonObj){doneSubscription(jsonObj);});
+}
+function doneSubscription(jsonObj)
+{
+var jsonObj = eval('(' + jsonObj + ')');
+if(jsonObj.success == 0)
+{
+$('#comments').fadeTo("slow", 1);
+$('#comments').prepend('<div id="comment_error"><br/><span style="font-size:14px;font-weight:bold;color:#B30F1D;padding:7px;">'+jsonObj.message+'</span><br /><br /></div>');
+}
+else
+{
+$('#comments').remove(".subscription");
+$('#comments').html('<br /><span style="font-size:14px;font-weight:bold;color:#006633;padding:7px;">Ihr Kommentar wurde gespeichert !</span><br /><div style="padding:7px;">'+jsonObj.message+'<br /><br />Ihr Beitrag wird in unserem Forum unter der Kategorie <a href="/forum/threads.cfm?forumid='+jsonObj.forumid+'" class="link1" >'+jsonObj.forum+'</a> erscheinen<br /><br /><a href="/rss/forum'+jsonObj.pkgalleon_forums+'.xml" target="_blank" >Das Thema <b>'+jsonObj.forum+'</b> als RSS-Feed abonnieren <img style="top:-2px;position:relative;" src="/shared/vogelonline/img/ico_rss.gif"></a><br /><br /></div>');
+}
+$('#comments').fadeTo("slow", 1);
+}
+        </script>
+        <div class="clear">
+        </div>
+        <div class="row2blank forumcomments" id="art_comments_24">
+         <div class="boxhead_bg">
+          Kommentar zu diesem Artikel abgeben
+         </div>
+         <div class="row2_content" id="comments">
+          <p>
+           Schreiben Sie uns hier Ihre Meinung ...
+           <br/>
+           <span id="username">
+            (nicht registrierter User)
+           </span>
+          </p>
+          <form id="commentform" method="post">
+           <textarea cols="33" id="comment_text" name="comment_text" rows="33" style="margin-left:0px;float:none;">
+           </textarea>
+           <div class="g-recaptcha" data-sitekey="6Lf9wQMTAAAAAIWxZpPmsZGiFWVcfnLNyeLE5V0l">
+           </div>
+           <input id="username" name="username" type="hidden" value="nicht registrierter User"/>
+          </form>
+          <a href="javascript:newPost();">
+           <span class="button">
+            Kommentar abschicken
+           </span>
+          </a>
+          <div class="clear">
+          </div>
+         </div>
+        </div>
+       </section>
+       <img border="0" height="1" src="http://vogel.met.vgwort.de/na/ac1dd28e7181475a8bba2e0e95c6278a" width="1"/>
+       <script type="text/javascript">
+        var STR_authornames = 'Zahorsky:Ira';
+var STR_authornames_globaluserids = '146233:Zahorsky:Ira';
+var STR_globaluserids = '146233';
+// Inhalt einer Box verstecken
+function foldKasten(STR_box_id)
+{
+// Inhalt ausblenden
+$('#kasten_untermenu' + STR_box_id).slideUp('fast');
+$('#kasten_minimize' + STR_box_id).hide();
+$('#kasten_maximize' + STR_box_id).show();
+$('#kasten_teaser' + STR_box_id).show();
+} // end function foldBox
+// Inhalt einer Box zeigen
+function unfoldKasten(STR_box_id)
+{
+// Inhalt ausblenden
+$('#kasten_untermenu'+ STR_box_id).slideDown('fast');
+$('#kasten_minimize' + STR_box_id).show();
+$('#kasten_maximize' + STR_box_id).hide();
+$('div#kasten_teaser' + STR_box_id).hide();
+} // end function unfoldBox
+       </script>
+      </footer>
+     </article>
+     <div class="row3 related" id="containerobject_430011">
+      <div class="related">
+       <div class="teaser_titel">
+        <p>
+         Mehr zum Thema
+        </p>
+       </div>
+       <div class="teaser_content_noabstract_small">
+        <div class="teaser_content">
+         <a href="/wandel-in-der-vernetzten-gesundheitsversorgung-a-450936/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+          <img alt="Wandel in der vernetzten Gesundheitsversorgung?" class="art_list_img" src="http://images.vogel.de/vogelonline/bdb/739600/739630/33.jpg" title="Wandel in der vernetzten Gesundheitsversorgung?"/>
+         </a>
+         <img class="arrow_left" src="/shared/vogelonline/img/bep30/arrow_left_white.png"/>
+         <div>
+          <h3>
+           <a href="/wandel-in-der-vernetzten-gesundheitsversorgung-a-450936/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Wandel in der vernetzten Gesundheitsversorgung?">
+            Einsatz von Cloud-Technologie auch im Gesundheitswesen
+           </a>
+          </h3>
+          <h2>
+           <a href="/wandel-in-der-vernetzten-gesundheitsversorgung-a-450936/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Wandel in der vernetzten Gesundheitsversorgung?">
+            Wandel in der vernetzten Gesundheitsversorgung?
+           </a>
+          </h2>
+          <p>
+           <a class="read_content" href="/wandel-in-der-vernetzten-gesundheitsversorgung-a-450936/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+            mehr...
+           </a>
+          </p>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+        <div class="teaser_content">
+         <a href="/bereitschaft-fuer-ehealth-steigt-a-500883/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+          <img alt="Bereitschaft für eHealth steigt" class="art_list_img" src="http://images.vogel.de/vogelonline/bdb/907600/907645/33.jpg" title="Bereitschaft für eHealth steigt"/>
+         </a>
+         <img class="arrow_left" src="/shared/vogelonline/img/bep30/arrow_left_white.png"/>
+         <div>
+          <h3>
+           <a href="/bereitschaft-fuer-ehealth-steigt-a-500883/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Bereitschaft für eHealth steigt">
+            Swiss eHealth Barometers 2015
+           </a>
+          </h3>
+          <h2>
+           <a href="/bereitschaft-fuer-ehealth-steigt-a-500883/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Bereitschaft für eHealth steigt">
+            Bereitschaft für eHealth steigt
+           </a>
+          </h2>
+          <p>
+           <a class="read_content" href="/bereitschaft-fuer-ehealth-steigt-a-500883/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+            mehr...
+           </a>
+          </p>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="teaser_content">
+         <a href="/mobile-medical-apps-a-524372/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+          <img alt="Mobile Medical Apps" class="art_list_img" src="http://images.vogel.de/vogelonline/bdb/992800/992865/33.jpg" title="Mobile Medical Apps"/>
+         </a>
+         <img class="arrow_left" src="/shared/vogelonline/img/bep30/arrow_left_white.png"/>
+         <div>
+          <h3>
+           <a href="/mobile-medical-apps-a-524372/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Mobile Medical Apps">
+            Neue Märkte
+           </a>
+          </h3>
+          <h2>
+           <a href="/mobile-medical-apps-a-524372/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Mobile Medical Apps">
+            Mobile Medical Apps
+           </a>
+          </h2>
+          <p>
+           <a class="read_content" href="/mobile-medical-apps-a-524372/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+            mehr...
+           </a>
+          </p>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+        <div class="teaser_content">
+         <a href="/aerztekammer-oesterreich-gegen-elektronische-gesundheitsakte-elga-a-337482/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+          <img alt="Ärztekammer Österreich gegen elektronische Gesundheitsakte ELGA" class="art_list_img" src="http://images.vogel.de/vogelonline/bdb/416500/416574/33.jpg" title="Ärztekammer Österreich gegen elektronische Gesundheitsakte ELGA"/>
+         </a>
+         <img class="arrow_left" src="/shared/vogelonline/img/bep30/arrow_left_white.png"/>
+         <div>
+          <h3>
+           <a href="/aerztekammer-oesterreich-gegen-elektronische-gesundheitsakte-elga-a-337482/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Ärztekammer Österreich gegen elektronische Gesundheitsakte ELGA">
+            Keine Garantie von Datensicherheit – exorbitant hohe Kosten
+           </a>
+          </h3>
+          <h2>
+           <a href="/aerztekammer-oesterreich-gegen-elektronische-gesundheitsakte-elga-a-337482/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Ärztekammer Österreich gegen elektronische Gesundheitsakte ELGA">
+            Ärztekammer Österreich gegen elektronische Gesundheitsakte ELGA
+           </a>
+          </h2>
+          <p>
+           <a class="read_content" href="/aerztekammer-oesterreich-gegen-elektronische-gesundheitsakte-elga-a-337482/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+            mehr...
+           </a>
+          </p>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="teaser_content">
+         <a href="/das-beste-ehealth-projekt-kommt-aus-oesterreich-a-464040/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+          <img alt="Das beste eHealth-Projekt kommt aus Österreich" class="art_list_img" src="http://images.vogel.de/vogelonline/bdb/783800/783869/33.jpg" title="Das beste eHealth-Projekt kommt aus Österreich"/>
+         </a>
+         <img class="arrow_left" src="/shared/vogelonline/img/bep30/arrow_left_white.png"/>
+         <div>
+          <h3>
+           <a href="/das-beste-ehealth-projekt-kommt-aus-oesterreich-a-464040/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Das beste eHealth-Projekt kommt aus Österreich">
+            Gewinner des 13. eGovernment-Wettbewerbs
+           </a>
+          </h3>
+          <h2>
+           <a href="/das-beste-ehealth-projekt-kommt-aus-oesterreich-a-464040/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Das beste eHealth-Projekt kommt aus Österreich">
+            Das beste eHealth-Projekt kommt aus Österreich
+           </a>
+          </h2>
+          <p>
+           <a class="read_content" href="/das-beste-ehealth-projekt-kommt-aus-oesterreich-a-464040/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+            mehr...
+           </a>
+          </p>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+        <div class="teaser_content">
+         <a href="/der-richtige-schritt-in-die-ehealth-zukunft-a-488064/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+          <img alt="Der richtige Schritt in die eHealth-Zukunft" class="art_list_img" src="http://images.vogel.de/vogelonline/bdb/863100/863137/33.jpg" title="Der richtige Schritt in die eHealth-Zukunft"/>
+         </a>
+         <img class="arrow_left" src="/shared/vogelonline/img/bep30/arrow_left_white.png"/>
+         <div>
+          <h3>
+           <a href="/der-richtige-schritt-in-die-ehealth-zukunft-a-488064/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Der richtige Schritt in die eHealth-Zukunft">
+            Cloud Computing und Big Data im Gesundheitssektor
+           </a>
+          </h3>
+          <h2>
+           <a href="/der-richtige-schritt-in-die-ehealth-zukunft-a-488064/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')" title="Der richtige Schritt in die eHealth-Zukunft">
+            Der richtige Schritt in die eHealth-Zukunft
+           </a>
+          </h2>
+          <p>
+           <a class="read_content" href="/der-richtige-schritt-in-die-ehealth-zukunft-a-488064/" onclick="s_objectID='12986_containerobject_430011_mehr zum thema';linkTracking('12986_containerobject_430011_mehr zum thema','related','mehr zum thema_related')">
+            mehr...
+           </a>
+          </p>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+     <div class="row2" id="contentfactory">
+      <img src="/shared/vogelonline/img/copy.png"/>
+      <p>
+       Dieser Beitrag ist urheberrechtlich geschützt. Sie wollen ihn für Ihre Zwecke verwenden? Infos finden Sie unter
+       <a href="http://www.mycontentfactory.de" target="_blank">
+        www.mycontentfactory.de
+       </a>
+       (ID: 44098934 / Facility/Vernetzung)
+      </p>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <!-- FileCached | Identifier:agmm/unique/page/F35AB3D8BE699A89C94759E1DBAF8AA6 | Timestamp:{ts '2016-06-12 17:56:56'} | Timespan:0m | Unique: unknown -->
+    <!-- Coming out of cache -->
+    <div id="footer">
+     <div id="footer_social">
+      <div class="row1l" id="containerobject_426679">
+       <div class="teaser_titel">
+        <p>
+         Forum
+        </p>
+       </div>
+       <div class="teaser_content">
+        <div class="content_arrow">
+        </div>
+        <div>
+         <h2>
+          <a href="/forum/messages.cfm?threadid=5A9388E4-CC8C-4A2C-B41A931F64FA2EEE&amp;id=119223#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           Kommentar zu: Warten oder starten?
+          </a>
+         </h2>
+         <h3>
+          <a href="/forum/messages.cfm?threadid=5A9388E4-CC8C-4A2C-B41A931F64FA2EEE&amp;id=119223#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           11.06.2016, 17:56 Uhr: woksoll
+          </a>
+         </h3>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="teaser_content">
+        <div class="content_arrow">
+        </div>
+        <div>
+         <h2>
+          <a href="/forum/messages.cfm?threadid=B1D430BD-01FD-45AC-8A13C3C7ADA249E9&amp;id=119111#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           Kommentar zu: Thüringer CIO krempelt die Ärmel hoch
+          </a>
+         </h2>
+         <h3>
+          <a href="/forum/messages.cfm?threadid=B1D430BD-01FD-45AC-8A13C3C7ADA249E9&amp;id=119111#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           03.06.2016, 11:33 Uhr: nicht registrierter User
+          </a>
+         </h3>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="teaser_content">
+        <div class="content_arrow">
+        </div>
+        <div>
+         <h2>
+          <a href="/forum/messages.cfm?threadid=9A3F2407-6DB2-47B0-A513B5FA534E7D15&amp;id=119073#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           RE(5): Microsofts neue SharePoint-Strategie
+          </a>
+         </h2>
+         <h3>
+          <a href="/forum/messages.cfm?threadid=9A3F2407-6DB2-47B0-A513B5FA534E7D15&amp;id=119073#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           01.06.2016, 17:48 Uhr: nicht registrierter User
+          </a>
+         </h3>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="teaser_content">
+        <div class="content_arrow">
+        </div>
+        <div>
+         <h2>
+          <a href="/forum/messages.cfm?threadid=854B7EBC-6153-4005-82C4BD740C85CC9D&amp;id=119046#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           RE(2): Pünktlich zur EM: kostenfreies WLAN
+          </a>
+         </h2>
+         <h3>
+          <a href="/forum/messages.cfm?threadid=854B7EBC-6153-4005-82C4BD740C85CC9D&amp;id=119046#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           31.05.2016, 08:49 Uhr: nicht registrierter User
+          </a>
+         </h3>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="teaser_content">
+        <div class="content_arrow">
+        </div>
+        <div>
+         <h2>
+          <a href="/forum/messages.cfm?threadid=63D59092-CFB2-4289-89932B2BEFAA2B7A&amp;id=119026#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           Kommentar zu: BMVI startet Datenportal mCLOUD
+          </a>
+         </h2>
+         <h3>
+          <a href="/forum/messages.cfm?threadid=63D59092-CFB2-4289-89932B2BEFAA2B7A&amp;id=119026#last" onclick="s_objectID='12964_containerobject_426679_forum';linkTracking('12964_containerobject_426679_forum')">
+           29.05.2016, 23:47 Uhr: nicht registrierter User
+          </a>
+         </h3>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="row1l" id="containerobject_259117">
+       <div class="teaser_titel">
+        <p>
+         WIR AUF TWITTER
+        </p>
+       </div>
+       <div class="teaser_content">
+        <ul id="twitter_update_list">
+         <li>
+          <span>
+           RT @InfoSocietyDays: Rahmenvereinbarung umgesetzt: #eGK für Asylbewerber entlastet Kommunen
+           <a href="https://t.co/OAMbiiyQO7|">
+            https://t.co/OAMbiiyQO7|
+           </a>
+           via @egovcomde #eHealt?
+          </span>
+          <a href="
+http://twitter.com/caring_mobile/statuses/741614132529500160
+" target="_blank">
+           1 day ago
+          </a>
+         </li>
+         <li>
+          <span>
+           Rahmenvereinbarung umgesetzt: #eGK für Asylbewerber entlastet Kommunen
+           <a href="https://t.co/OAMbiiyQO7|">
+            https://t.co/OAMbiiyQO7|
+           </a>
+           via @egovcomde #eHealth #eGovernment
+          </span>
+          <a href="
+http://twitter.com/InfoSocietyDays/statuses/741613511290327042
+" target="_blank">
+           1 day ago
+          </a>
+         </li>
+         <li>
+          <span>
+           #eGovernment in Thüringen: Aufbruchsstimmung in Erfurt
+           <a href="https://t.co/Gn1MC5Dqdv|">
+            https://t.co/Gn1MC5Dqdv|
+           </a>
+           via @egovcomde
+          </span>
+          <a href="
+http://twitter.com/InfoSocietyDays/statuses/741566948388044800
+" target="_blank">
+           1 day ago
+          </a>
+         </li>
+         <li>
+          <span>
+           Fußball EM 2016: Nicht ohne passende Gadgets!: Zum Start der Fußball Europameisterschaft 2016 ...
+           <a href="https://t.co/ValyjnBcqw">
+            https://t.co/ValyjnBcqw
+           </a>
+           via @egovcomde
+          </span>
+          <a href="
+http://twitter.com/DanWeb2_0/statuses/741556712847466496
+" target="_blank">
+           1 day ago
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- FileCached | Identifier:0F3D96519486C8488838A0E321A40268 | Timestamp:{ts '2016-06-12 17:38:08'} | Timespan:30m | Unique: unknown -->
+      <!-- Going into cache -->
+      <div class="freddybox nl-singles row1r" id="containerobject_415057">
+       <img src="/shared/vogelonline/img/bep30/nl_icon.png"/>
+       <div class="teaser_titel nl-title">
+        eGovernment-Computing.de Update
+       </div>
+       <form class="nl-singles-form" id="nl-singles-form-415057" method="post">
+        <input name="INT_fkclients" type="hidden" value="24"/>
+        <input name="INT_pknewsletters" type="hidden" value="127"/>
+        <div class="nl-singles-email nl-part">
+         <div class="nl-data">
+          <input class="nl-watermark" name="STR_email" type="text" value="Bitte geben Sie eine E-Mail-Adresse ein."/>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+        <div class="nl-accept nl-part">
+         <input name="BOO_accept" type="checkbox" value="true"/>
+         <span>
+          * Ich bin mit der Verarbeitung und Nutzung meiner Daten gemäß
+          <a href="/index.cfm?pid=7782" target="_blank">
+           Einwilligungserklärung
+          </a>
+          und
+          <a href="/index.cfm?pid=7580" target="_blank">
+           AGB
+          </a>
+          einverstanden.
+         </span>
+        </div>
+        <div class="captcha" style="margin-left:17px; margin-top:10px;">
+         <div>
+          Spamschutz:
+          <input name="STR_protection" type="text" value=""/>
+         </div>
+         <div>
+          Bitte geben Sie das Ergebnis der Rechenaufgabe (Addition) ein.
+         </div>
+         <img height="40" src="/shared/vogelonline/img/bep30/captcha_default.png" style="margin-top:0px; right:0px; position:relative;" width="250"/>
+        </div>
+        <div class="nl-part">
+         <input class="button" type="submit" value="Newsletter abonnieren"/>
+        </div>
+       </form>
+      </div>
+      <script type="text/javascript">
+       var OBJ_nlsinglesreg_415057 = {
+validateNlSinglesRegForm: function(STR_formid) {
+$(STR_formid).validate({
+rules: {
+STR_email: {required:true, email:true},
+BOO_accept: {required:true}
+},
+messages: {
+STR_email: {
+required: "<br />Bitte geben Sie eine E-Mail-Adresse ein.",
+email: "<br />Ihre E-Mail-Adresse muss im Format name@domain.de sein."
+},
+BOO_accept: "<br />Bitte stimmen Sie unseren Datenschutz&shy;richtlinien zu."
+},
+errorPlacement: function(OBJ_error, OBJ_element) {
+if(OBJ_element.attr("name") == "BOO_accept") {
+OBJ_error.insertAfter($(STR_formid + " .nl-accept span"));
+} else {
+OBJ_error.insertAfter(OBJ_element);
+}
+},
+onfocusin: function(OBJ_element, OBJ_event) {
+if($(OBJ_element).hasClass("nl-watermark")) {
+$(OBJ_element).val("").removeClass("nl-watermark");
+}
+},
+submitHandler: function() {
+var ARR_arguments = [];
+ARR_arguments["LST_newsletters"] = $(STR_formid + " input[name=INT_pknewsletters]").val();
+ARR_arguments["STR_email"] = $(STR_formid + " input[name=STR_email]").val();
+ARR_arguments["INT_fkclients"] = $(STR_formid + " input[name=INT_fkclients]").val();
+ARR_arguments["STR_error"] = "Bitte wählen Sie mindestens einen Newsletter aus unserem Angebot aus.";
+ARR_arguments["STR_formid"] = STR_formid;
+ARR_arguments["STR_protection"] = $(STR_formid + " input[name=STR_protection]").val();
+var BOO_success = OBJ_nlreg.nlSubscription(ARR_arguments);
+if(BOO_success) {
+$(STR_formid + " input[name=STR_email]").addClass("nl-watermark");
+}
+}
+});
+}
+};
+$(document).ready(function() {
+try {
+OBJ_nlsinglesreg_415057.validateNlSinglesRegForm("#nl-singles-form-415057");
+} catch(e) {
+if(window.console && window.console.log) {
+console.log("Error in /singlesregistration/_default.js.->ready: " + e);
+}
+}
+});
+      </script>
+      <div class="row1r" id="containerobject_415058">
+       <div class="teaser_titel">
+        <p>
+         Follow us on
+        </p>
+       </div>
+       <div class="teaser_content">
+        <style type="text/css">
+         .sm_buttons_footer {margin-left:0 !important;}
+.sm_buttons_footer a {display: block; float: left; margin-right: 10.8px; margin-bottom: 12px;}
+.sm_buttons_footer .last, .sm_footer_ima .last span {margin-right: 0;}
+.sm_buttons_footer img {margin: 0; float: none; border:0 !important; opacity: 1 !important; transition: all 0.5s;}
+.sm_footer_ima {margin-top: 40px;}
+.sm_footer_ima span {display: block; float: left; text-transform:uppercase; font-weight:300; margin-right: 6px; width: 96px; height: 24px; border: 1px solid #CCC; color: #000; text-align: center; font-size: 16px; padding-top: 2px; padding-bottom:2px;}
+.sm_footer_ima span:hover {background-color: rgba(255,255,255,0.3); color: #000;}
+        </style>
+        <div class="sm_buttons_footer">
+         <a href="https://google.com/+Egovernment-computingDe" target="_blank">
+          <img alt="" onmouseout="src='/img/bep30/footer_gplus.png'" onmouseover="src='/img/bep30/footer_gplus_hover.png'" src="/img/bep30/footer_gplus.png"/>
+         </a>
+         <a href="https://www.facebook.com/egovernmentcomputing" target="_blank">
+          <img alt="" onmouseout="src='/img/bep30/footer_facebook.png'" onmouseover="src='/img/bep30/footer_facebook_hover.png'" src="/img/bep30/footer_facebook.png"/>
+         </a>
+         <a href="https://twitter.com/egovcomde" target="_blank">
+          <img alt="" onmouseout="src='/img/bep30/footer_twitter.png'" onmouseover="src='/img/bep30/footer_twitter_hover.png'" src="/img/bep30/footer_twitter.png"/>
+         </a>
+         <a href="https://www.xing.com/news/pages/egovernment-computing-163" target="_blank">
+          <img alt="" onmouseout="src='/img/bep30/footer_xing.png'" onmouseover="src='/img/bep30/footer_xing_hover.png'" src="/img/bep30/footer_xing.png"/>
+         </a>
+         <a groups="" href="https://www.linkedin.com/grp/home?gid=8184814" target="_blank">
+          <img alt="" onmouseout="src='/img/bep30/footer_linkedin.png'" onmouseover="src='/img/bep30/footer_linkedin_hover.png'" src="/img/bep30/footer_linkedin.png"/>
+         </a>
+         <a class="last" href="/rss/news.xml" target="_blank">
+          <img alt="" onmouseout="src='/img/bep30/footer_rss.png'" onmouseover="src='/img/bep30/footer_rss_hover.png'" src="/img/bep30/footer_rss.png"/>
+         </a>
+        </div>
+        <p style="font-size:17px !important; margin-top:80px">
+         Oder kontaktieren Sie uns
+         <a href="/service/kontakt/">
+          direkt
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="clear">
+      </div>
+      <div id="footer_copy">
+       <p>
+        eGovernment Computing ist eine Marke von Vogel Business Media. Unser gesamtes Angebot finden Sie
+        <a href="http://www.vogel.de" target="_blank">
+         hier
+        </a>
+       </p>
+      </div>
+     </div>
+     <div id="footer_network">
+      <p>
+       <a href="/index.cfm?pid=7580">
+        AGB
+       </a>
+       |
+       <a href="/index.cfm?pid=7782">
+        EWG
+       </a>
+       |
+       <a href="/index.cfm?pid=7581">
+        Hilfe
+       </a>
+       |
+       <a href="https://www.kunden.vogel.de" target="_blank">
+        Kundencenter
+       </a>
+       |
+       <a href="/mediadaten/" target="_blank">
+        Media
+       </a>
+       |
+       <a href="/index.cfm?pid=7582">
+        Datenschutz
+       </a>
+       |
+       <a href="/index.cfm?pid=7473" target="_blank">
+        Impressum
+       </a>
+       <br/>
+       Copyright © 2016 Vogel Business Media
+      </p>
+     </div>
+     <div id="footer_sources">
+      Bild: Jacob.rosen3; Bild: Philips; Bild: Cognizant/Selina Meier; Bild: BillionPhotos.com, Syda Productions, Ekaterina Garyuk - Fotolia; Archiv: Vogel Business Media; Gerhard Ribnicsek / handmadedesign.at; Syda Productions - Fotolia.com;
+     </div>
+     <!-- START: settings-->
+     <!-- START: settings_content_details-->
+     <!-- ENDE: settings_content_details-->
+     <!-- ENDE: settings-->
+     <div id="sitecatalystcode">
+      <script language="JavaScript" type="text/javascript">
+       //<!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+if(typeof(s) != "undefined")
+{
+s.pageName="egov:artikel:537945 pegasystems geht in die philips cloud";
+s.channel="egov:themen:healthcare:facility";
+s.prop1="themen";
+s.prop2="themen:healthcare";
+s.prop3="themen:healthcare:facility";
+s.prop12="450936,500883,524372,337482,464040,488064";
+s.prop16="10";
+s.prop17="artikel";
+s.prop18="537945";
+s.prop19="Nachricht";
+s.prop20="zahorsky:ira";
+s.prop21="seite 1";
+s.prop29="12986";
+s.prop31="2016_06_09";
+s.prop32="loggedout";
+if(typeof STR_authornames !== 'undefined' && STR_authornames.length && typeof STR_globaluserids !== 'undefined' && STR_globaluserids.length)
+{
+s.prop47 = STR_authornames;
+s.prop48 = STR_globaluserids;
+}
+else if(typeof STR_trackingauthor !== 'undefined' && STR_trackingauthor.length)
+{
+s.prop47 = STR_trackingauthor;
+}
+/* Conversion Variables */
+s.eVar25="loggedout";
+s.eVar32="loggedout";
+/* Hierarchy Variables */
+s.hier1="egov:themen:healthcare:facility";
+//mboxLoadSCPlugin(s);
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+//if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+}
+//-->
+      </script>
+      <!--/DO NOT REMOVE/-->
+      <!-- End SiteCatalyst -->
+     </div>
+     <!-- Facebook Pixel Code -->
+     <script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '337772366383480');
+fbq('track', 'PageView');
+// this line of JS code can be populated by server-side
+// code that has the data needed to segment your audience
+fbq('track', 'ViewContent', {
+themechannel: s.prop2
+});
+     </script>
+     <noscript>
+      <img height="1" src="https://www.facebook.com/tr?id=337772366383480&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+     </noscript>
+     <!-- End Facebook Pixel Code -->
+     <div id="googleuniversalcode">
+      <script language="JavaScript" type="text/javascript">
+       <!--
+var gaProperty = 'UA-1693445-5';
+// Disable tracking if the opt-out cookie exists.
+var disableStr = 'ga-disable-' + gaProperty;
+if (document.cookie.indexOf(disableStr + '=true') > -1) {
+window[disableStr] = true;
+}
+// Opt-out function
+function gaOptout() {
+document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[disableStr] = true;
+}
+var INT_uid = 'loggout';
+var STR_channel = "none";
+var STR_sprop12 = "none";
+var STR_sprop13 = "none";
+var STR_sprop15 = "none";
+var STR_sprop17 = "none";
+var STR_sprop18 = "none";
+var STR_sprop19 = "none";
+var STR_sprop20 = "none";
+var STR_sprop21 = "none";
+var STR_sprop29 = "none";
+var STR_sprop37 = "none";
+var INT_sprop44 = 0;
+var STR_sprop46 = "none";
+var STR_sevar25 = "none";
+var STR_autoren = "none";
+var STR_pagename = "none";
+if(typeof(STR_trackingarticledate) == "undefined"){STR_trackingarticledate = 'none'}
+if(typeof(STR_fkentrytypetracking) == "undefined"){STR_fkentrytypetracking = 'none'}
+if(STR_fkentrytypetracking == '1'){STR_fkentrytypetracking = 'basic';}
+if(STR_fkentrytypetracking == '2'){STR_fkentrytypetracking = 'premium';}
+if(STR_fkentrytypetracking == '3'){STR_fkentrytypetracking = 'business';}
+if(typeof(s.eVar24) != "undefined"){INT_uid = s.eVar24;}
+if(typeof(s.channel) != "undefined"){STR_channel = s.channel.substr(s.channel.indexOf(":")+1);}
+if(typeof(s.prop12) != "undefined"){STR_sprop12 = s.prop12;}
+if(typeof(s.list1) != "undefined"){STR_sprop13 = s.list1;}
+if(typeof(s.prop15) != "undefined"){STR_sprop15 = s.prop15;}
+if(typeof(s.prop17) != "undefined"){STR_sprop17 = s.prop17;}
+if(typeof(s.prop19) != "undefined"){STR_sprop19 = s.prop19;}
+if(typeof(s.prop20) != "undefined"){STR_sprop20 = s.prop20;}
+if(typeof(s.prop21) != "undefined"){STR_sprop21 = s.prop21;}
+if(typeof(s.prop18) != "undefined"){STR_sprop18 = s.prop18;}
+if(typeof(s.prop16) != "undefined" && STR_sprop18 != "none"){STR_sprop18 = s.prop16 + '_' + STR_sprop18;}
+if(typeof(s.prop31) != "undefined"){STR_trackingarticledate = s.prop31;}
+if(typeof(s.prop37) != "undefined"){STR_sprop37 = s.prop37;}
+if(typeof(s.pageName) != "undefined"){STR_pagename = s.pageName;}
+if(typeof(s.prop7) != "undefined" && STR_pagename != "none"){STR_pagename = STR_pagename + '?keyword=' + s.prop7;}
+if(typeof(s.prop44) != "undefined"){INT_sprop44 = s.prop44;}
+if(typeof(s.prop46) != "undefined"){STR_sprop46 = s.prop46;}
+if(typeof(s.eVar25) != "undefined"){STR_sevar25 = s.eVar25;}
+if(typeof STR_authornames_globaluserids !== 'undefined' && STR_authornames_globaluserids.length)
+{
+STR_autoren = STR_authornames_globaluserids;
+}
+else if(typeof(s.prop47) != "undefined")
+{
+STR_autoren = s.prop47;
+}
+var BOO_gaExists = false;
+if(typeof(ga.getByName) != 'undefined' && ga.getByName('t0') != null)
+{
+BOO_gaExists = true;
+}
+if(!BOO_gaExists)
+{
+ga('create', 'UA-1693445-5', 'auto');
+}
+ga('require', 'ec');
+ga('set', 'dimension1', STR_pagename);
+ga('set', 'dimension2', STR_channel);
+ga('set', 'dimension3', STR_sprop17);
+ga('set', 'dimension4', STR_sprop18);
+ga('set', 'dimension5', STR_trackingarticledate);
+ga('set', 'dimension6', INT_uid);
+ga('set', 'dimension7', STR_sprop37);
+ga('set', 'dimension8', STR_sprop20);
+ga('set', 'dimension9', STR_sprop21);
+ga('set', 'dimension10', STR_sprop19);
+ga('set', 'dimension11', STR_sprop12);
+ga('set', 'dimension12', STR_sprop15);
+ga('set', 'dimension13', STR_sprop13);
+ga('set', 'dimension14', STR_fkentrytypetracking);
+ga('set', 'dimension15', STR_autoren);
+ga('set', 'dimension16', STR_sprop46);
+ga('set', 'dimension17', STR_sevar25);
+ga('set', 'metric1', INT_sprop44);
+ga('set', 'anonymizeIp', true);
+ga('require', 'displayfeatures');
+ga('send', 'pageview', STR_pagename);
+// Called when a link to a product is clicked.
+function onProductClick(INT_contenttype,INT_id,STR_titel,INT_position,STR_category)
+{
+var gaProperty = 'UA-1693445-5';
+var BOO_gaExists = false;
+if(typeof(ga.getByName) != 'undefined' && ga.getByName('t0') != null)
+{
+BOO_gaExists = true;
+}
+if(!BOO_gaExists)
+{
+ga('create', 'UA-1693445-5', 'auto');
+}
+// console.log(STR_category);
+// console.log(STR_category.split(":", 1).toString());
+var STR_sprop17 = STR_category.split(":", 1).toString();
+ga('require', 'ec');
+// The product being viewed.
+ga('ec:addProduct', {
+'id': INT_contenttype + "_" + INT_id,
+'name': "paid_" + INT_contenttype + "_" + INT_id,
+'category': STR_category,
+'position': INT_position
+});
+ga('ec:setAction', 'click', {'list': STR_sprop17});
+// Send click with an event, then send user to product page.
+ga('send', 'event', 'UX', 'click', 'Results', {
+});
+}
+function paidcontent(){}
+//if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+// -->
+      </script>
+      <!--/DO NOT REMOVE/-->
+      <!-- End Google Analytics -->
+     </div>
+    </div>
+    <script type="text/javascript">
+     $(document).ready(function(){
+$(document).scroll(function(){
+$("#newsletter_advertising").fadeIn("slow");
+});
+$("#close_nla").click(function(){
+$("#newsletter_advertising").remove();
+$.ajax({
+url: "/shared/vogelonline/_ajax/newsletter/newsletter_advertising/setcookie.cfm",
+data:{
+counter:3
+}
+});
+});
+$("#newsletter_advertising_submit").click(function()
+{
+var BOO_valid = false;
+BOO_checkEmail = OBJ_newsletterad.isEmail($("#nla_email").val());
+BOO_checkEwg = $("#nla_ewg").prop('checked');
+if(BOO_checkEmail && BOO_checkEwg)
+{
+var ARR_options = new Array(1);
+ARR_options["LST_newsletters"] = $("#nla_pknl").val();
+ARR_options["STR_email"] = $("#nla_email").val();
+ARR_options["INT_fkclients"] = 24;
+ARR_options["STR_error"] = "Bitte wählen Sie mindestens einen Newsletter aus unserem Angebot aus.";
+ARR_options["STR_protection"] = "";
+var BOO_success = OBJ_nlreg.nlSubscription(ARR_options);
+if(BOO_success)
+{
+$("#newsletter_advertising").remove();
+$.ajax({
+url: "/shared/vogelonline/_ajax/newsletter/newsletter_advertising/setcookie.cfm",
+data:{
+counter:3
+}
+});
+}
+}
+else
+{
+if(!BOO_checkEmail)
+{
+var OBJ_div = $(document.createElement("div"));
+OBJ_div.html("Bitte geben Sie eine gültige E-Mail-Adresse an");
+OBJ_div.addClass("error");
+$('.nla_submit').append(OBJ_div);
+}
+else
+{
+var OBJ_div = $(document.createElement("div"));
+OBJ_div.html("Bitte stimmen Sie unseren Datenschutz&shy;richtlinien zu.");
+OBJ_div.addClass("error");
+$('.nla_submit').append(OBJ_div);
+}
+}
+});
+});
+var OBJ_newsletterad =
+{
+isEmail: function(email) {
+var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+return regex.test(email);
+}
+}
+    </script>
+    <div id="newsletter_advertising" style="display:none">
+     <a href="javascript:void(0)" id="close_nla">
+     </a>
+     <div>
+      <h2>
+       eGovernment-Computing.de Update abonnieren
+      </h2>
+      <form id="form_newsletter_advertising">
+       <input id="nla_pknl" name="INT_pknewsletters" type="hidden" value="127"/>
+       <table>
+        <tr>
+         <td class="nla_email">
+          <p>
+           E-Mail:
+           <input id="nla_email" name="email" type="text"/>
+          </p>
+         </td>
+         <td class="nla_cbx">
+          <input id="nla_ewg" name="ewg" type="checkbox" value="1"/>
+          <span class="red">
+           *
+          </span>
+         </td>
+         <td class="nla_ewg">
+          <p>
+           Ich bin mit der Verarbeitung und Nutzung meiner Daten gemäß
+           <a href="/index.cfm?pid=7782" target="_blank">
+            Einwilligungserklärung
+           </a>
+           und
+           <a href="/index.cfm?pid=7580" target="_blank">
+            AGB
+           </a>
+           einverstanden.
+          </p>
+         </td>
+         <td class="nla_submit">
+          <a class="button" href="javascript:void(0)" id="newsletter_advertising_submit">
+           Newsletter abonnieren
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="4">
+          <p class="pfr_nl_unsubscribe">
+           Das Newsletterabonnement können Sie
+           <a href="/index.cfm?pid=7413">
+            hier
+           </a>
+           jederzeit kündigen.
+          </p>
+         </td>
+        </tr>
+       </table>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div class="clear">
+   </div>
+  </div>
+  <script type="text/javascript">
+   (function() {
+arr_cookie = new Array(1)
+arr_cookie['lang']= "de";
+document.write('<scr' + 'ipt src="//' + document.location.host + '/shared/cookie_note/cookie_note.js"></scr' + 'ipt>');
+})();
+  </script>
+ </body>
+</html>
+<!-- 711ms -->

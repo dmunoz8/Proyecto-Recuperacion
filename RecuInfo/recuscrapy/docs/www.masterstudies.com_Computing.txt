@@ -1,0 +1,1235 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);
+  </script>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="/favicon/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="/favicon/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="/favicon/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/favicon/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/favicon/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/favicon/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/favicon/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/favicon/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/favicon/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/favicon/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/favicon/manifest.json" rel="manifest"/>
+  <meta content="#F4792C" name="msapplication-TileColor"/>
+  <meta content="/favicon/ms-icon-144x144.png" name="msapplication-TileImage"/>
+  <meta content="#F4792C" name="theme-color"/>
+  <title>
+   Master of Science (Computing and Informatics), Shalu, Taichung, Taichung, Taiwan 2016
+  </title>
+  <meta content="Master of Science (Computing and Informatics), at Providence University in , . View the best master degrees here!" name="description"/>
+  <link href="//cdn03.masterstudies.com//css/ks_bootstrap.css" rel="stylesheet"/>
+  <link href="//cdn02.masterstudies.com//css/main.1461836988.css" rel="stylesheet"/>
+  <link href="//cdn02.masterstudies.com//css/frontpage.css" rel="stylesheet"/>
+  <link href="//cdn04.masterstudies.com//css/sprites/sprites.css" rel="stylesheet"/>
+  <link href="//cdn02.masterstudies.com//sprites/css/sprite_combined.css" rel="stylesheet"/>
+  <script src="http://partner.googleadservices.com/gampad/google_service.js">
+  </script>
+  <script type="text/javascript">
+   GS_googleAddAdSenseService("ca-pub-6293386426516607");
+      GS_googleEnableAllServices();
+  </script>
+  <script type="text/javascript">
+   GA_googleAddSlot("ca-pub-6293386426516607", "toefl_university_program_pages");
+              GA_googleAddSlot("ca-pub-6293386426516607", "gre_university_program_pages");
+  </script>
+  <script type="text/javascript">
+   GA_googleFetchAds();
+  </script>
+  <script type="text/javascript">
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    
+      
+      ga('create', 'UA-3779280-55', {
+        'cookieDomain': 'none'         , allowLinker: true
+                });
+
+      
+      ga('send', 'pageview');
+
+                           // Tracking
+          
+      
+      ga('create', 'UA-3779280-1', {
+        'cookieDomain': 'auto'         , allowLinker: true
+                , name: 't2'
+                });
+
+      
+      ga('t2.send', 'pageview');
+
+                           // Tracking
+  </script>
+  <link href="http://www.masterstudies.com/Master-of-Science-(Computing-and-Informatics)/Taiwan/Providence-University/" hreflang="en" rel="alternate"/>
+  <link href="http://www.masterstudies.ca/Master-of-Science-(Computing-and-Informatics)/Taiwan/Providence-University/" hreflang="en-CA" rel="alternate"/>
+  <link href="http://www.masterstudies.co.uk/Master-of-Science-(Computing-and-Informatics)/Taiwan/Providence-University/" hreflang="en-GB" rel="alternate"/>
+ </head>
+ <body class="">
+  <!--header-->
+  <!--first navbav-->
+  <nav class="navbar navbar-default topnav hidden-xs" role="navigation">
+   <div class="container">
+    <div class="row">
+     <div class="col-sm-12">
+      <div class="first-nav ">
+       <div class="navbar-header">
+        <span>
+         <ul class="partner-sites nav navbar-nav navbar-left">
+         </ul>
+        </span>
+        <!-- landing -->
+       </div>
+       <div class="navbar-collapse collapse" id="navbar">
+        <ul class="nav navbar-nav pull-right buttons-navbar flip">
+         <li class="dropdown">
+          <button class="dropdown-toggle btn btn-default navbar-btn btn-sm navbar-languages" data-loaded="false" data-toggle="dropdown" data-uri-id='{"idProduct":"28945","section":"program"}' type="button">
+           <div class="flag-icon-16 us site-language-flag pull-left">
+           </div>
+           English
+           <span class="caret">
+           </span>
+          </button>
+          <ul class="dropdown-menu pull-right">
+           <li class="language-loader">
+            <div class="text-center text-muted padding-10">
+             <i class="fa fa-spinner fa-pulse fa-2x">
+             </i>
+            </div>
+           </li>
+          </ul>
+         </li>
+         <li class="dropdown">
+          <button class="dropdown-toggle btn btn-default navbar-btn btn-sm" data-toggle="dropdown" type="button">
+           Student sign in
+           <span class="caret">
+           </span>
+          </button>
+          <ul class="dropdown-menu sign-in-form pull-right">
+           <li>
+            <form action="/account/" class="form-horizontal" method="post">
+             <div class="form-group">
+              <input class="form-control" id="inputEmail" name="mail" placeholder="Email" type="text"/>
+             </div>
+             <div class="form-group">
+              <input class="form-control" id="inputPassword" name="password" placeholder="Password" type="password"/>
+             </div>
+             <div class="form-group">
+              <button class="btn btn-primary-master" name="submit_lp" type="submit" value="1">
+               Sign in
+              </button>
+             </div>
+             <div class="form-group">
+              <a href="/account/forgotpassword/">
+               <small>
+                Forgot your password?
+               </small>
+              </a>
+              <a class="visible-sm" href="/account/create-new/">
+               <small>
+                Join for free
+               </small>
+              </a>
+             </div>
+            </form>
+           </li>
+          </ul>
+         </li>
+         <li class="hidden-sm">
+          <p class="navbar-btn ">
+           <a class="btn btn-contrast btn-sm " href="/account/create-new/">
+            Join for free
+            <span class="caret-right">
+            </span>
+           </a>
+          </p>
+         </li>
+        </ul>
+       </div>
+       <!--/.navbar-collapse -->
+      </div>
+     </div>
+    </div>
+   </div>
+  </nav>
+  <!-- for image, search and second navbar-->
+  <div class="container second_nav">
+   <div class="row header-logo">
+    <div class="col-sm-8">
+     <a href="http://www.masterstudies.com/">
+      <img alt="Best Masters Degrees &amp; Masters Programs 2016" height="50" src="//cdn05.masterstudies.com/img/logo/Masters-Degree-ms-en.png"/>
+     </a>
+    </div>
+    <div class="col-sm-4 hidden-xs no-padding">
+     <form action="/search/" method="GET" role="search">
+      <div class="input-group">
+       <input class="form-control" name="q" placeholder="Search" type="text"/>
+       <div class="input-group-btn">
+        <button class="btn btn-contrast" type="submit">
+         <i class="fa fa-search">
+         </i>
+        </button>
+       </div>
+      </div>
+     </form>
+    </div>
+   </div>
+   <div class="pull-right" id="tagline">
+    <h1>
+    </h1>
+   </div>
+   <nav class="navbar navbar-default navbar-inverse" role="navigation">
+    <div class="container">
+     <div class="navbar-header visible-xs visible-sm">
+      <button aria-controls="navbar" aria-expanded="false" class="expand-nav pull-right collapsed" data-target="#degree-nav" data-toggle="collapse" type="button">
+       <span class="sr-only">
+        Toggle navigation
+       </span>
+       <i class="fa fa-bars fa-2x">
+       </i>
+      </button>
+      <button aria-controls="navbar" aria-expanded="false" class="expand-nav pull-right collapsed visible-xs" data-target="#search-nav" data-toggle="collapse" type="button">
+       <span class="sr-only">
+        Toggle search
+       </span>
+       <i class="fa fa-search fa-2x">
+       </i>
+      </button>
+      <div class="xs-nav-entries visible-xs">
+       <a class="pull-left" href="http://www.masterstudies.com/Masters-Degree/">
+        Master Degrees
+       </a>
+      </div>
+      <div class="xs-nav-entries visible-sm pipe">
+       <a class="pull-left" href="http://www.masterstudies.com/Masters-Degree/">
+        Master Degrees
+       </a>
+       <a class="pull-left" href="http://www.masterstudies.com/MSc/">
+        Masters of Science
+       </a>
+      </div>
+     </div>
+     <div class="navbar-collapse collapse search-nav visible-xs visible-sm" id="search-nav">
+      <ul class="nav navbar-nav">
+       <li class="search-xs">
+        <form action="/search/" method="GET" role="search">
+         <div class="input-group">
+          <input class="form-control" name="q" placeholder="Search" type="text"/>
+          <div class="input-group-btn">
+           <button class="btn btn-contrast" type="submit">
+            <i class="fa fa-search">
+            </i>
+           </button>
+          </div>
+         </div>
+        </form>
+       </li>
+      </ul>
+     </div>
+     <div class="navbar-collapse collapse" id="degree-nav">
+      <ul class="nav navbar-nav pipe">
+       <li class="hidden-xs hidden-sm">
+        <a href="http://www.masterstudies.com/Masters-Degree/">
+         Master Degrees
+        </a>
+       </li>
+       <li class=" hidden-sm">
+        <a href="http://www.masterstudies.com/MSc/">
+         Masters of Science
+        </a>
+       </li>
+       <li class=" ">
+        <a href="http://www.masterstudies.com/MA/">
+         Masters of Arts
+        </a>
+       </li>
+       <li class=" ">
+        <a href="http://www.academiccourses.com/Courses/">
+         Courses
+        </a>
+       </li>
+       <li class=" ">
+        <a href="http://www.masterstudies.com/Online-Degrees/">
+         Online Degrees
+        </a>
+       </li>
+       <li class=" ">
+        <a href="http://www.masterstudies.com/universities/">
+         Universities by Country
+        </a>
+       </li>
+      </ul>
+      <ul class="nav navbar-nav visible-xs">
+       <li>
+        <a href="/account">
+         Student sign in
+        </a>
+       </li>
+       <li>
+        <a href="/account/create-new/">
+         Join for free
+        </a>
+       </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle navbar-languages" data-loaded="false" data-toggle="dropdown" data-uri-id='{"idProduct":"28945","section":"program"}' href="">
+         Languages
+         <span class="caret">
+         </span>
+        </a>
+        <ul class="dropdown-menu">
+         <li class="language-loader">
+          <div class="text-center text-muted padding-10">
+           <i class="fa fa-spinner fa-pulse fa-2x">
+           </i>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="">
+         Degrees
+         <span class="caret">
+         </span>
+        </a>
+        <ul class="dropdown-menu partner-sites-mobile">
+        </ul>
+       </li>
+      </ul>
+     </div>
+     <!--/.navbar-collapse -->
+    </div>
+   </nav>
+  </div>
+  <!-- end image, search and second navbar-->
+  <script type="application/ld+json">
+   [{"@context":"http:\/\/schema.org\/","@type":"EducationEvent","name":"Master of Science (Computing and Informatics)","duration":"P2Y0M0DT0H0M0S","location":{"@type":"Place","name":"Master of Science (Computing and Informatics)-Taiwan-Shalu, Taichung","address":{"@type":"PostalAddress","addressCountry":"Taiwan","addressLocality":"Shalu, Taichung"}},"startDate":"2016-09","mainEntityOfPage":"http:\/\/www.masterstudies.com\/Master-of-Science-(Computing-and-Informatics)\/Taiwan\/Providence-University\/","offers":{"@type":"Offer","url":"http:\/\/www.masterstudies.com\/Master-of-Science-(Computing-and-Informatics)\/Taiwan\/Providence-University\/"},"organizer":{"@type":"CollegeOrUniversity","name":"Providence University","telephone":"+886-4-26328001 ext. 13001, 13002 ","address":[{"@type":"PostalAddress","streetAddress":"Office of International Affairs\r\nProvidence University\r\n200 Chung-Chi Rd.\r\n","addressLocality":"Taichung","postalCode":"43301","addressCountry":"Taiwan"},{"@type":"PostalAddress","streetAddress":"Office of International Affairs\r\nProvidence University\r\n200 Chung-Chi Rd.\r\n","addressLocality":"Taichung","postalCode":"43301","addressCountry":"Taiwan"}],"mainEntityOfPage":"http:\/\/www.masterstudies.com\/universities\/Taiwan\/Providence-University\/"}}]
+  </script>
+  <div class="container">
+   <div class="row margin-top-5 main-breadcrumb">
+    <div class="col-sm-12">
+     <div class="pull-right flip">
+      <div class="hidden-xs addthis-container blue">
+       <div class="pull-right">
+        <a class="addthis-modal-link" data-toggle="modal" href="#linkToUsModal">
+         Link to this page
+        </a>
+       </div>
+       <div class="addthis_toolbox">
+        <i class="fa fa-spinner fa-pulse loading-add-this">
+        </i>
+        <div class="custom_images">
+         <a class="addthis_button_facebook addthis-button">
+          <img alt="Share to Facebook" border="0" height="18" src="//cdn04.masterstudies.com/img_new/addthis_facebook_blue.png" width="18"/>
+         </a>
+         <a class="addthis_button_twitter addthis-button">
+          <img alt="Share to Twitter" border="0" height="18" src="//cdn05.masterstudies.com/img_new/addthis_twitter_blue.png" width="18"/>
+         </a>
+         <a class="addthis_button_more addthis-button">
+          <img alt="More..." border="0" height="18" src="//cdn03.masterstudies.com/img_new/addthis_more_blue.png" width="18"/>
+         </a>
+         <a class="addthis_counter addthis_bubble_style">
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="hidden-xs">
+      <ul class="breadcrumb">
+       <li>
+        <a href="http://www.masterstudies.com/MSc/">
+         MSc
+        </a>
+       </li>
+       <li>
+        <a href="http://www.masterstudies.com/MSc/Computer-Science/">
+         Computer Science
+        </a>
+       </li>
+       <li>
+        <a href="http://www.masterstudies.com/MSc/Computer-Science/Computing/">
+         Computing
+        </a>
+       </li>
+       <li>
+        Master of Science (Computing and Informatics)
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <script type="application/ld+json">
+    {"@context":"http:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http:\/\/www.masterstudies.com\/MSc\/","name":"MSc"}},{"@type":"ListItem","position":2,"item":{"@id":"http:\/\/www.masterstudies.com\/MSc\/Computer-Science\/","name":"Computer Science"}},{"@type":"ListItem","position":3,"item":{"@id":"http:\/\/www.masterstudies.com\/MSc\/Computer-Science\/Computing\/","name":"Computing"}},{"@type":"ListItem","position":4,"item":{"name":"Master of Science (Computing and Informatics)"}}]}
+   </script>
+   <div class="row visible-xs">
+    <div class="col-sm-12 js-goto-leadform-container margin-bottom-10">
+     <a class="btn btn-success btn-block is-goto-leadform" href="#lead-form">
+      Request free information from Providence University
+     </a>
+    </div>
+   </div>
+   <!--logo and name of college-->
+   <header class="logo-heading">
+    <div class="row school-ident-container">
+     <div class="col-sm-12 school-ident">
+      <div class="school-logo">
+       <div class="logo-container">
+        <img alt="Providence University" class="img-responsive" src="//cdn01.masterstudies.com/gfx/logo/XXX-small/Providence-University.png" title="Providence University"/>
+       </div>
+      </div>
+      <div class="headings">
+       <h1 class="main-heading">
+        Master of Science (Computing and Informatics)
+       </h1>
+       <h2 class="secondary-heading">
+        Providence University
+       </h2>
+      </div>
+     </div>
+    </div>
+    <div class="row cover-photo-container hidden-xs">
+     <img alt="Taiwan" src="/image_processor/images/cover-photo/2295/large/taiwan.jpg"/>
+    </div>
+   </header>
+   <div class="row">
+    <div class="col-sm-7">
+     <ul class="nav nav-tabs tab-shadow content-tabs hidden-xs hidden-sm">
+      <li class="active ">
+       <a data-toggle="tab" href="#program">
+        Program Description
+       </a>
+      </li>
+      <li class=" ">
+       <a data-toggle="tab" href="#duration">
+        Duration &amp; Price
+       </a>
+      </li>
+      <li class=" ">
+       <a data-toggle="tab" href="#faq">
+        FAQ/Answers
+       </a>
+      </li>
+     </ul>
+     <!-- Tab panes -->
+     <div class="tab-content">
+      <div class="tab-pane fade in active" id="program">
+       <div class="visible-xs visible-sm custom-accordion">
+        Program Description
+       </div>
+       <div class="content">
+        <header class="program-header">
+         <h2>
+          Master of Science (Computing and Informatics)
+         </h2>
+         <p>
+          <a href="http://www.masterstudies.com/universities/Taiwan/Providence-University/">
+           Providence University
+          </a>
+         </p>
+        </header>
+        <div class="product-description">
+         <p>
+          <strong>
+           Master of Science
+          </strong>
+         </p>
+         <p>
+          Combining professionalism, foresight (vision), excellence and internationalization in one is our goal. A holistic approach is our focus in response to a rapidly changing society, enhancing competency in
+          <strong>
+           <em>
+            computer science
+           </em>
+          </strong>
+          and
+          <strong>
+           <em>
+            technology
+           </em>
+          </strong>
+          , and
+          <em>
+           <strong>
+            global industry
+           </strong>
+          </em>
+          . Students are trained to develop professional skills for integration, innovation, management, as well as in the design and the revision of system information.
+         </p>
+         <p>
+          Full time international graduate students who have been accepted may also receive a tuition scholarship during their first year and again during their second year, on a semester basis, if they consistently earn an average of 80 or higher. The maximum years for international graduate students are two years.
+         </p>
+         <p>
+          <strong>
+           MSc Curriculum
+          </strong>
+         </p>
+         <ul>
+          <li>
+           Research Methodology
+          </li>
+          <li>
+           Case Research (1 &amp; 2)
+          </li>
+          <li>
+           Topics Applied Algorithms
+          </li>
+          <li>
+           The Planning and Management of Networks Systems
+          </li>
+          <li>
+           Strategic Management of Information Systems
+          </li>
+          <li>
+           Cluster Computing
+          </li>
+          <li>
+           Parallel Program
+          </li>
+          <li>
+           Secure Online Transactions
+          </li>
+          <li>
+           Data Mining
+          </li>
+          <li>
+           Theories of Informatics and Communications
+          </li>
+          <li>
+           Algorithm
+          </li>
+          <li>
+           Interconnection Networks
+          </li>
+          <li>
+           Graph Theory
+          </li>
+          <li>
+           Computer Graphic
+          </li>
+         </ul>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <strong>
+           Graduation Qualification
+          </strong>
+         </p>
+         <ul>
+          <li>
+           Academic credits 26
+          </li>
+          <li>
+           Master's Thesis 06
+          </li>
+         </ul>
+         <p>
+          Total 32 credits
+         </p>
+         <p>
+         </p>
+         <p>
+          <strong>
+           Required Materials for Application
+          </strong>
+         </p>
+         <p>
+          1. Two copies of the application form
+         </p>
+         <p>
+          2. A notarized photocopy of a high school diploma from an applicant seeking admission as an undergraduate student or a notarized copy of a college diploma for anyone seeking admission as a graduate student.
+          <br/>
+          (An official document, on school stationery, attesting to the applicant’s forthcoming graduation will be accepted if the applicant has not yet graduated)
+         </p>
+         <p>
+          3. All applicants must submit two official transcripts, either in English or in Chinese.
+          <br/>
+          (Please note: the documents mentioned above in 2 and 3 must be notarized by the Taipei Economic and Cultural Representative Office or an embassy of the representative of the Republic of China, Taiwan, in your area.)
+         </p>
+         <p>
+          4. Two letters of recommendation which address the applicant’s academic potential, participation in extracurricular activities, personal character, level of English and Chinese proficiencies and a comment regarding whether or not the applicant is mature enough to study abroad.
+         </p>
+         <p>
+          5. Study Plan
+          <br/>
+         </p>
+         <p>
+          6. Proof that the applicant has the financial resources to support his/her living expenses, books and other school related fees. (approx. US$6500)
+         </p>
+         <p>
+          7. An International Student Scholarship Application Form
+         </p>
+         <p>
+          8. A photocopy of the applicant’s passport or other equivalent supporting document
+         </p>
+         <p>
+          9. Three passport-sized photographs
+         </p>
+         <p>
+          10. A foreign national citizen who was formerly a citizen of the Republic of China must attach a certificate indicating that he/she is no longer a legal citizen of the Republic of China.
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="tab-pane fade" id="duration">
+       <div class="visible-xs visible-sm custom-accordion">
+        Duration &amp; Price
+       </div>
+       <div class="content">
+        <div class="row duration">
+         <div class="col-sm-12 duration_title">
+          This course is
+          <span class="usedColor">
+           Campus based
+          </span>
+         </div>
+         <div class="col-xs-6 col-sm-6 col-md-3 duration-fact-box">
+          <div class="duration_box">
+           <img alt="Start Date" src="//cdn04.masterstudies.com//img/startdate.png"/>
+           <div class="duration_box_title">
+            Start date
+           </div>
+           <div class="duration_box_text">
+            Sept. 2016
+            <br/>
+           </div>
+          </div>
+         </div>
+         <div class="col-xs-6 col-sm-6 col-md-3 duration-fact-box">
+          <div class="duration_box">
+           <img alt="Duration" src="//cdn02.masterstudies.com//img/duration.png"/>
+           <div class="duration_box_title">
+            Duration
+           </div>
+           <div class="duration_box_text">
+            2 - 4 years
+           </div>
+           <div class="duration_box_text">
+            Full time
+           </div>
+          </div>
+         </div>
+         <div class="col-xs-6 col-sm-6 col-md-3 duration-fact-box">
+          <div class="duration_box">
+           <img alt="Price" src="//cdn03.masterstudies.com//img/price.png"/>
+           <div class="duration_box_title">
+            Price
+           </div>
+           <div class="duration_box_text">
+            <a class="send-question-to-form" data-idfaq="3" href="javascript:void(0)">
+             Request Info
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-xs-6 col-sm-6 col-md-3 duration-fact-box">
+          <div class="duration_box">
+           <img alt="Information" src="//cdn05.masterstudies.com//img/info.png"/>
+           <div class="duration_box_title">
+            Deadline
+           </div>
+           <div class="duration_box_text">
+            <a class="send-question-to-form" data-idfaq="2" href="javascript:void(0)">
+             Request Info
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12">
+          <table class="table program-facts" id="0">
+           <tbody>
+            <tr class="even">
+             <td width="40%">
+              Start date
+             </td>
+             <td class="boldness" colspan="2">
+              Sept. 2016
+             </td>
+            </tr>
+            <tr class="odd">
+             <td colspan="3" width="30%">
+              Place
+             </td>
+            </tr>
+            <tr class="parent even" id="0">
+             <td style="padding-left:20px;">
+              <a href="http://www.masterstudies.com/MSc/Computer-Science/Computing/">
+               Taiwan
+              </a>
+             </td>
+             <td>
+              <a href="http://www.masterstudies.com/MSc/Computer-Science/Computing/Taiwan/Shalu/">
+               Shalu,  Taichung
+              </a>
+             </td>
+             <td class="usedColor show-details">
+              <i class="fa fa-plus-square fa-lg show-date-details">
+              </i>
+             </td>
+            </tr>
+            <tr class="child-0 hide_text ">
+             <td class="borderless indented">
+              <b>
+               Application deadline
+              </b>
+             </td>
+             <td class="borderless" colspan="2">
+              <a class="send-question-to-form" data-idfaq="2" href="javascript:void(0)">
+               Request Info
+              </a>
+             </td>
+            </tr>
+            <tr class="child-0 hide_text">
+             <td class="borderless indented">
+              <b>
+               End date
+              </b>
+             </td>
+             <td class="borderless" colspan="2">
+              <a class="send-question-to-form req" data-idfaq="20" data-q="When is this MSc{date} finished? (end date)" href="javascript:void(0)">
+               Request Info
+              </a>
+             </td>
+            </tr>
+            <tr class="odd">
+             <td>
+              Duration
+             </td>
+             <td class="boldness" colspan="2">
+              2 - 4 years
+             </td>
+            </tr>
+            <tr class="even">
+             <td>
+              Price
+             </td>
+             <td class="boldness" colspan="2">
+              <a class="send-question-to-form" data-idfaq="3" href="javascript:void(0)">
+               Request Info
+              </a>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        <div class="row hidden-xs">
+         <div class="dfp_ads hidden-xs">
+          <script type="text/javascript">
+           GA_googleFillSlot("toefl_university_program_pages");
+          </script>
+          <script type="text/javascript">
+           GA_googleFillSlot("gre_university_program_pages");
+          </script>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="tab-pane fade hidden-xs" id="faq">
+       <div class="visible-xs visible-sm custom-accordion">
+        FAQ/Answers
+       </div>
+       <div class="content">
+        <h4 class="margin-top-20 margin-bottom-5">
+         General Information
+        </h4>
+        <span class="send-question-to-form" data-idfaq="1" data-question="Can you send me more information?" style="color:#3272af;cursor:pointer;">
+         Can you send me more information?
+        </span>
+        <br/>
+        <h4 class="margin-top-20 margin-bottom-5">
+         Program Deadline
+        </h4>
+        <span class="send-question-to-form" data-idfaq="2" data-question="When is the application deadline?" style="color:#3272af;cursor:pointer;">
+         When is the application deadline?
+        </span>
+        <br/>
+        <h4 class="margin-top-20 margin-bottom-5">
+         Fees &amp; Prices
+        </h4>
+        <span class="send-question-to-form" data-idfaq="3" data-question="How much does it cost? " style="color:#3272af;cursor:pointer;">
+         How much does it cost?
+        </span>
+        <br/>
+        <span class="send-question-to-form" data-idfaq="4" data-question="Can I pay in installments?" style="color:#3272af;cursor:pointer;">
+         Can I pay in installments?
+        </span>
+        <br/>
+        <h4 class="margin-top-20 margin-bottom-5">
+         Program Type &amp; Duration
+        </h4>
+        <span class="send-question-to-form" data-idfaq="5" data-question="Is this available online?" style="color:#3272af;cursor:pointer;">
+         Is this available online?
+        </span>
+        <br/>
+        <span class="send-question-to-form" data-idfaq="6" data-question="What is the duration?" style="color:#3272af;cursor:pointer;">
+         What is the duration?
+        </span>
+        <br/>
+        <span class="send-question-to-form" data-idfaq="7" data-question="Can I take this part-time?" style="color:#3272af;cursor:pointer;">
+         Can I take this part-time?
+        </span>
+        <br/>
+        <span class="send-question-to-form" data-idfaq="8" data-question="Is this part-time or full-time?" style="color:#3272af;cursor:pointer;">
+         Is this part-time or full-time?
+        </span>
+        <br/>
+        <h4 class="margin-top-20 margin-bottom-5">
+         Study Place
+        </h4>
+        <span class="send-question-to-form" data-idfaq="9" data-question="Where is the school located?" style="color:#3272af;cursor:pointer;">
+         Where is the school located?
+        </span>
+        <br/>
+        <span class="send-question-to-form" data-idfaq="10" data-question="Where is the campus located?" style="color:#3272af;cursor:pointer;">
+         Where is the campus located?
+        </span>
+        <br/>
+        <span class="send-question-to-form" data-idfaq="11" data-question="In which state/province/region is the school?" style="color:#3272af;cursor:pointer;">
+         In which state/province/region is the school?
+        </span>
+        <br/>
+        <h4 class="margin-top-20 margin-bottom-5">
+         Funding
+        </h4>
+        <span class="send-question-to-form" data-idfaq="12" data-question="What other funding options do you have?" style="color:#3272af;cursor:pointer;">
+         What other funding options do you have?
+        </span>
+        <br/>
+        <h4 class="margin-top-20 margin-bottom-5">
+         How to Apply
+        </h4>
+        <span class="send-question-to-form" data-idfaq="14" data-question="What documents are required?" style="color:#3272af;cursor:pointer;">
+         What documents are required?
+        </span>
+        <br/>
+        <span class="send-question-to-form" data-idfaq="15" data-question="What is the admission/enrolment process?" style="color:#3272af;cursor:pointer;">
+         What is the admission/enrolment process?
+        </span>
+        <br/>
+        <h4 class="margin-top-20 margin-bottom-5">
+         Language
+        </h4>
+        <span class="send-question-to-form" data-idfaq="16" data-question="What language is this course taught in?" style="color:#3272af;cursor:pointer;">
+         What language is this course taught in?
+        </span>
+        <br/>
+        <h4 class="margin-top-20 margin-bottom-5">
+         Other
+        </h4>
+        <span class="send-question-to-form" data-idfaq="20" data-question="Other" style="color:#3272af;cursor:pointer;">
+         Other
+        </span>
+        <br/>
+       </div>
+      </div>
+      <!-- todo: change date to template -->
+     </div>
+    </div>
+    <div class="col-sm-5">
+     <div class="lead-form affix-lead-form" id="div_lead_form_container">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="container">
+   <div class="row">
+    <footer class="page-footer clearfix">
+     <div class="col-sm-12">
+      <div class="row">
+       <div class="brand col-sm-12">
+        <h2 class="usedColor">
+         MASTERSTUDIES.COM
+        </h2>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-12">
+      <div class="row">
+       <div class="col-sm-12">
+        <div class="footer-social pull-right">
+         <div class="hidden-xs addthis-container white">
+          <div class="pull-right">
+           <a class="addthis-modal-link" data-toggle="modal" href="#linkToUsModal">
+            Link to this page
+           </a>
+          </div>
+          <div class="addthis_toolbox">
+           <i class="fa fa-spinner fa-pulse loading-add-this">
+           </i>
+           <div class="custom_images">
+            <a class="addthis_button_facebook addthis-button">
+             <img alt="Share to Facebook" border="0" height="18" src="//cdn05.masterstudies.com/img_new/addthis_facebook_white.png" width="18"/>
+            </a>
+            <a class="addthis_button_twitter addthis-button">
+             <img alt="Share to Twitter" border="0" height="18" src="//cdn01.masterstudies.com/img_new/addthis_twitter_white.png" width="18"/>
+            </a>
+            <a class="addthis_button_more addthis-button">
+             <img alt="More..." border="0" height="18" src="//cdn04.masterstudies.com/img_new/addthis_more_white.png" width="18"/>
+            </a>
+            <a class="addthis_counter addthis_bubble_style">
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="footer-links">
+         <a href="http://www.masterstudies.com/Schools_and_Universities/About-Us.html">
+          About us
+         </a>
+         <a href="http://www.masterstudies.com/Schools_and_Universities/Contact-us.html">
+          Contact us
+         </a>
+         <a href="http://keystoneacademic.com/">
+          Keystone Academic Solutions
+         </a>
+         <a href="http://www.masterstudies.com/Schools_and_Universities/Terms-and-Conditions.html">
+          Terms and Conditions
+         </a>
+         <a href="http://www.masterstudies.com/Schools_and_Universities/Privacy-policy.html">
+          Privacy
+         </a>
+         <a href="/sitemap/">
+          Sitemap
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </footer>
+   </div>
+  </div>
+  <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="linkToUsModal" role="dialog" tabindex="-1">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+      <h3>
+       Link to and share "Master of Science (Computing and Informatics), Shalu, Taichung, Taichung, Taiwan 2016"
+      </h3>
+     </div>
+     <div class="modal-body">
+      <div class="row">
+       <div class="col-sm-12">
+        <div class="radio">
+         <label>
+          <input checked="" class="link_to_us_url" data-title="Masterstudies.com - Master of Science (Computing and Informatics), Shalu, Taichung, Taichung, Taiwan 2016" data-url="http://www.masterstudies.com/Master-of-Science-(Computing-and-Informatics)/Taiwan/Providence-University/" name="link_to_us_url" type="radio"/>
+          Link to this page
+         </label>
+        </div>
+        <div class="radio">
+         <label>
+          <input class="link_to_us_url" data-title="Masterstudies.com" data-url="http://www.masterstudies.com/" name="link_to_us_url" type="radio"/>
+          Link to Masterstudies.com start page
+         </label>
+        </div>
+       </div>
+      </div>
+      <div class="row">
+       <div class="col-sm-12">
+        <div class="form-group">
+         <label for="link_to_us_url_input">
+          Paste link in email or IM:
+         </label>
+         <input class="form-control link_to_us_plain_link" id="link_to_us_url_input" type="text"/>
+        </div>
+       </div>
+      </div>
+      <hr/>
+      <div class="row">
+       <div class="col-sm-12">
+        <img class="link-to-us-image" src="//cdn05.masterstudies.com/img/logo/Masters-Degree-ms-en.png"/>
+        <img class="link-to-us-image unselected" src="//cdn01.masterstudies.com/gfx/logo/XXX-small/Providence-University.png"/>
+        <div class="pull-right">
+         <label class="radio">
+          <input checked="" class="link-to-us-image-radio" data-alt="Masterstudies.com" data-image="//cdn05.masterstudies.com/img/logo/Masters-Degree-ms-en.png" name="link_to_us_image" type="radio"/>
+          Masterstudies.com logo
+         </label>
+         <label class="radio">
+          <input class="link-to-us-image-radio" data-alt="Masterstudies.com - Master of Science (Computing and Informatics), Shalu, Taichung, Taichung, Taiwan 2016" data-image="//cdn01.masterstudies.com/gfx/logo/XXX-small/Providence-University.png" name="link_to_us_image" type="radio"/>
+          Page image
+         </label>
+         <label class="radio">
+          <input class="link-to-us-image-radio" data-image="" name="link_to_us_image" type="radio"/>
+          No image
+         </label>
+        </div>
+       </div>
+      </div>
+      <div class="row">
+       <div class="col-sm-12">
+        <label for="link_to_us_textarea">
+         HTML-code:
+        </label>
+        <textarea class="form-control link-to-us-html" id="link_to_us_textarea" name="" rows="4">
+        </textarea>
+       </div>
+      </div>
+     </div>
+     <div class="modal-footer">
+      <button class="btn btn-default" data-dismiss="modal" type="button">
+       Close
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js">
+  </script>
+  <script src="//cdn03.masterstudies.com/js/application.1451989230.js">
+  </script>
+  <script src="//cdn02.masterstudies.com/js/randexp/randexp.min.js">
+  </script>
+  <script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places&amp;sensor=false">
+  </script>
+  <script type="text/javascript">
+   $(function () {
+
+//      a($('h1.productTitle'));
+//      $( ".provider-logo" ).on('load', function() {
+//        a($('h1.productTitle'));
+//      });
+
+
+     $('tr.parent td').on("click", "i", function () {
+       var idTable = $(this).parents('table').attr('id');
+
+          $(this).toggleClass("fa-plus-square  fa-minus-square");
+          var idOfParent = $(this).parents('tr').attr('id');
+          if ($(this).parents('tr').hasClass("odd")) {
+            $('#'+idTable+' tr.child-' + idOfParent).css('background-color', '#F9F9F9');
+          } else {
+            $('#'+idTable+' tr.child-' + idOfParent).css('background-color', '#FFFFFF');
+          }
+          $('#'+idTable+' tr.child-' + idOfParent).toggle();
+
+        });
+    });
+
+
+
+
+    // Universal Popupover Outside Click Close Method :)
+    jQuery(document).mouseup(function(e){
+      var popocontainer = jQuery(".popover");
+      if (popocontainer.has(e.target).length === 0){
+        jQuery('.popover').toggleClass('in').remove();
+      }
+    });
+
+
+
+    /* <![CDATA[ */
+
+    
+    //    var illegal_chars = {'name' : 'Cyrillic', 'range': create_range(1040, 64) };
+    
+    // todo: redo with css animations
+//    function blinkingTitle(count,blink) {
+//      count = parseInt(count);
+//      if(blink == 'true') {
+//        document.getElementById('comment').style.backgroundColor='#FFF3CA';
+//      } else {
+//        document.getElementById('comment').style.backgroundColor='#ffffff';
+//      }
+//      --count;
+//
+//      if (count > 0) {
+//        if (blink == 'true') var_blink = 'false'; else var_blink = 'true';
+//        blinkTimer = setTimeout("blinkingTitle('"+count+"','"+var_blink+"')", 400);
+//      }
+//    }
+
+    $(function () {
+
+//      $('.send-question-to-form').click(function () {
+//        $('#comment').val($(this).attr('data-question'));
+//        $('#form-idFaq').val($(this).attr('data-idFaq'));
+//        $('#comment').closest('.control-group').prependTo('#part_one').find('.form_box').first();
+//        blinkingTitle(10,'true');
+//      });
+
+      $('.to_lead_form').click(function (e) {
+        e.preventDefault();
+        $('#lead_form :input:first').focus();
+      });
+
+      $('.req').on('click', function() {
+        var $this = $(this);
+        $('#comment').removeClass('flashing').val($this.attr('data-q')).addClass('flashing');
+//        blinkingTitle(10,'true');
+      });
+
+
+    });
+
+    var hidden_step_2_elements = null;
+
+    function get_lead_form(idProduct) {
+
+      
+      params = {
+        action : 'get_lead_form',
+        p : idProduct,
+        responsive : true,
+        include_mode : 'partly',
+                hide : 'search_box',
+                r : 'df35'
+      };
+
+      jQuery.ajax({
+        url: '/ajax_handler.php',
+        dataType: 'html',
+        type: 'GET',
+        data:params,
+        success: function (response) {
+
+          document.getElementById('div_lead_form_container').innerHTML=response;
+
+                    jQuery.getScript('/js/lead_form_2012.js');
+          
+                            jQuery('.form_box').hide();
+          jQuery('.label_input').hide();
+          var elements = jQuery('.label_input');
+          for(var i=0;i<5;i++) {
+            jQuery(elements[i]).show();
+          }
+          jQuery('.form_box').first().show();
+          jQuery('.form_box').last().show();
+          //jQuery('#new_form div').css('background','#ddd !important');
+          //jQuery('#form_header').css('background','#aaa !important');
+          //jQuery('.form_footer').css('background','#aaa !important');
+
+                    $f = jQuery('#grid_form').remove();
+          $f.find('*').attr('style', '').end().insertBefore('#provider_img_container .clearer');
+        }
+      });
+
+    }
+
+        function get_recommended(idProduct) {
+
+      params = {action : 'get_recommended',
+        p : idProduct
+      };
+
+      jQuery.ajax({
+        url: '/ajax_handler.php',
+        dataType: 'html',
+        type: 'GET',
+        data:params,
+        success: function (response) {
+          jQuery('#div_lead_form').append(response);
+          jQuery('.grid_head_program_non_paying').first().remove();
+        }
+      });
+    }
+
+    
+    function isZip(s) {
+      //reZip = new RegExp(/(^\d{5}$)|(^\d{5}-\d{4}$)/);
+      reZip = new RegExp(/(^\d{5}$)/);
+      if (!reZip.test(s)) {
+        alert("Zip Code Is Not Valid");
+        return false;
+      }
+      return true;
+    }
+
+    function check_postal_code() {
+      if (document.getElementById('idCountry').options[document.getElementById('idCountry').selectedIndex].value == 223) {
+        reZip = new RegExp(/(^\d{5}$)/);
+        if (!reZip.test(document.getElementById('postal_code').value)) {
+          alert("Zip Code Is Not Valid");
+          return false;
+        }
+      }
+      return true;
+    }
+
+
+
+    
+    function AddToOptionList(OptionList, OptionValue, OptionText) {
+      // Add option to the bottom of the list
+      OptionList[OptionList.length] = new Option(OptionText, OptionValue);
+    }
+
+    function ClearOptions(OptionList) {
+      // Always clear an option list from the last entry to the first
+      for (x = OptionList.length; x >= 0; x = x - 1) {
+        OptionList[x] = null;
+      }
+    }
+
+    
+    
+    
+    jQuery(document).ready(function() {
+
+          get_recommended(28945);
+
+          get_lead_form(28945);
+          jQuery('#div_lead_form_container').on('click', '.form_box', function() {
+            jQuery('.form_box').show();
+            jQuery('.label_input').show();
+          });
+        }
+    );
+
+    
+
+
+    
+
+    /* ]]> */
+  </script>
+  <script type="text/javascript">
+   $(function () {
+      var $partner_sites = [];
+      var $partner_sites_mobile = [];
+
+            $partner_sites.push($('<li><a class="navbar-brand active" href="http://www.masterstudies.com/">Master</a></li>'));
+      $partner_sites_mobile.push($('<li><a href="http://www.masterstudies.com/">Master</a></li>'));
+
+                                                                $partner_sites.push($('<li><a class="navbar-brand " href="http://www.phdstudies.com/">PhD</a></li>'));
+          $partner_sites_mobile.push($('<li><a href="http://www.phdstudies.com/">PhD</a></li>'));
+                                                  $partner_sites.push($('<li><a class="navbar-brand " href="http://www.lawstudies.com/">Law</a></li>'));
+          $partner_sites_mobile.push($('<li><a href="http://www.lawstudies.com/">Law</a></li>'));
+                                                  $partner_sites.push($('<li><a class="navbar-brand " href="http://www.bachelorstudies.com/">Bachelor</a></li>'));
+          $partner_sites_mobile.push($('<li><a href="http://www.bachelorstudies.com/">Bachelor</a></li>'));
+                                                  $partner_sites.push($('<li><a class="navbar-brand " href="http://www.mbastudies.com/">MBA</a></li>'));
+          $partner_sites_mobile.push($('<li><a href="http://www.mbastudies.com/">MBA</a></li>'));
+                                                  $partner_sites.push($('<li><a class="navbar-brand " href="http://www.healthcarestudies.com/">Healthcare</a></li>'));
+          $partner_sites_mobile.push($('<li><a href="http://www.healthcarestudies.com/">Healthcare</a></li>'));
+                                                  $partner_sites.push($('<li><a class="navbar-brand " href="http://www.studenttests.com/">StudentTests</a></li>'));
+          $partner_sites_mobile.push($('<li><a href="http://www.studenttests.com/">StudentTests</a></li>'));
+                                                  $partner_sites.push($('<li><a class="navbar-brand " href="http://www.academiccourses.com/">Courses</a></li>'));
+          $partner_sites_mobile.push($('<li><a href="http://www.academiccourses.com/">Courses</a></li>'));
+                    $('.partner-sites').first().append($partner_sites);
+      $('.partner-sites-mobile').first().append($partner_sites_mobile);
+
+
+      
+      
+    });
+  </script>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bb510f4a41","applicationID":"7303044","transactionName":"YQdQbRRSCxZYBUdQV1hNZ0sPHAwLXQNLF0heEg==","queueTime":0,"applicationTime":153,"atts":"TUBTG1xIGBg=","errorBeacon":"bam.nr-data.net","agent":""}
+  </script>
+ </body>
+</html>

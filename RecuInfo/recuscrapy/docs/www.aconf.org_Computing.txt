@@ -1,0 +1,1726 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="max-age=1800" http-equiv="Cache-Control"/>
+  <title>
+   2016 2nd International Conference on Contemporary Computing and Informatics ,IC3I ,hotel booking,conference program,conference news - Aconf
+  </title>
+  <meta content="2016 2nd International Conference on Contemporary Computing and Informatics,IC3I,hotel booking,conference program,conference news,IC3I," name="keywords"/>
+  <meta content="IC3I," name="description"/>
+  <link href="http://file.aconf.org/public/css/flags.css" rel="stylesheet" type="text/css"/>
+  <meta content="Chytey Info Tech CO., LTD aconf@aconf.org" name="copyright"/>
+  <script src="http://file.aconf.org/public/jquery/jquery.min.js" type="text/javascript">
+  </script>
+  <link href="http://file.aconf.org/public/jquery/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css"/>
+  <script src="http://file.aconf.org/public/jquery/magnific-popup/jquery.magnific-popup.min.js" type="text/javascript">
+  </script>
+  <script src="http://file.aconf.org/public/jquery/jquery.superfish.js" type="text/javascript">
+  </script>
+  <link href="http://file.aconf.org/public/css/sys_common.css" rel="stylesheet"/>
+  <style type="text/css">
+   .menu .login_wrap > #myinfo > ul > li > a {
+                background-position: 95px -18px;
+            }
+            .menu .login_wrap > #myinfo > ul > li.sfHover > a {
+                background-position: 95px 8px;
+            }
+            .menu .login_wrap > ul.sf-menu > li > ul > li {
+                text-align: left;
+            }
+            .conf_title h1{
+                font-size: 22px !important;
+            }
+  </style>
+  <style type="text/css">
+   .page_content{
+        }
+        .conf_top{
+            height: 40px;
+        }
+        .conf_top #aconf_logo{
+            width:240px;
+            display: inline-block;
+            clear:none;
+        }
+        .conf_top #nav{
+            float: right;
+            clear:none;
+            display: inline-block;
+            height: 31px;
+            padding-top: 5px;
+            width: 600px;
+            z-index: 99;
+        }
+        .conf_top #nav>div{
+            float:right;
+            display: inline-block;;
+            clear:none;
+        }
+        .conf_top #nav>div#language_wrap{
+            width:110px;
+        }
+        .conf_top #nav>div#myinfo{
+            margin-right: 20px;
+        }
+        .conf_top #nav>div#myinfo>ul#login_div_horizontal>li>a{
+            margin-left: 5px;
+            height: 16px;
+            line-height: 32px;
+            padding: 5px;
+        }
+        .sf-menu>li.sfHover{
+            background-image:none;
+        }
+        .conf_top #nav>div#myinfo>ul#login_div_horizontal>li>ul{
+            margin-top: -10px;
+        }
+        #myinfo .sf-menu>li>ul>li>a{
+            background-color: #dbf0e9;
+            color:#096;
+        }
+        .sf-menu>li>ul>li {
+            display: inline-block;
+            margin: 0;
+            text-align: center;
+            text-decoration: none;
+            line-height: 36px;
+            padding: 0px;
+            width: auto;
+            height: 36px;
+            min-width: 100%;
+            white-space: nowrap;
+            background-color: #dbf0e9;
+            border-bottom: 0px solid #bce1d5;
+        }
+        .conf_top #language_wrap #language li {
+            width: 100px;
+        }
+        .conf_top,#main_ss,#main_ob,#content .content{
+            width: 1000px;
+            margin:0 auto;
+        }
+        .conf_top .conf_title h1,.conf_top .conf_date h1{
+            color:#fff;
+        }
+        .conf_title h1{
+            font-size: 30px;
+            color: #006a47;
+        }
+        .conf_title a{
+            text-decoration: none;
+            color:#fff;
+        }
+        .conf_date{
+            font-size: 18px;
+            padding-top: 10px;
+            color: #fff !important;
+        }
+
+        .avenue span{
+            min-width: 20px;
+        }
+
+        #main_ss .control-group{
+            margin-bottom: 20px;
+        }
+        #main_ss .control-label {
+            float: left;
+            padding-top: 5px;
+            text-align: right;
+            margin-right: 20px;
+            width: 300px;
+        }
+        #main_ss,#main_ob{
+            border-color: #17923b #e1e1e1 #e1e1e1;
+            border-style: solid;
+            border-width: 4px 1px 1px;
+            height: 100%;
+            margin: 10px auto;
+            min-height: 100%;
+            padding-top: 0;
+        }
+        .menu .nav{
+            left:0;
+        }
+
+        .menu .nav > ul#menu > li > a:hover,.login_wrap > #myinfo > ul > li.sfHover > a {
+            background-color: #006a47;
+        }
+        .login_wrap>ul.sf-menu>li>ul>li>a:hover{
+            background-color: #006a47;
+            color: #fff;
+        }
+        .sider_bar ul li.sider_bar_title{
+            height: 45px;
+            color:#006a47;
+            line-height: 32px;
+            font-size: 18px;
+            cursor: pointer;
+            line-height: 45px;
+            font-weight: bold;
+        }
+        .sider_bar ul li{
+            width: 280px;
+            margin: 5px auto;
+            font-size: 16px;
+        }
+        .btn_owner:hover{
+            background: #096;
+        }
+        #content #register_form_div .page_content .btn_owner a{
+            color: #fff
+        }
+        .sider_bar ul li a.button{
+            background-color: #096;
+            color: #ffffff!important;
+            display: inline-block;
+            height: 32px;
+            line-height: 32px;
+            text-decoration: none;
+            width: 228px;
+        }
+        .attention i{
+            float: right;
+            margin-right: 20px;
+        }
+        .sider_bar .attention i{
+            background: url('/public/images/sys/heart.png') no-repeat scroll 0 0 rgba(0,0,0,0);
+            display: inline-block;
+            height: 12px;
+            width: 12px;
+        }
+        #conf_audit,#conf_submission{
+            -moz-border-bottom-colors: none;
+            -moz-border-left-colors: none;
+            -moz-border-right-colors: none;
+            -moz-border-top-colors: none;
+            border-color: #cccccc #cccccc #b3b3b3;
+            border-image: none;
+            border-style: solid;
+            border-width: 1px;
+            color: #636363;
+            cursor: pointer;
+            display: inline-block;
+            font-size: 14px;
+            line-height: 20px;
+            padding: 4px 12px;
+            text-align: center;
+            vertical-align: middle;
+            background: #006a47;
+            color:#fff;
+            position: absolute;
+            width: 100px;
+        }
+        #conf_audit{ 
+            top:0px;
+            right: 150px;
+        }
+        #conf_submission{
+            top: 0;
+            right: 0px;
+        }
+        #conf_todo{
+            position: absolute;
+            bottom:-5px;
+            left: 20px;
+        }
+        #conf_todo .button{
+            padding: 5px 10px;
+            font-size: 16px;
+            margin-right: 20px;
+            border-top-left-radius: 5px 5px;
+            border-top-right-radius: 5px 5px;
+            border-bottom-left-radius: 5px 5px;
+            border-bottom-right-radius: 5px 5px;
+            background-color: #FF9C00;
+            border-color:#FF9C00;
+            text-decoration: none;
+        }
+        #conf_todo .button:hover{
+            /*color:red;*/
+            background-color: #f60;
+        }
+        .page_content{
+            padding: 0;
+            background: none;
+        }
+
+        .sider_bar li[class^='sidermenu'] ul li{
+            font-size: 16px;
+            width: 280px;
+        }
+        .sider_bar li[class^='sidermenu'] li span{
+            display: inline-block;
+        }
+        .sider_bar li[class='sidermenu4'] ul li{
+            border-bottom: 1px dashed #aaa;
+            word-break:normal;
+            font-size: 14px;
+
+        }
+        li[class='sidermenu2'] li{
+            word-break:normal;
+        }
+
+        .menu .nav > ul#menu > li > a.current {
+            background: url("/public/images/sys/menu_on.gif") no-repeat scroll center bottom rgba(0, 0, 0, 0);
+            pointer-events:none;
+            cursor:default 
+        }
+        .page_content p{
+            text-indent: 0;
+        }
+        #submain_control a{
+            color: #096;
+        }
+
+        .share .bdsharebuttonbox .bds_more{
+            display: inline-block;
+            width: 60px;
+            opacity: 0;
+            margin:0;
+            height: 25px;
+            line-height: 25px;
+            padding-left: 0;
+        }
+        #conf_content h2{
+            font-size: 18px;
+            font-weight: bold;
+        }
+        #conf_content>div{
+            margin-bottom: 20px;
+        }
+        .pull-right{
+            display: inline;
+            float: right;
+        }
+        .pages{
+            margin-top: 47px;
+        }
+        #conf_content ol li{
+            list-style-type: decimal;
+            list-style-position: inside;
+        }
+        #conf_content ul li{
+            list-style-type: disc;
+            list-style-position: inside;
+        }
+  </style>
+ </head>
+ <body style="position:relative">
+  <div class="conf_top">
+   <div id="aconf_logo">
+    <a href="/en-us/">
+     <img alt="Aconf" src="/public/images/logos_en-us.png"/>
+    </a>
+   </div>
+   <div id="nav">
+    <div id="language_wrap">
+     <ul class="jSelect" id="language" style="height: 28px; margin-left: 0px; float: right; z-index:40">
+      <li>
+       <a class="s" href="#">
+        <i class="flag-en-us">
+        </i>
+        English
+        <b class="caret">
+        </b>
+       </a>
+      </li>
+      <ul class="dropdown-menu" role="menu">
+       <li>
+        <a href="/zh-cn/conf_76821.html">
+         <i class="flag-zh-cn">
+         </i>
+         简体中文
+        </a>
+       </li>
+      </ul>
+     </ul>
+    </div>
+    <div id="myinfo">
+     <ul class="sf-menu" id="login_div_horizontal">
+      <li>
+       <span id="icon_user" style="width:32px;height:32px;vertical-align:-10px;background: url('/public/images/icons/morpheus/login-sprite.png') no-repeat scroll 0 0 #fff;background-position: 8px 7px;display:inline-block">
+       </span>
+       <a class="login_popup" href="#login-popup">
+        Log in
+       </a>
+      </li>
+      <li>
+       <a href="/zh-cn/signup.html" target="_blank">
+        Sign up
+       </a>
+      </li>
+      <li class="" style="display:none">
+       <span id="icon_user" style="width:32px;height:32px;vertical-align:-10px;background: url('/public/images/icons/morpheus/login-sprite.png') no-repeat scroll 0 0 #fff;background-position: 8px 7px;display:inline-block">
+       </span>
+       <a href="/en-us/control/">
+        My Information
+       </a>
+       <ul>
+        <li>
+         <a href="/en-us/control/profile.html">
+          My Profile
+         </a>
+        </li>
+        <li>
+         <a href="/en-us/control/submission.html">
+          My Submission
+         </a>
+        </li>
+        <li>
+         <a href="/en-us/control/conference.html">
+          My Conference
+         </a>
+        </li>
+        <li>
+         <a href="/en-us/control/order.html">
+          My Order
+         </a>
+        </li>
+        <li>
+         <a href="/en-us/control/quit.html">
+          Quit
+         </a>
+        </li>
+       </ul>
+      </li>
+      <script type="text/javascript">
+       $(document).ready(function() {
+                            $('.login_popup').magnificPopup({
+                                type: 'inline',
+                                preloader: false,
+                                focus: '#name',
+                                callbacks: {
+                                    beforeOpen: function() {
+                                        $('#login-popup #password').keydown(function(event) {
+                                            if (event.keyCode == 13) {
+                                                $("#login_submit").click();
+                                            }
+                                        });
+                                        if ($(window).width() < 700) {
+                                            this.st.focus = false;
+                                        } else {
+                                            this.st.focus = '#name';
+                                        }
+                                    }
+                                }
+                            });
+                        });
+      </script>
+     </ul>
+    </div>
+    <a href="/en-us/create/step.html" style="display:inline;font-size:20px; color:#096;float:right;text-decoration:none; margin-right:20px">
+     Create a conference
+    </a>
+   </div>
+  </div>
+  <div id="conf_info">
+   <div class="conf_top" style="position:relative;height:200px;padding-bottom:5px;display:table;">
+    <!-- <img src="/qrcode/conf_76821.png"  alt="2016 2nd International Conference on Contemporary Computing and Informatics" style="position:absolute;float: right;right: 0px;top: 100px;"/>-->
+    <div style=" vertical-align:middle;display:table-cell;padding-left:20px; padding-right:20px;">
+     <div class="conf_title">
+      <h1>
+       <a href="/en-us/conf_76821.html">
+        2016 2nd International Conference on Contemporary Computing and Informatics
+       </a>
+       (IC3I)
+      </h1>
+     </div>
+     <div class="conf_date">
+      2016-12-14~2016-12-17 Noida, India
+     </div>
+    </div>
+    <div id="conf_todo">
+     <a class="button register" href="/en-us/conf_76821/register.html">
+      Register
+     </a>
+     <eq name="conf.call_for_paper" value="Y">
+      <a class="button" href="/en-us/conf_76821/submission.do-add.html">
+       Submit your paper
+      </a>
+      <a class="button" href="#" id="favorites" style="background-color:#d1d1d1; border-color:#d1d1d1">
+       <span id="star_favorites">
+        ☆
+       </span>
+       Favorites
+      </a>
+     </eq>
+    </div>
+   </div>
+  </div>
+  <div id="content">
+   <div class="content" style="margin-bottom:10px;">
+    <div class="page_content clearfix">
+     <div class="page_content2222" style="float:left;margin-bottom:10px;width:688px;">
+      <div aconf_edit_section="" class="html_container intro" id="submain" style="width: 668px;padding:20px;min-height:300px;">
+       <div id="conf_content">
+        <h2>
+         Conference Description
+        </h2>
+        <div>
+         <p>
+          IC
+          <sup>
+           3
+          </sup>
+          I 2016 focuses on issues of contemporary interest in computing and informatics. Developments in the field of computing and informatics are very complex and advances are so rapid, changes are occurring on day to day basis. It is very difficult to make it available to all stakeholders (researchers, academicians, students, industrialist and society). Hence, Objectives of the conference are:
+         </p>
+         <p>
+         </p>
+         <p>
+          • To provide a platform to stakeholders to meet and share the ideas, views and    new findings in the field of contemporary computing and informatics.
+          <br/>
+          • To strengthen the relationship with industries and academic institutions of    the India with the rest of the world.
+          <br/>
+          • To provide a space for students and researchers to meet, discuss, and learn    with experts in the related field.
+          <br/>
+          • To reduce the gap between the industry and academics.
+          <br/>
+          • To promote a high level of interaction among stakeholders in theoretical,   experimental, and applied concepts in the field of computing and informatics.
+         </p>
+        </div>
+        <h2>
+         Description of calling for paper
+        </h2>
+        <div>
+         <p>
+          IC
+          <sup>
+           3
+          </sup>
+          I is inviting soliciting original, previously unpublished and high quality research papers addressing research challenges and advances in the topics mentioned below. IC
+          <sup>
+           3
+          </sup>
+          I takes plagiarism very seriously and regard plagiarism as a professional misconduct. Papers will be screened for plagiarism and when identified the paper will be rejected. In addition all authors of the paper will be denied to the conference and other papers by these author(s) will also be rejected. When paper accepted, IC
+          <sup>
+           3
+          </sup>
+          I don't encourage withdrawals after the paper is being accepted, meaning it should not be submitted with the intention to get the reviews by the TPC.
+         </p>
+        </div>
+        <h2>
+         Topics of Submission
+        </h2>
+        <div>
+         <p>
+          The topics of the conference include, but are not limited to:
+         </p>
+         <ul>
+          <li>
+           <p>
+            <strong>
+             Management Information System
+            </strong>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <p>
+            Business Intelligence
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer &amp; Information Science in Sports
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer in Education and Training
+           </p>
+          </li>
+          <li>
+           <p>
+            Customer Relationship Management
+           </p>
+          </li>
+          <li>
+           <p>
+            E-business Modeling
+           </p>
+          </li>
+          <li>
+           <p>
+            E-commerce
+           </p>
+          </li>
+          <li>
+           <p>
+            Economic Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Enterprise Resource Planning
+           </p>
+          </li>
+          <li>
+           <p>
+            Financial Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Human Resource Management Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Information Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Just in Manufacturing
+           </p>
+          </li>
+          <li>
+           <p>
+            Knowledge-Based Web Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Management Information System
+           </p>
+          </li>
+          <li>
+           <p>
+            Medical Informatics
+           </p>
+          </li>
+          <li>
+           <p>
+            Supply Chain Management
+           </p>
+          </li>
+         </ul>
+         <p>
+         </p>
+         <p>
+         </p>
+         <ul>
+          <li>
+           <p>
+            <strong>
+             Security
+            </strong>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <p>
+            Biometrics
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer Security
+           </p>
+          </li>
+          <li>
+           <p>
+            Cryptography
+           </p>
+          </li>
+          <li>
+           <p>
+            Data Encryption
+           </p>
+          </li>
+          <li>
+           <p>
+            Digital Signature
+           </p>
+          </li>
+          <li>
+           <p>
+            Digital Watermarking
+           </p>
+          </li>
+          <li>
+           <p>
+            Forensics
+           </p>
+          </li>
+          <li>
+           <p>
+            Fraud Control
+           </p>
+          </li>
+          <li>
+           <p>
+            Information Security
+           </p>
+          </li>
+          <li>
+           <p>
+            Intellectual Property Protection
+           </p>
+          </li>
+          <li>
+           <p>
+            Network Security
+           </p>
+          </li>
+          <li>
+           <p>
+            Optical Disc Copy Protection
+           </p>
+          </li>
+          <li>
+           <p>
+            Phonography Control
+           </p>
+          </li>
+          <li>
+           <p>
+            Rights Management Languages
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Cracking
+           </p>
+          </li>
+          <li>
+           <p>
+            System Security
+           </p>
+          </li>
+          <li>
+           <p>
+            Trusted Computing
+           </p>
+          </li>
+         </ul>
+         <p>
+         </p>
+         <p>
+         </p>
+         <ul>
+          <li>
+           <p>
+            <strong>
+             Miscellaneous
+            </strong>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <p>
+            Computer-Aided Engineering
+           </p>
+          </li>
+          <li>
+           <p>
+            Computers in Medicines
+           </p>
+          </li>
+          <li>
+           <p>
+            Computing in Chemistry
+           </p>
+          </li>
+          <li>
+           <p>
+            Computing in Life Sciences
+           </p>
+          </li>
+          <li>
+           <p>
+            Computing in Physics
+           </p>
+          </li>
+          <li>
+           <p>
+            Computing Medical Sciences
+           </p>
+          </li>
+          <li>
+           <p>
+            Distance Learning
+           </p>
+          </li>
+          <li>
+           <p>
+            Ethics in Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Green Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Hacking
+           </p>
+          </li>
+          <li>
+           <p>
+            Internet of Things
+           </p>
+          </li>
+          <li>
+           <p>
+            Mathematical Software
+           </p>
+          </li>
+          <li>
+           <p>
+            Numerical Analysis Applications
+           </p>
+          </li>
+          <li>
+           <p>
+            Operation Research Applications
+           </p>
+          </li>
+          <li>
+           <p>
+            Pervasive Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Social Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Social Networking
+           </p>
+          </li>
+          <li>
+           <p>
+            Ubiquitous Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Others
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <p>
+            <strong>
+             Intelligent Computing
+            </strong>
+           </p>
+          </li>
+          <li>
+           <p>
+            Artificial Intelligence
+           </p>
+          </li>
+          <li>
+           <p>
+            Bio Inspired Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Bioinformatics
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer Animation
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer Graphics
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer Vision
+           </p>
+          </li>
+          <li>
+           <p>
+            Expert Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Gaming and Animation
+           </p>
+          </li>
+          <li>
+           <p>
+            Genetic Algorithms
+           </p>
+          </li>
+          <li>
+           <p>
+            Image Processing
+           </p>
+          </li>
+          <li>
+           <p>
+            Information Retrieval and Fusion
+           </p>
+          </li>
+          <li>
+           <p>
+            Intelligent Control Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Intelligent Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Multimedia
+           </p>
+          </li>
+          <li>
+           <p>
+            Natural Language Processing
+           </p>
+          </li>
+          <li>
+           <p>
+            Pattern Recognition
+           </p>
+          </li>
+          <li>
+           <p>
+            Robotics
+           </p>
+          </li>
+          <li>
+           <p>
+            Soft Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            System Simulation
+           </p>
+          </li>
+          <li>
+           <p>
+            Virtual Reality
+           </p>
+          </li>
+         </ul>
+         <p>
+         </p>
+         <ul>
+          <li>
+           <p>
+            <strong>
+             Database System
+            </strong>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <p>
+            Big Data
+           </p>
+          </li>
+          <li>
+           <p>
+            Data Engineering
+           </p>
+          </li>
+          <li>
+           <p>
+            Data Mining
+           </p>
+          </li>
+          <li>
+           <p>
+            Data Warehousing
+           </p>
+          </li>
+          <li>
+           <p>
+            Database Management Systems
+           </p>
+          </li>
+          <li>
+           <p>
+            Knowledge Discovery
+           </p>
+          </li>
+          <li>
+           <p>
+            Web Mining
+           </p>
+          </li>
+         </ul>
+         <p>
+         </p>
+         <p>
+         </p>
+         <ul>
+          <li>
+           <p>
+            <strong>
+             Software Engineering
+            </strong>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <p>
+            Agent Oriented Software Engineering
+           </p>
+          </li>
+          <li>
+           <p>
+            Agile Software Engineering
+           </p>
+          </li>
+          <li>
+           <p>
+            Component-Based Software Engineering
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer Aided Software Engineering
+           </p>
+          </li>
+          <li>
+           <p>
+            Dependable Systems Design
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Architectures
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Dependability Evaluation
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Design Patterns
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Development Tools
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Economic
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Metrics
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Project Management
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Quality Assurance
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Reliability
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Reuse
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Reverse Engineering
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Testing
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Testing Tools
+           </p>
+          </li>
+          <li>
+           <p>
+            Software Verification and Validation Techniques
+           </p>
+          </li>
+          <li>
+           <p>
+            UML, OO Modeling
+           </p>
+          </li>
+         </ul>
+         <p>
+         </p>
+         <p>
+         </p>
+         <ul>
+          <li>
+           <p>
+            <strong>
+             Systems Software
+            </strong>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <p>
+            Compiler Design
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer System and Modeling
+           </p>
+          </li>
+          <li>
+           <p>
+            Operating System
+           </p>
+          </li>
+          <li>
+           <p>
+            Parallel and Distributed Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Programming Languages
+           </p>
+          </li>
+          <li>
+           <p>
+            System Software
+           </p>
+          </li>
+          <li>
+           <p>
+            VLSI and Embedded Systems
+           </p>
+          </li>
+         </ul>
+         <p>
+         </p>
+         <p>
+         </p>
+         <ul>
+          <li>
+           <p>
+            <strong>
+             Data Communication and Networking
+            </strong>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <p>
+            Agents
+           </p>
+          </li>
+          <li>
+           <p>
+            Cloud Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Computer Networks
+           </p>
+          </li>
+          <li>
+           <p>
+            Cryptography
+           </p>
+          </li>
+          <li>
+           <p>
+            Data Communications
+           </p>
+          </li>
+          <li>
+           <p>
+            Grid Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Information and Network Security
+           </p>
+          </li>
+          <li>
+           <p>
+            Mobile Computing
+           </p>
+          </li>
+          <li>
+           <p>
+            Network Management
+           </p>
+          </li>
+          <li>
+           <p>
+            Services Oriented Architecture
+           </p>
+          </li>
+          <li>
+           <p>
+            Storage Area Networks
+           </p>
+          </li>
+          <li>
+           <p>
+            Wireless Communication
+           </p>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="sider_bar" style="width:258px; padding:20px">
+      <ul>
+       <li class="sider_bar_title">
+        News
+        <a href="/en-us/conf_76821/news.html">
+         <small class="pull-right">
+          More ...
+         </small>
+        </a>
+       </li>
+       <li class="sidermenu2">
+        <ul>
+         <li>
+          <span>
+           16-06-08
+          </span>
+          <p>
+           <a href="/en-us/conf_76821/news_detail/id/556">
+            ic3i-template(pdf)
+           </a>
+          </p>
+         </li>
+         <li>
+          <span>
+           16-06-08
+          </span>
+          <p>
+           <a href="/en-us/conf_76821/news_detail/id/555">
+            ic3i-template(doc)
+           </a>
+          </p>
+         </li>
+        </ul>
+       </li>
+       <li class="sider_bar_title" onclick="indent(2)">
+        Important Dates
+       </li>
+       <li class="sidermenu2">
+        <ul>
+         <li>
+          Date of Conference:
+          <span>
+           <span>
+            2016-12-14
+           </span>
+           ~
+           <span>
+            12-17
+           </span>
+          </span>
+         </li>
+         <li>
+          Draft paper submission deadline:
+          <span>
+           2016-08-20
+          </span>
+         </li>
+         <li>
+          Final Paper Deadline:
+          <span>
+           2016-11-16
+          </span>
+         </li>
+         <li>
+          Draft Paper Acceptance Notification:
+          <span>
+           2016-10-15
+          </span>
+         </li>
+        </ul>
+       </li>
+       <li class="sider_bar_title" onclick="indent(4)">
+        Contact Information
+       </li>
+       <li class="sidermenu3">
+        <!-- -->
+        <ul>
+         <li>
+          Miss
+          <b>
+           <big>
+            Scarlett
+           </big>
+          </b>
+          <ul>
+           <li>
+            Email: scarlett@aconf.org
+           </li>
+           <li>
+            Telephone: +8627-88875258
+           </li>
+           <li>
+           </li>
+          </ul>
+         </li>
+         <li>
+          Prof.
+          <b>
+           <big>
+            Dr. S. K. Niranjan
+           </big>
+          </b>
+          <ul>
+           <li>
+            Email: chair@ic3i.org
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        Conference Website:
+        <a href="http://ic3i.aconf.org" target=" _blank">
+         http://ic3i.aconf.org
+        </a>
+       </li>
+       <li class="sider_bar_title">
+        Sponsored By
+       </li>
+       <li>
+        IEEE Uttar Pradesh Section
+        <br/>
+        Amity University
+       </li>
+      </ul>
+     </div>
+     <div class="clearfix">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="white-popup mfp-hide" id="audit">
+   <div style="height:64px;line-height:64px;padding: 10px 0px 10px 70px;border-bottom:1px solid #cacaca;background:url('/public/images/icons/dialog/info.png') 0 10px no-repeat #fff">
+    Are you sure to apply for it?
+   </div>
+   <div class="clearfix" style="padding-top:10px;">
+    <button class="btn btn-large cancel" name="cancel" style="float:right;" type="cancel">
+     Cancel
+    </button>
+    <button class="submit btn btn-large" name="submit" style="float:right;margin-right:10px;" type="submit">
+     Submit
+    </button>
+   </div>
+  </div>
+  <div id="bottom">
+   <div class="bottom">
+    <div class="list">
+     <ul>
+      <li style="font-size:16px">
+       <a href="/en-us/about.html">
+        About
+       </a>
+      </li>
+     </ul>
+     <ul>
+      <li style="font-size:16px">
+       <a href="/en-us/conf/index.html">
+        Conferences
+       </a>
+      </li>
+     </ul>
+     <ul>
+      <li style="font-size:16px">
+       <a href="/en-us/case.html">
+        Case
+       </a>
+      </li>
+     </ul>
+     <ul>
+      <li style="font-size:16px">
+       <a href="/en-us/feedback.html">
+        Feedback
+       </a>
+      </li>
+     </ul>
+     <ul>
+      <li style="font-size:16px">
+       <a href="/en-us/partner.html">
+        Partner
+       </a>
+      </li>
+     </ul>
+     <ul style="margin-right:0;">
+      <li style="font-size:16px">
+       <a href="/en-us/contact.html">
+        Contact
+       </a>
+      </li>
+     </ul>
+     <div style="clear:left;">
+     </div>
+    </div>
+    <div class="copy">
+     <p>
+      Copyright © 2013-2016
+      <a class="web_mission" href="http://www.aconf.org/" title="Aconf">
+       Aconf
+      </a>
+      .org -
+      <span>
+       Global academic conference platform
+      </span>
+     </p>
+    </div>
+   </div>
+  </div>
+  <div class="white-popup mfp-hide" id="login-popup">
+   <div class="wrap-col">
+    <h2 class="under">
+     Login
+    </h2>
+    <div id="login">
+     <div class="login_div_no_label" id="login_div" style="visibility: visible;">
+      <div class="control-group">
+       <div class="controls">
+        <input class="register-xlarge focused hasDatepicker" id="email" name="email" placeholder="email" type="text" value=""/>
+       </div>
+      </div>
+      <div class="control-group">
+       <div class="controls">
+        <input class="register-xlarge focused hasDatepicker" id="password" name="password" placeholder="password" type="password" value=""/>
+       </div>
+      </div>
+      <div class="control-group" style="display:none">
+       <div class="controls">
+        <div id="error_info">
+        </div>
+       </div>
+      </div>
+      <div class="control-group">
+       <div class="controls">
+        <button class="button" id="login_submit" style="font-size:16px;vertical-align:middle; clear:both; margin-bottom:8px;width:100%" type="login_submit">
+         Login
+        </button>
+       </div>
+      </div>
+      <div style="padding: 0px">
+       <ul id="oauth">
+        <li style="margin-left:0px;">
+         Through the third party
+        </li>
+        <li>
+         <a class="oauth" href="/index.php/oauth/qq" id="qq">
+         </a>
+        </li>
+        <li>
+         <a class="oauth" href="https://open.weixin.qq.com/connect/qrconnect?appid=wx20e1cea3df495cbb&amp;redirect_uri=http%3A%2F%2Fwww.aconf.org%2Foauth%2Fwx_login&amp;response_type=code&amp;scope=snsapi_login&amp;state=state#wechat_redirect" id="weixin">
+         </a>
+        </li>
+        <li>
+         <a class="oauth" href="https://www.linkedin.com/uas/oauth2/authorization?response_type=code&amp;client_id=75bx48s2wuipwu&amp;redirect_uri=http://www.aconf.org/oauth/linkedin&amp;state=987654321&amp;scope=r_basicprofile%20r_emailaddress" id="linkedin">
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="control-group" style="clear: both">
+       <div class="controls">
+        <a class="register" href="/en-us/signup.html" style="margin-left:10%;font-size:16px;">
+         Sign up
+        </a>
+        <a class="getpassword " href="/en-us/iforgotpassword.html" style="margin-left:25%;font-size:16px;">
+         I forgot password
+        </a>
+       </div>
+      </div>
+      <div class="clearfix">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div style="display:none; width:0px; height:0px; overflow:hidden">
+   <script type="text/javascript">
+    $(function(){
+        $('.login_popup').magnificPopup({
+            type: 'inline',
+            preloader: false,
+            focus: '#name',
+            callbacks: {
+                beforeOpen: function() {
+                    $('#login-popup').keydown(function(event){
+                        if(event.keyCode==13){
+                            $("#login_submit").click();
+                        }
+                    });
+                if($(window).width() < 700) {
+                    this.st.focus = false;
+                } else {
+                    this.st.focus = '#name';
+                }
+                }
+            }
+        });
+
+        jQuery.getJSON("/common/check_sys_login.php?l=en-us&m=conf_76821&callback=?", function(data){
+            if(data.status){
+                $('#login_div_horizontal').children('li').css('display','none');
+                $('#login_div_horizontal').children('li').eq(2).css('display','block');
+                $('#login_div_horizontal').superfish({
+                    speed: 'fast'
+                });
+            }
+        });
+
+        $('#login_submit').click(function(){
+            var url='/login/checkLogin';
+            var email=$('#email').val();
+            var password=$('#password').val();
+            $.ajax({
+                dataType:'json',
+                type: "POST",
+                url: url,
+                data: {email:email,password:password},
+                success: function(msg){
+                    if(msg.status){
+                        $.magnificPopup.close();
+                        $('#login_div_horizontal').children('li').css('display','none');
+                        $('#login_div_horizontal').children('li').eq(2).css('display','block');
+                        $('#login_div_horizontal').superfish({
+                            speed: 'fast'
+                        });
+                    }else{
+                        $('#error_info').html('').append(msg.info).css({'color':'red'}).parent().parent().show().hide(5000);
+
+                    }
+                }
+            });
+        })
+
+        $(".all-sort").mouseover(function(){
+            $("#all-sort-list").css('display','block');
+        });
+
+        $(".all-sort").mouseout(function(){
+            $("#all-sort-list").css('display','none');
+        });
+
+        $('.all-sort-list > .item').hover(function(){
+            var eq = $('.all-sort-list > .item').index(this),       //获取当前滑过是第几个元素
+                h = $('.all-sort-list').offset().top,           //获取当前下拉菜单距离窗口多少像素
+                s = $(window).scrollTop(),                  //获取游览器滚动了多少高度
+                i = $(this).offset().top,                 //当前元素滑过距离窗口多少像素
+                item = $(this).children('.item-list').height(),       //下拉菜单子类内容容器的高度
+                sort = $('.all-sort-list').height();            //父类分类列表容器的高度
+            if ( item < sort ){                       //如果子类的高度小于父类的高度
+                if ( eq == 0 ){
+                    $(this).children('.item-list').css('top', (i-h));
+                } else {
+                    $(this).children('.item-list').css('top', (i-h)+1);
+                }
+            } else {
+                if ( s > h ) {                        //判断子类的显示位置，如果滚动的高度大于所有分类列表容器的高度
+                    if ( i-s > 0 ){                     //则 继续判断当前滑过容器的位置 是否有一半超出窗口一半在窗口内显示的Bug,
+                        $(this).children('.item-list').css('top', (s-h)+2 );
+                    } else {
+                        $(this).children('.item-list').css('top', (s-h)-(-(i-s))+2 );
+                    }
+                } else {
+                    $(this).children('.item-list').css('top', 3 );
+                }
+            }
+            $(this).addClass('hover');
+            $ (this).children('.item-list').css('display','block');
+        },function(){
+            $(this).removeClass('hover');
+            $(this).children('.item-list').css('display','none');
+        });
+
+        $('.item > .item-list > .close').click(function(){
+            $(this).parent().parent().removeClass('hover');
+            $(this).parent().hide();
+        });
+
+        var jSelect = $(".jSelect");
+
+        $(jSelect).find("li:first").hover(function(){
+            $(".s").css("background","url(http://file.aconf.org/public/js/jselect/images/68_60.png) 36px 0px no-repeat");
+            h=$(this).parent("ul").find("li").length;
+            //height=(this).parent("ul").find("li:first").height();
+            $(this).parent("ul").css("height",28*(h));
+            $(this).siblings("li:not(.s)").mouseenter(function(){
+                $(".s").css("background","url(http://file.aconf.org/public/js/jselect/images/68_60.png) 36px 0px no-repeat");
+                $(this).css("background","#428bca").css("color","#FFFFFF")
+            });
+            $(this).siblings("li:not(.s)").mouseleave(function(){
+                $(this).css("background","none").css("color","")
+                $(".s").css("background","url(http://file.aconf.org/public/js/jselect/images/68_60.png) 36px -30px no-repeat");
+            });
+            $(this).parent(jSelect).mouseleave(function(){
+                $(this).css("height",28)
+                $(".s").css("background","url(http://file.aconf.org/public/js/jselect/images/68_60.png) 36px -30px no-repeat");
+            });
+            $(jSelect).find("li:not(.s)").click(function(){
+                var cContent=$(jSelect).find("li:first").html();
+                var cdContent = $(this).html();
+                $(jSelect).find("li:first").html(cdContent);
+                $(this).html(cContent);
+                $(this).find('a').removeClass('s');
+                $(this).find('a').removeAttr('style');
+                $(jSelect).find("li:first").addClass('s');
+                $(this).parent("ul").css("height",28);
+                $(".s").css("background","url(http://file.aconf.org/public/js/jselect/images/68_60.png) 36px -30px no-repeat");
+            });
+        });
+    })
+   </script>
+   <script>
+    var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?17ae0e9610817b676f961e42e01a0e3c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+   </script>
+   <!-- Piwik -->
+   <script type="text/javascript">
+    var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//tongji.page.ac/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+   </script>
+   <noscript>
+    <p>
+     <img alt="" src="//tongji.page.ac/piwik.php?idsite=1" style="border:0;"/>
+    </p>
+   </noscript>
+   <!-- End Piwik Code -->
+  </div>
+  <script type="text/javascript">
+   var conf_id = 76821;
+                                    var favarite = 0;
+                                    if (favarite > 0) {
+                                    $('#star_favorites').html('★').css('color', '#FF9C00');
+                                    }
+                                    $(function() {
+                                    $('#favorites').click(function() {
+                                    url = '/en-us/conf/add_to_favorites';
+                                    obj = $(this);
+                                    $.post(
+                                    url,
+                                    {obj_id: conf_id},
+                                    function(data) {
+                                    data = eval("(" + data + ")");
+                                    switch (data.code) {
+                                    case 1:
+                                    {
+                                    $('#star_favorites').html('★').css('color', '#FF9C00');
+                                    break;
+                                    }
+                                    case -1:
+                                    {
+                                    $('#star_favorites').html('☆').css('color', '#fcfcfc');
+                                    break;
+                                    }
+                                    case 0:
+                                    {
+                                    $.magnificPopup.open({
+                                        items: {
+                                            src: '#login-popup', // CSS selector of an element on page that should be used as a popup
+                                            type: 'inline'
+                                        }
+                                    });
+                                    break;
+                                    }
+                                    default:
+                                    {
+                                    break;
+                                    }
+                                    }
+
+                                    }
+                                    )
+                                    })
+                                    })
+  </script>
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-573d55cedf661013" type="text/javascript">
+  </script>
+  <script src="http://file.aconf.org/public/jquery/jquery.scrollUp.min.js">
+  </script>
+  <script>
+   $(document).ready(function(){
+                          $.scrollUp({
+                                    scrollName: "scrollUp", 
+                                    topDistance: "50", 
+                                    topSpeed: 300, 
+                                    animation: "fade", 
+                                    animationInSpeed: 200, 
+                                    animationOutSpeed: 200,
+                                    scrollText: "", 
+                                    activeOverlay: false
+                              });      jQuery.getJSON("/common/web_rbo_col.php?l=en-us&m=Conf_76821&a=index&callback=?", function(data){
+                            if(data.status){
+                                if(typeof(close_loging_div) == "function"){
+                                    close_loging_div();
+                                }
+                                $("body").append(data.html);                
+                            }else{
+                                if(typeof(close_loging_div) == "function"){
+                                    close_loging_div();
+                                }
+                            }
+                            })
+                    });
+  </script>
+ </body>
+</html>

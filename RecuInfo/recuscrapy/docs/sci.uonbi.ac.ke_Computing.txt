@@ -1,0 +1,1774 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir="ltr" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="/sites/default/files/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <title>
+   Latest News in School of Computing and Informatics | School of Computing and Informatics
+  </title>
+  <link href="/modules/acquia/cck/theme/content-module.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/acquia/filefield/filefield.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/acquia/img_assist/img_assist.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/acquia/mollom/mollom.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/aggregator/aggregator.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/node/node.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/system/defaults.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/system/system.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/system/system-menus.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/user/user.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/modules/ckeditor/ckeditor.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/modules/date/date.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/modules/google_cse/google_cse.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/misc/farbtastic/farbtastic.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/modules/acquia/calendar/calendar.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/modules/views/css/views.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/themes/falcuties/style.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/themes/falcuties/custom/modules/views_slideshow_ddblock/vsd-upright-10p/views-slideshow-ddblock-cycle-vsd-upright-10p.css?E" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/sites/all/modules/jlightbox/css/jlightbox.css?E" media="screen" rel="stylesheet" type="text/css"/>
+  <script src="/sites/all/modules/jquery_update/replace/jquery.js?E" type="text/javascript">
+  </script>
+  <script src="/misc/drupal.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/uon_degrees_display/custom_includes.js?E" type="text/javascript">
+  </script>
+  <script src="/modules/acquia/google_analytics/googleanalytics.js?E" type="text/javascript">
+  </script>
+  <script src="/modules/acquia/img_assist/img_assist.js?E" type="text/javascript">
+  </script>
+  <script src="/modules/acquia/mollom/mollom.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/jlightbox/js/jlightbox_image.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/jlightbox/js/jlightbox.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/views_slideshow_ddblock/js/views_slideshow_ddblock.admin.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/views_slideshow_ddblock/js/jquery.cycle.all.min.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/views_slideshow_ddblock/js/json2.pack.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/modules/views_slideshow_ddblock/js/views_slideshow_ddblock.js?E" type="text/javascript">
+  </script>
+  <script src="/sites/all/themes/falcuties/script.js?E" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "viewsSlideshowDdblockContent": { "Featured_News_View_block_1": { "block": "Featured_News_View_block_1", "nrOfItems": 10, "setDimensions": "vsd-upright-10p", "contentContainer": "div.slide", "custom": "", "fx": "fade", "speed": 500, "timeOut": 5000, "pause": 1, "next": 1, "overflow": null, "pager": "number-pager", "pagerPosition": "top", "nrOfPagerItems": 3, "pagerContainer": ".custom-pager-item", "pagerEvent": "click", "pagerFast": 1, "pagerPause": 1, "pager2": 1, "pager2Event": "click", "pager2PagerHide": 1, "pager2SlideHide": 1, "slideText": 1, "slideTextjQuery": 0, "slideTextPosition": "bottom", "slideTextContainer": "div.slide-text", "slideTextEffectBefore": "hide", "slideTextEffectBeforeSpeed": 500, "slideTextEffectAfter": "show", "slideTextEffectAfterSpeed": 500 } }, "ddblockCustomTemplate": { "pager": "number-pager", "pagerContainer": ".custom-pager-item", "pagerPosition": "top" } });
+//--><!]]>
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-25680288-6"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+  </script>
+  <!--[if IE 6]><link rel="stylesheet" href="/sites/all/themes/falcuties/style.ie6.css" type="text/css" media="screen" /><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" href="/sites/all/themes/falcuties/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+  <script type="text/javascript">
+  </script>
+ </head>
+ <body class="front not-logged-in page-uon-news no-sidebars">
+  <div id="uonmain">
+   <div class="cleared reset-box">
+   </div>
+   <div class="uonbox uonsheet">
+    <div class="uonbox-body uonsheet-body">
+     <div class="uonbar uonnav">
+      <div class="uonnav-outer">
+       <div class="uonhmenu-id">
+        <ul class="uonhmenu">
+         <li class="leaf first active-trail active">
+          <a class="active" href="/uon_news" title="">
+           Home
+          </a>
+         </li>
+         <li class="expanded">
+          <a href="/uon_degrees_display" title="">
+           Programmes
+          </a>
+          <ul>
+           <li class="leaf first">
+            <a href="/uon_degrees_display/graduate" title="">
+             Graduate
+            </a>
+           </li>
+           <li class="leaf last">
+            <a href="/uon_degrees_display/undergraduate" title="">
+             Undergraduate
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="expanded">
+          <a href="/admissions_degrees_display" title="">
+           Admission
+          </a>
+          <ul>
+           <li class="leaf first">
+            <a href="/admissions_degrees_display/graduate" title="">
+             Graduate
+            </a>
+           </li>
+           <li class="leaf last">
+            <a href="/admissions_degrees_display/undergraduate" title="">
+             Undergraduate
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="leaf">
+          <a href="/uon_collaborations" title="">
+           Collaboration
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/uon_staff" title="">
+           Staff
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/uon_eresources" title="">
+           E-resources
+          </a>
+         </li>
+         <li class="leaf last">
+          <a href="/contact" title="">
+           Customer Feedback
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="cleared reset-box">
+     </div>
+     <div class="uonheader">
+      <div class="uonheaderobject">
+      </div>
+      <div class="uonlogo">
+       <h1 class="uonlogo-name">
+        <a href="/" title="School of Computing and Informatics">
+         School of Computing and Informatics
+        </a>
+       </h1>
+       <a href="http://www.uonbi.ac.ke/">
+        <h2 class="uonlogo-text">
+         UNIVERSITY OF NAIROBI
+        </h2>
+       </a>
+      </div>
+      <div class="uontextblock">
+       <div id="search-box">
+        <form accept-charset="UTF-8" action="/search/google" id="google-cse-searchbox-form" method="get">
+         <div>
+          <input id="edit-cx" name="cx" type="hidden" value="009190798256145810159:j3upsqw914e"/>
+          <input id="edit-cof" name="cof" type="hidden" value="FORID:11"/>
+          <input id="edit-num" name="num" type="hidden" value="100"/>
+          <div class="form-item" id="edit-query-wrapper">
+           <input class="form-text" id="edit-query" maxlength="128" name="query" size="15" title="Enter the terms you wish to search for." type="text" value=""/>
+          </div>
+          <span class="uonbutton-wrapper">
+           <span class="uonbutton-l">
+           </span>
+           <span class="uonbutton-r">
+           </span>
+           <input class="form-submit uonbutton" id="edit-sa" name="op" type="submit" value="Search"/>
+          </span>
+          <input id="form-958036477092132d542f00e3cb5e9864" name="form_build_id" type="hidden" value="form-958036477092132d542f00e3cb5e9864"/>
+          <input id="edit-google-cse-searchbox-form" name="form_id" type="hidden" value="google_cse_searchbox_form"/>
+         </div>
+        </form>
+       </div>
+       <!-- /#search-box -->
+      </div>
+     </div>
+     <div class="cleared reset-box">
+     </div>
+     <div class="uonlayout-wrapper">
+      <div class="uoncontent-layout">
+       <div class="uoncontent-layout-row">
+        <div class="uonlayout-cell uonsidebar1">
+         <div class="clear-block block block-block" id="block-block-3">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              About Us
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/952">
+                  Brief History
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/70">
+                  Message from the Director
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/960">
+                  Vision, Mission &amp; Core Values
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/968">
+                  Service Charter
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/uon_reports_index">
+                  Annual Report
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1463">
+                  SCI Policy Documents
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/961">
+                  Contacts
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-4">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Research/Projects
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul>
+                <li>
+                 <a href="/uon_research_projects">
+                  Projects
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1006">
+                  SCI Research
+                 </a>
+                </li>
+                <li>
+                 <a href="/uon_publications">
+                  Publications
+                 </a>
+                </li>
+                <li>
+                 <a href="/uon_journals">
+                  Journals
+                 </a>
+                </li>
+                <li>
+                 <a href="/uon_consultancies">
+                  Mainstream Consultancy
+                 </a>
+                </li>
+                <li>
+                 <a href="/uon_conferences">
+                  Conferences
+                 </a>
+                </li>
+                <li>
+                 <a href="/uon_newsletters">
+                  Newsletters
+                 </a>
+                </li>
+                <li>
+                 <a href="/uon_teaching_facilities">
+                  Teaching &amp; Research Facilities
+                 </a>
+                </li>
+                <li>
+                 <a href="/uon_products">
+                  Services, Products &amp; farms
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1463">
+                  Policy Briefs
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/content/innovation-week-2015-0#node-10093">
+                  Innovation Week 2015
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-uon_level_index" id="block-uon_level_index-configurable-text">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Links to Parent Sites
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul id="uon_level_index">
+                <li>
+                 <a href="http://www.uonbi.ac.ke/">
+                  University of Nairobi
+                 </a>
+                </li>
+                <li>
+                 <a href="http://cbps.uonbi.ac.ke">
+                  College of Biological and Physical Sciences
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-18">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              C4D Innovation Lab
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <a href="http://www.c4dlab.ac.ke/">
+                 C4D Lab
+                </a>
+                <br/>
+                <a href="http://sci.uonbi.ac.ke/content/c4dlab-news">
+                 C4DLab News
+                </a>
+               </p>
+               <p>
+                <a href="http://cbps.uonbi.ac.ke/content/c4dlab-cyber-security-training">
+                 C4DLab CyberSecurity training
+                </a>
+               </p>
+               <p>
+                C4DLab CCNA training
+               </p>
+               <p>
+                <a href="http://sci.uonbi.ac.ke/content/c4dlab-pitching">
+                 C4DLab Pitching
+                </a>
+               </p>
+               <p>
+                <a href="http://sci.uonbi.ac.ke/content/c4dlab-frideation">
+                 C4DLab Frideation
+                </a>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-22">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              BPO/ITES Project
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <a href="http://cites.uonbi.ac.ke/">
+                 BPO/ITES Project
+                </a>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-5">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Calender of Activities
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul>
+                <li class="rteleft">
+                 <a _cke_saved_href="http://devagriculture.uonbi.ac.ke/uon_calendar_of_activities" href="http://sci.uonbi.ac.ke/node/969">
+                  Academic/Student
+                 </a>
+                </li>
+                <li class="rteleft">
+                 <a _cke_saved_href="http://devagriculture.uonbi.ac.ke/uon_calendar_of_activities" href="/uon_calendar_of_activities/staff">
+                  Staff
+                 </a>
+                </li>
+                <li class="rteleft">
+                 <a _cke_saved_href="http://devagriculture.uonbi.ac.ke/uon_calendar_of_activities" href="/uon_calendar_of_activities/others">
+                  Other stakeholders
+                 </a>
+                </li>
+                <li class="rteleft">
+                 <a href="/public_calendar">
+                  Public Calendar
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-6">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Students
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <a href="/uon_student_activities">
+                 Activities
+                </a>
+               </p>
+               <p>
+                <a href="/uon_student_projects">
+                 Students Projects
+                </a>
+               </p>
+               <p>
+                <a href="http://sci.uonbi.ac.ke/content/students-industrial-attachment">
+                 Students Attachment
+                </a>
+               </p>
+               <p class="rtejustify">
+                <a href="http://sci.uonbi.ac.ke/node/974">
+                 Information for International Students
+                </a>
+               </p>
+               <p>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-19">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Student Organizations
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <a href="http://nucomssa.uonbi.ac.ke/">
+                 NUCOMSSA
+                </a>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-20">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Alumni
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <a href="http://sci.uonbi.ac.ke/node/959">
+                 SCI Alumni
+                </a>
+                <br/>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-14">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Brochures
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul>
+                <li>
+                 <a href="http://cbps.uonbi.ac.ke/sites/default/files/cbps/sci/sci/SCI%20undergrad%20brochure.pdf">
+                  Undergraduate
+                 </a>
+                </li>
+                <li>
+                 <a href="/sites/default/files/cbps/sci/sci/Brochure%20New%20MSc%20Programs%20Final%20May%202013.pdf">
+                  Masters
+                 </a>
+                </li>
+                <li>
+                 <a href="/sites/default/files/cbps/sci/sci/PhD%20Brochure.pdf">
+                  PHD
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-15">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Thematic Areas
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul>
+                <li class="rteleft">
+                 <a href="http://sci.uonbi.ac.ke/node/1255">
+                  Computaional Intelligence
+                 </a>
+                </li>
+                <li class="rteleft">
+                 <a href="http://sci.uonbi.ac.ke/node/1254">
+                  Distributed Systems
+                 </a>
+                </li>
+                <li class="rteleft">
+                 <a href="http://sci.uonbi.ac.ke/node/1253">
+                  eLearning Systems
+                 </a>
+                </li>
+                <li class="rteleft">
+                 <a href="http://sci.uonbi.ac.ke/node/1252">
+                  Information Systems
+                 </a>
+                </li>
+               </ul>
+               <p>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-16">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              School Committees
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <a href="/node/1517">
+                 Research Committee
+                </a>
+               </p>
+               <p>
+                <a href="/node/1518">
+                 Staff Welfare Committee
+                </a>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="uonlayout-cell uoncontent">
+         <div id="banner2">
+          <div id="banner2-views-Featured_News_View-block_1">
+           <div class="content">
+            <div class="view view-Featured-News-View view-id-Featured_News_View view-display-id-block_1 view-dom-id-1">
+             <div class="view-content">
+              <!-- dynamic display block slideshow -->
+              <div class="views-slideshow-ddblock-cycle-vsd-upright-10p clear-block" id="views-slideshow-ddblock-Featured_News_View_block_1">
+               <div class="container clear-block border">
+                <div class="container-inner clear-block border">
+                 <!-- number pager -->
+                 <!-- number pager -->
+                 <div class="number-pager views-slideshow-ddblock-pager clear-block" id="views-slideshow-ddblock-number-pager-Featured_News_View_block_1">
+                  <ul>
+                   <li class="number-pager-prev pager-prev">
+                    <a class="prev" href="#">
+                     prev
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     1
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     2
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     3
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     4
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     5
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     6
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     7
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     8
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     9
+                    </a>
+                   </li>
+                   <li class="number-pager-item">
+                    <a class="pager-link" href="#" title="click to navigate to topic">
+                     10
+                    </a>
+                   </li>
+                   <li class="number-pager-next pager-next">
+                    <a class="next" href="#">
+                     next
+                    </a>
+                   </li>
+                  </ul>
+                 </div>
+                 <div class="number-pager-pre-top ">
+                 </div>
+                 <div class="views-slideshow-ddblock-prev-next-slide">
+                  <div class="prev-container">
+                   <a class="prev" href="#">
+                   </a>
+                  </div>
+                  <div class="next-container">
+                   <a class="next" href="#">
+                   </a>
+                  </div>
+                 </div>
+                 <div class="spacer-horizontal">
+                  <b>
+                  </b>
+                 </div>
+                 <!-- slider content -->
+                 <div class="slider clear-block border">
+                  <div class="slider-inner clear-block border">
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="360" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/sci%20Open%20day.jpg?1463314829" width="540"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          School of Computing Takes part in UoN Open Day 2016
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="2736" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/IMG_20160317_113354.jpg?1458632754" width="4864"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          Vice President (Business and Development), Jimma University in Ethiopia visits SCI
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="400" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/Bike%20share%20in%20UoN.jpg?1458567843" width="474"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          UoN Collaborates in Bicycle Share Project to Promote Cycling in Nairobi
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                       <div class="slide-read-more slide-read-more-horizontal clear-block border">
+                        <a href="http://sci.uonbi.ac.ke/node/10106">
+                         Read more...
+                        </a>
+                       </div>
+                       <!-- slide-read-more-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="300" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/young%20innovators%208-04-16.jpg?1458023534" width="605"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          Young Innovators Forum scheduled for April 2016
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="400" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/Internet%20of%20things.jpg?1458023489" width="604"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          Enhancing Innovation in Technology
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="562" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/Intake%20April%202016_1.png?1456410891" width="1200"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          May 2016 Admission for Masters at SCI
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                       <div class="slide-body-horizontal clear-block border">
+                        <div class="slide-body-inner clear-block border">
+                         <p class="rtejustify">
+                          Admission for the following Masters programmes at the School of Computing and Informatics, May 2016 intake, is now open:
+                         </p>
+                         <p class="rtejustify">
+                          1. MSc in Applied Computing
+                         </p>
+                         <p class="rtejustify">
+                          2. MSc in Distributed Computing Technology
+                         </p>
+                         <p class="rtejustify">
+                          3. MSc in Computational Intelligence
+                         </p>
+                         <p class="rtejustify">
+                          4. MSc in Information Technology Management
+                         </p>
+                         <p class="rtejustify">
+                          For details see the attachment
+                         </p>
+                        </div>
+                        <!-- slide-body-inner-->
+                       </div>
+                       <!-- slide-body-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="380" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/SCI%20graduates.jpg?1450075995" width="574"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          74 Graduate from School of Computing during UoN's Fifty-Fourth Graduation
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="380" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/SCI%20Rehearsal.jpg?1450074835" width="494"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          Sch. of Computing Director calls out Graduates names during 54th UoN Graduation Rehearsal
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="2368" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/MLABcapacity%20building%20%282%29.jpg?1445856808" width="4224"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          MLAB in KE Capacity Building, Launch, User Engagement &amp;Research Strategy
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="slide clear-block border">
+                    <div class="slide-inner clear-block border">
+                     <img alt="" class="imagefield imagefield-field_ddblock_if_image" height="251" src="http://sci.uonbi.ac.ke/sites/default/files/cbps/sci/sci/c4d%20groundbreaking02.jpg?1440492243" width="448"/>
+                     <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+                      <div class="slide-text-inner clear-block border">
+                       <div class="slide-title slide-title-horizontal clear-block border">
+                        <div class="slide-title-inner clear-block border">
+                         <h2>
+                          C4D ground breaking
+                         </h2>
+                        </div>
+                        <!-- slide-title-inner-->
+                       </div>
+                       <!-- slide-title-->
+                      </div>
+                      <!-- slide-text-inner-->
+                     </div>
+                     <!-- slide-text-->
+                    </div>
+                    <!-- slide-inner-->
+                   </div>
+                   <!-- slide-->
+                   <div class="controls">
+                    <span>
+                     <a class="prev" href="">
+                      Prev
+                     </a>
+                    </span>
+                    <span>
+                     <a class="next" href="">
+                      Next
+                     </a>
+                    </span>
+                    <span>
+                     <a class="pause" href="">
+                      Pause
+                     </a>
+                    </span>
+                    <span>
+                     <a class="play" href="">
+                      Play
+                     </a>
+                    </span>
+                   </div>
+                  </div>
+                  <!-- slider-inner-->
+                 </div>
+                 <!-- slider-->
+                </div>
+                <!-- container-inner-->
+               </div>
+               <!--container-->
+              </div>
+              <!--  template -->
+             </div>
+             <div class="item-list">
+              <ul class="pager">
+               <li class="pager-previous first">
+               </li>
+               <li class="pager-current">
+                1 of 4
+               </li>
+               <li class="pager-next last">
+                <a class="active" href="/uon_news?page=1">
+                 ››
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="uonbox uonpost">
+          <div class="uonbox-body uonpost-body">
+           <div class="uonpost-inner uonarticle">
+            <div class="uonpostcontent">
+             <div id="mission">
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+           <div class="cleared">
+           </div>
+          </div>
+         </div>
+         <p>
+         </p>
+         <h2 class="title">
+         </h2>
+         <div class="node site_news promote">
+          <div class="uonbox uonpost">
+           <div class="uonbox-body uonpost-body">
+            <div class="uonpost-inner uonarticle">
+             <div class="uonpostmetadataheader">
+              <h3 class="uonpostheader">
+               <a href="http://sci.uonbi.ac.ke/node/11207" title="Intel Student Partners">
+                Intel Student Partners
+               </a>
+              </h3>
+             </div>
+             <div class="uonpostcontent">
+              <div class="uonarticle">
+               <p class="rtejustify">
+               </p>
+               <p class="rtejustify">
+                <img alt="" src="/sites/default/files/cbps/sci/sci/Website%20Photo%200.jpg" style="height:375px;width:500px;"/>
+                The Intel Student Partners of University of Nairobi held their training on Internet of Things (IoT) and Health Hackathon at the School of Computing and Informatics on Saturday June 4, 2016.
+               </p>
+               <p class="rtejustify">
+                The training, offered to 59 students of Computer Science and Electrical and Information Engineering,   covered the concept of IoT and programming the IoT using the Intel Galileo development board.
+               </p>
+               <br/>
+               <br/>
+               <b>
+                Location
+               </b>
+               <br/>
+               SCI Labs
+               <br/>
+               <a href="http://sci.uonbi.ac.ke/node/11207" style="text-align:right;" title="Read More....">
+                <b>
+                 Read More....
+                </b>
+               </a>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="node site_news promote">
+          <div class="uonbox uonpost">
+           <div class="uonbox-body uonpost-body">
+            <div class="uonpost-inner uonarticle">
+             <div class="uonpostmetadataheader">
+              <h3 class="uonpostheader">
+               <a href="http://sci.uonbi.ac.ke/node/10983" title="Induction of 2016 MSc Students at SCI">
+                Induction of 2016 MSc Students at SCI
+               </a>
+              </h3>
+             </div>
+             <div class="uonpostcontent">
+              <div class="uonarticle">
+               <p class="rtejustify">
+               </p>
+               <p class="rtejustify">
+                <img alt="" src="/sites/default/files/cbps/sci/sci/Orientation%20%285%29.jpg" style="height:400px;width:550px;"/>
+                The 2016 MSc intake at the School of Computing and Informatics was taken through an induction session on Monday May 23, 2016.
+               </p>
+               <p class="rtejustify">
+                This is the fourth intake for the current MSc programmes at the School: MSc Applied Computing, MSc in Computational Intelligence, MSc in Distributed Computing Technology and MSc IT Management.
+               </p>
+               <br/>
+               <br/>
+               <b>
+                Location
+               </b>
+               <br/>
+               SCI Labs
+               <br/>
+               <a href="http://sci.uonbi.ac.ke/node/10983" style="text-align:right;" title="Read More....">
+                <b>
+                 Read More....
+                </b>
+               </a>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="node site_news promote">
+          <div class="uonbox uonpost">
+           <div class="uonbox-body uonpost-body">
+            <div class="uonpost-inner uonarticle">
+             <div class="uonpostmetadataheader">
+              <h3 class="uonpostheader">
+               <a href="http://sci.uonbi.ac.ke/node/10437" title="Health Informatics Hackathon">
+                Health Informatics Hackathon
+               </a>
+              </h3>
+             </div>
+             <div class="uonpostcontent">
+              <div class="uonarticle">
+               <p class="rtejustify">
+               </p>
+               <p class="rtejustify">
+                <img alt="" src="/sites/default/files/cbps/sci/sci/20160324_175705%20%281%29.jpg" style="height:220px;width:500px;"/>
+                The second Health Informatics Hackathon organized by the School of Computing and Informaics took place from 22 - 24 March 2016, having 33 students involved in the 3 day hack challenge. The hackathon is part of the mandate of AfyaInfo, a USAID funded project, to increase technical capacity and skills in National Health Information Systems.
+               </p>
+               <br/>
+               <br/>
+               <b>
+                Location
+               </b>
+               <br/>
+               SCI Labs
+               <br/>
+               <a href="http://sci.uonbi.ac.ke/node/10437" style="text-align:right;" title="Read More....">
+                <b>
+                 Read More....
+                </b>
+               </a>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="node site_news promote">
+          <div class="uonbox uonpost">
+           <div class="uonbox-body uonpost-body">
+            <div class="uonpost-inner uonarticle">
+             <div class="uonpostmetadataheader">
+              <h3 class="uonpostheader">
+               <a href="http://sci.uonbi.ac.ke/node/10145" title="SCI Students visit MIT and Harvard">
+                SCI Students visit MIT and Harvard
+               </a>
+              </h3>
+             </div>
+             <div class="uonpostcontent">
+              <div class="uonarticle">
+               <p class="rtejustify">
+               </p>
+               <p class="rtejustify">
+                <img alt="" src="/sites/default/files/cbps/sci/sci/20160309_180447.jpg" style="height:225px;width:400px;"/>
+                As part of the mentorship programme, two third-year students at the School of Computing and Informatics had an opportunity to visit MIT (Massachusetts Institute of Technology) for two weeks in March 2016. This was facilitated by the Digital Matatu Project between the School and the Civic Data Design Lab at MIT and funded by World Bank.
+               </p>
+               <br/>
+               <br/>
+               <b>
+                Location
+               </b>
+               <br/>
+               SCI Labs
+               <br/>
+               <a href="http://sci.uonbi.ac.ke/node/10145" style="text-align:right;" title="Read More....">
+                <b>
+                 Read More....
+                </b>
+               </a>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="node site_news promote">
+          <div class="uonbox uonpost">
+           <div class="uonbox-body uonpost-body">
+            <div class="uonpost-inner uonarticle">
+             <div class="uonpostmetadataheader">
+              <h3 class="uonpostheader">
+               <a href="http://sci.uonbi.ac.ke/node/10109" title="MIT Professor shares Research on Civic Data Design with SCI">
+                MIT Professor shares Research on Civic Data Design with SCI
+               </a>
+              </h3>
+             </div>
+             <div class="uonpostcontent">
+              <div class="uonarticle">
+               <p class="rtejustify">
+               </p>
+               <p>
+               </p>
+               <p class="rtejustify">
+                <img alt="" src="/sites/default/files/cbps/sci/sci/Sarah%20Williams%202_0.jpg" style="height:265px;width:400px;"/>
+                Sarah Williams, an Assistant Professor of Urban Planning and the Director of the Civic Data Design Lab at Massachusetts Institute of Technology’s (MIT),  gave a seminar to students and faculty of the School of Computing and Informatics on Monday 21 March 2016. Over 150 undergraduates and postgraduate students as well as faculty attended.
+               </p>
+               <br/>
+               <br/>
+               <b>
+                Location
+               </b>
+               <br/>
+               SCI Labs
+               <br/>
+               <a href="http://sci.uonbi.ac.ke/node/10109" style="text-align:right;" title="Read More....">
+                <b>
+                 Read More....
+                </b>
+               </a>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="item-list">
+          <ul class="pager">
+           <li class="pager-current first">
+            1
+           </li>
+           <li class="pager-item">
+            <a class="active" href="/uon_news?page=1" title="Go to page 2">
+             2
+            </a>
+           </li>
+           <li class="pager-item">
+            <a class="active" href="/uon_news?page=2" title="Go to page 3">
+             3
+            </a>
+           </li>
+           <li class="pager-item">
+            <a class="active" href="/uon_news?page=3" title="Go to page 4">
+             4
+            </a>
+           </li>
+           <li class="pager-next">
+            <a class="active" href="/uon_news?page=1" title="Go to next page">
+             next ›
+            </a>
+           </li>
+           <li class="pager-last last">
+            <a class="active" href="/uon_news?page=3" title="Go to last page">
+             last »
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="uonlayout-cell uonsidebar2">
+         <div class="clear-block block block-block" id="block-block-2">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Director's Message
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <img alt="" src="/sites/default/files/cbps/sci/sci/Director%20SCI%20%2C%20Prof.%20William%20Okelo-Odongo.jpg" style="height:130px; width:180px"/>
+               </p>
+               <p>
+                Prof. William Okelo-Odongo
+               </p>
+               <p>
+                <a href="http://sci.uonbi.ac.ke/node/70">
+                 Message from the Director&gt;&gt;
+                </a>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-21">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Deputy Director
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <img alt="" src="/sites/default/files/cbps/sci/sci/CeDCOM/Moturi%203_0.jpg" style="height:170px; width:180px"/>
+                Christopher A Moturi
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-7">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              News and Events
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul>
+                <li>
+                 <a _cke_saved_href="/uon_events" href="http://sci.uonbi.ac.ke/uon_events">
+                  Events
+                 </a>
+                </li>
+                <li>
+                 <a _cke_saved_href="/uon_news" href="http://sci.uonbi.ac.ke/uon_news">
+                  News
+                 </a>
+                </li>
+                <li>
+                 <a _cke_saved_href="/uon_outreach_activities" href="http://sci.uonbi.ac.ke/uon_outreach_activities">
+                  Outreach activities
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-17">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Honours Roll
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1508">
+                  Honorary Degree Holders
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1509">
+                  Higher Doctorate Holders
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1510">
+                  Alumni with National Honours
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1511">
+                  Distinguished Guests
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1512">
+                  PhD/MD holders
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1513">
+                  Valedictorians
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1514">
+                  Creative works &amp; innovations
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1515">
+                  Award Winning Books &amp; Autobiographies
+                 </a>
+                </li>
+                <li>
+                 <a href="http://sci.uonbi.ac.ke/node/1516">
+                  Prize Winners
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-8">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Media Center
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+               </p>
+               <table border="0" cellpadding="0" cellspacing="0" style="width:200px">
+                <tbody>
+                 <tr>
+                  <td>
+                   <a href="/image">
+                    <img alt="" dir="ltr" src="/sites/default/files/icons/gallery.png" style="height:28px; width:50px"/>
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/image">
+                    Photos
+                   </a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <a href="/uon_video_links">
+                    <img alt="" src="/sites/default/files/icons/youtube.png" style="height:32px; width:32px"/>
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/uon_video_links">
+                    Videos
+                   </a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <a href="www.facebook.com/uonsci">
+                    <img alt="" src="/sites/default/files/icons/facebook_0.png" style="height:32px; width:32px"/>
+                   </a>
+                  </td>
+                  <td>
+                   <a href="https://www.facebook.com/uonsci">
+                    Facebook
+                   </a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <a href="https://twitter.com/sci_uon">
+                    <img alt="" src="/sites/default/files/icons/twitter.png" style="height:32px; width:32px"/>
+                   </a>
+                  </td>
+                  <td>
+                   <a href="https://twitter.com/sci_uon">
+                    Twitter
+                   </a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <a href="http://blogs.uonbi.ac.ke/sci">
+                    <img alt="" src="/sites/default/files/cbps/sci/sci/BLOG.jpg" style="height:32px; width:31px"/>
+                   </a>
+                  </td>
+                  <td>
+                   <a href="http://sci.uonbi.ac.ke/node/2064">
+                    Blog
+                   </a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <a href="http://sciuon.wordpress.com/">
+                    <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAA1CAIAAABuhDQnAAAUiklEQVRogdWZ93PTZ5rA72/Yudu72725udlymd1NJQUSisFgQsAkBJYcEDqhJaEEMGDcseUi925j496bZFmS1YtlyeqS1XvvXVb7qn7vB4IpcbIpO3N7z2g0o9Hzfd/P+zzv932f8k/gP7b80/81wN+Qb/kymUwmk/npjyfjQNTp8+mtboXOIlDqhUqDSKGXaox6s83l8kajoUwmDoI/Y+SfyPdUIf3kp9+/xpOb5pnKfoqihaiswSghaAUEraxAKaqQ8iqktA4lbcPK+omiuWUxXaCy2T0gmFof6ifz/Qh5MmhSZ3Ev0NVdFE01RVeGVT2Ar5bN8Org3E4UbwDDHcLxh3C8fiyvFcmvhglKZ3hlKGk9TtqJEYzh2RKVJpWM/3i4jfkyL0o6/a3NHC7vDE0GxSjKiZoSlKhqmjGCXmHzpWaT2eN0Brwer8fl8bh9Hr/f6/N73U6HQ6ExLC4Ju+fZtfNCKEZRO88ZQXFVOtO6H/4OfCAIxoEYlSdvxUrL8KoyOK8DtsTgSD0Oh9ftEWssizztBE3RT5H3khWPSYo+svoxSTFKki7QVTyZ0enwhgJ+tUY/hWc3wvkVCEk1jD1HYQcCgV/OlwbBjD/gnyTwainyEpSkeZImEChCgYBc65iiqTrIqi66YVDknNWtIS1hjB3AORJYWxxljs5pQyNiz6NlYytW2o8TrqxqIyGf3WKdwLPKZ1cgC6IOGF2vN63P+HP4QDBjtzkfoTm1NF3pNGuWSF/z+RQG5yOctIGsGVb5UM4k0ZsheVNET5LoThLdcYI7gXemCM4k0Z0kuBMETwprB6YU/maSphHGYYjU8VhYoFDVTdLKEVLIGEMoU/1M+4Fgxmyxds6z68k6yCiVL5SHggH4sqyGIBtVB/HeJMGdwLkAjBPAPPl2AhgnsOgAMI4UxpFC2xMoG4C0xZBWAGsDcM7UmDJUjpR2Itg2h8vvdfXOM4vmlQXjTNaqAgQz4PeYcAO+Jy+E0+3uhDNrCJrqEbJOrzHZvW0Lgi6WFe1KYlwpjB3A2GOLjjjWGcc4YhhHDOMAFh1xtB1A2wC0LY6yxhFWAG4D5qzAvDkOMwJwQxSmi7esOCEzQp7cFAz4h1D8W7PqO2NckdwAghsTbnS+ZDKRSKgHxaghG6qGqAaTXmO0QuG8AakH5Uws2OIISwJpBZA2AOlIoBwJpA1AWQGUJY6wxOHmGNwchZtjcHN81hyfNgFTxuiUITqpi06oI1Oq+JAwcmuEf7N+zup0x2PRXhTv8qw6f4jlsLt+tP1SCQSFW4NTFg1TNSqNwWyrmWaPy4IIawxmicEtMbg5Nm+OzZsBuBWAWeMzZmDGBMwYgSlDbNIQndBHx/WxcR0wpgPGdcC4FhjVxkbU0REl0M5wF3ehEItUo9kWB+IgCIbD4UYY//y4GjrOjkUj371pNuCTqnXVcMH9CR6RwXW7PK0w/pQ0jDWl500puDU9b03PGeOzutiMLjptik1bkhPm1JgxOapPjurjo7rEiDY1ok2N6JJPPmOa+KAqNiCP9IliRYP0ZQbnpelsds/tYe6pIeUCVbh+x2zIlwHBdDweaUUw82HKzhlKLBbqmCLe7afXISW1cFEtUlaDUdbi1T2r/nEtMKyNtbAdFTht+aKhGKkrnFcVw+XFcFkxTFICkzxckFag5eWLmlZ2oEca6RGFO1f8kD6M1+v57n5aWdUd6xV/3cs1Wqw/zJdZXlXcmZYVDlCMJkMqkxDLtfglziKFgaUw8JQVAok+hyQXTXJ6lbG21cCDbiwCQyXSBKRlIY7KxVN4eAoHT2UQqAwiZZlIXkYsLj8Y4TYLIu28tZYlX0Uvxut2f9djIJhonBV+3Cl/hGD9kH8BAKiZYd+cEM8s0sAXj81UMjGFZvcjed0oQeWirkcc6eAHy6b4PShhP5qvfXrSPpFAMNA5TXqM5PcsCIpgqjp2uJEZaKH67j+iKFWaF0fOSNRqk82sNTk/75adbl56YqYN+NLJuERhvD0ly3tMNVvMNocrkUis/xuJhKv6sQ/hxiaKp5W31ioMtQlDrdxwLcWXP6ltHsIn4nHw6Rnh8fq+akLdn7WVLjohy8FKxhp0OdBI8d4dlg/MEMFM6vmVE+iCmseIZCLaOLv6Yb3A47JvbD+jyTGMEV4cVT6eWfL5fXlNc8xV5fNrXaSwCkaEHXR/E9PXwAk08IJN3FDrSrAB773dgdEZjc/tlPQjOO32iKYC7y2jBsqWgw+X/JVE30OU+1L9okSueJ5ApDQcejAl1xh4csPBRiGOwt+QL41jy0onOWe72BKJnCNRn+lkNY6QUslnJrQ5HDdbCbU4d+2Su2bFD2UFa5iBapoHivdee8SHYenP+4UllF9uZZUgnKVEbzE1WEwJFhMCxSjPlUFtYQcMiATXVy5RGnIhK93T9Oia78suRtUgLZMCvsOXSXQu8K70cvLaCX6vuxcjvTltut6KN5stz4ySSdcNER5MamqI7oolfyVjrXI5WE71V2A9d8YMJV3oWDSyruzzum+1Eq4MGK+MWy9MO8/OuE5POk8M2j7tMu4qIOLJ7Cf3KAiCTJEqt054tY0eCXo65zhnGoh+j+tlvlAkWDjCPdnCaRomBgPB/FHxzTnXpU7uAoH2vFXIK6KLHYwKtLuU4C6j+h9S/cVkX+Gi6+6c9VwlVq3WP7VKJpNJtE1R3shnZkE1+9oN+3tMub3WD9vMW6uVr+TxbzQuxCKhJ36DU1e3QYT7a/hKnZHKUWYVE8RS+ct8NrfrQhvzSC19Dks3WN0Xelcvz9kvDWgfPkLHYs+s4nI6vmrC3J6yPEA5C3G+QkLgAc5/F+W+M2M50cAdhBFBMP2EDwRBjki+KQ/7boV8b6s+t8d8qM9+oMua3ah7vUi6+x5ao9WBIAhmUpVjzH+7vfrKXT6WJjJYbH+6jsXRuC/zaYyWI1DaoSoygy3gqywneiQXp+2Xh43noDilWv/MxalEwzj5XJf0zqztDtJ9F+29s+i5seD8atJ0skt1tRYeCATXlcOhtZOViNfyBbsa1Pu7TJ88tuV2m/e06N5+KHv7Gwx1RQCCoNcX+LSK+s+35b+5I+iDswP+wK/Oogbm6S/zCeT6bQXED0uwEqmCJtIf65FemrZfHtEfqWVMIMhgJpN56uUljvgolHZlxHRjxnZj3n4dYf8SZvtizHiqW7u/GMviiMBnkumcxv33Tdr2Kvm+Nv3BHmvuI3NOq3Zzlfz1WzgEkQ2CIImnfuX2ym/zNb/NE9YMLUfW/L86h6zqx69vqm/5mCL9b84j3ro+p9LoMEzV3jrx0UHz6WH95x3SW41zoVBo/QGPx3WpdvF4h+LyiOnLGdsVmP3ijP3MsCm3SZGVh6DSmc/zSRXKd68tvFeyurdZfaDbvL/LlNOqfb9a8U4eAU3hgJlYyTD7P+6u/r5Y/V93V0t6KLGw/1/PLRR1otcv4nU+7W8uIDbdgKs1WiRD+Zf7nE3Vym2NihyobPddmFAsfTZpOtkySvy4hnu2T3dhzHRuynJ8xJLbpnmjUHC0YNTjtIEgmM6kn6QHABA8Wz776n1mdq18f6fpo07jnmbdlipF1gM8SyDx+rw5Fcu/K1L8qVT1h/urRb3kWDjw6/OIBx1IEEy86F+p7j+/mH/ja5hMqSXyVJsKWe9AVO9VK98qE71yjdw2jALBZ4c+nSPacx+zv07ycbs6t0u/r12bBVW+eZdV92jW47LbbY5MOvU0CE/2zS29eh23vVKc06rd26bf1aB7DyI/DsE4HQ4MU/5qAevVUvnrZco/5/Mhg6Tomv/X5xAVPaiX7afR2/5wCf6nyzM8oYwrN39QTN9SqdhWK9tWLX7jHvd44XTA41z3WsDvPVo8+3Y+ZzdUntOq392i216r2nYfyVjh9sEpxe2zQCK2bm6FWpOVN7+5WLirXp7dpN5Zr95SKqrqJcXCwfy+lT+XSN6uUL5ZIXuzgNU5RVvze//lDKx7ivjy/rM5Xe98g/jjxdlFEs9gce0rp22GyHbUK3bWKd4vFbx7E0amfxtZZDIgCKZaRrGv36JmQUTZTapdTZoPamSnK+EGne5kJXbrjVGj0bDOF4sGv2xEvH2XuaNKnlUn3wZV7ipZwZC5BrN7fxXzPYhic43iPYh0c+EyDM+yOV3/fnYahvvO+xuLBg89xP3xMqJjjBAMBs80UN8tF+9qUO5uVGdXiTbdIZd3zaXiwFM+kC+Rb7kB/6CEv6NGuq1OsbWC1zhC4opU79wm/O7KAgy99NxbkhpGLL19E7elVPhBtXhLtfxQGV6v182Q5O+X87ZClVtrVVuqlDnFJL5QypZo/3J1ls3hvcwHgqn7PUtv3UBdrZsHot6qMea7ZYLsRmVOi3pvvXh7IfNw/oTJ9CyICkdDJ8sm3spbfr9CtAUq3/NwmcYStcOFf7xL//31pStVE0A0vK6sVOt3353blM96r2L17YrVvHac3+W61cN9v0qyvV61o065GSI9V4XyOO2DSOFH+dM2s/67fOA4QXgEgs26PWm3mwks1Y5Sxp562Uctio+aZTkQ3vu3ETAc7TmrZDonya9dx24uFW6ukpxtJIuV6pNN7LceCt/IZ2+7OSaRitdV47HIjYa5V7+hbSoTvFvMHkUypGrLgWrGjnr5rgbljjr51lJuTf9iNOK73r58p3E+Hg1uwKfUGSFDpFe/RiBITI/X93kNZWeN+ECT9GCLYj909YMHpPtNM8BzEYBAovzgzvSb+ax3izmNE0t4ljwbys+qk257yH/n1mLfBBrMPCuyzKKpr9/EvFbEyy7Cr4pUg3jJDqhwV5Myu0G+vVaxs5BEY/K1Zkd2MXEcRtg4Pk0lADpfsekm6kYdPBFdezTL2faQua9RcqBVcaBBnFPOzr0zolI9S/dDa8FL0Pk/317a8YCIX+LUTQt21ctympU5tatbC5evVE4GfL51ZYvVvDtv7i/3WOehC0aj6UonI6tOnt2s2F0v21EhvgydD/l9wyjxmzexGrXyOS+9GN+Hw+FzNcj3v5ljCUROp+fTCkxOrSS3XZbbKtsP5W3PQ/TPYb/1biYDgumhefprtwhnKqb5/NVzrcz9LcqP21UHWyQfVXH25c0y2IL1kdNp4G7rwms3MC0jaCZftrd8ZXeTfHeTLKtellOEWyAue72BY9WU7NtT6WTse/lAEJwncd+4tnC/HZGMh0Yw/Kwy+oEW2YE2WW69MLts6avKkcjas9ByVaHNyZusfTyHJrM/qWV82i3/a6/yaLfsSBN/TwGmeXA+/W21LwOCGRiRv+3rARKV0TZJz4Jwc1pku5tl2yvZea2wUMg3hBe9mYctbZsDX8yBX+YLra1dgC5uvTVHpPOisejNDkp2JXd/q+Rgs3gflH3g3iRHKF7nC0XCBfUDOBK1chB/oIF7rFd5clDz+YDqRJfkYA3jHGTcZn+WTBhM1ns1XXye6CwUvRMq3NMsymqQHHm4IBSJLU7PoQryvvswBof/Es8G+fkyV7z7HuJE6azT7dYarKeg+D0NotwWycE6fnYhrmVkIZ1MPOHLZDIOh10ikZ+oRh9uXz09oL4wpj8/qjvTpzjeys8thOGozPX9kEwkXHYrhsLZU4LdVSvMahDvLcXC0bQEEC4dZm+9j20dWgCikZdqbRvwJRPhpnHS5jx0xSMUAISYAtWhSuyuRtGBxtXd5SsXK6bsdsv6rCAIzmDon1RTTvbIvxjRXp0yXpk0XhxRne1ePQyhVrRPJxPAuiYIpit6UDtLl3dApbtLqB3DuGRkbYIk31lEv1w9bTTo1oP+H+IDwYzb47nRtJB1D9k1SwZTESJL8gkEuxMq2lvDzy1AkJefZdFxIHavHXG0iXt+QHF1XHNtxnhtxvzlpO5iv+REM+dUybjRaFznMxhMpyoQu6r4e0pJLcM4IOwn8jQHKumHCqYZbO5GJN9fH9fqjKcr5/c8QA3CaGAiwhGozkIpWRDOh5Dlqr7FZPzbFEssV39egTnZIf5iWH11Untt1nB9Tn9tWnt1WHGhQ3CkDD29QHiKl4YR2B+WEA6XzQ/NkuKRwDLf8Gk1Pbd4bg6Nz2Q2rpt/H18GBDN8seJsJerDIkTnNDUeDVksrqLH5ANl2OMP5w0GKwiCYCb5eIZ0tIZ+ult8fkTz1ZTh+ozp+qz+62n9pVH1hR7x8VpGQfNUOOgHQXAtHHnQBrsMGVtaYqXja4sryr/W0Q+VIEdh2Hgs/D0YP8SXBsGMUKS8XIvcW7wI6SebLY4MEERTuVerR3FLbBAEvT5PXgv6eCP/bI/4wrD66oTuyynDV1O6q5O6L0bVZx9LjrVwPq+A8ValIAgGw2HCMtdhM4WCwR606BMo43AZfBqBi8ei4PeXoP92/0NnMBd0oQ+WYc83kpB0BRANBf3uQDAAgiCLLz9RjvqsgXW8W3xmUHluVHt+THd+THd+RHu6X33skfiv9bTjpbMLmKcXdzrBVhju9LM+qqKfq0JiSfTUi6fxT+Z7sqig3zsEp52CYvdXUgr6WVS+1h8Ig2DG5/PA8EzoEP5eN/5aJ+lyB/ViO/VyO/Xr9qVbnZSSPkL3LG6FyVkLeMORMEdqqp3jH65nHKwiP+xGr4plT4LkH24n/Zj+UQYE02AqLlhVQPoJR6oIh+uWbw8wx/EikdocWvMDkUDY57bbLCqtTqHSqNU6k8Hkd7tiAU94zW+wuhBMddnk6rFm9v5q8lfNGPgiPbhBFfDn84HrtetoOETjiMsHsKfq0UehxFNNS3d6GY0w/ghJhmGp6CIjS2pmSE14nm5mSd2BkuaPcs90sg43sj6rXb7Vip9GrphNFjD9cpH0l/O9cCkmgZBcoZpCLlX3Ya+1LZ6pxfxPFeFoLeVYI+14E+2zpqUjjbRPoeTP6ijnW0gFj/Dd01TKisDrdvyMFuEv6v/GwmtGo4HDE2FJrNGFpfZxbPMwum0M2wcjwwkrZCZfqlB53c5M6qf1BP9ufC9KGswkM+lEJp0EweQv6fk+L/9P+uf/sPK/F88Y7qw57e4AAAAASUVORK5CYII=" style="height:28px; width:28px"/>
+                   </a>
+                  </td>
+                  <td>
+                   <a href="http://sciuon.wordpress.com/">
+                    Wordpress
+                   </a>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <p>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-9">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Community Outreach
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <ul>
+                <li>
+                 <a _cke_saved_href="http://sci.uonbi.ac.ke/uon_community_outreach" href="/uon_community_outreach/staff">
+                  Staff
+                 </a>
+                </li>
+                <li>
+                 <a _cke_saved_href="http://sci.uonbi.ac.ke/uon_community_outreach" href="/uon_community_outreach/students">
+                  Students
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-1">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Contact Us
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                P. O. Box 30197 - 00100 GPO Nairobi
+                <br/>
+                School of Computing &amp; Informatics Building
+                <br/>
+                Chiromo Campus, off Riverside Drive
+                <br/>
+                University of Nairobi
+                <br/>
+                Tel: +254-4447870,
+                <br/>
+                +254-4446543,
+                <br/>
+                +254-4446544
+                <br/>
+                Fax: +254-4447870
+                <br/>
+                Email:
+                <a href="mailto:director-sci@uonbi.ac.ke">
+                 director-sci@uonbi.ac.ke
+                </a>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clear-block block block-block" id="block-block-11">
+          <div class="uonbox uonblock">
+           <div class="uonbox-body uonblock-body">
+            <div class="uonbar uonblockheader">
+             <h3 class="t subject">
+              Locate Us
+             </h3>
+            </div>
+            <div class="uonbox uonblockcontent">
+             <div class="uonbox-body uonblockcontent-body">
+              <div class="content">
+               <p>
+                <img alt="" src="/sites/default/files/cbps/sci/sci/SCI%20Google%20Map.png" style="height:176px; width:200px"/>
+               </p>
+              </div>
+              <div class="cleared">
+              </div>
+             </div>
+            </div>
+            <div class="cleared">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="cleared">
+     </div>
+     <div class="uonfooter">
+      <div class="uonfooter-body">
+       <div class="uonfooter-text">
+        <p>
+         <a href="http://www.uonbi.ac.ke/">
+          UoN Website
+         </a>
+         |
+         <a href="http://erepository.uonbi.ac.ke/">
+          UoN Repository
+         </a>
+         |
+         <a href="http://ict.uonbi.ac.ke/">
+          ICTC Website
+         </a>
+        </p>
+        <br/>
+        Copyright © 2016. ICT WebTeam, University of Nairobi
+       </div>
+       <div class="cleared">
+       </div>
+      </div>
+     </div>
+     <div class="cleared">
+     </div>
+    </div>
+   </div>
+   <div class="cleared">
+   </div>
+   <p class="uonpage-footer">
+   </p>
+   <div class="cleared">
+   </div>
+  </div>
+  <script src="/sites/all/modules/google_cse/google_cse.js?E" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "googleCSE": { "language": "en" } });
+//--><!]]>
+  </script>
+ </body>
+</html>

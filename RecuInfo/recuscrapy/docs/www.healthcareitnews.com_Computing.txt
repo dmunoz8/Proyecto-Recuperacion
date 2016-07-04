@@ -1,0 +1,1940 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html dir="ltr" lang="en" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:product="http://ogp.me/ns/product#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:video="http://ogp.me/ns/video#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="http://www.healthcareitnews.com/sites/default/files/healthcareitnews_favicon.png" rel="shortcut icon" type="image/png"/>
+  <meta content='Universities are key incubators of "early-stage, high-risk, high-yield research that transfers to the private sector."' name="description"/>
+  <meta content="Drupal 7 (http://drupal.org)" name="generator"/>
+  <link href="http://www.healthcareitnews.com/sites/default/files/Jon%20White-HITN.png" rel="image_src"/>
+  <link href="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability" rel="canonical"/>
+  <link href="http://www.healthcareitnews.com/node/526051" rel="shortlink"/>
+  <meta content="Healthcare IT News" property="og:site_name"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Academic medical centers are helping drive EHR interoperability" property="og:title"/>
+  <meta content="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability" property="og:url"/>
+  <meta content='Universities are key incubators of "early-stage, high-risk, high-yield research that transfers to the private sector."' property="og:description"/>
+  <meta content="2016-06-10T14:33:19-04:00" property="og:updated_time"/>
+  <meta content="http://www.healthcareitnews.com/sites/default/files/Jon%20White-HITN.png" property="og:image"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability" name="twitter:url"/>
+  <meta content="Academic medical centers are helping drive EHR interoperability" name="twitter:title"/>
+  <meta content='Universities are key incubators of "early-stage, high-risk, high-yield research that transfers to the private sector."' name="twitter:description"/>
+  <meta content="http://www.healthcareitnews.com/sites/default/files/Jon%20White-HITN.png" name="twitter:image:src"/>
+  <meta content="2016-06-10T14:32:47-04:00" property="article:published_time"/>
+  <meta content="2016-06-10T14:33:19-04:00" property="article:modified_time"/>
+  <title>
+   Academic medical centers are helping drive EHR interoperability | Healthcare IT News
+  </title>
+  <link href="http://www.healthcareitnews.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.healthcareitnews.com/sites/default/files/css/css_u9Cn6xFPfn6NvRqMGUV6k10stVTR4AGT7eontS75hX4.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.healthcareitnews.com/sites/default/files/css/css_MVVIL4-dJrc8RiyYVHd_XwQr-iBVKNSn0mnZsuTetLY.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.healthcareitnews.com/sites/default/files/css/css_Uv3qHi_hnnRQnpchFPJWLDWtSBRbg-ZYEwPJPSSE6Jw.css" media="all" rel="stylesheet" type="text/css"/>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_MpKfe1sTh5JIVGCZ17DsAuT1rqAC38MLLlkjqjQ1X_k.js">
+  </script>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_yAicZujtqUhpCyuBiQyVA1uGwMX8V0A0ym_4Jb35kBQ.js">
+  </script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js">
+  </script>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_LaOkRD4lZT0NCILVtrSG4ffj6osDZfSFvnoMUfQ37VE.js">
+  </script>
+  <script src="https://use.typekit.net/ssm0zoe.js">
+  </script>
+  <script>
+   try{Typekit.load({ async: true });}catch(e){}
+  </script>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_zDncxNYnaBN8qEFNk3TbdcVUz3C_zP2YIVUfSYvoCpI.js">
+  </script>
+  <script>
+   var switchTo5x = true;
+  </script>
+  <script src="http://w.sharethis.com/button/buttons.js">
+  </script>
+  <script>
+   if (stLight !== undefined) { stLight.options({"publisher":"dr-17613d52-c063-2f4f-53da-60084ae0f079","version":"5x","doNotCopy":true,"hashAddressBar":false,"doNotHash":true,"onhover":false,"newOrZero":"zero"}); }
+  </script>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_UJZCUXD5YiLH7l_Z3QyTLLZDcCb5tnOAjGlmxRManS4.js">
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-331855-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+  </script>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js">
+  </script>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_cHYSBCSgmDAawItvfHQlR3057tzrVQD4_gwkL_29hyM.js">
+  </script>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_3ojyrjKJ2fMzo4QRVC2-YIlZo3PmBfgcWAlyn_CEkuE.js">
+  </script>
+  <script>
+   jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hitn_theme","theme_token":"HoxacYTrLyIZ3OrrngP9r7hakHKUtf0yKgy6-Te79OI","jquery_version":"1.10","js":{"sites\/all\/modules\/custom\/oas_blocks\/pushdown_script.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/custom\/hitn_display\/hitn_display_sidebar_ads_responsovness.js":1,"sites\/all\/modules\/custom\/hitn_display\/hitn_display_sitewide.js":1,"https:\/\/use.typekit.net\/ssm0zoe.js":1,"0":1,"sites\/all\/modules\/contrib\/views_load_more\/views_load_more.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"1":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"2":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/disqus\/disqus.js":1,"3":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/hitn_theme\/js\/main_menu.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/hitn_theme\/ds_layouts\/2_rows\/2_rows.css":1,"sites\/all\/themes\/hitn_theme\/ds_layouts\/3_rows\/3_rows.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/hitn_theme\/sass\/style.scss":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"disqus":{"domain":"prod-hitn","url":"http:\/\/www.healthcareitnews.com\/news\/academic-medical-centers-are-helping-drive-ehr-interoperability","title":"Academic medical centers are helping drive EHR interoperability","identifier":"node\/526051","status":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:d6e6ae889eff82a5c098e9004de17bc6":{"view_name":"himss_views","view_display_id":"himss_banner_block","view_args":"","view_path":"node\/526051","view_base_path":null,"view_dom_id":"d6e6ae889eff82a5c098e9004de17bc6","pager_element":0}}},"better_exposed_filters":{"views":{"himss_views":{"displays":{"himss_banner_block":{"filters":[]}}},"top_3_news":{"displays":{"block_3":{"filters":[]},"block_2":{"filters":[]},"menu_top_3":{"filters":[]}}},"most_read_news":{"displays":{"block_1":{"filters":[]},"block_3":{"filters":[]}}},"video":{"displays":{"block":{"filters":[]}}},"resource":{"displays":{"block_4":{"filters":[]},"block_2":{"filters":[]}}},"past_issues":{"displays":{"block_1":{"filters":[]}}}}},"disqusComments":"prod-hitn","urlIsAjaxTrusted":{"\/news\/academic-medical-centers-are-helping-drive-ehr-interoperability":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"div":"default"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});
+  </script>
+ </head>
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-526051 node-type-news">
+  <div id="skip-link">
+   <a class="element-invisible element-focusable" href="#main-content">
+    Skip to main content
+   </a>
+  </div>
+  <div class="region region-scripts-ini">
+   <section class="block block-hitn-display clearfix" id="block-hitn-display-munchkin-script">
+    <script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript">
+    </script>
+    <script>
+     mktoMunchkin("922-ZLW-292");
+    mktoMunchkinFunction("visitWebPage", {
+        url: "/news/dod-names-ehr-contract-winner", params: "topic1=ehr&topic2=governmentpolicy&topic3=hie&topic4=interoperability&primarytopic=interoperability"
+    });
+    </script>
+   </section>
+   <!-- /.block -->
+   <section class="block block-oas-blocks clearfix" id="block-oas-blocks-oas-init">
+    <script type="text/javascript">
+     <!--//--><![CDATA[//><!--
+
+    var oas_pagetag = 'healthcareitnews.com/' + 'directory/electronic-health-records';
+    // front
+    (function() {
+        var url = 'http://oascentral.healthcareitnews.com/RealMedia/ads/adstream_mjx.ads/',
+            pagetag = 'healthcareitnews.com/' + 'directory/electronic-health-records',
+            listpos = 'Top,Right1,Right2,Bottom,Position3,Position4,Position1,Frame1',
+            query = '',
+            rns = (Math.random() + "").substring(2, 11);
+        document.write('<script src="' + url + pagetag + '/1' + rns + '@' + listpos + '?' + query + '"><\/script>');
+    })();
+    //--><!]]>
+    </script>
+   </section>
+   <!-- /.block -->
+   <section class="block block-oas-blocks clearfix" id="block-oas-blocks-oas-ad-block-frame1">
+    <div class="oas-ad-Frame1-wrapper">
+     <script>
+      OAS_RICH('Frame1');
+     </script>
+    </div>
+   </section>
+   <!-- /.block -->
+  </div>
+  <header class="navbar fixed" id="navbar" role="banner">
+   <div class="supernav_signup">
+    <div class="container">
+     <div class="region region-signup-nav">
+      <section class="block block-boxes block-boxes-simple clearfix" id="block-boxes-menu-signup-subscription">
+       <span class="green-prefix">
+        Email
+       </span>
+       <h2 class="block-title">
+        The latest news in Healthcare IT – straight to your inbox.
+       </h2>
+       <div class="boxes-box" id="boxes-box-menu_signup_subscription">
+        <div class="boxes-box-content">
+         <script src="//app-ab05.marketo.com/js/forms2/js/forms2.min.js">
+         </script>
+         <form id="mktoForm_3126">
+         </form>
+         <script>
+          MktoForms2.loadForm("//app-ab05.marketo.com", "922-ZLW-292", 3126, function(form) {
+jQuery('#mktoForm_3126 div').removeAttr('style');
+jQuery('#mktoForm_3126 input').removeAttr('style');
+jQuery('#mktoForm_3126 label').removeAttr('style');
+jQuery('#mktoForm_3126 span').removeAttr('style');
+jQuery('#mktoForm_3126 button').removeAttr('style');
+jQuery('#mktoForm_3126 fieldset').removeAttr('style');
+jQuery('#mktoForm_3126 .mktoCheckboxList').on('click', function (e) {
+          e.preventDefault();
+var label = jQuery(this).find('label');
+label.toggleClass('option-checked');
+if (label.hasClass('option-checked')){
+jQuery(this).find('input:checkbox').prop( 'checked', true );
+}
+else {
+jQuery(this).find('input:checkbox').prop( 'checked', false );
+}
+});
+jQuery('#mktoForm_3126 .mktoCheckboxList input:checkbox').attr('value',1);
+jQuery('#mktoForm_3126 .mktoCheckboxList input:checkbox').prop( 'checked', true );
+jQuery('#mktoForm_3126 .mktoCheckboxList label').toggleClass('option-checked');
+});
+         </script>
+        </div>
+       </div>
+      </section>
+      <!-- /.block -->
+      <section class="block block-boxes block-boxes-simple clearfix" id="block-boxes-menu-magazine-subscription">
+       <div class="boxes-box" id="boxes-box-menu_magazine_subscription">
+        <div class="boxes-box-content">
+         <h3>
+          The Magazine
+         </h3>
+         <p>
+          <img alt="Magazine Image" class="supernav_magazine_thumbnail" src="/sites/default/files/magazine_covers.png"/>
+         </p>
+         <!-- http://placehold.it/160x120 -->
+         <p>
+          <a class="supernav_magazine_subscribe" href="#0">
+           Subscribe
+          </a>
+         </p>
+        </div>
+       </div>
+      </section>
+      <!-- /.block -->
+     </div>
+    </div>
+   </div>
+   <div class="container">
+    <div class="navbar-header">
+     <a class="logo navbar-btn pull-left" href="/" title="Home">
+      <img alt="Home" src="http://www.healthcareitnews.com/sites/all/themes/hitn_theme/logo.png"/>
+     </a>
+     <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+      <span class="sr-only">
+       Toggle navigation
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+     </button>
+    </div>
+    <div class="navbar-collapse collapse">
+     <nav role="navigation">
+      <ul class="menu nav navbar-nav">
+       <li class="first leaf">
+        <a class="nolink" href="#" id="link-menupopup">
+         <span>
+          Main
+         </span>
+         Menu
+        </a>
+       </li>
+       <li class="leaf">
+        <a class="nolink" href="#" id="link-signup">
+         Sign Up
+        </a>
+       </li>
+       <li class="last expanded dropdown">
+        <a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="/">
+         Topics
+         <span class="caret">
+         </span>
+        </a>
+        <ul class="dropdown-menu">
+         <li class="first leaf">
+          <a href="/category/resource-topic/electronic-health-records" title="">
+           EHR
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/privacy-security" title="">
+           Privacy &amp; Security
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/icd-10-coding" title="">
+           ICD-10
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/interoperability" title="">
+           Interoperability
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/telehealth" title="">
+           Telehealth
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/mobile" title="">
+           Mobile
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/financialrevenue-cycle-management" title="">
+           Revenue Cycle
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/analytics" title="">
+           Analytics
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/population-health" title="">
+           Population Health
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/category/resource-topic/patient-engagement" title="">
+           Patient Engagement
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="http://www.healthcareitnews.com/category/resource-topic/cloud-computing" title="">
+           Cloud Computing
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/womeninhit">
+           Women In Health IT
+          </a>
+         </li>
+         <li class="last leaf">
+          <a href="/category/resource-topic/government">
+           Government &amp; Policy
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </nav>
+    </div>
+   </div>
+  </header>
+  <div class="main-container">
+   <header class="white-row" id="page-header" role="banner">
+   </header>
+   <!-- /#page-header -->
+   <section class="col-sm-12">
+    <a id="main-content">
+    </a>
+    <div class="region region-content">
+     <section class="block block-system clearfix" id="block-system-main">
+      <div about="/news/academic-medical-centers-are-helping-drive-ehr-interoperability" class="node node-news view-mode-full clearfix row" typeof="sioc:Item foaf:Document">
+       <div class="ds-row-1 col-md-12">
+        <div class="ds-row_1 container">
+         <div class="field field-name-oas-sidebar-ad-left field-type-ds field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <div class="oas-ad-Position3-wrapper">
+             <script>
+              OAS_RICH('Position3');
+             </script>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="field field-name-oas-sidebar-ad-right field-type-ds field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <div class="oas-ad-Position4-wrapper">
+             <script>
+              OAS_RICH('Position4');
+             </script>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="group-title-line field-group-div">
+          <div class="field field-name-top-728x90-ad field-type-ds field-label-hidden">
+           <div class="field-items">
+            <div class="field-item even">
+             <section class="block block-oas-blocks clearfix" id="block-oas-blocks-oas-ad-block-top">
+              <div class="oas-ad-Top-wrapper">
+               <script>
+                OAS_RICH('Top');
+               </script>
+              </div>
+             </section>
+             <!-- /.block -->
+            </div>
+           </div>
+          </div>
+          <div class="field field-name-field-primary-topic field-type-taxonomy-term-reference field-label-hidden">
+           <div class="field-items">
+            <div class="field-item even">
+             <a datatype="" href="/category/resource-topic/interoperability" property="rdfs:label skos:prefLabel" typeof="skos:Concept">
+              Interoperability
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="field field-name-title field-type-ds field-label-hidden">
+           <div class="field-items">
+            <div class="field-item even" property="dc:title">
+             <h2>
+              Academic medical centers are helping drive EHR interoperability
+             </h2>
+            </div>
+           </div>
+          </div>
+          <div class="field field-name-field-subheader field-type-text field-label-hidden">
+           <div class="field-items">
+            <div class="field-item even">
+             Universities are key incubators of 'early-stage, high-risk, high-yield research that transfers to the private sector.'
+            </div>
+           </div>
+          </div>
+          <div class="group-author-line field-group-div">
+           By
+           <a href="/author/sherree-geyer">
+            Sherree Geyer
+           </a>
+           <div class="field field-name-post-date field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              June 10, 2016
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-post-time-am-pm field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              02:32 PM
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-sharethis-top-block field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <section class="block block-sharethis clearfix" id="block-sharethis-sharethis-block--2">
+               <div class="wrapper-sharethis-counter">
+                <span class="text-block">
+                 Share
+                </span>
+                <span class="st_sharethis_hcount">
+                </span>
+               </div>
+               <div class="sharethis-wrapper">
+                <span class="st_facebook_custom" displaytext="facebook" st_title="Academic medical centers are helping drive EHR interoperability" st_url="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability">
+                </span>
+                <span class="st_twitter_custom" displaytext="twitter" st_title="Academic medical centers are helping drive EHR interoperability" st_url="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability" st_username="" st_via="HealthITNews">
+                </span>
+                <span class="st_linkedin_custom" displaytext="linkedin" st_title="Academic medical centers are helping drive EHR interoperability" st_url="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability">
+                </span>
+                <span class="st_email_custom" displaytext="email" st_title="Academic medical centers are helping drive EHR interoperability" st_url="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability">
+                </span>
+               </div>
+              </section>
+              <!-- /.block -->
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="group-main-content-wrapper field-group-div">
+          <div class="group-sidebar field-group-div">
+           <div class="field field-name-right-ad-1 field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <section class="block block-oas-blocks clearfix" id="block-oas-blocks-oas-ad-block-right1">
+               <div class="oas-ad-Right1-wrapper">
+                <script>
+                 OAS_RICH('Right1');
+                </script>
+               </div>
+              </section>
+              <!-- /.block -->
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-right-ad-2 field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <section class="block block-oas-blocks clearfix" id="block-oas-blocks-oas-ad-block-right2">
+               <div class="oas-ad-Right2-wrapper">
+                <script>
+                 OAS_RICH('Right2');
+                </script>
+               </div>
+              </section>
+              <!-- /.block -->
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="group-main-content field-group-div">
+           <div class="field field-name-field-thumbnail field-type-image field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <img alt="" height="400" src="http://www.healthcareitnews.com/sites/default/files/Jon%20White-HITN.png" typeof="foaf:Image" width="712"/>
+              <div class="image-field-caption">
+               <p>
+                "University research serves at least three useful purposes," says deputy national coordinator Jon White, MD. "First is innovation. Second is evidence on the effect of IT on health and healthcare. Third is implementation."
+                <br/>
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even" property="content:encoded">
+              <p>
+               Deputy National Coordinator for Health IT Jon White, MD, says universities are playing a key role in the development of interoperable healthcare systems.
+              </p>
+              <p>
+               "University research serves at least three useful purposes," says White. "First is innovation: Many products, standards and people got their start in an academic setting. Second is evidence on the effect of IT on health and healthcare. Third is implementation, as academic medical centers play a significant role in the nation's healthcare."
+              </p>
+              <p>
+               Philip Payne and Peter J. Embi agree. Leaders of the biomedical informatics department at Ohio State University, they spent 13 years and $20 million in university funding to incubate AVEC, a commercial federated data integration platform.
+              </p>
+              <p>
+               "University research is a driver of early-stage, high-risk, high-yield research that transfers to the private sector. There are a number of examples of innovations in the healthcare IT space that happened at universities, including most of the early development of what are now major commercial electronic health records organizations," says Payne.
+              </p>
+              <p>
+               Embi concurs: "What's not often recognized is that many of the greatest leaps forward actually originated at universities," he says.
+              </p>
+              <p>
+               "The very nature of what we do as faculty and researchers is to push the envelope and figure out solutions to problems that haven't been solved – and a lot of times doing that is 'risky' from a private-sector perspective," he adds. "A lot of research results in practical solutions but we also sometimes find a particular approach doesn't work all that well."
+              </p>
+              <p>
+               Payne says AVEC research stemmed from "a confluence of innovative research, unique funding opportunities and identification of a number of critical research and operational problems we felt we could solve. It was the perfect combination, which led us to compete for a number of grants and contracts and start looking at how to bring that technology to market at scale."
+              </p>
+              <p>
+               "As is common with projects like this, funding came from OSU institutional resources as well as various federal grants," Embi adds. "The beginnings of the technology were actually spurred by initiatives happening at the National Institutes of Health, including the National Cancer Institute. Early initiatives sought to develop technologies that would enable sharing of knowledge across cancer centers for the purpose of accelerating research and discovery.
+              </p>
+              <p>
+               "Our group at OSU was one of the key groups funded to develop the underlying technology to enable interoperability between systems," he says. Eventually, (AVEC) got so big we recognized the need for disseminating that technology into the private sector."
+              </p>
+              <p>
+               In 2014, Payne and Embi started Columbus-based Signet Accel in partnership with OSU. The company licensed software technologies for healthcare data sharing and analytics through the Ohio State Innovation Foundation.
+              </p>
+              <p>
+               Payne says "Startups can act upon new technologies with agility and speed. They are a really important bridge between university-based research and broader-scale corporate partners. That's why you see such an explosion of healthcare IT startups that often have very close ties to academia and university-based researchers."
+              </p>
+              <p>
+               Julia Adler-Milstein, assistant professor in both the school of information and school of public health at University of Michigan, agrees.
+              </p>
+              <p>
+               Citing last year's partnership between the University of California and Cisco to develop an interoperable healthcare IT platform, she says, "These types of partnerships help connect the technology side with the realities and complexities of frontline healthcare to ensure the interoperability solution can work in the real world.
+              </p>
+              <p>
+               "The value of an academic medical system versus a large non-academic system is that more informatics and research expertise can be leveraged and is likely useful," she adds.
+              </p>
+              <p>
+               "A broad array of actors need to work together to tackle the interrelated barriers to interoperability," says Adler-Milstein. "So, there is not going to be a single organization or partnership that will swoop in with the silver bullet," she warns.
+              </p>
+              <p>
+               Embi, believes solutions to meeting federal regulations such as meaningful use, can arise from either the public or private sector, calls collaboration "the way of the future." Whether R&amp;D is funded at a company or a university, either could come up with a solution.
+              </p>
+              <p>
+               The reality is this tends to happen at universities because it's a key part of our mission – to make discoveries, innovate and push the envelope to come up with new approaches and new solutions and then disseminate and teach about them."
+              </p>
+              <p>
+               Payne also sees no difference in the ability of private start-ups or university-led research to meet federal standards.
+              </p>
+              <p>
+               "I fundamentally do not believe there are major divisions between the public and private sector when it comes to delivering these types of healthcare information technology innovations to end users," he says. "The most successful projects are the ones where all of these parties work together at the right time and the right place to bring the solution to people who need it."
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="group-content-social field-group-div">
+          <div class="group-disqus field-group-div">
+           <div class="field field-name-sharethis-block field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <section class="block block-sharethis clearfix" id="block-sharethis-sharethis-block">
+               <div class="wrapper-sharethis-counter">
+                <span class="text-block">
+                 Share
+                </span>
+                <span class="st_sharethis_hcount">
+                </span>
+               </div>
+               <div class="sharethis-wrapper">
+                <span class="st_facebook_custom" displaytext="facebook" st_title="Academic medical centers are helping drive EHR interoperability" st_url="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability">
+                </span>
+                <span class="st_twitter_custom" displaytext="twitter" st_title="Academic medical centers are helping drive EHR interoperability" st_url="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability" st_username="" st_via="HealthITNews">
+                </span>
+                <span class="st_linkedin_custom" displaytext="linkedin" st_title="Academic medical centers are helping drive EHR interoperability" st_url="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability">
+                </span>
+                <span class="st_email_custom" displaytext="email" st_title="Academic medical centers are helping drive EHR interoperability" st_url="http://www.healthcareitnews.com/news/academic-medical-centers-are-helping-drive-ehr-interoperability">
+                </span>
+               </div>
+              </section>
+              <!-- /.block -->
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-show-comments field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <a class="show-disqus-comments" href="0">
+               View all comments
+              </a>
+              <a class="disqus-comments-count" data-disqus-identifier="node/526051" href="node/526051#disqus_thread">
+               0
+              </a>
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-disqus-comment field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <div id="disqus_thread">
+               <noscript>
+                <p>
+                 <a href="http://prod-hitn.disqus.com/?url=http%3A%2F%2Fwww.healthcareitnews.com%2Fnews%2Facademic-medical-centers-are-helping-drive-ehr-interoperability">
+                  View the discussion thread.
+                 </a>
+                </p>
+               </noscript>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="field field-name-subscription-form field-type-ds field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <div class="boxes-box" id="boxes-box-subsctiption_middle">
+             <div class="boxes-box-content">
+              <script src="//app-ab05.marketo.com/js/forms2/js/forms2.min.js">
+              </script>
+              <form id="mktoForm_3133">
+              </form>
+              <script>
+               MktoForms2.loadForm("//app-ab05.marketo.com", "922-ZLW-292", 3133, function(form) {
+jQuery('#mktoForm_3133 div').removeAttr('style');
+jQuery('#mktoForm_3133 input').removeAttr('style');
+jQuery('#mktoForm_3133 label').removeAttr('style');
+jQuery('#mktoForm_3133 span').removeAttr('style');
+jQuery('#mktoForm_3133 button').removeAttr('style');
+});
+              </script>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="field field-name-disqus-comments field-type-ds field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <section class="block block-disqus clearfix" id="block-disqus-disqus-comments">
+             <div id="disqus_thread">
+              <noscript>
+               <p>
+                <a href="http://prod-hitn.disqus.com/?url=http%3A%2F%2Fwww.healthcareitnews.com%2Fnews%2Facademic-medical-centers-are-helping-drive-ehr-interoperability">
+                 View the discussion thread.
+                </a>
+               </p>
+              </noscript>
+             </div>
+            </section>
+            <!-- /.block -->
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="ds-additional-ad-row">
+        <div class="ds-row_2">
+         <div class="field field-name-oas-position1 field-type-ds field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <section class="block block-oas-blocks clearfix" id="block-oas-blocks-oas-ad-block-position1">
+             <div class="oas-ad-Position1-wrapper">
+              <script>
+               OAS_RICH('Position1');
+              </script>
+             </div>
+            </section>
+            <!-- /.block -->
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="ds-row-2 row">
+        <div class="ds-row_2 container">
+         <div class="group-bottom-row-1 field-group-div">
+          <div class="group-left-col field-group-div">
+           <div class="field field-name-top1-news field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <section class="block block-views clearfix" id="block-views-top-3-news-block-2">
+               <h2 class="block-title">
+                Top Story
+               </h2>
+               <div class="view view-top-3-news view-id-top_3_news view-display-id-block_2 view-dom-id-e2e4285a260277edbe74a2d66f9c1ccd">
+                <div class="view-content">
+                 <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+                  <div class="views-field views-field-title">
+                   <span class="field-content">
+                    <a href="/news/data-analytics-gap-how-real-time-strategies-can-improve-care-quality-and-efficiency">
+                     Data-analytics gap: How real-time strategies can improve care quality and efficiency
+                    </a>
+                   </span>
+                  </div>
+                  <div class="views-field views-field-field-thumbnail">
+                   <div class="field-content">
+                    <a href="/news/data-analytics-gap-how-real-time-strategies-can-improve-care-quality-and-efficiency">
+                     <img alt="Big Data Healthcare Analytics" height="400" src="http://www.healthcareitnews.com/sites/default/files/styles/712_400/public/ffinal3a-cover-story.jpg?itok=oSQ4cURk" typeof="foaf:Image" width="712"/>
+                    </a>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </section>
+              <!-- /.block -->
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-most-read field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <section class="block block-views clearfix" id="block-views-most-read-news-block-1">
+               <h2 class="simple-black-border">
+                Most Read
+               </h2>
+               <div class="view view-most-read-news view-id-most_read_news view-display-id-block_1 view-dom-id-123a90ca547c173c3a7dea2455180f01">
+                <div class="view-content">
+                 <div class="views-row views-row-1 views-row-odd views-row-first">
+                  <div class="views-field views-field-title">
+                   <span class="field-content">
+                    <a href="/news/obama-gun-control-push-leads-hhs-change-hippa-rule-background-checks">
+                     Obama gun control push leads HHS to change HIPAA rule on background checks
+                    </a>
+                   </span>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-2 views-row-even">
+                  <div class="views-field views-field-title">
+                   <span class="field-content">
+                    <a href="/news/cerner-rides-high-dod-deal">
+                     Cerner rides high with DoD deal
+                    </a>
+                   </span>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-3 views-row-odd">
+                  <div class="views-field views-field-title">
+                   <span class="field-content">
+                    <a href="/news/epic-buys-mayo-clinic-data-center-46-million-sale-leaseback-report-says">
+                     Epic buys Mayo Clinic data center in $46 million sale-leaseback, report says
+                    </a>
+                   </span>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-4 views-row-even">
+                  <div class="views-field views-field-title">
+                   <span class="field-content">
+                    <a href="/news/zipnosis-scores-17-million-bring-telehealth-platform-market">
+                     Zipnosis scores $17 million to bring telehealth platform to market
+                    </a>
+                   </span>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-5 views-row-odd">
+                  <div class="views-field views-field-title">
+                   <span class="field-content">
+                    <a href="/news/10-most-read-healthcare-it-news-stories-2015">
+                     Top 10 Healthcare IT News stories of 2015
+                    </a>
+                   </span>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-6 views-row-even views-row-last">
+                  <div class="views-field views-field-title">
+                   <span class="field-content">
+                    <a href="/news/deaths-by-medical-mistakes-hit-records">
+                     Deaths by medical mistakes hit records
+                    </a>
+                   </span>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </section>
+              <!-- /.block -->
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="group-right-col field-group-div">
+           <div class="field field-name-row-title-get-smart- field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <h2 class="title-sticked title-background-red">
+               Research
+              </h2>
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-white-papers field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <div class="view view-resource view-id-resource view-display-id-block_2 view-dom-id-d22618ae2d0122eba7635b3aa6468707 view-mode-default clearfix row">
+               <div class="ds-row-1">
+                <div class="ds-row_1 col-md-12">
+                 <h2>
+                  White Papers
+                 </h2>
+                 <p>
+                  <a class="more-link" href="/white-papers">
+                   More Whitepapers
+                  </a>
+                 </p>
+                </div>
+               </div>
+               <div class="ds-row-2">
+                <div class="ds-row_2">
+                 <div class="views-row views-row-1 views-row-odd views-row-first col-md-4">
+                  <div about="/resource/safest-place-healthcare-cloud" class="ds-1col node node-resource view-mode-default_views_layout clearfix" typeof="sioc:Item foaf:Document">
+                   <div class="field field-name-field-primary-topic field-type-taxonomy-term-reference field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even">
+                      Cloud Computing
+                     </div>
+                    </div>
+                   </div>
+                   <div class="field field-name-title field-type-ds field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even" property="dc:title">
+                      <div>
+                       <a href="/resource/safest-place-healthcare-cloud">
+                        The Safest Place for Healthcare is in the Cloud
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-2 views-row-even col-md-4">
+                  <div about="/sponsored-content/mobility-transforms-securing-and-compliance" class="ds-1col node node-resource view-mode-default_views_layout clearfix" typeof="sioc:Item foaf:Document">
+                   <div class="field field-name-field-primary-topic field-type-taxonomy-term-reference field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even">
+                      Mobile
+                     </div>
+                    </div>
+                   </div>
+                   <div class="field field-name-title field-type-ds field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even" property="dc:title">
+                      <div>
+                       <a href="/sponsored-content/mobility-transforms-securing-and-compliance">
+                        Mobility transforms security and compliance
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-3 views-row-odd views-row-last col-md-4">
+                  <div about="/resource/managed-detection-and-response-stops-ransomware" class="ds-1col node node-resource view-mode-default_views_layout clearfix" typeof="sioc:Item foaf:Document">
+                   <div class="field field-name-field-primary-topic field-type-taxonomy-term-reference field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even">
+                      Privacy &amp; Security
+                     </div>
+                    </div>
+                   </div>
+                   <div class="field field-name-title field-type-ds field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even" property="dc:title">
+                      <div>
+                       <a href="/resource/managed-detection-and-response-stops-ransomware">
+                        Managed Detection and Response Stops Ransomware
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <!-- Needed to activate display suite support on forms -->
+             </div>
+            </div>
+           </div>
+           <div class="field field-name-web-seminars field-type-ds field-label-hidden">
+            <div class="field-items">
+             <div class="field-item even">
+              <div class="view view-resource view-id-resource view-display-id-block_4 view-dom-id-d40d6b2b10d89150ef4511f626ed4bf4 view-mode-default clearfix row">
+               <div class="ds-row-1">
+                <div class="ds-row_1 col-md-12">
+                 <h2>
+                  Webinars
+                 </h2>
+                 <p>
+                  <a class="more-link" href="/webinars">
+                   More Webinars
+                  </a>
+                 </p>
+                </div>
+               </div>
+               <div class="ds-row-2">
+                <div class="ds-row_2">
+                 <div class="views-row views-row-1 views-row-odd views-row-first col-md-4">
+                  <div about="/resource/are-you-prepared-preparing-and-managing-disasters-backup-and-recovery" class="ds-1col node node-resource view-mode-default_views_layout clearfix" typeof="sioc:Item foaf:Document">
+                   <div class="field field-name-field-primary-topic field-type-taxonomy-term-reference field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even">
+                      Business Intelligence
+                     </div>
+                    </div>
+                   </div>
+                   <div class="field field-name-title field-type-ds field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even" property="dc:title">
+                      <div>
+                       <a href="/resource/are-you-prepared-preparing-and-managing-disasters-backup-and-recovery">
+                        Are You Prepared? Preparing for and Managing Disasters, Backup and Recovery
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-2 views-row-even col-md-4">
+                  <div about="/resource/e-signatures-101-introduction-digital-healthcare-processes" class="ds-1col node node-resource view-mode-default_views_layout clearfix" typeof="sioc:Item foaf:Document">
+                   <div class="field field-name-field-primary-topic field-type-taxonomy-term-reference field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even">
+                      EHRs
+                     </div>
+                    </div>
+                   </div>
+                   <div class="field field-name-title field-type-ds field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even" property="dc:title">
+                      <div>
+                       <a href="/resource/e-signatures-101-introduction-digital-healthcare-processes">
+                        E-Signatures 101: An Introduction to Digital Healthcare Processes
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-row views-row-3 views-row-odd views-row-last col-md-4">
+                  <div about="/resource/three-biggest-security-challenges-facing-healthcare-organizations-real-life-lessons-learned" class="ds-1col node node-resource view-mode-default_views_layout clearfix" typeof="sioc:Item foaf:Document">
+                   <div class="field field-name-field-primary-topic field-type-taxonomy-term-reference field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even">
+                      Privacy &amp; Security
+                     </div>
+                    </div>
+                   </div>
+                   <div class="field field-name-title field-type-ds field-label-hidden">
+                    <div class="field-items">
+                     <div class="field-item even" property="dc:title">
+                      <div>
+                       <a href="/resource/three-biggest-security-challenges-facing-healthcare-organizations-real-life-lessons-learned">
+                        Three Biggest Security Challenges Facing Healthcare Organizations Real-life Lessons Learned &amp; Best Practice
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <!-- Needed to activate display suite support on forms -->
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="ds-row-3">
+        <div class="ds-row_2 container">
+         <div class="group-bottom-row-2 field-group-div">
+          <div class="field field-name-video-4 field-type-ds field-label-hidden">
+           <div class="field-items">
+            <div class="field-item even">
+             <section class="block block-views clearfix" id="block-views-video-block">
+              <h2 class="simple-black-border">
+               Video
+              </h2>
+              <div class="ds-1col view view-video view-id-video view-display-id-block view-dom-id-6b40accb41f960ea69196f9f529bb290 view-mode-default clearfix">
+               <div class="row">
+                <div class="views-row views-row-1 views-row-odd views-row-first col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/video/fee-service-value-based-care-how-all-can-benefit">
+                    <img alt="" height="165" src="http://www.healthcareitnews.com/sites/default/files/styles/292x165/public/xerox_3_0.jpg?itok=V9gvHMit" typeof="foaf:Image" width="292"/>
+                   </a>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/video/fee-service-value-based-care-how-all-can-benefit">
+                    From Fee-for Service to Value-Based Care: How All Can Benefit
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-2 views-row-even col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/video/robert-lord-protenus-talks-about-next-generation-threats">
+                    <img alt="Robert Lord of Protenus" height="165" src="http://www.healthcareitnews.com/sites/default/files/styles/292x165/public/Robert%20Lord%20PSF%202016%20LA%20still.png?itok=axpfwCQH" typeof="foaf:Image" width="292"/>
+                   </a>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/video/robert-lord-protenus-talks-about-next-generation-threats">
+                    Robert Lord of Protenus talks about the next generation of threats
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-3 views-row-odd col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/video/mohit-tiwari-encryption-technology-and-protecting-data">
+                    <img alt="Mohit Tiwari 2016 Privacy &amp; Security Forum" height="165" src="http://www.healthcareitnews.com/sites/default/files/styles/292x165/public/Mohit%20Towari%20PSF%202016%20LA%20still.png?itok=3ISYqp-e" typeof="foaf:Image" width="292"/>
+                   </a>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/video/mohit-tiwari-encryption-technology-and-protecting-data">
+                    Mohit Tiwari on encryption technology and protecting data
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-4 views-row-even views-row-last col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/video/shortcomings-current-authentication-methods-health-it">
+                    <img alt="Michael Magrath Privacy &amp; Security Forum 2016" height="165" src="http://www.healthcareitnews.com/sites/default/files/styles/292x165/public/Michael%20Magrath%20PSF%202016%20LA%20still.png?itok=8HIsCmS3" typeof="foaf:Image" width="292"/>
+                   </a>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/video/shortcomings-current-authentication-methods-health-it">
+                    The shortcomings of current authentication methods in health IT
+                   </a>
+                  </span>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </section>
+             <!-- /.block -->
+            </div>
+           </div>
+          </div>
+          <div class="field field-name-bottom-728x90-ad field-type-ds field-label-hidden">
+           <div class="field-items">
+            <div class="field-item even">
+             <section class="block block-oas-blocks clearfix" id="block-oas-blocks-oas-ad-block-bottom">
+              <div class="oas-ad-Bottom-wrapper">
+               <script>
+                OAS_RICH('Bottom');
+               </script>
+              </div>
+             </section>
+             <!-- /.block -->
+            </div>
+           </div>
+          </div>
+          <div class="field field-name-more-stories field-type-ds field-label-hidden">
+           <div class="field-items">
+            <div class="field-item even">
+             <section class="block block-views clearfix" id="block-views-top-3-news-block-3">
+              <h2 class="simple-black-border">
+               More Stories
+              </h2>
+              <div class="ds-1col view view-top-3-news view-id-top_3_news view-display-id-block_3 view-dom-id-707cc60650719cc5d025a295b5708fca view-mode-default clearfix">
+               <div class="row">
+                <div class="views-row views-row-1 views-row-odd views-row-first col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a class="active" href="/news/academic-medical-centers-are-helping-drive-ehr-interoperability">
+                    <img alt="" height="145" src="http://www.healthcareitnews.com/sites/default/files/styles/256x145/public/Jon%20White-HITN.png?itok=gkbs6yUN" typeof="foaf:Image" width="256"/>
+                   </a>
+                   <div class="image-field-caption">
+                    <p>
+                     "University research serves at least three useful purposes," says deputy national coordinator Jon White, MD. "First is innovation. Second is evidence on the effect of IT on health and healthcare. Third is implementation."
+                     <br/>
+                    </p>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a class="active" href="/news/academic-medical-centers-are-helping-drive-ehr-interoperability">
+                    Academic medical centers are helping drive EHR...
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-2 views-row-even col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/blog/time-uncertainty-health-it-innovations-needed">
+                    In a time of uncertainty for health IT, innovations...
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-3 views-row-odd col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/news/meet-number-one-prevalent-new-ransomware-crysis">
+                    <img alt="" height="145" src="http://www.healthcareitnews.com/sites/default/files/styles/256x145/public/Email-Virus-HITN_3.png?itok=Za6IUZm3" typeof="foaf:Image" width="256"/>
+                   </a>
+                   <div class="image-field-caption">
+                    <p>
+                     The Crysis ransomware strain doesn't just encrypt files, it can pull them from the network – placing organizations into the "territory of an actual data breach," says one security expert. "Especially in HIPAA-compliant organizations, (that's) an area no one wants to be."
+                    </p>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/news/meet-number-one-prevalent-new-ransomware-crysis">
+                    Meet the 'number one prevalent' new ransomware...
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-4 views-row-even col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/blog/penn-medicine-cio-6-tips-successfully-migrating-common-ehr-system">
+                    Penn Medicine CIO: 6 tips for successfully migrating to...
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-5 views-row-odd col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/news/open-source-health-launches-precision-medicine-platform-women">
+                    <img alt="Open Source Health precision medicine" height="145" src="http://www.healthcareitnews.com/sites/default/files/styles/256x145/public/Sonya%20Satveit.jpg?itok=ol3DOJPv" typeof="foaf:Image" width="256"/>
+                   </a>
+                   <div class="image-field-caption">
+                    <p>
+                     Open Source Health CEO Sonya Satveit said the platform will provider clinicians and patients with a dashboard for highlighting actionable data and tracking progress.
+                    </p>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/news/open-source-health-launches-precision-medicine-platform-women">
+                    Open Source Health launches precision medicine platform...
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-6 views-row-even col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/news/medical-university-south-carolina-taps-avantas-apply-predictive-analytics-workforce-management">
+                    <img alt="Medical University South Carolina predictive analytics workforce" height="145" src="http://www.healthcareitnews.com/sites/default/files/styles/256x145/public/MUSC-South%20Carolina%20hitn.jpg?itok=ggwMNfsL" typeof="foaf:Image" width="256"/>
+                   </a>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/news/medical-university-south-carolina-taps-avantas-apply-predictive-analytics-workforce-management">
+                    Medical University of South Carolina taps Avantas to...
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-7 views-row-odd col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/news/case-study-unitypoint-health-connects-providers-and-hospitals-predictive-analytics-improve">
+                    <img alt="UnityPoint Health" height="145" src="http://www.healthcareitnews.com/sites/default/files/styles/256x145/public/ffinal-unityhealth_0.jpg?itok=rstvYG3Q" typeof="foaf:Image" width="256"/>
+                   </a>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/news/case-study-unitypoint-health-connects-providers-and-hospitals-predictive-analytics-improve">
+                    Case Study: UnityPoint Health connects providers and...
+                   </a>
+                  </span>
+                 </div>
+                </div>
+                <div class="views-row views-row-8 views-row-even views-row-last col-md-3">
+                 <div class="views-field views-field-field-thumbnail">
+                  <div class="field-content">
+                   <a href="/news/ehr-maker-practice-fusion-settles-ftc-over-patient-privacy-complaint">
+                    <img alt="EHR Practice Fusion FTC" height="145" src="http://www.healthcareitnews.com/sites/default/files/styles/256x145/public/Jessica%20Rich-HITN_0.png?itok=LGYGoMNj" typeof="foaf:Image" width="256"/>
+                   </a>
+                   <div class="image-field-caption">
+                    <p>
+                     FTC Bureau of Consumer Protection Director Jessica Rich said companies that collect personal health information have to be very clear about how they'll use it.
+                    </p>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-field views-field-title">
+                  <span class="field-content">
+                   <a href="/news/ehr-maker-practice-fusion-settles-ftc-over-patient-privacy-complaint">
+                    EHR maker Practice Fusion settles with FTC over patient...
+                   </a>
+                  </span>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </section>
+             <!-- /.block -->
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!-- Needed to activate display suite support on forms -->
+     </section>
+     <!-- /.block -->
+    </div>
+   </section>
+  </div>
+  <footer class="footer">
+   <div class="container">
+    <a class="logo" href="/" title="Home">
+     <img alt="Home" src="http://www.healthcareitnews.com/sites/all/themes/hitn_theme/logo.png"/>
+    </a>
+    <div class="region region-footer-external">
+     <section class="block block-bean col-md-4 clearfix" id="block-bean-social-links-footer-block">
+      <h2 class="block-title">
+       Connect
+      </h2>
+      <div about="/block/social-links-footer-block" class="entity entity-bean bean-social-links clearfix" typeof="">
+       <div class="content">
+        <div class="field field-name-field-additional-info field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           Add Healthcare IT to your network.
+          </div>
+         </div>
+        </div>
+        <div class="field-collection-container clearfix">
+         <div class="field field-name-field-image-linked field-type-field-collection field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <div class="field-collection-view clearfix view-mode-full">
+             <div about="/field-collection/field-image-linked/17821" class="entity entity-field-collection-item field-collection-item-field-image-linked clearfix" typeof="">
+              <div class="content">
+               <div class="field field-name-field-social-icon field-type-image field-label-hidden">
+                <div class="field-items">
+                 <div class="field-item even">
+                  <a href="https://www.facebook.com/healthcareitnews/" target="_blank">
+                   <img alt="" height="98" src="http://www.healthcareitnews.com/sites/default/files/styles/thumbnail/public/soc1.png?itok=a-jz6Tjt" typeof="foaf:Image" width="100"/>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="field-item odd">
+            <div class="field-collection-view clearfix view-mode-full">
+             <div about="/field-collection/field-image-linked/17826" class="entity entity-field-collection-item field-collection-item-field-image-linked clearfix" typeof="">
+              <div class="content">
+               <div class="field field-name-field-social-icon field-type-image field-label-hidden">
+                <div class="field-items">
+                 <div class="field-item even">
+                  <a href="https://www.linkedin.com/company/healthcare-it-news" target="_blank">
+                   <img alt="" height="98" src="http://www.healthcareitnews.com/sites/default/files/styles/thumbnail/public/soc2.png?itok=MKQPanzF" typeof="foaf:Image" width="100"/>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="field-item even">
+            <div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+             <div about="/field-collection/field-image-linked/17831" class="entity entity-field-collection-item field-collection-item-field-image-linked clearfix" typeof="">
+              <div class="content">
+               <div class="field field-name-field-social-icon field-type-image field-label-hidden">
+                <div class="field-items">
+                 <div class="field-item even">
+                  <a href="https://twitter.com/HealthITNews" target="_blank">
+                   <img alt="" height="98" src="http://www.healthcareitnews.com/sites/default/files/styles/thumbnail/public/soc3.png?itok=CGmCMLC7" typeof="foaf:Image" width="100"/>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <!-- /.block -->
+     <section class="block block-boxes block-boxes-simple col-md-4 clearfix" id="block-boxes-footer-subscription-form">
+      <h2 class="block-title">
+       The Daily Brief Newsletter
+      </h2>
+      <div class="boxes-box" id="boxes-box-footer_subscription_form">
+       <div class="boxes-box-content">
+        <script src="//app-ab05.marketo.com/js/forms2/js/forms2.min.js">
+        </script>
+        <form id="mktoForm_3131">
+        </form>
+        <script>
+         MktoForms2.loadForm("//app-ab05.marketo.com", "922-ZLW-292", 3131, function(form) {
+jQuery('#mktoForm_3131 div').removeAttr('style');
+jQuery('#mktoForm_3131 input').removeAttr('style');
+jQuery('#mktoForm_3131 label').removeAttr('style');
+jQuery('#mktoForm_3131 span').removeAttr('style');
+jQuery('#mktoForm_3131 button').removeAttr('style');
+});
+        </script>
+       </div>
+      </div>
+     </section>
+     <!-- /.block -->
+     <section class="block block-views col-md-4 clearfix" id="block-views-past-issues-block-1">
+      <h2 class="block-title">
+       The Magazine
+      </h2>
+      <div class="view view-past-issues view-id-past_issues view-display-id-block_1 view-dom-id-176701d10c1dd8712012e994b7793288">
+       <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+         <div class="views-field views-field-field-cover-image">
+          <div class="field-content">
+           <img alt="" height="220" src="http://www.healthcareitnews.com/sites/default/files/styles/medium/public/HITN-May-2016-cover.jpg?itok=H-d2yMbg" typeof="foaf:Image" width="170"/>
+          </div>
+         </div>
+         <div class="views-field views-field-nid">
+          <span class="field-content">
+           <a href="https://hms.sub-forms.com/HMS1_HInewsub">
+            Subscribe
+           </a>
+          </span>
+         </div>
+         <div class="views-field views-field-nid-1">
+          <span class="field-content">
+           <a href="https://itunes.apple.com/us/app/healthcare-it-news-reader/id569441032?ls=1&amp;mt=8">
+            eReader App
+           </a>
+          </span>
+         </div>
+         <div class="views-field views-field-nid-2">
+          <span class="field-content">
+           <a href="http://www.healthcareitnews.com/special-reports-healthcare-it-news-solutions-series">
+            Supplements
+           </a>
+          </span>
+         </div>
+         <div class="views-field views-field-title">
+          <span class="field-content">
+           <a href="/issue/May-2016">
+            Current Issue
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <!-- /.block -->
+    </div>
+    <div class="region region-footer-links">
+     <section class="block block-bean col-md-4 clearfix" id="block-bean-live-events">
+      <div about="/block/live-events" class="entity entity-bean bean-section-link clearfix" typeof="">
+       <div class="content">
+        <div class="field field-name-field-section-icon field-type-image field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <img alt="" height="68" src="http://www.healthcareitnews.com/sites/default/files/icon_calendar_0.png" typeof="foaf:Image" width="66"/>
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-section-title field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           In Person Events
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-additional-info field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           Big Data and Healthcare Analytics Forum San Francisco
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-description field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           June 14-15
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-link field-type-link-field field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <a href="http://www.bigdatahitforum.com/?utm_source=hitn&amp;utm_medium=news&amp;utm_term=text_link&amp;utm_content=home&amp;utm_campaign=general">
+            Learn More
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <!-- /.block -->
+     <section class="block block-bean col-md-4 clearfix" id="block-bean-distance-learning-footer-blocks">
+      <div about="/block/distance-learning-footer-blocks" class="entity entity-bean bean-section-link clearfix" typeof="">
+       <div class="content">
+        <div class="field field-name-field-section-icon field-type-image field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <img alt="" height="100" src="http://www.healthcareitnews.com/sites/default/files/icon_calendar_0_0.png" typeof="foaf:Image" width="97"/>
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-section-title field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           In Person Events
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-additional-info field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           Big Data and Healthcare Analytics Forum Boston
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-description field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           October 24-25
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-link field-type-link-field field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <a href="http://www.bigdatahitforum.com/?utm_source=hitn&amp;utm_medium=news&amp;utm_term=text_link&amp;utm_content=home&amp;utm_campaign=general">
+            Learn More
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <!-- /.block -->
+     <section class="block block-bean col-md-4 clearfix" id="block-bean-healthcare-it-jobs-footer-block">
+      <div about="/block/healthcare-it-jobs-footer-block" class="entity entity-bean bean-section-link clearfix" typeof="">
+       <div class="content">
+        <div class="field field-name-field-section-icon field-type-image field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <img alt="" height="65" src="http://www.healthcareitnews.com/sites/default/files/icon_briefcase_0.png" typeof="foaf:Image" width="76"/>
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-section-title field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           Healthcare IT Jobs
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-additional-info field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           Connecticut Hospital Association
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-description field-type-text field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           Director of Quality Informatics
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-field-link field-type-link-field field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <a href="http://jobmine.himss.org/home/index.cfm?site_id=5817">
+            Visit HIMSS JobMine
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <!-- /.block -->
+    </div>
+    <div class="region region-footer-menu">
+     <section class="block block-menu clearfix" id="block-menu-menu-footer-menu">
+      <h2 class="block-title">
+       Footer Menu
+      </h2>
+      <ul class="menu nav">
+       <li class="first leaf">
+        <a href="/about-healthcare-it-news" title="">
+         About
+        </a>
+       </li>
+       <li class="leaf">
+        <a href="/advertise-healthcare-it-news" title="">
+         Advertise
+        </a>
+       </li>
+       <li class="leaf">
+        <a href="http://reprints.ygsgroup.com/m/himssmedia/" title="">
+         Reprints
+        </a>
+       </li>
+       <li class="leaf">
+        <a href="/" title="">
+         Contact
+        </a>
+       </li>
+       <li class="last leaf">
+        <a href="/privacy-policy" title="">
+         Privacy Policy
+        </a>
+       </li>
+      </ul>
+     </section>
+     <!-- /.block -->
+     <section class="block block-boxes block-boxes-simple clearfix" id="block-boxes-copyright">
+      <div class="boxes-box" id="boxes-box-copyright">
+       <div class="boxes-box-content">
+        <p>
+         © 2016 Healthcare IT News is a publication of HIMSS Media
+        </p>
+       </div>
+      </div>
+     </section>
+     <!-- /.block -->
+    </div>
+   </div>
+  </footer>
+  <div class="menu_overlay" id="main_menu_overlay" style="display: none;">
+   <div class="container">
+    <div class="region region-menu-overlay">
+     <section class="block block-bean clearfix" id="block-bean-block-menu">
+      <div class="block-menu-close">
+       <a href="#" id="block-menu-close-button">
+        X
+       </a>
+      </div>
+      <div about="/block/block-menu" class="ds-1col entity entity-bean bean-block-menu view-mode-default clearfix" typeof="">
+       <div class="group-mb-row1 field-group-div">
+        <div class="field field-name-field-home-logo-image field-type-image field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <a href="/" title="Home">
+            <img alt="" height="66" src="http://www.healthcareitnews.com/sites/default/files/logo.png" typeof="foaf:Image" width="466"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="group-mb-row2 field-group-div">
+        <div class="field-collection-container clearfix">
+         <div class="field field-name-field-image-linked field-type-field-collection field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <div class="field-collection-view clearfix view-mode-full">
+             <div about="/field-collection/field-image-linked/17836" class="entity entity-field-collection-item field-collection-item-field-image-linked clearfix" typeof="">
+              <div class="content">
+               <div class="field field-name-field-social-icon field-type-image field-label-hidden">
+                <div class="field-items">
+                 <div class="field-item even">
+                  <a href="/" target="_blank">
+                   <img alt="" height="100" src="http://www.healthcareitnews.com/sites/default/files/styles/thumbnail/public/1_4_0.png?itok=krJmFFP3" typeof="foaf:Image" width="100"/>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="field-item odd">
+            <div class="field-collection-view clearfix view-mode-full">
+             <div about="/field-collection/field-image-linked/17841" class="entity entity-field-collection-item field-collection-item-field-image-linked clearfix" typeof="">
+              <div class="content">
+               <div class="field field-name-field-social-icon field-type-image field-label-hidden">
+                <div class="field-items">
+                 <div class="field-item even">
+                  <a href="https://www.facebook.com/healthcareitnews/" target="_blank">
+                   <img alt="" height="100" src="http://www.healthcareitnews.com/sites/default/files/styles/thumbnail/public/2_3_0.png?itok=7uy1L41T" typeof="foaf:Image" width="98"/>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="field-item even">
+            <div class="field-collection-view clearfix view-mode-full">
+             <div about="/field-collection/field-image-linked/17846" class="entity entity-field-collection-item field-collection-item-field-image-linked clearfix" typeof="">
+              <div class="content">
+               <div class="field field-name-field-social-icon field-type-image field-label-hidden">
+                <div class="field-items">
+                 <div class="field-item even">
+                  <a href="https://twitter.com/HealthITNews" target="_blank">
+                   <img alt="" height="100" src="http://www.healthcareitnews.com/sites/default/files/styles/thumbnail/public/3_2_0.png?itok=9LQt3JZL" typeof="foaf:Image" width="99"/>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="field-item odd">
+            <div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+             <div about="/field-collection/field-image-linked/17851" class="entity entity-field-collection-item field-collection-item-field-image-linked clearfix" typeof="">
+              <div class="content">
+               <div class="field field-name-field-social-icon field-type-image field-label-hidden">
+                <div class="field-items">
+                 <div class="field-item even">
+                  <a href="https://www.linkedin.com/company/healthcare-it-news" target="_blank">
+                   <img alt="" height="100" src="http://www.healthcareitnews.com/sites/default/files/styles/thumbnail/public/4_2_0.png?itok=22MfIzj4" typeof="foaf:Image" width="99"/>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="main-menu-links-wrapper">
+         <div class="field field-name-topics-menu field-type-ds field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <section class="block block-menu clearfix" id="block-menu-menu-topics">
+             <h2 class="block-title">
+              Topics
+             </h2>
+             <ul class="menu nav">
+              <li class="first leaf">
+               <a href="/category/resource-topic/electronic-health-records">
+                EHR
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/privacy-security">
+                Privacy &amp; Security
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/icd-10-coding">
+                ICD-10
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/interoperability">
+                Interoperability
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/mobile">
+                Mobile
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/financialrevenue-cycle-management">
+                Revenue Cycle
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/analytics">
+                Analytics
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/telehealth" title="">
+                Telehealth
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/cloud-computing">
+                Cloud Computing
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/patient-engagement">
+                Patient Engagement
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/population-health">
+                Population Health
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="http://healthcareitnews.com/himss" title="">
+                Destination HIMSS
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/category/resource-topic/government">
+                Government &amp; Policy
+               </a>
+              </li>
+              <li class="last leaf">
+               <a href="/womeninhit">
+                Women In Health IT
+               </a>
+              </li>
+             </ul>
+            </section>
+            <!-- /.block -->
+           </div>
+          </div>
+         </div>
+         <div class="field field-name-career-menu field-type-ds field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <section class="block block-menu clearfix" id="block-menu-menu-career">
+             <h2 class="block-title">
+              Career
+             </h2>
+             <ul class="menu nav">
+              <li class="first leaf">
+               <a href="http://www.himssmedia.com/events/inperson-events/calendar" title="">
+                In Person Events
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="http://jobmine.himss.org/" title="">
+                Jobs
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="http://www.healthcareitnews.com/white-papers" title="">
+                Research Papers
+               </a>
+              </li>
+              <li class="last leaf">
+               <a href="http://www.healthcareitnews.com/webinars" title="">
+                Webinars
+               </a>
+              </li>
+             </ul>
+            </section>
+            <!-- /.block -->
+           </div>
+          </div>
+         </div>
+         <div class="field field-name-more-menu field-type-ds field-label-hidden">
+          <div class="field-items">
+           <div class="field-item even">
+            <section class="block block-menu clearfix" id="block-menu-menu-more">
+             <h2 class="block-title">
+              More
+             </h2>
+             <ul class="menu nav">
+              <li class="first leaf">
+               <a href="http://www.healthcareitnews.com/about-healthcare-it-news" title="">
+                About
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="http://www.healthcareitnews.com/advertise-healthcare-it-news" title="">
+                Advertise
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="http://www.healthcareitnews.com/editorial-staff" title="">
+                Contact
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="http://www.healthcareitnews.com/issue/May-2016">
+                Magazine
+               </a>
+              </li>
+              <li class="leaf">
+               <a href="/press-releases" title="">
+                Press Releases
+               </a>
+              </li>
+              <li class="last leaf">
+               <a href="http://healthcareitnews.com/video" title="">
+                Video
+               </a>
+              </li>
+             </ul>
+            </section>
+            <!-- /.block -->
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-main-menu-subscription field-type-ds field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <section class="block block-boxes block-boxes-simple clearfix" id="block-boxes-main-menu-subscription">
+            <h2 class="block-title">
+             The Daily Brief Newsletter
+            </h2>
+            <div class="boxes-box" id="boxes-box-main_menu_subscription">
+             <div class="boxes-box-content">
+              <script src="//app-ab05.marketo.com/js/forms2/js/forms2.min.js">
+              </script>
+              <form id="mktoForm_3155">
+              </form>
+              <script>
+               MktoForms2.loadForm("//app-ab05.marketo.com", "922-ZLW-292", 3155);
+              </script>
+             </div>
+            </div>
+           </section>
+           <!-- /.block -->
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="group-mb-row3 field-group-div">
+        <div class="field field-name-search-form field-type-ds field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <section class="block block-search clearfix" id="block-search-form">
+            <form accept-charset="UTF-8" action="/news/academic-medical-centers-are-helping-drive-ehr-interoperability" class="form-search content-search" id="search-block-form" method="post">
+             <div>
+              <div>
+               <h2 class="element-invisible">
+                Search form
+               </h2>
+               <div class="input-group">
+                <input class="form-control form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" placeholder="Search" size="15" title="Enter the terms you wish to search for." type="text" value=""/>
+                <span class="input-group-btn">
+                 <button class="btn btn-default" type="submit">
+                  <i aria-hidden="true" class="icon glyphicon glyphicon-search">
+                  </i>
+                 </button>
+                </span>
+               </div>
+               <button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" type="submit" value="Search">
+                Search
+               </button>
+               <input name="form_build_id" type="hidden" value="form-8qWO8qS48S7JiKkBLu2Vazxfu4z5AW55IQ69u83HSLY"/>
+               <input name="form_id" type="hidden" value="search_block_form"/>
+              </div>
+             </div>
+            </form>
+           </section>
+           <!-- /.block -->
+          </div>
+         </div>
+        </div>
+        <div class="field field-name-top-stories field-type-ds field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even">
+           <h2 class="block-title">
+            Top Stories
+           </h2>
+           <div class="view view-top-3-news view-id-top_3_news view-display-id-menu_top_3 view-dom-id-23599e29668479589a190d9bbef598ae">
+            <div class="view-content">
+             <div class="views-row views-row-1 views-row-odd views-row-first">
+              <div class="views-field views-field-field-thumbnail">
+               <div class="field-content">
+                <a href="/news/data-analytics-gap-how-real-time-strategies-can-improve-care-quality-and-efficiency">
+                 <img alt="Big Data Healthcare Analytics" height="196" src="http://www.healthcareitnews.com/sites/default/files/styles/348x196/public/ffinal3a-cover-story.jpg?itok=L_ocPP1E" typeof="foaf:Image" width="348"/>
+                </a>
+               </div>
+              </div>
+              <div class="views-field views-field-title">
+               <span class="field-content">
+                <a href="/news/data-analytics-gap-how-real-time-strategies-can-improve-care-quality-and-efficiency">
+                 Data-analytics gap: How real-time strategies can improve care quality and efficiency
+                </a>
+               </span>
+              </div>
+             </div>
+             <div class="views-row views-row-2 views-row-even">
+              <div class="views-field views-field-field-thumbnail">
+               <div class="field-content">
+                <a href="/news/medical-university-south-carolina-taps-avantas-apply-predictive-analytics-workforce-management">
+                 <img alt="Medical University South Carolina predictive analytics workforce" height="196" src="http://www.healthcareitnews.com/sites/default/files/styles/348x196/public/MUSC-South%20Carolina%20hitn.jpg?itok=gwqXd8EE" typeof="foaf:Image" width="348"/>
+                </a>
+               </div>
+              </div>
+              <div class="views-field views-field-title">
+               <span class="field-content">
+                <a href="/news/medical-university-south-carolina-taps-avantas-apply-predictive-analytics-workforce-management">
+                 Medical University of South Carolina taps Avantas to apply predictive analytics to workforce management
+                </a>
+               </span>
+              </div>
+             </div>
+             <div class="views-row views-row-3 views-row-odd views-row-last">
+              <div class="views-field views-field-field-thumbnail">
+               <div class="field-content">
+                <a href="/news/case-study-st-joseph-healthcare-sees-dramatic-improvement-serving-high-risk-population">
+                 <img alt="St. Joseph analytics" height="196" src="http://www.healthcareitnews.com/sites/default/files/styles/348x196/public/final-jessica-taylor-st-joe%20hitn.jpg?itok=UjSd6gDl" typeof="foaf:Image" width="348"/>
+                </a>
+               </div>
+              </div>
+              <div class="views-field views-field-title">
+               <span class="field-content">
+                <a href="/news/case-study-st-joseph-healthcare-sees-dramatic-improvement-serving-high-risk-population">
+                 Case Study: St. Joseph Healthcare sees dramatic improvement serving high-risk population with HealthInfoNet
+                </a>
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <!-- /.block -->
+    </div>
+   </div>
+  </div>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_C7s-1tZvIfhFwpyvsh9ASp72vnY3SoMp4eU3wu2rBbo.js">
+  </script>
+  <script src="http://www.healthcareitnews.com/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js">
+  </script>
+ </body>
+</html>

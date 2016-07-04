@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en" class="no-js ie" itemscope itemtype="http://schema.org/CollegeOrUniversity"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" itemscope="" itemtype="http://schema.org/CollegeOrUniversity" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <title>
+   College of Computing and Technology
+ | Lipscomb University
+  </title>
+  <meta content="Degrees in Information Technology include the Master of Information Security and the Master of Health Care Informatics degree programs." name="description"/>
+  <meta content="master, degree, programs, information, security, information security, health, care, healthcare, informatics, healthcare informatics" name="keywords"/>
+  <meta content="all" name="robots"/>
+  <meta content="True" name="HandheldFriendly"/>
+  <meta content="320" name="MobileOptimized"/>
+  <meta content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+  <meta content="Lipscomb University" name="application-name"/>
+  <link href="/news/rss/detail/2" rel="alternate" title="Latest News from Lipscomb University" type="application/rss+xml"/>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"/>
+  <link href="/opensearch.xml" rel="search" title="Lipscomb Search" type="application/opensearchdescription+xml"/>
+  <link href="/bundles/lipscombStyles?v=ujk5S0-wTTvlEAqhmZX25Hae0dTreeTzEE3H3DgM8vQ1" rel="stylesheet"/>
+  <!--[if lte IE 8]><link rel="stylesheet" media="print" href="/css/1308/print.css" type="text/css" /><![endif]-->
+  <script src="/js/_lib/modernizr/modernizr-2.8.3.js">
+  </script>
+ </head>
+ <body class="landing-page">
+  <!-- Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-K8GDC5" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K8GDC5');
+  </script>
+  <!-- End Google Tag Manager -->
+  <header class="container cf shadow" id="header" role="banner">
+   <div class="container-inner">
+    <a href="/" id="logo">
+     <img alt="Lipscomb University" src="/images/logo.png"/>
+    </a>
+    <div class="mobile-navigation-icons">
+     <i class="ico ico-mobile ico-navigation" id="toggle-nav-main">
+     </i>
+     <i class="ico ico-mobile ico-search" id="toggle-site-search">
+     </i>
+    </div>
+    <!-- .mobile-navigation-icons -->
+    <div class="dropdown cf" id="nav-main">
+     <nav class="nav-primary cf">
+      <ul class="cf">
+       <!-- list anchors have a class of active when on the current page -->
+       <!-- sub-navigation-menu should have two columns of five -->
+       <li class="nav-primary-academics align-sub-navigation-left has-sub-navigation-menu">
+        <a class="nav-primary-link" href="/academics">
+         Academics
+        </a>
+        <ul class="sub-navigation-menu">
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/academics/colleges-institutes">
+            Colleges &amp; Institutes
+           </a>
+          </div>
+          <div>
+           <a href="/academics/programs">
+            Undergraduate &amp; Graduate Programs
+           </a>
+          </div>
+          <div>
+           <a href="/academics/special-programs">
+            Special Programs
+           </a>
+          </div>
+          <div>
+           <a href="/library">
+            University Library
+           </a>
+          </div>
+          <div>
+           <a href="/academics/academic-calendar">
+            Academic Calendar
+           </a>
+          </div>
+         </li>
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/registrar">
+            Registrar &amp; Transcripts
+           </a>
+          </div>
+          <div>
+           <a href="/academics/class-schedule">
+            Class Schedule
+           </a>
+          </div>
+          <div>
+           <a href="/academics/catalogs">
+            Catalogs
+           </a>
+          </div>
+          <div>
+           <a href="/academics/provost">
+            Office of the Provost
+           </a>
+          </div>
+         </li>
+        </ul>
+        <!-- .sub-navigation-menu -->
+       </li>
+       <li class="nav-primary-admissions align-sub-navigation-left has-sub-navigation-menu">
+        <a class="nav-primary-link" href="/admissions">
+         Admissions
+        </a>
+        <ul class="sub-navigation-menu">
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/admissions/undergraduate">
+            Undergraduate
+           </a>
+          </div>
+          <div>
+           <a href="/admissions/graduate">
+            Graduate
+           </a>
+          </div>
+          <div>
+           <a href="/admissions/adult-degree">
+            Adult Degree
+           </a>
+          </div>
+          <div>
+           <a href="/veterans">
+            Veterans
+           </a>
+          </div>
+          <div>
+           <a href="/admissions/the-lipscomb-experience">
+            The Lipscomb Experience
+           </a>
+          </div>
+         </li>
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/admissions/destination-nashville">
+            Destination:Nashville
+           </a>
+          </div>
+          <div>
+           <a href="/financialaid">
+            Financial Aid
+           </a>
+          </div>
+          <div>
+           <a href="/parents">
+            For Parents
+           </a>
+          </div>
+          <div>
+           <a href="/admissions/degree">
+            Degree Chooser
+           </a>
+          </div>
+         </li>
+        </ul>
+        <!-- .sub-navigation-menu -->
+       </li>
+       <li class="nav-primary-alumni align-sub-navigation-left has-sub-navigation-menu">
+        <a class="nav-primary-link" href="/alumni">
+         Alumni
+        </a>
+        <ul class="sub-navigation-menu">
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/alumni/alumni-benefits">
+            Alumni Benefits
+           </a>
+          </div>
+          <div>
+           <a href="/alumni/signature-programs">
+            Signature Programs
+           </a>
+          </div>
+          <div>
+           <a href="/alumni/lifelong-learning-travel">
+            Lifelong Learning &amp; Travel
+           </a>
+          </div>
+          <div>
+           <a href="/alumni/get-involved">
+            Get Involved
+           </a>
+          </div>
+          <div>
+           <a href="/alumni/alumni-groups">
+            Alumni Groups
+           </a>
+          </div>
+         </li>
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/alumni/stay-connected">
+            Stay Connected
+           </a>
+          </div>
+          <div>
+           <a href="/alumni/update-your-info">
+            Update Your Info
+           </a>
+          </div>
+         </li>
+        </ul>
+        <!-- .sub-navigation-menu -->
+       </li>
+       <li class="nav-primary-give align-sub-navigation-left has-sub-navigation-menu">
+        <a class="nav-primary-link" href="/giving">
+         Giving
+        </a>
+        <ul class="sub-navigation-menu">
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/giving/lipscomb-next">
+            Lipscomb:Next
+           </a>
+          </div>
+          <div>
+           <a href="/giving/current">
+            See Our Progress
+           </a>
+          </div>
+          <div>
+           <a href="/giving/studentstories">
+            Student Stories
+           </a>
+          </div>
+          <div>
+           <a href="/giving/give">
+            Give a Gift
+           </a>
+          </div>
+          <div>
+           <a href="/giving/associates">
+            Associates
+           </a>
+          </div>
+         </li>
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/giving/gift-planning">
+            Estate &amp; Gift Planning
+           </a>
+          </div>
+          <div>
+           <a href="/giving/news-events">
+            News &amp; Events
+           </a>
+          </div>
+         </li>
+        </ul>
+        <!-- .sub-navigation-menu -->
+       </li>
+       <li class="nav-primary-campus-life align-sub-navigation-left has-sub-navigation-menu">
+        <a class="nav-primary-link" href="/studentlife">
+         Student Life
+        </a>
+        <ul class="sub-navigation-menu">
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/studentlife/campus-life">
+            Campus Life
+           </a>
+          </div>
+          <div>
+           <a href="/studentlife/residence-life">
+            Residence Life
+           </a>
+          </div>
+          <div>
+           <a href="/studentlife/spiritual-life">
+            Spiritual Life
+           </a>
+          </div>
+          <div>
+           <a href="/studentlife/student-services">
+            Student Services
+           </a>
+          </div>
+          <div>
+           <a href="/studentlife/blog/life">
+            Life at Lipscomb Blog
+           </a>
+          </div>
+         </li>
+         <li class="sub-navigation-menu-column">
+          <div>
+           <a href="/parents/">
+            Parents
+           </a>
+          </div>
+          <div>
+           <a href="/studentlife/expectations">
+            Expectations
+           </a>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-primary-athletics last">
+        <a class="nav-primary-link" href="/athletics">
+         Athletics
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <!-- .nav-primary -->
+     <nav class="nav-secondary">
+      <ul class="cf">
+       <li>
+        <a href="/about">
+         About
+        </a>
+       </li>
+       <li>
+        <a href="/about/mission">
+         Mission
+        </a>
+       </li>
+       <li>
+        <a href="/news">
+         News &amp; Events
+        </a>
+       </li>
+       <li>
+        <a href="/studentlife/student-services">
+         Student Services
+        </a>
+       </li>
+       <li class="last">
+        <a href="/offices">
+         Offices &amp; Directory
+        </a>
+       </li>
+       <li class="my-lipscomb">
+        <a href="http://my.lipscomb.edu">
+         <em>
+          my
+         </em>
+         Lipscomb
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <!-- .nav-secondary -->
+    </div>
+    <!-- #nav-main -->
+    <div class="dropdown container" id="site-search">
+     <form action="/search" method="get">
+      <input autocapitalize="off" autocomplete="off" class="site-search-keyword" id="search-keyword" name="q" placeholder="Search Keyword" title="Search Keyword" type="text" value=""/>
+      <input class="site-search-submit ir" type="submit" value="Search"/>
+     </form>
+     <!-- .site-search -->
+    </div>
+    <!-- #site-search -->
+   </div>
+   <!-- .container-inner -->
+  </header>
+  <!-- #header -->
+  <ul class="nav-feature-sections reset-list cf">
+   <li>
+    <a class="ico-feature-section ico-apply" href="/apply">
+     <span>
+      Apply
+     </span>
+    </a>
+   </li>
+   <li>
+    <a class="ico-feature-section ico-connect" href="/connect">
+     <span>
+      Connect
+     </span>
+    </a>
+   </li>
+   <li>
+    <a class="ico-feature-section ico-visit" href="/visit">
+     <span>
+      Visit
+     </span>
+    </a>
+   </li>
+   <li>
+    <a class="ico-feature-section ico-give" href="/give">
+     <span>
+      Give
+     </span>
+    </a>
+   </li>
+  </ul>
+  <!-- .nav-feature-sections -->
+  <div class="container college styled cf" id="main" role="main">
+   <div class="container-inner">
+    <div class="breadcrumb">
+     <p>
+      <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+       <a href="/" itemprop="url">
+        <span itemprop="title">
+         Home
+        </span>
+       </a>
+       »
+      </span>
+      <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+       <a href="/academics" itemprop="url">
+        <span itemprop="title">
+         Academics
+        </span>
+       </a>
+       »
+      </span>
+      <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+       <a href="/technology" itemprop="url">
+        <span itemprop="title">
+         College of Computing and Technology
+        </span>
+       </a>
+      </span>
+     </p>
+    </div>
+    <!-- .breadcrumbs -->
+   </div>
+   <!-- .container-inner -->
+   <div class="interior-masthead container cf">
+    <div class="container-inner cf">
+     <div class="content-sidebar">
+      <nav class="sub-navigation">
+       <ul class="sub-navigation-list">
+        <li>
+         <a href="/technology/welcome">
+          About
+         </a>
+        </li>
+        <li>
+         <a href="/technology/undergraduate-programs">
+          Undergraduate Programs
+         </a>
+        </li>
+        <li>
+         <a href="/technology/graduate-programs">
+          Graduate Programs
+         </a>
+        </li>
+        <li>
+         <a href="/technology/news-events">
+          News &amp; Events
+         </a>
+        </li>
+        <li>
+         <a href="/technology/resources">
+          Resources
+         </a>
+        </li>
+        <li>
+         <a href="/technology/faculty-staff">
+          Faculty &amp; Staff
+         </a>
+        </li>
+       </ul>
+       <!-- .sub-navigation-list -->
+      </nav>
+      <!-- .sub-navigation -->
+     </div>
+     <!-- .content-sidebar -->
+     <div class="content-main college-arts-science">
+      <h1>
+       College of Computing &amp; Technology
+      </h1>
+      <p>
+       Understanding technology is critical to understanding our modern world. Whether you want to become the next Steve Jobs, design data systems that revolutionize healthcare delivery, or thwart hackers and identity thieves, your Lipscomb degree will make sure you’re ready for the future.
+      </p>
+      <script type="text/javascript">
+       if ( window.addEventListener ) {  
+  var state = 0, konami = [38,38,40,40,37,39,37,39,66,65];  
+  window.addEventListener("keydown", function(e) {  
+    if ( e.keyCode == konami[state] ) state++;  
+    else state = 0;  
+    if ( state == 10 )  
+      window.location = "http://www.lipscomb.edu/technology/news-events";  //you can write your own code here
+    }, true);  
+}
+      </script>
+      <p>
+      </p>
+     </div>
+     <!-- .content-main -->
+    </div>
+    <!-- .container-inner .cf -->
+   </div>
+   <!-- .interior-masthead container cf -->
+   <div class="interior-bg-1 styled-bg">
+    <div class="container-inner cf">
+     <div class="half-col flex-col">
+      <img alt="School of Computing and Informatics" src="/uploads/60793.jpg"/>
+     </div>
+     <div class="half-col flex-col">
+      <h2>
+       About
+      </h2>
+      <p>
+       Our computing and technology courses are experience based—meaning you won’t just learn, you’ll learn by doing. Research projects and internships with local companies are a required part of the program, so you acquire hands-on experience before you graduate (and an almost 100% likelihood of a job after you graduate).
+      </p>
+      <p>
+       <a a="" class="button" href="/technology/about" target="_blank">
+        Learn More
+       </a>
+      </p>
+      <p>
+      </p>
+     </div>
+    </div>
+   </div>
+   <div class="interior-bg-2 styled-bg">
+    <div class="container-inner cf">
+     <div class="full-col flex-col">
+      <h2>
+      </h2>
+      <h2>
+       Undergraduate Programs
+      </h2>
+      <div class="program-information">
+       <p>
+        As an undergrad, you can major or minor in areas such as information security, software engineering, and web application development. Through theoretical studies and actual programming, you’ll develop the analytical, mathematical, and technical skills to make even the most temperamental motherboard cry "Uncle!"
+       </p>
+       <p>
+       </p>
+      </div>
+      <div class="program-information-action">
+       <p>
+        <a a="" class="button" href="/technology/undergraduate-programs" target="_blank">
+         Learn More
+        </a>
+       </p>
+      </div>
+      <p>
+      </p>
+     </div>
+    </div>
+   </div>
+   <div class="interior-bg-3 styled-bg">
+    <div class="container-inner cf">
+     <div class="full-col flex-col">
+      <h2>
+       Graduate Programs
+      </h2>
+      <div class="program-information">
+       <p>
+        Our master’s degree and certificate programs equip you to lead in a field that many are simply trying to catch up to. You’ll study data science, information technology, or software engineering in a compressed format (usually one year), so you can get to changing the world that much faster.
+       </p>
+      </div>
+      <div class="program-information-action">
+       <p>
+        <a a="" class="button" href="/technology/graduate-programs" target="_blank">
+         Learn More
+        </a>
+       </p>
+      </div>
+      <p>
+      </p>
+     </div>
+    </div>
+   </div>
+   <div class="interior-bg-4 styled-bg">
+    <div class="container-inner cf">
+     <div class="half-col flex-col">
+      <div class="events-container">
+       <h2 class="VS_Filter_Header">
+        <a href="/technology/news-events">
+         Upcoming Events
+        </a>
+       </h2>
+       <a class="view-all" href="/technology/news-events">
+        View All
+       </a>
+       <p>
+        There are no upcoming events.
+       </p>
+      </div>
+     </div>
+     <div class="half-col flex-col">
+      <p>
+       <a class="twitter-timeline" data-widget-id="298918129944363008" href="https://twitter.com/LipscombCCT">
+        Tweets by @LipscombCCT
+       </a>
+       <script>
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+       </script>
+      </p>
+      <p>
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- #main -->
+  <footer class="container cf" id="footer" role="contentinfo">
+   <div class="container-inner cf">
+    <div class="contact-phone">
+     <p>
+      <span itemprop="telephone">
+       <a href="tel:1-800-333-4358">
+        <strong>
+         1 (800) 333-4358
+        </strong>
+       </a>
+      </span>
+      <br/>
+      <span itemprop="telephone">
+       <a href="tel:1-615-966-1000">
+        <strong>
+         (615) 966-1000
+        </strong>
+       </a>
+      </span>
+      <br/>
+      <span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+       <span itemprop="streetAddress">
+        One University Park Drive
+       </span>
+       <br/>
+       <span itemprop="addressLocality">
+        Nashville
+       </span>
+       ,
+       <span itemprop="addressRegion">
+        TN
+       </span>
+       <span itemprop="postalCode">
+        37204-3951
+       </span>
+      </span>
+     </p>
+    </div>
+    <!-- .footer-contact-info -->
+    <nav class="footer-quick-links cf">
+     <ul class="reset-list">
+      <li>
+       <a href="/a-to-z">
+        A-Z Index
+       </a>
+      </li>
+      <li>
+       <a href="/bookstore">
+        Bookstore
+       </a>
+      </li>
+      <li>
+       <a href="/information">
+        Consumer Information
+       </a>
+      </li>
+      <li>
+       <a href="/contact-us">
+        Contact Us
+       </a>
+      </li>
+      <li>
+       <a href="/gift">
+        Give a Gift
+       </a>
+      </li>
+     </ul>
+     <ul class="reset-list">
+      <li>
+       <a href="/hr">
+        Employment
+       </a>
+      </li>
+      <li>
+       <a href="/live">
+        Live Event Feed
+       </a>
+      </li>
+      <li>
+       <a href="/lumination" onclick="recordOutboundLink(this, 'Outbound Links', 'luminationnetwork.com');return false;" target="_blank">
+        Lumination Network
+       </a>
+      </li>
+      <li class="last">
+       <a href="/maps-directions">
+        Maps &amp; Directions
+       </a>
+      </li>
+     </ul>
+    </nav>
+    <!-- .footer-links .left -->
+    <div class="footer-copyright cf">
+     <div class="footer-social-links cf">
+      <ul class="reset-list cf">
+       <li>
+        <a class="ico-footer-social twitter ir" href="https://twitter.com/lipscomb" itemprop="sameAs" target="_blank" title="Follow us on Twitter">
+         Follow us on Twitter
+        </a>
+       </li>
+       <li>
+        <a class="ico-footer-social facebook ir" href="https://www.facebook.com/LipscombUniversity" itemprop="sameAs" target="_blank" title="Like us on Facebook">
+         Like us on Facebook
+        </a>
+       </li>
+       <li>
+        <a class="ico-footer-social googleplus ir" href="https://www.google.com/+lipscomb" itemprop="sameAs" rel="publisher" target="_blank" title="Find us on Google+">
+         Find us on Google+
+        </a>
+       </li>
+       <li>
+        <a class="ico-footer-social youtube ir" href="https://www.youtube.com/LipscombUniversity" itemprop="sameAs" target="_blank" title="Subscribe to us on YouTube">
+         Subscribe to us on YouTube
+        </a>
+       </li>
+       <li>
+        <a class="ico-footer-social instagram ir" href="https://instagram.com/lipscombuniversity" itemprop="sameAs" target="_blank" title="Follow us on Instagram">
+         Follow us on Instagram
+        </a>
+       </li>
+       <li>
+        <a class="ico-footer-social linkedin ir" href="https://www.linkedin.com/company/lipscomb-university" itemprop="sameAs" target="_blank" title="Follow Lipscomb on LinkedIn">
+         Follow Lipscomb on LinkedIn
+        </a>
+       </li>
+      </ul>
+     </div>
+     <!-- .footer-social-links -->
+     <div class="footer-sponsor-logos-container cf">
+      <a class="logo-footer-sponsor cccu ir" href="http://www.cccu.org/" target="_blank" title="Member of the Council for Christian Colleges and Universities">
+       Member of the Council for Christian Colleges and Universities
+      </a>
+      <a class="logo-footer-sponsor hacu ir" href="http://www.hacu.net/" target="_blank" title="Member of the Hispanic Association of Colleges and Universities">
+       Member of the Hispanic Association of Colleges and Universities
+      </a>
+      <a class="logo-footer-sponsor soc ir" href="http://www.soc.aascu.org/" target="_blank" title="Service Members Opportunity Colleges">
+       Service Members Opportunity Colleges
+      </a>
+      <a class="logo-footer-sponsor tips ir" href="/report-incident" target="_blank" title="TIPS Report Incident">
+       TIPS Report Incident
+      </a>
+     </div>
+     <!-- .footer-sponsor-logos -->
+     <small class="copyright">
+      © 2016 Lipscomb University
+     </small>
+    </div>
+    <!-- .footer-copyright -->
+   </div>
+   <!-- .container-inner -->
+  </footer>
+  <!-- #footer -->
+  <script data-main="/js/_build/main-built.js" src="/js/_lib/require/require.js">
+  </script>
+ </body>
+</html>

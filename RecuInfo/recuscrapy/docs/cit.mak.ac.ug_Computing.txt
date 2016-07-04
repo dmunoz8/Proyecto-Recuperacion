@@ -1,0 +1,1338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-gb" xml:lang="en-gb" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <base href="http://cit.mak.ac.ug/"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="Joomla! - Open Source Content Management" name="generator"/>
+  <title>
+   Home
+  </title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" title="RSS 2.0" type="application/rss+xml"/>
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" title="Atom 1.0" type="application/atom+xml"/>
+  <link href="/templates/ot_surfdev/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="http://cit.mak.ac.ug/index.php/component/search/?format=opensearch" rel="search" title="Search School of Computing and Informatics Technology" type="application/opensearchdescription+xml"/>
+  <link href="/media/system/css/modal.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/ot_surfdev/css/k2.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/system/css/system.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/system/css/general.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/ot_surfdev/css/template.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/ot_surfdev/css/layout/default.css" rel="stylesheet" type="text/css"/>
+  <link href="http://cit.mak.ac.ug//modules/mod_ot_articles_scroll/css/layout.css" rel="stylesheet" type="text/css"/>
+  <link href="http://cit.mak.ac.ug//modules/mod_ot_articles_scroll/css/jquery.horizontal.scroll.css" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+   .width100{ width: 100%; } 
+			 
+			.width50{ width: 50%; } 
+			 
+			.width33{ width: 33%; } 
+			 
+			.width25{ width: 25%; } 
+			 
+			.width20{ width: 20%; } 
+			 
+			.width100{ width: 100%; } 
+			 
+			.width50{ width: 50%; } 
+			 
+			.width33{ width: 33%; } 
+			 
+			.width25{ width: 25%; } 
+			 
+			.width20{ width: 20%; } 
+			 
+			.width100{ width: 100%; } 
+			 
+			.width50{ width: 50%; } 
+			 
+			.width33{ width: 33%; } 
+			 
+			.width28{ width: 28%; } 
+			 
+			.width15{ width: 15%; } 
+			 
+			.width20{ width: 20%; } 
+			 
+	#container_outer108 {
+		width:1120px;
+		height:480px;
+	}
+	#container108 {
+		height:480px;
+	}
+	#ot-scroll108 #left_scroll108,
+	#ot-scroll108 #right_scroll108  {
+		top:-534px;
+	}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/core.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/modal.js" type="text/javascript">
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="/media/k2/assets/js/k2.noconflict.js" type="text/javascript">
+  </script>
+  <script src="/components/com_k2/js/k2.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/caption.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript">
+  </script>
+  <script src="/templates/ot_surfdev/scripts/dropdownMenu.js" type="text/javascript">
+  </script>
+  <script src="/templates/ot_surfdev/scripts/otscript.js" type="text/javascript">
+  </script>
+  <script src="http://cit.mak.ac.ug/modules/mod_ot_articles_scroll/js/jquery.isotope.min.js" type="text/javascript">
+  </script>
+  <script src="http://cit.mak.ac.ug/modules/mod_ot_articles_scroll/js/jquery.horizontal.scroll.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});var K2SitePath = '/';window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+ </head>
+ <body class="isHomePage default left-content-right" id="ot-body">
+  <div class="ot-wrap">
+   <div class="ot-wrap-i">
+    <!--******************** START HEADER ********************-->
+    <div class="ot-header">
+     <div class="ot-widthTemp">
+      <div class="ot-widthTemp-i">
+       <div class="ot-header-i">
+        <div class="ot-logo">
+         <a class="logo" href="http://cit.mak.ac.ug/">
+         </a>
+        </div>
+        <div class="ot-headertop">
+         <div class="ot-headertop-i">
+          <div class="otModule module">
+           <div class="otModule-i">
+            <div class="otModuleContent-i clearfix">
+             <form action="/index.php" class="default-search" method="post">
+              <div class="search">
+               <input class="inputbox" id="mod-search-searchword" maxlength="20" name="searchword" onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" size="200" type="text" value="Search..."/>
+               <input class="button" onclick="this.form.searchword.focus();" src="/templates/ot_surfdev/images/search-btn.png" type="image" value="Search"/>
+               <input name="task" type="hidden" value="search"/>
+               <input name="option" type="hidden" value="com_search"/>
+               <input name="Itemid" type="hidden" value="435"/>
+              </div>
+             </form>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="ot-mainmenu">
+         <div class="ot-mainmenu-i" id="ot-mainmenu">
+          <div class="otModule module_menu">
+           <div class="otModule-i">
+            <div class="otModuleContent-i clearfix">
+             <ul class="menu level0">
+              <li class="current active level0 first" id="item-435">
+               <a href="/">
+                <span>
+                 Home
+                </span>
+               </a>
+              </li>
+              <li class="parent level0" id="item-485">
+               <a href="/">
+                <span>
+                 OurSchool
+                </span>
+               </a>
+               <div class="menu_round">
+                <div class="menu_top">
+                </div>
+                <div class="menu_mid">
+                 <ul class="level1 ">
+                  <li class="level1 first" id="item-486">
+                   <a href="/index.php/features/cit-dean.html">
+                    <span>
+                     CIT Dean
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-487">
+                   <a href="/index.php/features/awards.html">
+                    <span>
+                     Awards
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-488">
+                   <a href="/index.php/features/projects.html">
+                    <span>
+                     Projects
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-490">
+                   <a href="/index.php/features/sitemap.html">
+                    <span>
+                     Site Map
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1 last" id="item-489">
+                   <a href="/index.php/features/contact-us.html">
+                    <span>
+                     Contact Us
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <div class="menu_bot">
+                </div>
+               </div>
+              </li>
+              <li class="parent level0" id="item-491">
+               <a href="#">
+                <span>
+                 Courses
+                </span>
+               </a>
+               <div class="menu_round">
+                <div class="menu_top">
+                </div>
+                <div class="menu_mid">
+                 <ul class="level1 ">
+                  <li class="level1 first" id="item-492">
+                   <a href="/index.php/demo-layouts/bsc-computer-science.html">
+                    <span>
+                     BSC Computer Science
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-584">
+                   <a href="/index.php/demo-layouts/bsc-information-technology.html">
+                    <span>
+                     BSC Information Technology
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-586">
+                   <a href="/index.php/demo-layouts/bsc-software-engineering.html">
+                    <span>
+                     BSC Software Engineering
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1 last" id="item-585">
+                   <a href="/index.php/demo-layouts/bsc-information-systems.html">
+                    <span>
+                     BSC Information Systems
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <div class="menu_bot">
+                </div>
+               </div>
+              </li>
+              <li class="parent level0" id="item-495">
+               <a href="/">
+                <span>
+                 Admission
+                </span>
+               </a>
+               <div class="menu_round">
+                <div class="menu_top">
+                </div>
+                <div class="menu_mid">
+                 <ul class="level1 ">
+                  <li class="level1 first" id="item-496">
+                   <a href="/index.php/k2/undergratuate.html">
+                    <span>
+                     Undergratuate
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-497">
+                   <a href="/index.php/k2/graduate.html">
+                    <span>
+                     Graduate
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-500">
+                   <a href="http://mak.ac.ug/admissions/fees-structure" target="_blank">
+                    <span>
+                     Fees Structure
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-501">
+                   <a href="http://mak.ac.ug/admissions/application-procedures" target="_blank">
+                    <span>
+                     Application Procedure
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1 last" id="item-502">
+                   <a href="http://mak.ac.ug/application-procedures/international-students" target="_blank">
+                    <span>
+                     International Students
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <div class="menu_bot">
+                </div>
+               </div>
+              </li>
+              <li class="parent level0" id="item-504">
+               <a href="/index.php/news-events.html">
+                <span>
+                 News&amp;Events
+                </span>
+               </a>
+               <div class="menu_round">
+                <div class="menu_top">
+                </div>
+                <div class="menu_mid">
+                 <ul class="level1 ">
+                  <li class="level1 first" id="item-547">
+                   <a href="/index.php/news-events/cit-events.html">
+                    <span>
+                     CIT Events
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-548">
+                   <a href="/index.php/news-events/cit-in-the-media.html">
+                    <span>
+                     CIT in the Media
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1 last" id="item-579">
+                   <a href="/index.php/news-events/cit-news.html">
+                    <span>
+                     CIT News
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <div class="menu_bot">
+                </div>
+               </div>
+              </li>
+              <li class="parent level0" id="item-506">
+               <a href="/index.php/research.html">
+                <span>
+                 Research
+                </span>
+               </a>
+               <div class="menu_round">
+                <div class="menu_top">
+                </div>
+                <div class="menu_mid">
+                 <ul class="level1 ">
+                  <li class="level1 first" id="item-580">
+                   <a href="/index.php/research/wireless-networks-and-systems-security.html">
+                    <span>
+                     Wireless Networks and Systems Security
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-581">
+                   <a href="/index.php/research/model-and-web-based-systems-development.html">
+                    <span>
+                     Model and Web Based Systems Development
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-582">
+                   <a href="/index.php/research/informatics-and-visualization-research-group.html">
+                    <span>
+                     Informatics and Visualization Research Group
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1" id="item-583">
+                   <a href="http://cit.mak.ac.ug/cs/aigroup/">
+                    <span>
+                     Artificial Intelligence
+                    </span>
+                   </a>
+                  </li>
+                  <li class="level1 last" id="item-597">
+                   <a href="/index.php/research/research-students-downloads.html">
+                    <span>
+                     Research Students Downloads
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </div>
+                <div class="menu_bot">
+                </div>
+               </div>
+              </li>
+              <li class="level0 last" id="item-507">
+               <a href="/index.php/collaborations.html">
+                <span>
+                 Collaborations
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!--******************** END HEADER ********************-->
+    <div class="ot-middle">
+     <div class="ot-widthTemp">
+      <div class="ot-widthTemp-i">
+       <!--******************** START TOP-EXTEND ********************-->
+       <div class="ot-top-extend">
+        <div class="ot-top-extend-i">
+         <div class="otModule module">
+          <div class="otModule-i">
+           <div class="otModuleContent-i clearfix">
+            <div class="ot-articles" id="ot-scroll108">
+             <div class="ot-panel" id="container_outer108">
+              <div class="ot-panel-i" id="container_inner108">
+               <div class="ot-list" id="container108">
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-1.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/71-mbabazi-tips-youth-on-innovation.html">
+                     Mbabazi tips youth on innovation
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    The Prime Minister, Hon. Amama Mbabazi has called on the youth to be more innovative in order to...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-2.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/72-new-deputy-principal-pledges-to-propel-college-forward.html">
+                     New Deputy Principal pledges to propel College forward
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    The new Deputy Principal of the College of Computing and Information Sciences (CoCIS), Dr. Agnes...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-3.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/73-africa-needs-more-platforms-to-showcase-her-innovations-microsoft.html">
+                     Africa needs more platforms to showcase her innovations - Microsoft
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    The success of the teams from the African continent during the Microsoft Imagine Cup competitions...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-4.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/74-satellite-communications-workshop.html">
+                     Satellite Communications Workshop
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    <a href="/undefined/" target="_blank">
+                     <strong>
+                      College of Computing and Information Sciences, Makerere (CoCIS)
+                     </strong>
+                    </a>
+                    in Conjunction with
+                    <a href="http://www.itso.int/" target="_blank">
+                     <strong>
+                      International
+                     </strong>
+                    </a>
+                    ...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-5.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/75-norhed-funding-cit-wins-two-projects.html">
+                     NORHED funding: CIT wins two projects
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    The School of Computing and Informatics Technology (CIT) located in the College of Computing and...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-6.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/76-microsoft-imagine-cup-mak-students-win-making-africa-proud.html">
+                     Microsoft Imagine Cup: Mak students win, making Africa proud
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    For the first time in the history of the Microsoft Imagine Cup, a team from Africa was able to...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-7.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/77-vocational-institutions-urged-to-adopt-cisco-courses.html">
+                     Vocational institutions urged to adopt Cisco courses
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    Vocational institutions have been urged to include Cisco courses in their curriculum. The...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-8.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/78-cocis-holds-electronic-records-management-erm-workshop.html">
+                     CoCIS holds Electronic Records Management (ERM) workshop
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    A total of 26 people participated in a week-long Electronic Records Management (ERM) course aimed...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-9.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/79-peter-khisa-wakholi-defends-his-phd-thesis.html">
+                     Peter Khisa Wakholi defends his PhD thesis
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    Peter Khisa Wakholi, an assistant lecturer in the department of Information Systems successfully...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-10.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/80-microsoft-imagine-cup-makerere-students-develop-new-malaria-testing-application.html">
+                     Microsoft Imagine Cup: Makerere students develop new malaria testing application
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    Uganda will be represented in the Microsoft Imagine Cup competitions worldwide finals by a team...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-11.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/81-makerere-to-host-microsoft-imagine-cup-2013-competition.html">
+                     Makerere to host Microsoft Imagine Cup 2013 competition
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    The world's premier student technology competition, Microsoft Imagine Cup, is back! 
+This year we...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-12.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/82-cipsd-wins-50-000-to-support-business-incubation.html">
+                     CiPSD wins $50,000 to support business incubation
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    The Center for Innovations and Professional Skills Development (CiPSD) has been awarded $50,000...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-13.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/83-second-cohort-of-makerere-amity-students-graduate.html">
+                     Second cohort of Makerere/Amity students graduate
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    A total of 275 students who enrolled for courses offered by Amity University of India have...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="itemBlock cat78" style="position: absolute;">
+                 <div class="img-intro">
+                  <img alt="" src="/images/demo/img-content-14.png"/>
+                 </div>
+                 <div class="moduleItemIntro">
+                  <div class="moduleItemIntro-i">
+                   <h3 class="moduleItemTitle">
+                    <a href="/index.php/78-portfolio/84-over-40-cocis-students-get-first-class-degrees.html">
+                     Over 40 CoCIS students get first class degrees
+                    </a>
+                   </h3>
+                   <div class="introText">
+                    A total of 43 students from the College of Computing and Information Sciences yesterday attained...
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="scrollbar" id="scrollbar108">
+              <div class="track" id="track108" style="display: block">
+               <div class="dragBar" id="dragBar108">
+               </div>
+              </div>
+             </div>
+            </div>
+            <script type="text/javascript">
+             jQuery.noConflict();
+jQuery(document).ready(function($) {
+	var $container108 = $('#ot-scroll108 #container_outer108 #container_inner108 #container108');
+	$container108.imagesLoaded( function(){
+		$container108.isotope({
+			itemSelector: '.itemBlock',
+			layoutMode:"masonryHorizontal",
+			masonryHorizontal : {
+				rowHeight: 20			},
+			onLayout: function( $elems, instance ) {
+				setupScroll();
+			}
+		});
+	});
+	var setupScroll = function(){
+		$('#ot-scroll108 #container_outer108').horizontalScroll({
+			scrollbar_id: "scrollbar108",
+			track_id: "track108",
+			dragbar_id: "dragBar108"
+		});
+	}
+	$('#ot-scroll108 .ot-panel .ot-list .itemBlock').hover(function(){
+		$(".moduleItemIntro", this).stop().animate({top:'0'},{queue:false,duration:300});
+	}, function() {
+		$(".moduleItemIntro", this).stop().animate({top:'100%'},{queue:false,duration:300});
+	});
+});
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!--******************** END TOP-EXTEND ********************-->
+       <!--******************** START TOPBOXES ********************-->
+       <!--******************** END TOPBOXES ********************-->
+       <!--******************** START MAINBODY ********************-->
+       <div class="ot-mainbody">
+        <div class="ot-mainbody-i">
+         <div style="clear: both;">
+          <div id="system-message-container">
+          </div>
+         </div>
+         <div class="ot-content content-full-leftfull-right">
+          <div class="ot-content-i">
+           <div class="blog-featured">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!--******************** END MAINBODY********************-->
+       <!--******************** START BOTTOMBOXES ********************-->
+       <div class="ot-bottomboxes" id="ot-bottomboxes">
+        <div class="ot-bottomboxes-i" id="ot-bottomboxes-i">
+         <div class="bottom-box bottom-box-1 firstbox width28">
+          <div class="otRounded module">
+           <div class="otRounded-topLeft-bg">
+           </div>
+           <div class="otRounded-topRight-bg">
+           </div>
+           <div class="otRounded-mid">
+            <h3>
+             <span class="title-module">
+              Follow Us
+             </span>
+            </h3>
+            <div class="otRounded-mid-i">
+             <div class="otRounded-i">
+              <div class="otModuleContent-i clearfix">
+               <div class="MY_Facebook_Likebox">
+                <div id="fb-root">
+                </div>
+                <script>
+                 (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&status=0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+                </script>
+                <div class="fb-like-box" connections="" data-colorscheme="light" data-header="true" data-height="400" data-href="http://facebook.com/cocismak" data-show-border="false" data-show-faces="true" data-stream="false" data-width="292" style="background:none;">
+                </div>
+                <div style="text-align:center;font-family: Verdana, sans-serif; font-size: xx-small;">
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="otRounded-bottomLeft-bg">
+           </div>
+           <div class="otRounded-bottomRight-bg">
+           </div>
+          </div>
+          <div class="otRounded module">
+           <div class="otRounded-topLeft-bg">
+           </div>
+           <div class="otRounded-topRight-bg">
+           </div>
+           <div class="otRounded-mid">
+            <div class="otRounded-mid-i">
+             <div class="otRounded-i">
+              <div class="otModuleContent-i clearfix">
+               <div class="custom">
+                <p>
+                 <a href="http://cit4.mak.ac.ug/timetables/" target="_blank">
+                  <img alt="" border="0" src="/images/stories/timetables/Timetables.jpg"/>
+                 </a>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="otRounded-bottomLeft-bg">
+           </div>
+           <div class="otRounded-bottomRight-bg">
+           </div>
+          </div>
+         </div>
+         <div class="bottom-box bottom-box-2 midbox width28">
+          <div class="otRounded module">
+           <div class="otRounded-topLeft-bg">
+           </div>
+           <div class="otRounded-topRight-bg">
+           </div>
+           <div class="otRounded-mid">
+            <h3>
+             <span class="title-module">
+              Recent Posts
+             </span>
+            </h3>
+            <div class="otRounded-mid-i">
+             <div class="otRounded-i">
+              <div class="otModuleContent-i clearfix">
+               <div class="k2ItemsBlock" id="k2ModuleBox95">
+                <p class="modulePretext">
+                 Some latest news
+                </p>
+                <ul>
+                 <li class="even firstItem">
+                  <div class="k2ItemBlock k2ItemBlog">
+                   <div class="k2ItemBlock-i">
+                    <!-- Plugins: BeforeDisplay -->
+                    <!-- K2 Plugins: K2BeforeDisplay -->
+                    <div class="moduleItemIntro">
+                     <span class="moduleItemDateCreated">
+                      <span class="ot-date">
+                       07
+                      </span>
+                      <span class="ot-month">
+                       Sep
+                      </span>
+                      <span class="ot-time">
+                       1:34 pm
+                      </span>
+                     </span>
+                     <a class="moduleItemTitle" href="/index.php/news-events/item/441-the-phd-summer-school-seminar.html">
+                      THE PhD SUMMER SCHOOL SEMINAR
+                     </a>
+                     <!-- Plugins: AfterDisplayTitle -->
+                     <!-- K2 Plugins: K2AfterDisplayTitle -->
+                     <!-- Plugins: BeforeDisplayContent -->
+                     <!-- K2 Plugins: K2BeforeDisplayContent -->
+                     <div class="moduleItemIntrotext">
+                      PHD SUMMER SCHOO SEMINAR The PhD school seminar which was held at Makerere University, to address the various challenges faced by graduate students in the East African Region has been…
+                     </div>
+                    </div>
+                    <div class="clr">
+                    </div>
+                    <!-- Plugins: AfterDisplayContent -->
+                    <!-- K2 Plugins: K2AfterDisplayContent -->
+                    <!-- Plugins: AfterDisplay -->
+                    <!-- K2 Plugins: K2AfterDisplay -->
+                    <div class="clr">
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="odd">
+                  <div class="k2ItemBlock k2ItemBlog">
+                   <div class="k2ItemBlock-i">
+                    <!-- Plugins: BeforeDisplay -->
+                    <!-- K2 Plugins: K2BeforeDisplay -->
+                    <div class="moduleItemIntro">
+                     <span class="moduleItemDateCreated">
+                      <span class="ot-date">
+                       07
+                      </span>
+                      <span class="ot-month">
+                       Sep
+                      </span>
+                      <span class="ot-time">
+                       1:33 pm
+                      </span>
+                     </span>
+                     <a class="moduleItemTitle" href="/index.php/news-events/item/440-amity-scholarships.html">
+                      AMITY SCHOLARSHIPS
+                     </a>
+                     <!-- Plugins: AfterDisplayTitle -->
+                     <!-- K2 Plugins: K2AfterDisplayTitle -->
+                     <!-- Plugins: BeforeDisplayContent -->
+                     <!-- K2 Plugins: K2BeforeDisplayContent -->
+                     <div class="moduleItemIntrotext">
+                      ThePan-Africane-NetworkProject is a joint initiative of the Govt. of India and countries of the African Union. It aims at imparting education to students of African countries participating in the project,…
+                     </div>
+                    </div>
+                    <div class="clr">
+                    </div>
+                    <!-- Plugins: AfterDisplayContent -->
+                    <!-- K2 Plugins: K2AfterDisplayContent -->
+                    <!-- Plugins: AfterDisplay -->
+                    <!-- K2 Plugins: K2AfterDisplay -->
+                    <div class="clr">
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="even">
+                  <div class="k2ItemBlock k2ItemBlog">
+                   <div class="k2ItemBlock-i">
+                    <!-- Plugins: BeforeDisplay -->
+                    <!-- K2 Plugins: K2BeforeDisplay -->
+                    <div class="moduleItemIntro">
+                     <span class="moduleItemDateCreated">
+                      <span class="ot-date">
+                       07
+                      </span>
+                      <span class="ot-month">
+                       Sep
+                      </span>
+                      <span class="ot-time">
+                       1:31 pm
+                      </span>
+                     </span>
+                     <a class="moduleItemTitle" href="/index.php/news-events/item/439-two-days-annual-pact-conference-concluded.html">
+                      Two days annual PACT conference concluded
+                     </a>
+                     <!-- Plugins: AfterDisplayTitle -->
+                     <!-- K2 Plugins: K2AfterDisplayTitle -->
+                     <!-- Plugins: BeforeDisplayContent -->
+                     <!-- K2 Plugins: K2BeforeDisplayContent -->
+                     <div class="moduleItemIntrotext">
+                      HON. NYOMBI THEMBO ADDRESSING THE CONFERENCE By. Geoffrey Nyerere and Prossy Tulinomubezi The annual Pan African Conference on Science, Computing and Telecommunications (PACT 2015) that opened Monday 27 July, has…
+                     </div>
+                    </div>
+                    <div class="clr">
+                    </div>
+                    <!-- Plugins: AfterDisplayContent -->
+                    <!-- K2 Plugins: K2AfterDisplayContent -->
+                    <!-- Plugins: AfterDisplay -->
+                    <!-- K2 Plugins: K2AfterDisplay -->
+                    <div class="clr">
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="odd lastItem">
+                  <div class="k2ItemBlock k2ItemBlog">
+                   <div class="k2ItemBlock-i">
+                    <!-- Plugins: BeforeDisplay -->
+                    <!-- K2 Plugins: K2BeforeDisplay -->
+                    <div class="moduleItemIntro">
+                     <span class="moduleItemDateCreated">
+                      <span class="ot-date">
+                       07
+                      </span>
+                      <span class="ot-month">
+                       Sep
+                      </span>
+                      <span class="ot-time">
+                       1:30 pm
+                      </span>
+                     </span>
+                     <a class="moduleItemTitle" href="/index.php/news-events/item/438-academicians-urged-to-diversify-search-for-scholarships.html">
+                      ACADEMICIANS URGED TO DIVERSIFY SEARCH FOR SCHOLARSHIPS
+                     </a>
+                     <!-- Plugins: AfterDisplayTitle -->
+                     <!-- K2 Plugins: K2AfterDisplayTitle -->
+                     <!-- Plugins: BeforeDisplayContent -->
+                     <!-- K2 Plugins: K2BeforeDisplayContent -->
+                     <div class="moduleItemIntrotext">
+                      By: Jacky Achan Stenden University Senior lecturer, Dan Musinguzi has called on international scholarship seekers to diversify their area of search to stand a chance of winning funds needed to…
+                     </div>
+                    </div>
+                    <div class="clr">
+                    </div>
+                    <!-- Plugins: AfterDisplayContent -->
+                    <!-- K2 Plugins: K2AfterDisplayContent -->
+                    <!-- Plugins: AfterDisplay -->
+                    <!-- K2 Plugins: K2AfterDisplay -->
+                    <div class="clr">
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <!--<li class="clearList"></li>-->
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="otRounded-bottomLeft-bg">
+           </div>
+           <div class="otRounded-bottomRight-bg">
+           </div>
+          </div>
+         </div>
+         <div class="bottom-box bottom-box-3 midbox width28">
+          <div class="otRounded module">
+           <div class="otRounded-topLeft-bg">
+           </div>
+           <div class="otRounded-topRight-bg">
+           </div>
+           <div class="otRounded-mid">
+            <h3>
+             <span class="title-module">
+              Collaborations
+             </span>
+            </h3>
+            <div class="otRounded-mid-i">
+             <div class="otRounded-i">
+              <div class="otModuleContent-i clearfix">
+               <div class="k2ItemsBlock" id="k2ModuleBox118">
+                <p class="modulePretext">
+                 Our Partners
+                </p>
+                <ul>
+                 <li class="even firstItem">
+                  <div class="k2ItemBlock k2ItemBlog">
+                   <div class="k2ItemBlock-i">
+                    <!-- Plugins: BeforeDisplay -->
+                    <!-- K2 Plugins: K2BeforeDisplay -->
+                    <div class="moduleItemIntro">
+                     <span class="moduleItemDateCreated">
+                      <span class="ot-date">
+                       25
+                      </span>
+                      <span class="ot-month">
+                       Feb
+                      </span>
+                      <span class="ot-time">
+                       11:56 am
+                      </span>
+                     </span>
+                     <a class="moduleItemTitle" href="/index.php/collaborations/item/393-norhed-project-improving-east-africa-s-weather-information-management-through-the-application-of-suitable-icts.html">
+                      NORHED Project Weather Information Management through the Application of Suitable ICTs
+                     </a>
+                     <!-- Plugins: AfterDisplayTitle -->
+                     <!-- K2 Plugins: K2AfterDisplayTitle -->
+                     <!-- Plugins: BeforeDisplayContent -->
+                     <!-- K2 Plugins: K2BeforeDisplayContent -->
+                     <div class="moduleItemIntrotext">
+                      The research project - 'Improving East Africa's Weather Information Management through the application of suitable ICTs' has received a grant from the Norwegian Programme for Capacity Building in Higher Education…
+                     </div>
+                    </div>
+                    <div class="clr">
+                    </div>
+                    <!-- Plugins: AfterDisplayContent -->
+                    <!-- K2 Plugins: K2AfterDisplayContent -->
+                    <!-- Plugins: AfterDisplay -->
+                    <!-- K2 Plugins: K2AfterDisplay -->
+                    <div class="clr">
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="odd">
+                  <div class="k2ItemBlock k2ItemBlog">
+                   <div class="k2ItemBlock-i">
+                    <!-- Plugins: BeforeDisplay -->
+                    <!-- K2 Plugins: K2BeforeDisplay -->
+                    <div class="moduleItemIntro">
+                     <span class="moduleItemDateCreated">
+                      <span class="ot-date">
+                       23
+                      </span>
+                      <span class="ot-month">
+                       Nov
+                      </span>
+                      <span class="ot-time">
+                       5:45 pm
+                      </span>
+                     </span>
+                     <a class="moduleItemTitle" href="/index.php/collaborations/item/307-unesco-project.html">
+                      UNESCO Project
+                     </a>
+                     <!-- Plugins: AfterDisplayTitle -->
+                     <!-- K2 Plugins: K2AfterDisplayTitle -->
+                     <!-- Plugins: BeforeDisplayContent -->
+                     <!-- K2 Plugins: K2BeforeDisplayContent -->
+                     <div class="moduleItemIntrotext">
+                      Menu: Abstract Objectives Activities Beneficiaries Output/results Resources Implementation Sustainability Partnerships Projectdescription 1. Abstractoftheproject While brain drain is affecting most of academic institutions in developing world, the School of Computing and…
+                     </div>
+                    </div>
+                    <div class="clr">
+                    </div>
+                    <!-- Plugins: AfterDisplayContent -->
+                    <!-- K2 Plugins: K2AfterDisplayContent -->
+                    <!-- Plugins: AfterDisplay -->
+                    <!-- K2 Plugins: K2AfterDisplay -->
+                    <div class="clr">
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="even">
+                  <div class="k2ItemBlock k2ItemBlog">
+                   <div class="k2ItemBlock-i">
+                    <!-- Plugins: BeforeDisplay -->
+                    <!-- K2 Plugins: K2BeforeDisplay -->
+                    <div class="moduleItemIntro">
+                     <span class="moduleItemDateCreated">
+                      <span class="ot-date">
+                       09
+                      </span>
+                      <span class="ot-month">
+                       Nov
+                      </span>
+                      <span class="ot-time">
+                       1:02 pm
+                      </span>
+                     </span>
+                     <a class="moduleItemTitle" href="/index.php/collaborations/item/300-unesco-hp-brain-gain-initiative-projects.html">
+                      UNESCO-HP  Brain Gain Initiative Projects
+                     </a>
+                     <!-- Plugins: AfterDisplayTitle -->
+                     <!-- K2 Plugins: K2AfterDisplayTitle -->
+                     <!-- Plugins: BeforeDisplayContent -->
+                     <!-- K2 Plugins: K2BeforeDisplayContent -->
+                     <div class="moduleItemIntrotext">
+                      Makerere University School of Computing and Informatics and‚ Technology‚ is currently implementing‚ an HP-UNESCO‚ funded project‚ entitled Towards Fostering Localized Innovative ICT Solutions under its Brain Gain Initiative. Some specific…
+                     </div>
+                    </div>
+                    <div class="clr">
+                    </div>
+                    <!-- Plugins: AfterDisplayContent -->
+                    <!-- K2 Plugins: K2AfterDisplayContent -->
+                    <!-- Plugins: AfterDisplay -->
+                    <!-- K2 Plugins: K2AfterDisplay -->
+                    <div class="clr">
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="odd lastItem">
+                  <div class="k2ItemBlock k2ItemBlog">
+                   <div class="k2ItemBlock-i">
+                    <!-- Plugins: BeforeDisplay -->
+                    <!-- K2 Plugins: K2BeforeDisplay -->
+                    <div class="moduleItemIntro">
+                     <span class="moduleItemDateCreated">
+                      <span class="ot-date">
+                       01
+                      </span>
+                      <span class="ot-month">
+                       Aug
+                      </span>
+                      <span class="ot-time">
+                       12:10 pm
+                      </span>
+                     </span>
+                     <a class="moduleItemTitle" href="/index.php/collaborations/item/281-e-voting-application.html">
+                      E-Voting Application
+                     </a>
+                     <!-- Plugins: AfterDisplayTitle -->
+                     <!-- K2 Plugins: K2AfterDisplayTitle -->
+                     <!-- Plugins: BeforeDisplayContent -->
+                     <!-- K2 Plugins: K2BeforeDisplayContent -->
+                     <div class="moduleItemIntrotext">
+                      In March 2009, Makerere University Office of the Dean of Students approached the Department of Software Development and Innovation (DSDI) and requested that an application be developed that could help…
+                     </div>
+                    </div>
+                    <div class="clr">
+                    </div>
+                    <!-- Plugins: AfterDisplayContent -->
+                    <!-- K2 Plugins: K2AfterDisplayContent -->
+                    <!-- Plugins: AfterDisplay -->
+                    <!-- K2 Plugins: K2AfterDisplay -->
+                    <div class="clr">
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <!--<li class="clearList"></li>-->
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="otRounded-bottomLeft-bg">
+           </div>
+           <div class="otRounded-bottomRight-bg">
+           </div>
+          </div>
+         </div>
+         <div class="bottom-box bottom-box-4 lastbox width15">
+          <div class="otRounded module">
+           <div class="otRounded-topLeft-bg">
+           </div>
+           <div class="otRounded-topRight-bg">
+           </div>
+           <div class="otRounded-mid">
+            <h3>
+             <span class="title-module">
+              Latest Tweets
+             </span>
+            </h3>
+            <div class="otRounded-mid-i">
+             <div class="otRounded-i">
+              <div class="otModuleContent-i clearfix">
+               <a class="twitter-timeline" data-border-color="#333333" data-chrome="noborders " data-link-color="#4aed05" data-theme="light" data-tweet-limit="7" data-widget-id="362856572164112384" height="600" href="https://twitter.com/cocismak" lang="af_ZA" width="250">
+                Tweets by @cocismak
+               </a>
+               <script type="text/javascript">
+                !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+               </script>
+               <div style="position: relative; height: 15px; width: 100%; font-size: 9px; color: #808080; font-weight: normal; font-family: 'lucida grande',tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;">
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="otRounded-bottomLeft-bg">
+           </div>
+           <div class="otRounded-bottomRight-bg">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!--******************** END BOTTOMBOXES ********************-->
+       <!--******************** START BOTTOM EXTENDS ********************-->
+       <!--******************** END BOTTOM EXTENDS ********************-->
+      </div>
+     </div>
+    </div>
+    <!--******************** START FOOTER ********************-->
+    <div class="ot-footer">
+     <div class="ot-widthTemp">
+      <div class="ot-widthTemp-i">
+       <div class="ot-footer-i">
+        <div class="ot-bottom-1">
+         <div class="ot-bottom-1-i">
+          <div class="otModule module floatleft width100">
+           <div class="otModule-i">
+            <div class="otModuleContent-i clearfix">
+             <div class="custom">
+              <p style="font-family: 'Segoe UI Light';">
+               School of Computing and Informatics Technology
+              </p>
+              <p style="font-family: 'Segoe UI Light';">
+               Plot 56, Makerere University Pool Road,
+              </p>
+              <p style="font-family: 'Segoe UI Light';">
+               Wandegeya Kampala Makerere University,
+              </p>
+              <p style="font-family: 'Segoe UI Light';">
+               P.O.Box 7062, Kampala, Uganda -
+              </p>
+              <p style="font-family: 'Segoe UI Light';">
+               Email:
+               <script type="text/javascript">
+                <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy31828 = '&#105;nf&#111;' + '&#64;';
+ addy31828 = addy31828 + 's&#117;rfn&#111;w' + '&#46;' + 'c&#111;m';
+ var addy_text31828 = '&#105;nf&#111;' + '&#64;' + 'c&#105;t' + '&#46;' + 'm&#97;k' + '&#46;' + '&#97;c' + '&#46;' + '&#117;g';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy31828 + '\'>');
+ document.write(addy_text31828);
+ document.write('<\/a>');
+ //-->\n
+               </script>
+               <script type="text/javascript">
+                <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+               </script>
+               This email address is being protected from spambots. You need JavaScript enabled to view it.
+               <script type="text/javascript">
+                <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+               </script>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="ot-bottom-2">
+         <div class="ot-bottom-2-i">
+          <div class="otModule module floatleft width100">
+           <div class="otModule-i">
+            <div class="otModuleContent-i clearfix">
+             <ul class="menu level0">
+              <li class="level0 first" id="item-508">
+               <a href="/index.php?Itemid=505">
+                <span>
+                 Contact Us
+                </span>
+               </a>
+              </li>
+              <li class="level0" id="item-509">
+               <a href="/">
+                <span>
+                 Privacy &amp; Cookies
+                </span>
+               </a>
+              </li>
+              <li class="level0" id="item-510">
+               <a href="/">
+                <span>
+                 Terms of Use
+                </span>
+               </a>
+              </li>
+              <li class="level0 last" id="item-511">
+               <a href="/">
+                <span>
+                 Trademarks
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+          <div class="otModule module ot-gotop">
+           <div class="otModule-i">
+            <div class="otModuleContent-i clearfix">
+             <div class="custom">
+              <div>
+               <a onclick="goto_top()">
+                <img alt="" border="0" src="/images/demo/top.png"/>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!--******************** END FOOTER ********************-->
+   </div>
+  </div>
+  <div style="clear: both;">
+  </div>
+ </body>
+</html>

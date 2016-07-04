@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb" prefix="og: http://ogp.me/ns#">
+ <head>
+  <base href="http://www.ums.edu.my/fki/"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="FKI, UMS" name="keywords"/>
+  <meta content="fakulti komputeran dan informatik ums" name="description"/>
+  <title>
+   FCI @ UMS - Official Page
+  </title>
+  <link href="http://www.ums.edu.my/fki/index.php/en" rel="canonical"/>
+  <link href="/fki/index.php/en?format=feed&amp;type=rss" rel="alternate" title="RSS 2.0" type="application/rss+xml"/>
+  <link href="/fki/index.php/en?format=feed&amp;type=atom" rel="alternate" title="Atom 1.0" type="application/atom+xml"/>
+  <link href="/fki/templates/template_faculty/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="http://www.ums.edu.my/fki/index.php/en/component/search/?Itemid=101&amp;format=opensearch" rel="search" title="Search Faculty of Computing and Informatics - UMS" type="application/opensearchdescription+xml"/>
+  <link href="/fki/index.php?option=com_ajax&amp;plugin=arktypography&amp;format=json" rel="stylesheet" type="text/css"/>
+  <link href="/fki/index.php?option=com_ajax&amp;plugin=arkbootstrap&amp;format=json" rel="stylesheet" type="text/css"/>
+  <link href="/fki/media/plg_jchoptimize/assets/fki/gz/1/0/3a5f23c891d0376388ee125db360b72e.css" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css"/>
+  <link href="/fki/media/plg_jchoptimize/assets/fki/gz/1/1/3a5f23c891d0376388ee125db360b72e.css" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+   @font-face{font-family:"IcoMoon";font-style:normal;font-weight:normal;src:url("media/jui/fonts/IcoMoon.eot?#iefix") format("embedded-opentype"),url("media/jui/fonts/IcoMoon.woff") format("woff"),url("media/jui/fonts/IcoMoon.ttf") format("truetype"),url("media/jui/fonts/IcoMoon.svg#IcoMoon") format("svg")}@media screen and (max-width:480px){.bt-cs .bt-row{width:100%!important}}#camera_wrap_98 .camera_pag_ul li img,#camera_wrap_98 .camera_thumbs_cont ul li>img{height:75px}#camera_wrap_98 .camera_caption{display:block;position:absolute}#camera_wrap_98 .camera_caption>div{-moz-border-radius:5px 5px 5px 5px;-webkit-border-radius:5px 5px 5px 5px;border-radius:5px 5px 5px 5px;font-size:12px;font-family:'Droid Sans'}#camera_wrap_98 .camera_caption>div div.slideshowck_description{font-size:10px}
+  </style>
+  <script src="/fki/media/plg_jchoptimize/assets/fki/gz/1/0/199e08abab10b5ac27bb90411f28cd6d.js" type="application/javascript">
+  </script>
+  <script type="text/javascript">
+   jQuery(document).ready(function(){if(typeof CKEDITOR!=="undefined")
+{jQuery("a[href='#']").on('click',function(e){e.preventDefault();});}});jQuery(function($)
+{SqueezeBox.assign($('a.modal').get(),{parse:'rel'});$('img.modal').each(function(i,el)
+{SqueezeBox.assign(el,{handler:'image',url:$(el).attr('src')});});});jQuery(function($){SqueezeBox.initialize({});SqueezeBox.assign($('a.modal').get(),{parse:'rel'});});function jModalClose(){SqueezeBox.close();}
+  </script>
+  <link href="/fki/media/plg_jchoptimize/assets/fki/gz/1/2/3a5f23c891d0376388ee125db360b72e.css" rel="stylesheet" type="text/css"/>
+  <!-- Created by Artisteer v4.0.0.58475 -->
+  <meta content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width" name="viewport"/>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if lte IE 7]><link rel="stylesheet" href="/fki/templates/template_faculty/css/template.ie7.css" media="screen" /><![endif]-->
+  <link href="http://fonts.googleapis.com/css?family=PT+Sans&amp;subset=latin" rel="stylesheet" type="text/css"/>
+  <script>
+   if('undefined'!=typeof jQuery)document._artxJQueryBackup=jQuery;
+  </script>
+  <script src="/fki/media/plg_jchoptimize/assets/fki/gz/1/1/199e08abab10b5ac27bb90411f28cd6d.js" type="application/javascript">
+  </script>
+  <script>
+   jQuery.noConflict();
+  </script>
+  <script src="/fki/media/plg_jchoptimize/assets/fki/gz/1/2/199e08abab10b5ac27bb90411f28cd6d.js" type="application/javascript">
+  </script>
+  <script>
+   if(document._artxJQueryBackup)jQuery=document._artxJQueryBackup;
+  </script>
+  <script src="/fki/media/plg_jchoptimize/assets/fki/gz/1/3/199e08abab10b5ac27bb90411f28cd6d.js" type="application/javascript">
+  </script>
+ </head>
+ <body>
+  <div id="art-main">
+   <div class="clearfix" id="art-header-bg">
+   </div>
+   <div class="art-bar art-nav clearfix" id="art-hmenu-bg">
+   </div>
+   <div class="art-sheet clearfix">
+    <header class="art-header clearfix">
+     <!-- begin nostyle -->
+     <div class="art-nostyle">
+      <!-- begin nostyle content -->
+      <div id="jflanguageselection">
+       <div class="rawimages">
+        <span>
+         <a href="http://www.ums.edu.my/fki/index.php/ms/utama">
+          <img alt="BahasaMelayuMalaysia" src="/fki/images/ms.gif" title="BahasaMelayuMalaysia"/>
+         </a>
+        </span>
+        <span id="active_language">
+         <a href="http://www.ums.edu.my/fki/index.php/en">
+          <img alt="English (UK)" src="/fki/media/mod_languages/images/en.gif" title="English (UK)"/>
+         </a>
+        </span>
+       </div>
+      </div>
+      <!--LanternFish V1.3.7 (j34)-->
+      <!-- &copy; 2015 BzZzZ, a division of Drzno komuniciranje d.o.o., released under the GPL. -->
+      <!-- More information: at http://www.joogpot.eu -->
+      <!-- end nostyle content -->
+     </div>
+     <!-- end nostyle -->
+     <div class="art-shapes">
+      <div class="art-object1948953027" data-left="0.98%" on-click="window.location='http://www.ums.edu.my/v5'" style="cursor: pointer;">
+      </div>
+      <div class="art-object2084484952" data-left="97.73%">
+      </div>
+     </div>
+    </header>
+    <nav class="art-nav clearfix">
+     <div class="art-nav-inner">
+      <ul class="art-hmenu">
+       <li class="item-101 current active">
+        <a class=" active" href="/fki/index.php/en">
+         Home
+        </a>
+       </li>
+       <li class="item-127 deeper parent">
+        <a class="separator">
+         Student
+        </a>
+        <ul>
+         <li class="item-144 deeper parent">
+          <a class="separator">
+           Current student
+          </a>
+          <ul>
+           <li class="item-212">
+            <a href="/fki/index.php/en/students/current-student/current-undergraduate">
+             Undergraduate
+            </a>
+           </li>
+           <li class="item-213">
+            <a href="/fki/index.php/en/students/current-student/current-postgaraduate">
+             Postgraduate
+            </a>
+           </li>
+           <li class="item-214">
+            <a href="/fki/index.php/en/students/current-student/current-fyp">
+             Final Year Project
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="item-146 deeper parent">
+          <a class="separator">
+           Prospective student
+          </a>
+          <ul>
+           <li class="item-215 deeper parent">
+            <a class="separator">
+             Undergraduate
+            </a>
+            <ul>
+             <li class="item-147">
+              <a href="/fki/index.php/en/students/prospective-student/prospective-undergraduate/hc00-software-engineering">
+               HC00 Software Engineering
+              </a>
+             </li>
+             <li class="item-148">
+              <a href="/fki/index.php/en/students/prospective-student/prospective-undergraduate/hc05-network-engineering">
+               HC05 Network Engineering
+              </a>
+             </li>
+             <li class="item-149">
+              <a href="/fki/index.php/en/students/prospective-student/prospective-undergraduate/hc12-multimedia-technology">
+               HC12 Multimedia Technology
+              </a>
+             </li>
+             <li class="item-150">
+              <a href="/fki/index.php/en/students/prospective-student/prospective-undergraduate/hc13-e-commerce">
+               HC13 E-Commerce
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="item-216">
+            <a href="/fki/index.php/en/students/prospective-student/prospective-postgraduate">
+             Postgraduate
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="item-179">
+          <a href="/fki/index.php/en/students/admission">
+           Admission
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="item-128 deeper parent">
+        <a class="separator">
+         Research
+        </a>
+        <ul>
+         <li class="item-152 deeper parent">
+          <a class="separator">
+           Research Groups
+          </a>
+          <ul>
+           <li class="item-153">
+            <a href="/fki/index.php/en/research/research-groups/knowledge-discovery-machine-learning-group">
+             Knowledge Discovery &amp; Machine Learning Group
+            </a>
+           </li>
+           <li class="item-154">
+            <a href="/fki/index.php/en/research/research-groups/isrb">
+             Information Systems Research Unit Borneo
+            </a>
+           </li>
+           <li class="item-155">
+            <a href="/fki/index.php/en/research/research-groups/human-computer-interaction-research-group">
+             Human Computer Interaction Research Group
+            </a>
+           </li>
+           <li class="item-156">
+            <a href="/fki/index.php/en/research/research-groups/bio-mimetic-research-group">
+             Bio-mimetic Research Group
+            </a>
+           </li>
+           <li class="item-157">
+            <a href="/fki/index.php/en/research/research-groups/vision-language-group">
+             Vision &amp; Language Group
+            </a>
+           </li>
+           <li class="item-176">
+            <a href="/fki/index.php/en/research/research-groups/software-engineering-research-group">
+             Software Engineering Research Group
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="item-129 deeper parent">
+          <a class="separator">
+           Publications
+          </a>
+          <ul>
+           <li class="item-172">
+            <a href="/fki/index.php/en/research/publication/2015">
+             2015
+            </a>
+           </li>
+           <li class="item-171">
+            <a href="/fki/index.php/en/research/publication/2014">
+             2014
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class="item-184 deeper parent">
+        <a class="separator">
+         STAFF
+        </a>
+        <ul>
+         <li class="item-185">
+          <a href="/fki/index.php/en/people/academicstaff">
+           Academic Staff
+          </a>
+         </li>
+         <li class="item-186">
+          <a href="/fki/index.php/en/people/adminstaff">
+           Administrative Staff
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="item-187">
+        <a href="http://www.ums.edu.my/alumni/">
+         Alumni
+        </a>
+       </li>
+       <li class="item-131 deeper parent">
+        <a class="separator">
+         About Us
+        </a>
+        <ul>
+         <li class="item-175">
+          <a href="/fki/index.php/en/about-us/dean-s-message">
+           Dean's Message
+          </a>
+         </li>
+         <li class="item-183">
+          <a href="/fki/index.php/en/about-us/profile">
+           Profile
+          </a>
+         </li>
+         <li class="item-174">
+          <a href="/fki/index.php/en/about-us/vision-mission-objectives">
+           Vision, Mission &amp; Objectives
+          </a>
+         </li>
+         <li class="item-132">
+          <a href="/fki/index.php/en/about-us/site-map">
+           Site Map
+          </a>
+         </li>
+         <li class="item-151">
+          <a href="/fki/index.php/en/about-us/administration">
+           Administration
+          </a>
+         </li>
+         <li class="item-326">
+          <a href="/fki/index.php/en/about-us/organization-chart">
+           Organization Chart
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="item-130 deeper parent">
+        <a class="separator">
+         Other Links
+        </a>
+        <ul>
+         <li class="item-188 deeper parent">
+          <a class="separator">
+           News
+          </a>
+          <ul>
+           <li class="item-189">
+            <a href="/fki/index.php/en/otherlinks/news/latest">
+             Latest
+            </a>
+           </li>
+           <li class="item-173">
+            <a href="/fki/index.php/en/otherlinks/news/archive">
+             Archive
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="item-190">
+          <a href="/fki/index.php/en/otherlinks/events">
+           Events
+          </a>
+         </li>
+         <li class="item-170">
+          <a href="/fki/index.php/en/otherlinks/faq">
+           FAQ
+          </a>
+         </li>
+         <li class="item-191">
+          <a href="/fki/index.php/en/otherlinks/download">
+           Download
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="item-192">
+        <a href="/fki/index.php/en/contactus">
+         Contact Us
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <!-- begin nostyle -->
+    <div class="art-nostyle">
+     <!-- begin nostyle content -->
+     <!--[if lte IE 7]>
+		<link href="/fki/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+     <!--[if IE 8]>
+		<link href="/fki/modules/mod_slideshowck/themes/default/css/camera_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+     <script type="text/javascript">
+      jQuery(function(){jQuery('#camera_wrap_98').camera({height:'32%',minHeight:'',pauseOnClick:false,hover:1,fx:'random',loader:'pie',pagination:1,thumbnails:1,thumbheight:75,thumbwidth:100,time:7000,transPeriod:1500,alignment:'center',autoAdvance:1,mobileAutoAdvance:1,portrait:0,barDirection:'leftToRight',imagePath:'/fki/modules/mod_slideshowck/images/',lightbox:'mediaboxck',fullpage:0,mobileimageresolution:'0',navigationHover:true,navigation:true,playPause:true,barPosition:'bottom',container:''});});
+     </script>
+     <!-- debut Slideshow CK -->
+     <div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_98">
+      <div data-src="/fki/images/undergraduate.jpg" data-thumb="/fki/images/th/undergraduate_th.jpg">
+       <div class="camera_caption moveFromLeft">
+        <div class="camera_caption_title">
+         Undergraduate
+        </div>
+        <div class="camera_caption_desc">
+         Our undergraduate programmes provide students with knowledge, skills and experience in relevant areas
+        </div>
+       </div>
+      </div>
+      <div data-link="http://www.ums.edu.my/fki/index.php/en/futurestudents/postgraduate" data-src="/fki/images/postgraduate.jpg" data-target="_parent" data-thumb="/fki/images/th/postgraduate_th.jpg">
+       <div class="camera_caption moveFromLeft">
+        <div class="camera_caption_title">
+         Postgraduate
+        </div>
+        <div class="camera_caption_desc">
+         We offer cutting-edge postgraduate research opportunities
+        </div>
+       </div>
+      </div>
+      <div data-src="/fki/images/research.jpg" data-thumb="/fki/images/th/research_th.jpg">
+       <div class="camera_caption moveFromLeft">
+        <div class="camera_caption_title">
+         Research
+        </div>
+        <div class="camera_caption_desc">
+         Our research varies from multimedia and gaming to data mining and biomimetics
+        </div>
+       </div>
+      </div>
+      <div data-link="http://www.iccstec.org/" data-src="/fki/images/iccst2016.jpg" data-target="_parent" data-thumb="/fki/images/th/iccst2016_th.jpg">
+       <div class="camera_caption moveFromLeft">
+        <div class="camera_caption_title">
+         3rd International Conference on Computational Science and Technology 2016 (ICCST2016)
+        </div>
+        <div class="camera_caption_desc">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style="clear:both;">
+     </div>
+     <!-- fin Slideshow CK -->
+     <!-- end nostyle content -->
+    </div>
+    <!-- end nostyle -->
+    <div class="art-layout-wrapper clearfix">
+     <div class="art-content-layout">
+      <div class="art-content-layout-row">
+       <div class="art-layout-cell art-content clearfix">
+        <article class="art-post">
+         <div class="art-postcontent clearfix">
+          <div class="custom">
+           <h3>
+            <span style="font-size: 18pt;">
+             <strong>
+              <span style="color: #000000;">
+               News
+              </span>
+             </strong>
+            </span>
+            |
+            <strong>
+             <a href="/fki/index.php/en/news">
+              <span style="color: #0000ff;">
+               <span style="color: #0000ff;">
+                More News
+               </span>
+              </span>
+             </a>
+            </strong>
+           </h3>
+          </div>
+         </div>
+        </article>
+        <div class="art-content-layout">
+         <div class="art-content-layout-row">
+          <div class="art-layout-cell" style="width: 100%;">
+           <article class="art-post">
+            <div class="art-postcontent clearfix">
+             <div class="bt-cs" id="btcontentslider88" style="display:none;width:auto">
+              <a class="prev" href="#">
+               Prev
+              </a>
+              <a class="next" href="#">
+               Next
+              </a>
+              <div class="slides_container" style="width:auto;">
+               <div class="slide" style="width:auto">
+                <div class="bt-row bt-row-first" style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/315-business-idea-challenge-competition" target="_parent" title="BUSINESS IDEA CHALLENGE COMPETITION">
+                   <img alt="BUSINESS IDEA CHALLENGE COMPETITION" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/cb5d771d4fd0ce3864b2b26a0e10e337-BIC.jpg" style="width:300px; float:left;margin-right:5px" title="BUSINESS IDEA CHALLENGE COMPETITION"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/315-business-idea-challenge-competition" target="_parent" title="BUSINESS IDEA CHALLENGE COMPETITION">
+                   BUSINESS IDEA CHALLENGE COMPETITION
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div class="bt-row " style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/314-advance-multimedia-animation-showcase" target="_parent" title="ADVANCED MULTIMEDIA ANIMATION SHOWCASE">
+                   <img alt="ADVANCED MULTIMEDIA ANIMATION SHOWCASE" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/4f3c70dd169b7b847f67002386db05f4-animation.jpg" style="width:300px; float:left;margin-right:5px" title="ADVANCED MULTIMEDIA ANIMATION SHOWCASE"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/314-advance-multimedia-animation-showcase" target="_parent" title="ADVANCED MULTIMEDIA ANIMATION SHOWCASE">
+                   ADVANCED MULTIMEDIA ANIMATION SHOWCASE
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div class="bt-row bt-row-last" style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/313-prof-dr-kamal-z-zamli-visit-to-fki-kk" target="_parent" title="PROF. DR. KAMAL Z. ZAMLI VISIT TO FKI-KK">
+                   <img alt="PROF. DR. KAMAL Z. ZAMLI VISIT TO FKI-KK" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/9e93b306886b5e33bfb9af43bcefd603-01.jpg" style="width:300px; float:left;margin-right:5px" title="PROF. DR. KAMAL Z. ZAMLI VISIT TO FKI-KK"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/313-prof-dr-kamal-z-zamli-visit-to-fki-kk" target="_parent" title="PROF. DR. KAMAL Z. ZAMLI VISIT TO FKI-KK">
+                   PROF. DR. KAMAL Z. ZAMLI VISIT TO FKI-KK...
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div style="clear: both;">
+                </div>
+               </div>
+               <!--end bt-main-item page	-->
+               <div class="slide" style="width:auto">
+                <div class="bt-row bt-row-first" style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/311-prof-dr-abdul-hanan-abdullah-visit-to-fki-kk" target="_parent" title="Prof. Dr. Abdul Hanan Abdullah visit to FKI-KK">
+                   <img alt="Prof. Dr. Abdul Hanan Abdullah visit to FKI-KK" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/3a326d3eef429e21d8e69746d7d9293f-prof_hanan.jpg" style="width:300px; float:left;margin-right:5px" title="Prof. Dr. Abdul Hanan Abdullah visit to FKI-KK"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/311-prof-dr-abdul-hanan-abdullah-visit-to-fki-kk" target="_parent" title="Prof. Dr. Abdul Hanan Abdullah visit to FKI-KK">
+                   Prof. Dr. Abdul Hanan Abdullah visit to FKI-KK...
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div class="bt-row " style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/310-professor-dr-hiroyuki-iida-visits-at-fki-kk-and-labuan-ums-malaysia" target="_parent" title="Professor Dr. Hiroyuki Iida Visits at FKI-KK and Labuan, UMS, Malaysia.">
+                   <img alt="Professor Dr. Hiroyuki Iida Visits at FKI-KK and Labuan, UMS, Malaysia." class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/1b8a6c331e177de4f21e724dc4c2f39a-prof_iida_5.jpg" style="width:300px; float:left;margin-right:5px" title="Professor Dr. Hiroyuki Iida Visits at FKI-KK and Labuan, UMS, Malaysia."/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/310-professor-dr-hiroyuki-iida-visits-at-fki-kk-and-labuan-ums-malaysia" target="_parent" title="Professor Dr. Hiroyuki Iida Visits at FKI-KK and Labuan, UMS, Malaysia.">
+                   Professor Dr. Hiroyuki Iida Visits at FKI-KK and...
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div class="bt-row bt-row-last" style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/309-school-of-computing-uum-and-faculty-of-computing-and-informatics-ums-organises-ic-ict4t-2016" target="_parent" title="School of Computing (UUM) and Faculty of Computing and Informatics (UMS) Organises IC-ICT4T  2016 ">
+                   <img alt="School of Computing (UUM) and Faculty of Computing and Informatics (UMS) Organises IC-ICT4T  2016 " class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/e6f6d627f804a55ff3c93ae2901e42ed-ic-ict4t_03_new.jpg" style="width:300px; float:left;margin-right:5px" title="School of Computing (UUM) and Faculty of Computing and Informatics (UMS) Organises IC-ICT4T  2016 "/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/309-school-of-computing-uum-and-faculty-of-computing-and-informatics-ums-organises-ic-ict4t-2016" target="_parent" title="School of Computing (UUM) and Faculty of Computing and Informatics (UMS) Organises IC-ICT4T  2016 ">
+                   School of Computing (UUM) and Faculty of Computing...
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div style="clear: both;">
+                </div>
+               </div>
+               <!--end bt-main-item page	-->
+               <div class="slide" style="width:auto">
+                <div class="bt-row bt-row-first" style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/304-survey-writing-workshop" target="_parent" title="Survey Writing Workshop">
+                   <img alt="Survey Writing Workshop" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/1a0eb4ec15459d8fad93768fa6d3a898-image01.jpg" style="width:300px; float:left;margin-right:5px" title="Survey Writing Workshop"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/304-survey-writing-workshop" target="_parent" title="Survey Writing Workshop">
+                   Survey Writing Workshop
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div class="bt-row " style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/190-roborneo-2015-robot-connection-competition" target="_parent" title="Roborneo 2015 Robot Connection Competition">
+                   <img alt="Roborneo 2015 Robot Connection Competition" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/59bc8fcef1045956a2f62b15aab468d1-robocon1.jpg" style="width:300px; float:left;margin-right:5px" title="Roborneo 2015 Robot Connection Competition"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/190-roborneo-2015-robot-connection-competition" target="_parent" title="Roborneo 2015 Robot Connection Competition">
+                   Roborneo 2015 Robot Connection Competition
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div class="bt-row bt-row-last" style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/187-faculty-of-computing-informatics-dinner-2015" target="_parent" title="FACULTY OF COMPUTING &amp; INFORMATICS DINNER 2015">
+                   <img alt="FACULTY OF COMPUTING &amp; INFORMATICS DINNER 2015" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/a4a3fddc9e2ecd83c33b74679ac5b5e8-DINNER2.jpg" style="width:300px; float:left;margin-right:5px" title="FACULTY OF COMPUTING &amp; INFORMATICS DINNER 2015"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/187-faculty-of-computing-informatics-dinner-2015" target="_parent" title="FACULTY OF COMPUTING &amp; INFORMATICS DINNER 2015">
+                   FACULTY OF COMPUTING &amp; INFORMATICS DINNER 2015
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div style="clear: both;">
+                </div>
+               </div>
+               <!--end bt-main-item page	-->
+               <div class="slide" style="width:auto">
+                <div class="bt-row bt-row-first" style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/185-professor-dr-abdullah-gani-visits-at-fki-labuan-and-kk-ums" target="_parent" title="Professor Dr. Abdullah Gani Visits at FKI-Labuan and KK, UMS">
+                   <img alt="Professor Dr. Abdullah Gani Visits at FKI-Labuan and KK, UMS" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/ccdacc6bd2b3658d0355338c2558e781-11.jpg" style="width:300px; float:left;margin-right:5px" title="Professor Dr. Abdullah Gani Visits at FKI-Labuan and KK, UMS"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/185-professor-dr-abdullah-gani-visits-at-fki-labuan-and-kk-ums" target="_parent" title="Professor Dr. Abdullah Gani Visits at FKI-Labuan and KK, UMS">
+                   Professor Dr. Abdullah Gani Visits at FKI-Labuan and...
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div class="bt-row " style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/183-fki-s-graduates-reception-2015" target="_parent" title="FKI’s Graduates Reception 2015">
+                   <img alt="FKI’s Graduates Reception 2015" class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/bcc0077d1fad97c10a89d14b54c94b01-JPG_6621.JPG" style="width:300px; float:left;margin-right:5px" title="FKI’s Graduates Reception 2015"/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/183-fki-s-graduates-reception-2015" target="_parent" title="FKI’s Graduates Reception 2015">
+                   FKI’s Graduates Reception 2015
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div class="bt-row bt-row-last" style="width:33.333333333333%">
+                 <div class="bt-inner">
+                  <a class="bt-image-link" href="/fki/index.php/en/otherlinks/news/latest/118-ums-became-the-winners-in-computational-intelligence-category-at-the-2015-ieee-malaysia-fyp-competition" target="_parent" title="UMS Became the Winners in Computational Intelligence Category at the 2015 IEEE Malaysia FYP Competition ">
+                   <img alt="UMS Became the Winners in Computational Intelligence Category at the 2015 IEEE Malaysia FYP Competition " class="hovereffect" src="http://www.ums.edu.my/fki/cache/mod_bt_contentslider/71783a7afd28f2a4f4af2705a089aa51-fki.jpg" style="width:300px; float:left;margin-right:5px" title="UMS Became the Winners in Computational Intelligence Category at the 2015 IEEE Malaysia FYP Competition "/>
+                  </a>
+                  <a class="bt-title" href="/fki/index.php/en/otherlinks/news/latest/118-ums-became-the-winners-in-computational-intelligence-category-at-the-2015-ieee-malaysia-fyp-competition" target="_parent" title="UMS Became the Winners in Computational Intelligence Category at the 2015 IEEE Malaysia FYP Competition ">
+                   UMS Became the Winners in Computational Intelligence Category...
+                  </a>
+                  <br/>
+                 </div>
+                 <!--end bt-inner -->
+                </div>
+                <!--end bt-row -->
+                <div style="clear: both;">
+                </div>
+               </div>
+               <!--end bt-main-item page	-->
+              </div>
+             </div>
+             <!--end bt-container -->
+             <div style="clear: both;">
+             </div>
+             <script type="text/javascript">
+              if(typeof(btcModuleIds)=='undefined'){var btcModuleIds=new Array();var btcModuleOpts=new Array();}
+btcModuleIds.push(88);btcModuleOpts.push({slideEasing:'easeInQuad',fadeEasing:'easeInQuad',effect:'slide,slide',preloadImage:'http://www.ums.edu.my/fki//modules/mod_bt_contentslider/tmpl/images/loading.gif',generatePagination:false,play:0,hoverPause:true,slideSpeed:500,autoHeight:false,fadeSpeed:500,equalHeight:false,width:'auto',height:'auto',pause:100,preload:true,paginationClass:'bt_handles_num',generateNextPrev:false,prependPagination:true,touchScreen:1});
+             </script>
+            </div>
+           </article>
+          </div>
+         </div>
+        </div>
+        <article class="art-post art-messages">
+         <div class="art-postcontent clearfix">
+          <div id="system-message-container">
+          </div>
+         </div>
+        </article>
+        <div class="blog-featured">
+        </div>
+       </div>
+       <div class="art-layout-cell art-sidebar2 clearfix">
+        <div class="art-block clearfix">
+         <div class="art-blockcontent">
+          <div class="custom">
+           <h3>
+            <span style="font-size: 18pt;">
+             <strong>
+              <span style="color: #000000;">
+               Events
+              </span>
+             </strong>
+            </span>
+           </h3>
+           <p>
+           </p>
+           <p>
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class="art-block clearfix">
+         <div class="art-blockcontent">
+          <table align="center" border="0" cellpadding="0" cellspacing="0" class="mod_events_latest_table jevbootstrap" width="100%">
+           <tr>
+            <td class="mod_events_latest_noevents">
+             No events
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+        <div class="art-block clearfix">
+         <div class="art-blockcontent">
+          <!-- Vinaora Visitors Counter >> http://vinaora.com/ -->
+          <style type="text/css">
+           .vfleft{float:left}.vfright{float:right}.vfclear{clear:both}.valeft{text-align:left}.varight{text-align:right}.vacenter{text-align:center}#vvisit_counter145 .vstats_counter{margin-top:5px}#vvisit_counter145 .vrow{height:24px}#vvisit_counter145 .vstats_icon{margin-right:5px}#vvisit_counter145{padding:5px}
+          </style>
+          <div class="vvisit_counter vacenter" id="vvisit_counter145">
+           <div class="vdigit_counter">
+            <span class="vdigit-1" title="Vinaora Visitors Counter">
+             1
+            </span>
+            <span class="vdigit-0" title="Vinaora Visitors Counter">
+             0
+            </span>
+            <span class="vdigit-6" title="Vinaora Visitors Counter">
+             6
+            </span>
+            <span class="vdigit-0" title="Vinaora Visitors Counter">
+             0
+            </span>
+            <span class="vdigit-6" title="Vinaora Visitors Counter">
+             6
+            </span>
+            <span class="vdigit-8" title="Vinaora Visitors Counter">
+             8
+            </span>
+           </div>
+           <div class="vstats_counter">
+            <div class="vstats_icon vfleft varight">
+             <div class="vrow vstats-vtoday" title="2016-06-12">
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow vstats-vyesterday" title="2016-06-11">
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow vstats-vxweek" title="2016-06-05">
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow vstats-vlweek" title="2016-05-29">
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow vstats-vxmonth" title="2016-06-01">
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow vstats-vlmonth" title="2016-05-01">
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow vstats-vall" title="">
+             </div>
+             <div class="vfclear">
+             </div>
+            </div>
+            <div class="vstats_title vfleft valeft">
+             <div class="vrow" title="">
+              Today
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow" title="">
+              Yesterday
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow" title="">
+              This Week
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow" title="">
+              Last Week
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow" title="">
+              This Month
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow" title="">
+              Last Month
+             </div>
+             <div class="vfclear">
+             </div>
+             <div class="vrow" title="">
+              All days
+             </div>
+             <div class="vfclear">
+             </div>
+            </div>
+            <div class="vstats_number varight">
+             <div class="vrow" title="">
+              295
+             </div>
+             <div class="vrow" title="">
+              455
+             </div>
+             <div class="vrow" title="">
+              3218
+             </div>
+             <div class="vrow" title="">
+              100158
+             </div>
+             <div class="vrow" title="">
+              4957
+             </div>
+             <div class="vrow" title="">
+              17423
+             </div>
+             <div class="vrow" title="">
+              106068
+             </div>
+            </div>
+            <div class="vfclear">
+            </div>
+           </div>
+           <hr style="margin-bottom: 5px;"/>
+           <div style="margin-bottom: 5px;">
+            Your IP: 186.15.50.150
+           </div>
+           <div>
+            2016-06-12 16:30
+           </div>
+           <div style="margin-top:5px;">
+            <a href="http://vinaora.com/" target="_blank" title="Vinaora Visitors Counter">
+             Visitors Counter
+            </a>
+           </div>
+          </div>
+          <!-- Vinaora Visitors Counter >> http://vinaora.com/ -->
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <footer class="art-footer clearfix">
+     <div class="art-content-layout">
+      <div class="art-content-layout-row">
+       <div class="art-layout-cell" style="width: 25%;">
+        <div class="custom">
+         <div class="art-layout-cell" style="width: 25%;">
+          <div class="custom">
+           <div class="art-layout-cell" style="width: 25%;">
+            <div class="custom">
+             <h3>
+              FOLLOW US
+             </h3>
+             <p>
+              <img alt="ums qr150" height="36" src="/fki/../v5/images/icon/ums-qr150.jpg" width="36"/>
+              <a href="http://www.facebook.com/UMS.official" target="_blank" title="UMS Official Facebook Page">
+               <img alt="facebook361" src="/fki/../v5/images/icon/facebook361.jpg"/>
+              </a>
+              <a href="http://www.twitter.com/UMS_EcoCampus" target="_blank" title="UMS Official Twitter Page">
+               <img alt="twitter361" src="/fki/../v5/images/icon/twitter361.jpg"/>
+              </a>
+              <a href="http://www.youtube.com/channel/UCkriQ1ronfQofaoVH1qYk8A" target="_blank" title="UMS Official YouTube Page">
+               <img alt="utube361" src="/fki/../v5/images/icon/utube361.jpg"/>
+              </a>
+              <img alt="flickr361 h" src="/fki/../v5/images/icon/flickr361-h.jpg"/>
+              <a href="https://my.linkedin.com/pub/ums-official/97/a56/437" target="_blank" title="UMS Official LinkedIn Page">
+               <img alt="linkedin" src="/fki/../v5/images/icon/linkedin.jpg"/>
+              </a>
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="art-layout-cell" style="width: 36%;">
+        <div class="custom">
+         <div class="art-layout-cell" style="width: 36%;">
+          <div class="custom">
+           <h3>
+            QUICK LINKS
+           </h3>
+           <p>
+            <a href="http://bendahari.ums.edu.my/ed/" target="_blank" title="Phone Directory">
+             <img alt="contact search36" src="/fki/../v5/images/icon/contact-search36.jpg"/>
+            </a>
+            <a href="https://www.gmail.com/" target="_blank" title="Staff Webmail">
+             <img alt="staff email36" src="/fki/../v5/images/icon/staff-email36.jpg"/>
+            </a>
+            <a href="http://ejobs.ums.edu.my/" target="_blank" title="Job Vacancies in UMS">
+             <img alt="jobv" src="/fki/../v5/images/icon/jobv.jpg"/>
+            </a>
+            <a href="/fki/../kkfm" target="_blank" title="Campus Radio">
+             <img alt="kkfm361" src="/fki/../v5/images/icon/kkfm361.jpg"/>
+            </a>
+            <a href="http://student.ums.edu.my/student" target="_blank" title="Student Email System">
+             <img alt="stud email362" src="/fki/../v5/images/icon/stud-email362.jpg"/>
+            </a>
+            <a href="http://smart2.ums.edu.my" target="_blank" title="SmartUMS - UMS Official Learning Management System">
+             <img alt="smartums" src="/fki/../v5/images/icon/smartums.png"/>
+            </a>
+            <a href="http://bendahari.ums.edu.my/iklanperolehan/v_boarddisplay.cfm" target="_blank" title="Procurement Notice">
+             <img alt="procurementnorice2" src="/fki/../v5/images/icon/procurementnorice2.jpg"/>
+            </a>
+            <a href="http://library.ums.edu.my/index.php/en/" target="_blank" title="UMS Library Official Website">
+             <img alt="lib" src="/fki/../v5/images/icon/lib.jpg"/>
+            </a>
+            <a href="http://sso.ums.edu.my/" target="_blank" title="SSO">
+             <img alt="sso" src="/fki/../v5/images/icon/sso.jpg"/>
+            </a>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="art-layout-cell" style="width: 24%;">
+        <div class="custom">
+         <div class="art-layout-cell" style="width: 20%;">
+          <div class="custom">
+           <h3>
+            OTHER LINKS
+           </h3>
+           <p>
+            <a href="http://www.malaysia.gov.my/" target="_blank" title="Malaysia Government Site">
+             <img alt="mygov" src="/fki/../v5/images/icon/mygov.jpg"/>
+            </a>
+            <a href="http://www.mohe.gov.my/portal/" target="_blank" title="Minister Of Higher Education">
+             <img alt="kpm36" src="/fki/../v5/images/icon/kpm36.jpg" title="Ministry Of Higher Education"/>
+            </a>
+            <a href="http://www.mampu.gov.my/" target="_blank" title="MAMPU">
+             <img alt="mampu36" src="/fki/../v5/images/icon/mampu36.jpg"/>
+            </a>
+            <a href="http://www.mscmalaysia.my/" target="_blank" title="MSC Malaysia">
+             <img alt="msc36" src="/fki/../v5/images/icon/msc36.jpg"/>
+            </a>
+            <a href="http://www.sirim.my/" target="_blank" title="SIRIM">
+             <img alt="sirim362" src="/fki/../v5/images/icon/sirim362.jpg"/>
+            </a>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="art-layout-cell" style="width: 20%;">
+        <div class="custom">
+         <h3>
+          SEARCH
+         </h3>
+        </div>
+        <form action="/fki/index.php/en" class="art-search" method="post">
+         <div class="search">
+          <input class="button" onclick="this.form.searchword.focus();" type="submit" value="Search"/>
+          <br/>
+          <label for="mod-search-searchword">
+          </label>
+          <div style="position: relative;">
+           <input class="inputbox" id="mod-search-searchword" maxlength="200" name="searchword" onblur="if (this.value=='') this.value='...';" onfocus="if (this.value=='...') this.value='';" size="50" type="text" value="..."/>
+           <input class="art-search-button" type="submit" value=""/>
+          </div>
+          <input name="task" type="hidden" value="search"/>
+          <input name="option" type="hidden" value="com_search"/>
+          <input name="Itemid" type="hidden" value="101"/>
+         </div>
+        </form>
+       </div>
+      </div>
+     </div>
+     <hr/>
+     <div class="art-content-layout">
+      <div class="art-content-layout-row">
+       <div class="art-layout-cell" style="width: 20%;">
+        <div class="custom">
+         <div class="art-layout-cell" style="width: 25%;">
+          <div class="custom">
+           <div class="art-layout-cell" style="width: 25%;">
+            <div class="custom">
+             <h3>
+              INFORMATION ABOUT
+             </h3>
+             <ul class="menu">
+              <li class="item-158">
+               <a href="/fki/../" target="_blank" title="UMS Official Portal">
+                <span style="color: #ffffff;">
+                 UMS Official Portal
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="art-layout-cell" style="width: 20%;">
+        <div class="custom">
+         <div class="art-layout-cell" style="width: 25%;">
+          <div class="custom">
+           <div class="custom">
+            <h3>
+             INFORMATION FOR
+            </h3>
+            <ul class="menu">
+             <li class="item-161">
+              <a href="/fki/index.php/en/students/prospective-student/prospective-undergraduate/hc00-software-engineering" title="Prospective students">
+               <span style="color: #ffffff;">
+                <span style="color: #ffffff;">
+                 Prospective Students
+                </span>
+               </span>
+              </a>
+             </li>
+             <li class="item-163">
+              <span style="color: #ffffff;">
+               <a href="https://sso.ums.edu.my/default.aspx">
+                <span style="color: #ffffff;">
+                 Current UMS staff
+                </span>
+               </a>
+              </span>
+             </li>
+             <li class="item-168">
+              <span style="color: #ffffff;">
+               <a href="/fki/../alumni/">
+                <span style="color: #ffffff;">
+                 Alumni
+                </span>
+               </a>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="art-layout-cell" style="width: 15%;">
+        <div class="custom">
+         <div class="art-layout-cell" style="width: 20%;">
+          <div class="custom">
+           <h3>
+            HELP
+           </h3>
+           <ul class="menu">
+            <li class="item-317">
+             <a href="/fki/index.php/en/about-us/site-map">
+              <span style="color: #0000ff;">
+               <span style="color: #ffffff;">
+                Sitemap
+               </span>
+              </span>
+             </a>
+            </li>
+            <li class="item-410">
+             <span style="color: #0000ff;">
+              <a href="/fki/../v5/index.php?option=com_content&amp;view=article&amp;id=101&amp;Itemid=410&amp;lang=en" target="_blank">
+               <span style="color: #ffffff;">
+                FAQ
+               </span>
+              </a>
+             </span>
+            </li>
+            <li class="item-411">
+             <span style="color: #0000ff;">
+              <a href="/fki/../v5/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=411&amp;lang=en" target="_blank">
+               <span style="color: #ffffff;">
+                How To
+               </span>
+              </a>
+             </span>
+            </li>
+            <li class="item-412">
+             <span style="color: #0000ff;">
+              <a href="http://erespon.ums.edu.my/" target="_blank">
+               <span style="color: #ffffff;">
+                Feedback
+               </span>
+              </a>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="art-layout-cell" style="width: 45%;">
+        <div class="custom">
+         <div class="art-layout-cell" style="width: 45%;">
+          <div class="custom">
+           <div style="text-align: right;">
+            Faculty Of Computing and Informatics, Universiti Malaysia Sabah, Jalan UMS, 88400, Kota Kinabalu, Sabah, Malaysia
+           </div>
+           <div style="text-align: right;">
+            Tel : (+6088) 320000 / 320474  |   Fax : (+6088) 320223  |   Email :
+            <a href="mailto:pejfki@ums.edu.my">
+             pejfki@ums.edu.my
+            </a>
+           </div>
+           <div style="text-align: right;">
+            <a href="/fki/../v5/index.php?option=com_content&amp;view=article&amp;id=38:disclaimer&amp;catid=62:disclaimer&amp;Itemid=618" target="_blank" title="Disclaimer from UMS Official Portal">
+             Disclaimer
+            </a>
+            |
+            <a href="/fki/../v5/index.php?option=com_content&amp;view=article&amp;id=36:privacy-policy&amp;catid=62:disclaimer&amp;Itemid=620" target="_blank" title="Policy Privacy from UMS Official Portal">
+             Privacy Policy
+            </a>
+            |
+            <a href="/fki/../v5/index.php?option=com_content&amp;view=article&amp;id=37:security-policy&amp;catid=62:disclaimer&amp;Itemid=621" target="_blank" title="Security Policy from UMS Official Portal">
+             Security Policy
+            </a>
+            |
+            <a href="/fki/index.php/en/webmaster">
+             Webmaster
+            </a>
+            |  Best View 1366x768  |  © Universiti Malaysia Sabah 2015
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </footer>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,1380 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="origin" name="referrer"/>
+  <title>
+   Study a postgraduate course in Computing, Informatics and Media at University of Bradford
+  </title>
+  <script>
+   window.PG = {"dfp_id": "93824879", "dfp_target": {}, "ga_id": "UA-3451385-1"};
+  </script>
+  <script async="" src="//www.googletagservices.com/tag/js/gpt.js">
+  </script>
+  <script async="" src="//www.google-analytics.com/analytics.js">
+  </script>
+  <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+  <script type="text/javascript">
+   window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"http://www.postgradsolutions.com/privacy-policy","theme":"dark-bottom"};
+  </script>
+  <script async="" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" type="text/javascript">
+  </script>
+  <!-- End Cookie Consent plugin -->
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="/static/jquery/dist/jquery.min.js">
+  </script>
+  <!-- Web Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin" rel="stylesheet"/>
+  <link href="/static/css/3abcc3e98afd.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body class="profile course-profile">
+  <!-- Signup Modal -->
+  <div aria-labelledby="signupModalLabel" class="modal fade" id="signupModal" role="dialog" tabindex="-1">
+   <div class="modal-dialog" role="document">
+    <div class="modal-content">
+     <div class="modal-header">
+      <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+       <span aria-hidden="true">
+        ×
+       </span>
+      </button>
+      <h4 class="modal-title" id="signupModalLabel">
+       Sign up now!
+      </h4>
+     </div>
+     <div class="modal-body">
+      <h4>
+       Take 2 minutes to sign up to PGS student services
+       <br/>
+       and reap the benefits…
+      </h4>
+      <ul>
+       <li>
+        The chance to apply for one of our 15 exclusive PGS Bursaries
+       </li>
+       <li>
+        Fantastic scholarship updates
+       </li>
+       <li>
+        Latest Postgrad news sent directly to you
+       </li>
+      </ul>
+     </div>
+     <div class="modal-footer">
+      <button class="btn btn-default" data-dismiss="modal" type="button">
+       No, thanks
+      </button>
+      <button class="ok btn btn-primary btn-u" data-url="/signup/" type="button">
+       Yes, I'd like to sign up
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="wrapper">
+   <div class="postgrad-header">
+    <div class="container">
+     <a class="logo" href="/">
+      <div class="logo-container">
+       <img alt="Postgraduate courses: masters, MA, MSc, MBA, doctorate, MPhil, PhD at top UK and European universities" src="/static/img/logo.png"/>
+      </div>
+     </a>
+     <div class="banner leaderboard pull-right hidden-xs hidden-sm" id="dfp-leaderboard">
+     </div>
+     <button class="navbar-toggle" data-target=".navbar-responsive-collapse" data-toggle="collapse" type="button">
+      <span class="sr-only">
+       Toggle navigation
+      </span>
+      <span class="fa fa-bars">
+      </span>
+     </button>
+    </div>
+    <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
+     <div class="container">
+      <!--<div class="register">-->
+      <!--<a href="/signup/" class="btn-u rounded btn-u-purple">-->
+      <!--Register-->
+      <!--</a>-->
+      <!--</div>-->
+      <ul class="nav navbar-nav">
+       <li class=" active">
+        <a href="/">
+         Home
+        </a>
+       </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle disabled" data-toggle="dropdown" href="/news_and_events/">
+         News &amp; Open Days
+        </a>
+        <ul class="dropdown-menu">
+         <li class="">
+          <a href="/news/">
+           Postgraduate News
+          </a>
+         </li>
+         <li class="">
+          <a href="/events/">
+           Events
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle disabled" data-toggle="dropdown" href="/advice/">
+         Advice
+        </a>
+        <ul class="dropdown-menu">
+         <li class="">
+          <a href="/advice/choosing_your_postgrad_programme/">
+           Choosing Your Postgraduate Program
+          </a>
+         </li>
+         <li class="">
+          <a href="/advice/masters_programs/">
+           Taught Masters
+          </a>
+         </li>
+         <li class="">
+          <a href="/advice/phd/">
+           PhD
+          </a>
+         </li>
+         <li class="">
+          <a href="/business-schools/mba-program/">
+           MBA Programs
+          </a>
+         </li>
+         <li class="">
+          <a href="/subjects/teaching_education/">
+           PGCE Programs
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-uk/">
+           Studying in the UK
+          </a>
+         </li>
+         <li class="">
+          <a href="/advice/study_abroad/">
+           Study Abroad
+          </a>
+         </li>
+         <li class="">
+          <a href="/advice/english_language_support/">
+           English language support and requirements
+          </a>
+         </li>
+         <li class="">
+          <a href="/advice/graduation_and_beyond/">
+           After your studies
+          </a>
+         </li>
+         <li class="">
+          <a href="/advice/postgraduate_careers/">
+           Postgrad Careers
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle disabled" data-toggle="dropdown" href="/fees_and_funding/">
+         Fees &amp; Funding
+        </a>
+        <ul class="dropdown-menu">
+         <li class="">
+          <a href="/fees_and_funding/postgrad_solutions_study_bursaries/">
+           Postgrad Solutions Study Bursaries
+          </a>
+         </li>
+         <li class="">
+          <a href="/fees_and_funding/funding/">
+           Fees &amp; Funding
+          </a>
+         </li>
+         <li class="">
+          <a href="/fees_and_funding/european-funding/">
+           Funding for Postgrad Courses In Europe
+          </a>
+         </li>
+         <li class="">
+          <a href="/fees_and_funding/funding/postgraduate_scholarships/">
+           Postgraduate Scholarships
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown wide-menu-2">
+        <a class="dropdown-toggle disabled" data-toggle="dropdown" href="/subjects/">
+         Subjects
+        </a>
+        <ul class="dropdown-menu">
+         <li>
+          <div class="mega-menu-content disable-icons">
+           <div class="container">
+            <div class="row equal-height">
+             <div class="col-md-6 equal-height-in">
+              <ul class="list-unstyled equal-height-list">
+               <li>
+                <a href="/subjects/agriculture_horticulture_veterinary_medicine/">
+                 Agriculture, Horticulture &amp; Veterinary Science
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/architecture_transport/">
+                 Architecture &amp; Transport
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/art_design/">
+                 Art &amp; Design
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/finance-masters-mba-phd/">
+                 Business &amp; Finance
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/economics/">
+                 Economics
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/engineering_production/">
+                 Engineering &amp; Production
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/environment/">
+                 Environment
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/humanities/">
+                 Humanities
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/information_technology/">
+                 IT &amp; Computing
+                </a>
+               </li>
+              </ul>
+             </div>
+             <div class="col-md-6 equal-height-in">
+              <ul class="list-unstyled equal-height-list">
+               <li>
+                <a href="/subjects/languages_literature_area_studies/">
+                 Languages, Literature &amp; Area Studies
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/law/">
+                 Law
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/leisure_hospitality_tourism/">
+                 Leisure, Hospitality &amp; Tourism
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/management/">
+                 Management
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/media_studies/">
+                 Media Studies
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/medicine_health/">
+                 Medicine &amp; Healthcare
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/science/">
+                 Science
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/social_sciences/">
+                 Social Sciences
+                </a>
+               </li>
+               <li>
+                <a href="/subjects/teaching_education/">
+                 Teaching &amp; Education
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown wide-menu-2">
+        <a class="dropdown-toggle disabled" data-toggle="dropdown" href="/blog/">
+         Blog
+        </a>
+        <ul class="dropdown-menu">
+         <li>
+          <div class="mega-menu-content disable-icons">
+           <div class="container">
+            <div class="row equal-height">
+             <div class="col-md-6 equal-height-in">
+              <ul class="list-unstyled equal-height-list">
+               <li>
+                <a href="/blog/category/budgeting/">
+                 Budgeting
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/courses/">
+                 Courses
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/fees/">
+                 Fees
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/funding/">
+                 Funding
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/general/">
+                 General
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/international-students/">
+                 International Students
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/jobs-and-careers/">
+                 Jobs and Careers
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/other/">
+                 Other
+                </a>
+               </li>
+              </ul>
+             </div>
+             <div class="col-md-6 equal-height-in">
+              <ul class="list-unstyled equal-height-list">
+               <li>
+                <a href="/blog/category/student-life/">
+                 Student Life
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/student-welfare/">
+                 Student Welfare
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/study-abroad/">
+                 Study Abroad
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/study-advice/">
+                 Study Advice
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/study-in-uk/">
+                 Study in UK
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/theses-and-dissertations/">
+                 Theses and Dissertations
+                </a>
+               </li>
+               <li>
+                <a href="/blog/category/universities/">
+                 Universities
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle disabled" data-toggle="dropdown" href="/study-in-europe/">
+         Study in Europe
+        </a>
+        <ul class="dropdown-menu">
+         <li class="">
+          <a href="/study-in-europe/european-universities/european-university-search/">
+           European University Search
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-europe/european-universities/">
+           European Universities
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-europe/european-university-rankings/">
+           European University Rankings
+          </a>
+         </li>
+         <li class="">
+          <a href="/fees_and_funding/european-funding/">
+           European Fees &amp; Funding
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-europe/european-countries/">
+           European Postgraduate Study Destinations
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-europe/european-postgraduate-study/">
+           European Postgraduate Study
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-europe/european-immigration-and-visas/">
+           European Visa and Immigration Rules for Postgraduate Students
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-europe/european-student-life/">
+           European Student Life
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-europe/further-information/">
+           Study in Europe: Further Information
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle disabled" data-toggle="dropdown" href="/study-in-uk/">
+         Study in UK
+        </a>
+        <ul class="dropdown-menu">
+         <li class="">
+          <a href="/study-in-uk/uk-postgraduate-study/">
+           UK Postgraduate Study
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-uk/uk-universities/">
+           UK Universities: The Lowdown
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-uk/postgraduate-rankings/">
+           UK Rankings
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-uk/places-in-uk/">
+           UK Postgraduate Study Destinations
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-uk/uk-immigration-and-visas/">
+           UK Immigration &amp; Visas
+          </a>
+         </li>
+         <li class="">
+          <a href="/fees_and_funding/funding/">
+           UK Fees &amp; Funding
+          </a>
+         </li>
+         <li class="">
+          <a href="/study-in-uk/uk-student-life/">
+           UK Student Life
+          </a>
+         </li>
+         <li class="">
+          <a href="/further_info_uk_pg_study/">
+           Further Information
+          </a>
+         </li>
+        </ul>
+       </li>
+       <!-- Register Button -->
+       <li class="register">
+        <a href="/signup/">
+         Register
+        </a>
+       </li>
+       <!-- / Register Button -->
+       <!-- Search Block -->
+       <!--<li class="quick-search">-->
+       <!--<i class="search fa fa-search search-btn"></i>-->
+       <!--<div class="search-open">-->
+       <!--<form action="/search/" class="input-group animated fadeInDown">-->
+       <!--<input type="text" class="form-control" placeholder="Search" name="q">-->
+       <!--<span class="input-group-btn">-->
+       <!--<button type="submit" class="btn-u" type="button">Go</button>-->
+       <!--</span>-->
+       <!--</form>-->
+       <!--</div>-->
+       <!--</li>-->
+       <!-- End Search Block -->
+       <li>
+        <!-- Social links -->
+        <ul class="socials list-inline">
+         <li>
+          <a class="tooltips" data-original-title="Facebook" data-placement="top" data-toggle="tooltip" href="http://www.facebook.com/Postgradstudy" target="_blank" title="">
+           <i class="fa fa-facebook fa-2x">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="tooltips" data-original-title="Twitter" data-placement="top" data-toggle="tooltip" href="https://twitter.com/PGSolutions_Ltd" target="_blank" title="">
+           <i class="fa fa-twitter fa-2x">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="tooltips" data-original-title="Google Plus" data-placement="top" data-toggle="tooltip" href="https://plus.google.com/111610603053592000036/posts" target="_blank" title="">
+           <i class="fa fa-google-plus fa-2x">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="tooltips" data-original-title="LinkedIn" data-placement="top" data-toggle="tooltip" href="https://www.linkedin.com/company/postgrad-solutions-ltd" target="_blank" title="">
+           <i class="fa fa-linkedin fa-2x">
+           </i>
+          </a>
+         </li>
+        </ul>
+        <!-- / Social links -->
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div id="global-search">
+    <div class="container">
+     <div class="col-md-8 col-md-offset-2">
+      <form action="/search/" class="sky-form search-form" data-course-url="/search/postgraduate-programs/">
+       <div class="search-query input-group">
+        <span>
+         <input autocomplete="off" class=" form-control ui-autocomplete-input" data-autocomplete-uuid="0f8b54ad89174cdc91a06dc9697856e9" id="id_q" maxlength="255" name="q" placeholder="Search postgrad.com" type="None"/>
+         <script>
+          function registerAutocomplete_13a8cb8fe3044ad3b5656ce79e488c5e() {
+        autocompleteSearch.init("[data-autocomplete-uuid='13a8cb8fe3044ad3b5656ce79e488c5e']", "/search/");
+    }
+
+    if (window.addEventListener) {
+        window.addEventListener("load", registerAutocomplete_13a8cb8fe3044ad3b5656ce79e488c5e, false);
+    }
+    else if (window.attachEvent) {
+        window.attachEvent("onload", registerAutocomplete_13a8cb8fe3044ad3b5656ce79e488c5e);
+    }
+         </script>
+        </span>
+        <span class="input-group-btn">
+         <input class="btn-u" type="submit" value="Search"/>
+        </span>
+        <label>
+         <input class="search-courses-only" name="m" type="checkbox" value="course"/>
+         Search course database only
+        </label>
+        <input name="titles" type="hidden" value="0"/>
+       </div>
+       <div class="search-course-filter input-group hidden">
+        <div>
+         <div>
+          <label>
+           Attendance
+          </label>
+          <label class="select">
+           <select id="id_attendance" name="attendance">
+            <option selected="selected" value="">
+             All
+            </option>
+            <option value="full-time">
+             Full time
+            </option>
+            <option value="part-time">
+             Part time
+            </option>
+            <option value="online-distance-learning">
+             Online / distance learning
+            </option>
+            <option value="short-block-course">
+             Short / block course
+            </option>
+           </select>
+           <i>
+           </i>
+          </label>
+         </div>
+         <div>
+          <label>
+           Level
+          </label>
+          <label class="select">
+           <select id="id_level" name="level">
+            <option value="all">
+             All
+            </option>
+            <option value="masters">
+             Masters/Diploma/PG Cert
+            </option>
+            <option value="mba">
+             MBA
+            </option>
+            <option value="research">
+             Research
+            </option>
+            <option value="pgce">
+             PGCE
+            </option>
+           </select>
+           <i>
+           </i>
+          </label>
+         </div>
+         <div class="region-country">
+          <label>
+           Region/Country
+          </label>
+          <label class="select">
+           <select id="id_country" name="country">
+            <option value="uk">
+             UK
+            </option>
+            <option selected="selected" value="europe">
+             Europe (any country)
+            </option>
+            <option value="eu">
+             EU (any country)
+            </option>
+            <option value="13">
+             Austria
+            </option>
+            <option value="17">
+             Belgium
+            </option>
+            <option value="87">
+             Bulgaria
+            </option>
+            <option value="10">
+             Channel Islands
+            </option>
+            <option value="88">
+             Croatia
+            </option>
+            <option value="77">
+             Cyprus
+            </option>
+            <option value="23">
+             Czech Republic
+            </option>
+            <option value="74">
+             Denmark
+            </option>
+            <option value="6">
+             England
+            </option>
+            <option value="25">
+             Estonia
+            </option>
+            <option value="26">
+             Finland
+            </option>
+            <option value="2">
+             France
+            </option>
+            <option value="28">
+             Germany
+            </option>
+            <option value="78">
+             Greece
+            </option>
+            <option value="30">
+             Hungary
+            </option>
+            <option value="36">
+             Italy
+            </option>
+            <option value="40">
+             Latvia
+            </option>
+            <option value="43">
+             Lithuania
+            </option>
+            <option value="76">
+             Luxembourg
+            </option>
+            <option value="47">
+             Malta
+            </option>
+            <option value="9">
+             Northern Ireland
+            </option>
+            <option value="55">
+             Poland
+            </option>
+            <option value="56">
+             Portugal
+            </option>
+            <option value="5">
+             Republic of Ireland
+            </option>
+            <option value="91">
+             Romania
+            </option>
+            <option value="7">
+             Scotland
+            </option>
+            <option value="93">
+             Slovakia
+            </option>
+            <option value="94">
+             Slovenia
+            </option>
+            <option value="62">
+             Spain
+            </option>
+            <option value="63">
+             Sweden
+            </option>
+            <option value="68">
+             The Netherlands
+            </option>
+            <option value="uk">
+             United Kingdom
+            </option>
+            <option value="8">
+             Wales
+            </option>
+            <option value="non-eu">
+             Europe non-EU (any country)
+            </option>
+            <option value="86">
+             Albania
+            </option>
+            <option value="11">
+             Armenia
+            </option>
+            <option value="14">
+             Azerbaijan
+            </option>
+            <option value="27">
+             Georgia
+            </option>
+            <option value="31">
+             Iceland
+            </option>
+            <option value="42">
+             Liechtenstein
+            </option>
+            <option value="45">
+             Macedonia
+            </option>
+            <option value="90">
+             Monaco
+            </option>
+            <option value="52">
+             Norway
+            </option>
+            <option value="59">
+             Russia
+            </option>
+            <option value="92">
+             Serbia
+            </option>
+            <option value="64">
+             Switzerland
+            </option>
+            <option value="69">
+             Turkey
+            </option>
+            <option value="95">
+             Ukraine
+            </option>
+           </select>
+           <i>
+           </i>
+          </label>
+         </div>
+         <div class="uk-location">
+          <label>
+           UK Location
+          </label>
+          <label class="select" name="county">
+           <select id="id_uk_location" name="uk_location">
+            <option selected="selected" value="">
+             All
+            </option>
+            <option value="east-midlands">
+             East Midlands
+            </option>
+            <option value="east-of-england">
+             East of England
+            </option>
+            <option value="london">
+             London
+            </option>
+            <option value="north-east">
+             North East
+            </option>
+            <option value="north-west">
+             North West
+            </option>
+            <option value="northern-ireland">
+             Northern Ireland
+            </option>
+            <option value="republic-of-ireland">
+             Republic of Ireland
+            </option>
+            <option value="scotland">
+             Scotland
+            </option>
+            <option value="south-east">
+             South East
+            </option>
+            <option value="south-west">
+             South West
+            </option>
+            <option value="wales">
+             Wales
+            </option>
+            <option value="west-midlands">
+             West Midlands
+            </option>
+            <option value="yorkshire-and-the-humber">
+             Yorkshire and the Humber
+            </option>
+           </select>
+           <i>
+           </i>
+          </label>
+         </div>
+        </div>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div class="container content">
+    <div class="col-md-10">
+     <div class="notice">
+      <p class="heading">
+       Not what you are looking for?
+      </p>
+      <a href="/search/">
+       Click here
+      </a>
+      to search our
+      <em>
+       comprehensive
+      </em>
+      database of European postgrad programs.
+     </div>
+     <h2>
+      Computing, Informatics and Media
+     </h2>
+     <p>
+     </p>
+     <table class="details">
+      <tr class="odd">
+       <th>
+        Course title
+       </th>
+       <td>
+        Computing, Informatics and Media
+       </td>
+      </tr>
+      <tr>
+       <th>
+        Institution
+       </th>
+       <td>
+        University of Bradford
+       </td>
+      </tr>
+      <tr class="odd">
+       <th>
+        Faculty
+       </th>
+       <td>
+        Faculty of Engineering and Informatics
+       </td>
+      </tr>
+      <tr>
+       <th>
+        Department
+       </th>
+       <td>
+        Computing
+       </td>
+      </tr>
+      <tr class="odd">
+       <th>
+        Level
+       </th>
+       <td>
+        5
+       </td>
+      </tr>
+      <tr>
+       <th>
+        Study modes
+       </th>
+       <td>
+        Full-Time, Full-Time
+       </td>
+      </tr>
+      <tr class="odd">
+       <th>
+        Contact name
+       </th>
+       <td>
+        Postgraduate Admissions Office
+       </td>
+      </tr>
+      <tr>
+       <th>
+        Contact telephone
+       </th>
+       <td>
+        01274 234286
+       </td>
+      </tr>
+      <tr class="odd">
+       <th>
+        Contact e-mail
+       </th>
+       <td>
+        masters@scim.brad.ac.uk
+       </td>
+      </tr>
+     </table>
+     <h3>
+      Course content:
+     </h3>
+     <p>
+      The Informatics Research Institute (IRI) is the focus of the computing research in the School. The Institute’s research activity is organised into 4 interdisciplinary groups: artificial intelligence (AI); applied mathematics; digital imaging and visualisation; networks and performance engineering.
+     </p>
+     <div class="fees">
+      <h2>
+       MPhil
+      </h2>
+      <table>
+       <tr>
+        <td>
+         3.00 years
+        </td>
+        <td>
+         Full-Time
+        </td>
+        <td>
+         <p>
+          First year home fees
+         </p>
+         <p>
+          First year overseas fees
+         </p>
+        </td>
+        <td>
+         <p>
+          £3996.00
+         </p>
+         <p>
+          £11500.00
+         </p>
+        </td>
+       </tr>
+      </table>
+      <h2>
+       PhD
+      </h2>
+      <table>
+       <tr>
+        <td>
+         4.00 years
+        </td>
+        <td>
+         Full-Time
+        </td>
+        <td>
+         <p>
+          First year home fees
+         </p>
+         <p>
+          First year overseas fees
+         </p>
+        </td>
+        <td>
+         <p>
+          £1990.00
+         </p>
+         <p>
+          £5440.00
+         </p>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div id="profile-survey">
+      <div class="survey-cta">
+       <h3>
+        Scholarship Opportunity with Postgrad.com
+       </h3>
+       <p>
+        Are you a PG student at this University or have you applied to study a postgraduate program at a university in Europe. Tell us your plans and qualify for a £500.00 PGS Scholarship.
+       </p>
+       <a class="survey-show btn btn-u" href="#">
+        Click here
+       </a>
+      </div>
+      <script data-content="QFkIKQZI" id="surveyFrame" src="https://freeonlinesurveys.com/app_content/embed.min.js" type="text/javascript">
+      </script>
+     </div>
+    </div>
+    <div class="col-md-2">
+     <div id="register-cta">
+      <div class="inner">
+       <h3>
+        Register with
+        <img alt="Postgrad.com" src="/static/img/logo_small.png"/>
+       </h3>
+       <ul>
+        <li>
+         Exclusive bursaries
+        </li>
+        <li>
+         Open day alerts
+        </li>
+        <li>
+         Latest PG news
+        </li>
+       </ul>
+       <a class="btn-u" href="/signup/">
+        Register Now!
+       </a>
+      </div>
+     </div>
+     <div id="dfp-ad-con">
+      <div class="banner wide-skyscraper" id="dfp-skyscraper-1">
+      </div>
+      <div class="banner wide-skyscraper" id="dfp-skyscraper-2">
+      </div>
+      <div class="banner wide-skyscraper" id="dfp-skyscraper-3">
+      </div>
+      <div class="banner ad-button" id="dfp-button-1">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="postgrad-footer">
+    <div class="footer">
+     <div class="container">
+      <div class="row">
+       <!-- Blog Posts -->
+       <div class="col-md-3 md-margin-bottom-40">
+        <div class="posts">
+         <div class="headline">
+          <h2>
+           Latest Posts
+          </h2>
+         </div>
+         <ul class="list-unstyled latest-list">
+          <li>
+           <a href="/blog/2016/06/10/how-to-advance-your-career-with-a-specialist-mba/">
+            How to advance your career with a specialist MBA
+           </a>
+          </li>
+          <li>
+           <a href="/blog/2016/06/03/5-types-of-people-you-will-meet-on-an-mba-course/">
+            5 types of people you will meet on an MBA course
+           </a>
+          </li>
+          <li>
+           <a href="/blog/2016/05/26/so-you-think-you-left-it-too-late-finding-last-minute-accommodation/">
+            So you think you left it too late to find accommodation?
+           </a>
+          </li>
+          <li>
+           <a href="/blog/2016/05/20/top-sober-postgrad-student-exam-celebrations/">
+            Top Sober Postgrad Student Exam Celebrations
+           </a>
+          </li>
+          <li>
+           <a href="/blog/2016/05/16/working-after-youve-finished-your-studies/">
+            Working After You've Finished Your Studies
+           </a>
+          </li>
+          <li>
+           <a href="/blog/">
+            See all blog posts
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <!-- Quick Search links -->
+       <div class="col-md-3 md-margin-bottom-40">
+        <div class="headline">
+         <h2>
+          Browse
+         </h2>
+        </div>
+        <ul class="list-unstyled link-list">
+         <ul class="list-unstyled link-list">
+          <li>
+           <a href="/advice/">
+            Student Life
+           </a>
+          </li>
+          <li>
+           <a href="/advice/postgraduate_careers/">
+            Careers Advice
+           </a>
+          </li>
+          <li>
+           <a href="/fees_and_funding/">
+            Postgraduate Funding
+           </a>
+          </li>
+          <li>
+           <a href="/study-in-uk/uk-universities/">
+            UK Universities
+           </a>
+          </li>
+          <li>
+           <a href="/advice/masters_programs/">
+            Masters Programs
+           </a>
+          </li>
+          <li>
+           <a href="/advice/phd/">
+            PhDs
+           </a>
+          </li>
+          <li>
+           <a href="/advice/study_modes/part_time/">
+            Part-Time Study
+           </a>
+          </li>
+          <li>
+           <a href="/advice/study_modes/full_time/">
+            Full-Time Study
+           </a>
+          </li>
+          <li>
+           <a href="/advice/study_modes/distance_learning/">
+            Online and Distance Learning
+           </a>
+          </li>
+         </ul>
+        </ul>
+       </div>
+       <!-- Subject Listing -->
+       <div class="col-md-6 md-margin-bottom-40">
+        <div class="headline">
+         <h2>
+          Postgraduate Subjects
+         </h2>
+        </div>
+        <div class="row">
+         <div class="col-md-6">
+          <ul class="list-unstyled link-list">
+           <li>
+            <a href="/subjects/agriculture_horticulture_veterinary_medicine/">
+             Agriculture, Horticulture &amp; Veterinary Science
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/architecture_transport/">
+             Architecture &amp; Transport
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/art_design/">
+             Art &amp; Design
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/finance-masters-mba-phd/">
+             Business &amp; Finance
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/economics/">
+             Economics
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/engineering_production/">
+             Engineering &amp; Production
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/environment/">
+             Environment
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/humanities/">
+             Humanities
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/information_technology/">
+             IT &amp; Computing
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="col-md-6">
+          <ul class="list-unstyled link-list">
+           <li>
+            <a href="/subjects/languages_literature_area_studies/">
+             Languages, Literature &amp; Area Studies
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/law/">
+             Law
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/leisure_hospitality_tourism/">
+             Leisure, Hospitality &amp; Tourism
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/management/">
+             Management
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/media_studies/">
+             Media Studies
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/medicine_health/">
+             Medicine &amp; Healthcare
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/science/">
+             Science
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/social_sciences/">
+             Social Sciences
+            </a>
+           </li>
+           <li>
+            <a href="/subjects/teaching_education/">
+             Teaching &amp; Education
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="copyright">
+     <div class="container">
+      <div class="row">
+       <!-- Copyright and links -->
+       <div class="col-md-6">
+        <p>
+         © 2016 Postgrad.com |
+         <a href="http://www.postgradsolutions.com/about_us" target="_blank">
+          About Us
+         </a>
+         |
+         <a href="http://www.postgradsolutions.com/contact_us" target="_blank">
+          Contact Us
+         </a>
+         |
+         <a href="http://www.postgradsolutions.com/marketing_services" target="_blank">
+          Advertise With Us
+         </a>
+         |
+         <a href="http://www.postgradsolutions.com/privacy_policy" target="_blank">
+          Privacy Policy
+         </a>
+        </p>
+       </div>
+       <!-- Social links -->
+       <div class="container" style="padding-top: 0; text-align: right;">
+        <ul class="socials list-inline">
+         <li>
+          <a class="tooltips" data-original-title="Facebook" data-placement="top" data-toggle="tooltip" href="http://www.facebook.com/Postgradstudy" target="_blank" title="">
+           <i class="fa fa-facebook fa-2x">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="tooltips" data-original-title="Twitter" data-placement="top" data-toggle="tooltip" href="https://twitter.com/PGSolutions_Ltd" target="_blank" title="">
+           <i class="fa fa-twitter fa-2x">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="tooltips" data-original-title="Google Plus" data-placement="top" data-toggle="tooltip" href="https://plus.google.com/111610603053592000036/posts" target="_blank" title="">
+           <i class="fa fa-google-plus fa-2x">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="tooltips" data-original-title="LinkedIn" data-placement="top" data-toggle="tooltip" href="https://www.linkedin.com/company/postgrad-solutions-ltd" target="_blank" title="">
+           <i class="fa fa-linkedin fa-2x">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+       <!-- / Social links -->
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="/static/js/7ebc26aeccae.js" type="text/javascript">
+  </script>
+  <script>
+   $(function(){
+               App.init();
+            });
+  </script>
+ </body>
+</html>

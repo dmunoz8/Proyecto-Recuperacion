@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=edge;Chrome=1" http-equiv="x-ua-compatible"/>
+  <meta content="width=device-width, initial-scale=1, user-scalable=yes" name="viewport"/>
+  <meta content="25963" name="PageID"/>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet"/>
+  <link href="http://www.bradford.ac.uk/T4-css-corporate/UoB/2015/style.css?v=0906" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript">
+  </script>
+  <link href="http://www.bradford.ac.uk/T4-css-corporate/UoB/2015/fancybox/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css"/>
+  <title>
+   School of Computing, Informatics and Media - applicant visit days - University of Bradford
+  </title>
+  <!-- HTML in the <head> start -->
+  <!-- HTML in the <head> end -->
+  <!-- Google Analytics start -->
+  <script type="text/javascript">
+   /* Analytics START */
+var _gaq = _gaq || [];
+
+//25
+_gaq.push(['_setAccount', 'UA-18301055-25']);
+_gaq.push(['_setDomainName', 'bradford.ac.uk']);
+_gaq.push(['_trackPageview']);
+
+//14
+_gaq.push(['b._setAccount', 'UA-18301055-14']);
+_gaq.push(['b._setDomainName', 'brad.ac.uk']);
+_gaq.push(['b._setAllowLinker', true]);
+_gaq.push(['b._trackPageview']);
+
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+/* Analytics END */
+  </script>
+  <!-- Google Analytics end -->
+  <!-- Code in head start -->
+  <!-- Code in head end -->
+  <link href="/favicon/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="/favicon/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="/favicon/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/favicon/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/favicon/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/favicon/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/favicon/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/favicon/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/favicon/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/favicon/favicon-194x194.png" rel="icon" sizes="194x194" type="image/png"/>
+  <link href="/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="/favicon/android-chrome-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/favicon/manifest.json" rel="manifest"/>
+  <link color="#5bbad5" href="/favicon/safari-pinned-tab.svg" rel="mask-icon"/>
+  <meta content="#009fb2" name="msapplication-TileColor"/>
+  <meta content="/favicon/mstile-144x144.png" name="msapplication-TileImage"/>
+  <meta content="#ffffff" name="theme-color"/>
+  <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e0c86ff04d91751" type="text/javascript">
+  </script>
+ </head>
+ <body id="palette">
+  <div id="outer-bg">
+   <div class="faculty-tl-navigation" id="main-nav">
+    <div id="topNav">
+     <a class="main-uni-menu" href="#">
+      MENU
+     </a>
+     <!-- navigation object : Megamenu start -->
+     <ul class="main-uni-dropdown megamenu">
+      <li class="four-col-menu">
+       <a href="/study/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Study with us']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Study with us']);">
+        <i class="fa fa-graduation-cap">
+        </i>
+        <span>
+         Study with us
+        </span>
+       </a>
+       <ul>
+        <!--<li><a onClick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'New Students']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'New Students']);"  href="/new-students/">New Students</a></li>
+			<li><a onClick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Enrolment']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Enrolment']);"  href="/enrolment/">Enrolment</a></li>-->
+        <li>
+         <a href="/undergraduate/visit-us/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Visit us']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Visit us']);">
+          Visit us
+         </a>
+        </li>
+        <li>
+         <a href="/study/courses/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Courses']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Courses']);">
+          Courses
+         </a>
+        </li>
+        <li>
+         <a href="/undergraduate/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Undergraduate']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Undergraduate']);">
+          Undergraduate
+         </a>
+        </li>
+        <li>
+         <a href="/postgraduate/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Postgraduate']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Postgraduate']);">
+          Postgraduate
+         </a>
+        </li>
+        <li>
+         <a href="/fees-and-financial-support/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Fees and financial support']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Fees and financial support']);">
+          Fees and financial support
+         </a>
+        </li>
+        <li>
+         <a href="/schools-and-colleges/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Schools and Colleges']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Schools and Colleges']);">
+          Schools and Colleges
+         </a>
+        </li>
+        <li>
+         <a href="/study/your-career/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Your career']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Your career']);">
+          Your career
+         </a>
+        </li>
+        <li>
+         <a href="https://your.bradford.ac.uk/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Your Bradford portal']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Your Bradford portal']);">
+          Your Bradford
+         </a>
+         <i class="fa fa-star" style="color: #ccc;">
+         </i>
+        </li>
+       </ul>
+      </li>
+      <li class="four-col-menu clear-right-mobile">
+       <a href="/student/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Student life']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Student life']);">
+        <i class="fa fa-child">
+        </i>
+        <span>
+         Student life
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="http://www.ubuonline.co.uk/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Students Union']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Students Union']);">
+          Students' Union
+         </a>
+        </li>
+        <li>
+         <a href="/student/accommodation/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Accommodation']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Accommodation']);">
+          Accommodation
+         </a>
+        </li>
+        <li>
+         <a href="/student/campus/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Campus']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Campus']);">
+          Campus
+         </a>
+        </li>
+        <li>
+         <a href="/student/travel-and-transport/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Travel and transport']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Travel and transport']);">
+          Travel and transport
+         </a>
+        </li>
+        <li>
+         <a href="/student/support-services/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Support services']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Support services']);">
+          Support services
+         </a>
+        </li>
+        <li>
+         <a href="/discover/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Discover Bradford']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Discover Bradford']);">
+          Discover Bradford
+         </a>
+        </li>
+        <li>
+         <a href="/arts/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Arts on Campus']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Arts on Campus']);">
+          Arts on Campus
+         </a>
+        </li>
+        <li>
+         <a href="http://blogs.brad.ac.uk/bradford-life/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Bradford Life blog']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Bradford Life blog']);">
+          Bradford Life blog
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="four-col-menu clear-left-mobile">
+       <a href="/international/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'International']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'International']);">
+        <i class="fa fa-globe">
+        </i>
+        <span>
+         International
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/study/languages/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Language Centre']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Language Centre']);">
+          Language Centre
+         </a>
+        </li>
+        <li>
+         <a href="/international/visas/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Visas']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Visas']);">
+          Visas
+         </a>
+        </li>
+        <li>
+         <a href="/international/your-application/your-country/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Your country']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Your country']);">
+          Your country
+         </a>
+        </li>
+        <li>
+         <a href="/fees-and-financial-support/university-scholarships-and-support/2016-17/international/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Scholarships']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Scholarships']);">
+          Scholarships
+         </a>
+        </li>
+        <li>
+         <a href="/international/your-application/english-language-requirements/?rdr=english-language-requirements" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'English language requirements']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'English language requirements']);">
+          English language requirements
+         </a>
+        </li>
+        <li>
+         <a href="/international/help-and-contact-us/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Contact the International Office']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Contact the International Office']);">
+          Contact the International Office
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="four-col-menu clear-right-mobile">
+       <a href="/research-and-business/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Research and Business']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Research and Business']);">
+        <i class="fa fa-briefcase">
+        </i>
+        <span>
+         Research &amp; Business
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/research/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Research']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Research']);">
+          Research
+         </a>
+        </li>
+        <li>
+         <a href="/business/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Business']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Business']);">
+          Business
+         </a>
+        </li>
+        <li>
+         <a href="/research/our-research-impact/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Global impact']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Global impact']);">
+          Global impact
+         </a>
+        </li>
+        <li>
+         <a href="/research/researchers-a-z/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Find an expert']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Find an expert']);">
+          Find an expert
+         </a>
+        </li>
+        <li>
+         <a href="/business/work-with-us/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Business services']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Business services']);">
+          Business services
+         </a>
+        </li>
+        <li>
+         <a href="/business/funding-support/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Funding support']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Funding support']);">
+          Funding support
+         </a>
+        </li>
+        <li>
+         <a href="/business/student-and-graduate-talent/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Hire our students and graduates']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Hire our students and graduates']);">
+          Hire our students and graduates
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="four-col-menu clear-left-mobile clear-left-desktop">
+       <a href="/about/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'About us']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'About us']);">
+        <i class="fa fa-university">
+        </i>
+        <span>
+         About us
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/about/heritage/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Our history']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Our history']);">
+          Our history
+         </a>
+        </li>
+        <li>
+         <a href="/about/strategies-policies-mission-and-values/corporate-strategy/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'University Strategy']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'University Strategy']);">
+          University Strategy
+         </a>
+        </li>
+        <li>
+         <a href="/human-resources/careers/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Jobs']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Jobs']);">
+          Jobs
+         </a>
+        </li>
+        <li>
+         <a href="/news/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'News']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'News']);">
+          News
+         </a>
+        </li>
+        <li>
+         <a href="/news-and-events/events/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Events']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Events']);">
+          Events
+         </a>
+        </li>
+        <li>
+         <a href="/alumni/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Alumni']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Alumni']);">
+          Alumni
+         </a>
+        </li>
+        <li>
+         <a href="/contact-and-find-us/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Contact and find us']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Contact and find us']);">
+          Contact and find us
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="four-col-menu clear-right-mobile">
+       <a href="/study/faculties/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Faculties']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Faculties']);">
+        <i class="fa fa-home">
+        </i>
+        <span>
+         Faculties
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/ei/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Engineering and Informatics']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Engineering and Informatics']);">
+          Engineering &amp; Informatics
+         </a>
+        </li>
+        <li>
+         <a href="/health/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Health Studies']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Health Studies']);">
+          Health Studies
+         </a>
+        </li>
+        <li>
+         <a href="/life-sciences/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Life Sciences']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Life Sciences']);">
+          Life Sciences
+         </a>
+        </li>
+        <li>
+         <a href="/management-and-law/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Management and Law']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Management and Law']);">
+          Management &amp; Law
+         </a>
+        </li>
+        <li>
+         <a href="/social-sciences/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Social Sciences']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Social Sciences']);">
+          Social Sciences
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="four-col-menu clear-left-mobile">
+       <a href="/student-services/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Facilities and Services']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Facilities and Services']);">
+        <i class="fa fa-laptop">
+        </i>
+        <span>
+         Facilities &amp; Services
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/careers/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Career Development Services']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Career Development Services']);">
+          Career Development Services
+         </a>
+        </li>
+        <li>
+         <a href="/counselling/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Counselling Service']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Counselling Service']);">
+          Counselling Service
+         </a>
+        </li>
+        <li>
+         <a href="/disability/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Disability Service']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Disability Service']);">
+          Disability Service
+         </a>
+        </li>
+        <li>
+         <a href="http://mail.bradford.ac.uk/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Email']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Email']);">
+          Email
+         </a>
+        </li>
+        <li>
+         <a href="/it-services/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'IT Services']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'IT Services']);">
+          IT Services
+         </a>
+        </li>
+        <li>
+         <a href="/library/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Library']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Library']);">
+          Library
+         </a>
+        </li>
+        <li>
+         <a href="/nursery" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Nursery']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Nursery']);">
+          Nursery
+         </a>
+        </li>
+        <li>
+         <a href="https://blackboard.brad.ac.uk/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Blackboard']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Blackboard']);">
+          Blackboard
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="four-col-menu">
+       <a href="/news-and-events/events/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Events']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Events']);">
+        <i class="fa fa-calendar">
+        </i>
+        <span>
+         Events
+        </span>
+       </a>
+       <ul>
+        <li>
+         <a href="/graduation/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Graduation Ceremonies']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Graduation Ceremonies']);">
+          Graduation Ceremonies
+         </a>
+        </li>
+        <li>
+         <a href="/undergraduate/visit-us/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Visit Day']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Visit Day']);">
+          Open Days &amp; Visit Days
+         </a>
+        </li>
+        <li>
+         <a href="/50/" onclick="_gaq.push(['_trackEvent', 'Top level', 'Link', 'Celebrating 50 years']);b._gaq.push(['_trackEvent', 'Top level', 'Link', 'Celebrating 50 years']);">
+          Celebrating 50 years
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <!-- navigation object : Megamenu end -->
+     <div class="search-area">
+      <ul class="internal-link">
+       <li>
+        <a href="http://internal.bradford.ac.uk" title="Internal website">
+         Current students and staff
+         <i class="fa fa-external-link">
+         </i>
+        </a>
+       </li>
+      </ul>
+      <div id="mainSearch">
+       <form action="http://search2.cen.brad.ac.uk/search" id="headerSearch" method="get">
+        <fieldset>
+         <input id="q" maxlength="255" name="q" placeholder="Search the University" size="18" title="Search the University" type="text" value=""/>
+         <input name="site" type="hidden" value="default_collection"/>
+         <input name="client" type="hidden" value="Bradford"/>
+         <input name="proxystylesheet" type="hidden" value="Bradford"/>
+         <input name="output" type="hidden" value="xml_no_dtd"/>
+         <input id="header_UoB_form_submit" type="submit" value="Submit"/>
+        </fieldset>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="header-wrapper">
+    <div id="header">
+     <div id="header-left">
+      <!-- navigation object : Logo Area -->
+      <a class="top-logo" href="/external/" title="University of Bradford">
+       <img alt="University of Bradford" class="uobLogo" src="/elementheader/50th-university-of-bradford.png"/>
+      </a>
+     </div>
+     <div id="header-right">
+      <!-- 50 box start -->
+      <div class="hide-mob-portrait" style="
+    float: right;
+    height: 7.5em;
+    margin-left: 1em;
+">
+       <div style="height: 2.5em;
+    margin-top: -1.4em;
+    margin-left: 2.5em;
+    width: 2.5em;
+    border-left: 1px dotted #333333;
+    text-align: right;
+    display: block;">
+       </div>
+       <a href="/50/" onclick="_gaq.push(['_trackEvent', 'Header', 'Link', '50 years box']);b._gaq.push(['_trackEvent', 'Header', 'Link', '50 years box']);" style="text-decoration: none;" title="Celebrating 50 years">
+        <div style="display:block;background: #d29c41;width: 5.5em;height: 5.5em;">
+         <img alt="50 years" src="/T4-css-corporate/UoB/2015/general/celebrating-50-years.png"/>
+        </div>
+       </a>
+      </div>
+      <!-- 50 box end -->
+      <!-- navigation object : Logo Supporting -->
+      <div class="header-supporting">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="outer-wrapper">
+    <div id="breadcrumb-wrapper">
+     <p>
+      <a href="/external/" title="Return to the University home page">
+       University Home
+      </a>
+      <a href="/equality-and-diversity/">
+       Equality and Diversity
+      </a>
+      <a href="/equality-and-diversity/equality-impact-assessments/">
+       Equality Impact Assessments
+      </a>
+      <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/">
+       University of Bradford EIAs
+      </a>
+      School of Computing, Informatics and Media - applicant visit days
+     </p>
+    </div>
+    <div id="ocm-outer-page-wrapper">
+     <div id="ocm-page-wrapper">
+      <a class="ocm-open-btn" href="#">
+       Open menu
+      </a>
+      <a class="ocm-close-btn second-close-btn" href="#">
+       Close menu
+      </a>
+      <nav class="ocm-main-menu">
+       <div class="detect-height">
+        <div id="menuLevel2">
+         <div id="sectionNav">
+          <h2>
+           <a href="/equality-and-diversity/">
+            Equality and Diversity
+           </a>
+          </h2>
+          <!-- navigation object : TL Left hand navigation -->
+          <ul id="UoB_Nav">
+           <li>
+            <a href="/equality-and-diversity/">
+             Equality and Diversity Home
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/structure-for-equality-diversity-and-inclusion/">
+             Structures for Equality, Diversity and Inclusion
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/strategy/">
+             Equality and Diversity Strategy
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/committees/">
+             Committees
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/policies-schemes-and-legislation/">
+             Policies, Schemes and Legislation
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/staff-networks/">
+             Staff Networks
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/statistics-and-reporting/">
+             Statistics and Reporting
+            </a>
+           </li>
+           <li>
+            <span class="currentbranch0">
+             <a href="/equality-and-diversity/equality-impact-assessments/">
+              Equality Impact Assessments
+             </a>
+            </span>
+            <ul class="multilevel-linkul-0">
+             <li>
+              <a href="/equality-and-diversity/equality-impact-assessments/equality-impact-assessment-forms/">
+               Equality Impact Assessment Forms
+              </a>
+             </li>
+             <li>
+              <span class="currentbranch1">
+               <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/">
+                University of Bradford EIAs
+               </a>
+              </span>
+              <ul class="multilevel-linkul-1">
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/materials/">
+                 New materials and form
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/scim-staff-dev/">
+                 School of Computing, Informatics and Media Staff Development policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/summer-experience/">
+                 Summer Experience
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/space-temperature/">
+                 Space Temperature policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/air-conditioning/">
+                 Air Conditioning policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/portable-eater-eia/">
+                 Portable electric heater policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/fall-back-eia/">
+                 University fall-back awards
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/student_income_process/">
+                 Student Income Process
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/e_d_newsletter/">
+                 Equality and Diversity Newsletter
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/cycling_parking_policy/">
+                 Cycling Parking Provision policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/dignity_and_respect/">
+                 Dignity and Respect policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/capital_project/">
+                 Capital project process
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/emm_lane_new_build/">
+                 Emm Lane New Build
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/sols_committees_boards/">
+                 Life Sciences - Committees and elections to School Boards
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/optometry-progression/">
+                 Optometry Career Progression course
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/vss/">
+                 Voluntary Severance Scheme
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/energy-mgmt/">
+                 Energy Management Policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/external-finance-project/">
+                 Externally financed project process
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/flex-working/">
+                 Flexible working policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/external-complaints/">
+                 External Complaints Process - screening
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/values-video/">
+                 Corporate Values Video
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/diversity-day/">
+                 Diversity Day
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/mitigating-circumstances/">
+                 Mitigating Circumstances Policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/legacy-brochure/">
+                 Legacy Brochure
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/new-staff-induction/">
+                 New Staff Induction
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/online-recruitment/">
+                 Online recruitment
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/late-attendance/">
+                 Late Cancellation and Non Attendance - Staff Development
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/insurance/">
+                 Insurance claims
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/2009-performance/">
+                 Performance recognition 2009
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/promotions_2009/">
+                 Promotions exercise 2009
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/promotions/">
+                 Promotions process
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/ppdp-eia/">
+                 Personal and Professional Development Programme
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/community-outreach-eia/">
+                 Outreach in the Community
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/accesstocounsellingservice/">
+                 Access to Counselling Service
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/richmond-refurb/">
+                 Richmond Building Refurbishment 2010
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/student-complaints/">
+                 Student complaints 2009
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/invigilation-10-11/">
+                 Invigilation arrangements 2010/11
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/whistleblowing/">
+                 Whistleblowing policy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/alumni-relations/">
+                 Alumni Relations and Development Strategy
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/sms-messaging/">
+                 University SMS text messaging system
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/mobile-policy/">
+                 Mobile policy and application form
+                </a>
+               </li>
+               <li>
+                <span class="currentbranch2">
+                 School of Computing, Informatics and Media - applicant visit days
+                </span>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/ethics-policy-for-research/">
+                 Ethics Policy for Research Involving Human Participants, Data and Tissue
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/drugs-policy,-procedure-and-guidelines-for-students/">
+                 Drugs Policy, Procedure and Guidelines for Students
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/procedureforreportsofamissingstudent/">
+                 Procedure for reports of a Missing Student
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/student-behaviour-policy-and-hierarchy-of-sanctions/">
+                 Student Behaviour Policy and Hierarchy of Sanctions
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/procedure-for-supporting-students-in-the-event-of-serious-illness-hospitalisation/">
+                 Procedure for supporting students in the event of serious illness/hospitalisation
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/procedure-for-sudden-student-death/">
+                 Procedure for Sudden Student Death
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/general-access-to-the-counselling-service/">
+                 General Access to the Counselling Service
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/scim-applicants-visit-days/">
+                 SCIM Applicants Visit Days
+                </a>
+               </li>
+               <li>
+                <a href="/equality-and-diversity/equality-impact-assessments/university-of-bradford-eias/student-pregnancy,-maternity-and-paternity-policy-and-procedure/">
+                 Student Pregnancy, Maternity and Paternity Policy and Procedure
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/training/">
+             Training
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/athena-swan/">
+             Athena SWAN
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/equality-monitoring-census/">
+             Equality Monitoring Census
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/religious-festivals-and-holy-days/">
+             Religious Festivals and Holy Days
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/news-and-events/">
+             News and Events
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/contact-us/">
+             Contact Us
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/useful-links/">
+             Useful Links
+            </a>
+           </li>
+           <li>
+            <a href="/equality-and-diversity/readable-documents/">
+             Readable Documents
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <!-- Left Content -->
+        <a class="ocm-close-btn" href="#">
+         Close menu
+        </a>
+       </div>
+      </nav>
+      <div class="content-wrap" id="main-content">
+       <!-- Banner -->
+       <div class="main-content three-col-layout">
+        <a name="d.en.43430">
+        </a>
+        <h1>
+         Equality impact assessment - SCIM applicant visit days
+        </h1>
+        <h2>
+         Title of policy
+        </h2>
+        <p>
+         School of Computing, Informatics and Media ¿ applicant visit days.
+        </p>
+        <h2>
+         Key findings of the equality impact assessment
+        </h2>
+        <p>
+         With any event there is the possibility for potential or actual adverse impact, including discrimination. With applicant visit days for potential students, issues may include access to the campus, the timings of the applicant visit days, and offering potential students the chance to see the University without visiting to allow for disability, maternity and so on. It is therefore essential that when planning events, consideration is given to each equality characteristic to ensure that every reasonable precaution has been put in place to avoid such impacts.
+        </p>
+        <p>
+         Further development of virtual tours and other methods of sending information to applicants should they not be able to visit the campus should be undertaken. This will also provide Overseas students the opportunity to access the same type of information as UK based students, as at present it is sometimes difficult for them to obtain visas to visit the University.
+        </p>
+        <h2>
+         Information and data used in the equality impact assessment
+        </h2>
+        <p>
+         Feedback questionnaires from potential students; data analysis from feedback forms and bookings; consultations with Equality Unit and other relevant stakeholders.
+        </p>
+        <h2>
+         Actions taken
+        </h2>
+        <ul>
+         <li>
+          Consider the development of virtual tours and further online provision for applicants to ensure everyone has access to data.
+         </li>
+         <li>
+          Review AVD provision during the 2010/11 academic year to collate statistical data on applicants to allow further equality assessment to take place.
+          <br/>
+         </li>
+        </ul>
+        <p>
+         <a href="/equality-and-diversity/media/impactassessments/documents/EIA-of-SCIM-applicant-visit-days.pdf">
+          EIA of Computing, Informatics and Media applicant visit days (PDF, 201Kb)
+         </a>
+        </p>
+        <p>
+         <a href="/equality-and-diversity/media/impactassessments/documents/EIA-of-SCIM-applicant-visit-days.docx">
+          EIA of Computing, Informatics and Media applicant visit days (Word, 24.9Kb)
+         </a>
+        </p>
+       </div>
+       <!-- .main-content -->
+       <!-- right sidebar -->
+       <div class="right-col">
+        <!-- right hand content single -->
+        <!-- right hand content repeating -->
+        <a name="d.en.128795">
+        </a>
+        <h2>
+         Contact Us
+        </h2>
+        <p>
+         The Equality and Diversity Unit
+         <br/>
+         F32, Richmond Building
+         <br/>
+         University of Bradford
+         <br/>
+         Bradford
+         <br/>
+         BD7 1DP
+        </p>
+        <p>
+         Email:
+         <a href="mailto:equality@bradford.ac.uk">
+          equality@bradford.ac.uk
+         </a>
+        </p>
+        <p>
+         Tel: 01274 233070
+        </p>
+        <div id="news-area">
+         <script src="http://www.google.com/jsapi/" type="text/javascript">
+         </script>
+         <script src="http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.js" type="text/javascript">
+         </script>
+         <script type="text/javascript">
+          function showGadget() {
+      var feeds = [
+       {title:'Internal News',
+        url:'http://internal.bradford.ac.uk/category/featured/feed/'}];
+
+      new GFdynamicFeedControl(feeds, 'feedGadget',
+                               {numResults : 3, stacked : true,
+                               title: "Featured News"});
+    }
+    google.load("feeds", "1");
+    google.setOnLoadCallback(showGadget);
+         </script>
+         <div id="feedGadget">
+          Loading...
+         </div>
+        </div>
+       </div>
+       <!-- Full Width Content -->
+      </div>
+      <!-- content-wrap -->
+     </div>
+    </div>
+    <!-- ocm-page-wrapper -->
+   </div>
+   <div id="pre-footer-padding">
+   </div>
+   <!-- nav pull in -->
+   <footer>
+    <div class="page-wrapper">
+     <!-- Element Footer -->
+     <div class="three-col">
+      <div class="three-col-wrapper-left">
+       <h3>
+        <a href="/contact-and-find-us/social-media/">
+         Our Social Media
+        </a>
+       </h3>
+       <ul class="social_media">
+        <li>
+         <a class="facebook-icon" href="https://www.facebook.com/university.bradford" title="Follow us on Facebook">
+         </a>
+        </li>
+        <li>
+         <a class="twitter-icon" href="https://twitter.com/UniofBradford" title="Follow us on Twitter">
+         </a>
+        </li>
+        <li>
+         <a class="linkedin-icon" href="https://uk.linkedin.com/edu/university-of-bradford-12687" title="Follow us on LinkedIn">
+         </a>
+        </li>
+        <li>
+         <a class="youtube-icon" href="http://www.youtube.com/user/UniversityOfBradford" title="Visit our Youtube channel">
+         </a>
+        </li>
+        <li>
+         <a class="instagram-icon" href="https://www.instagram.com/universityofbradford/" title="Follow us on Instagram">
+         </a>
+        </li>
+        <li>
+         <a class="gplus-icon" href="https://plus.google.com/109408073873536018551/" rel="publisher" title="Visit our Google+ page">
+         </a>
+        </li>
+        <li>
+         <a class="wordpress-icon" href="http://blogs.brad.ac.uk/bradford-life/" title="Follow our student blog">
+         </a>
+        </li>
+        <li>
+         <a class="tsr-icon" href="http://www.thestudentroom.co.uk/content.php?r=4912-University-of-Bradford-guide" title="Join the conversation on The Student Room">
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="three-col">
+      <div class="three-col-wrapper-middle">
+       <h3>
+        <a href="/contact-and-find-us/">
+         Contact us
+        </a>
+       </h3>
+       <address>
+        University of Bradford
+        <br/>
+        Bradford
+        <br/>
+        West Yorkshire
+        <br/>
+        BD7 1DP
+        <br/>
+        UK (
+        <a href="/contact-and-find-us/how-to-find-us/">
+         Get directions
+        </a>
+        )
+        <br/>
+        Tel: +44 (0) 1274 232323
+        <br/>
+       </address>
+      </div>
+     </div>
+     <div class="three-col">
+      <div class="three-col-wrapper-right">
+       <h3>
+        <a href="/study/faculties/">
+         Our Faculties
+        </a>
+       </h3>
+       <ul>
+        <li>
+         <a href="/ei/">
+          Engineering &amp; Informatics
+         </a>
+        </li>
+        <li>
+         <a href="/health/">
+          Health Studies
+         </a>
+        </li>
+        <li>
+         <a href="/life-sciences/">
+          Life Sciences
+         </a>
+        </li>
+        <li>
+         <a href="/management-and-law/">
+          Management &amp; Law
+         </a>
+        </li>
+        <li>
+         <a href="/social-sciences/">
+          Social Sciences
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="footer-info">
+     <div class="page-wrapper">
+      <div class="two-col">
+       <h3>
+        Information
+       </h3>
+       <ul>
+        <li>
+         <a href="/about/web-accessibility/">
+          Accessibility
+         </a>
+        </li>
+        <li>
+         <a href="/foi/">
+          Freedom of Information Act
+         </a>
+        </li>
+        <li>
+         <a href="/about/legal/privacy-and-cookie-policy/" title="Read our Privacy and Cookie Policy">
+          Privacy and Cookie Policy
+         </a>
+        </li>
+       </ul>
+       <p>
+        The University is a member of
+        <a href="http://www.yorkshireuniversities.ac.uk/" title="The University is a member of Yorkshire Universities">
+         Yorkshire Universities
+        </a>
+        .
+       </p>
+       <p>
+        Please report instances of computer misuse originating from University of Bradford to
+        <a href="mailto:abuse@bradford.ac.uk">
+         abuse@bradford.ac.uk
+        </a>
+        — all complaints are investigated fully.
+        <br/>
+        Content Manager:
+        <a href="mailto:content-manager@bradford.ac.uk">
+         content-manager@bradford.ac.uk
+        </a>
+       </p>
+      </div>
+      <div class="two-col footer-logos">
+       <!--<p class="last-modified"><b>Page last modified:</b> Tuesday, April 12, 2011</p>-->
+       <div class="award-logos2">
+        <a href="/news/2015/queens-anniversary-prize.php" title="University of Bradford awarded coveted Queen's Anniversary Prize">
+         <img alt="Queen's Anniversary Prize" src="/T4-css-corporate/UoB/2015/general/Queens_Anniversary_Prizes_2015-180.jpg"/>
+        </a>
+       </div>
+       <div class="award-logos1">
+        <a href="/news/2016/athena-swan-award.php" title="University honoured for boosting women's equality">
+         <img alt="Athena SWAN Bronze Award" src="/T4-css-corporate/UoB/2015/general/AS-Bronze-Award.jpg"/>
+        </a>
+        <br class="hide-mob"/>
+        <a href="http://www.qaa.ac.uk/reviews-and-reports/provider?UKPRN=10007785" title="Click here to read the latest review report">
+         <img alt="QAA Quality Mark thumbnail" src="/T4-css-corporate/UoB/2015/general/QAA-Quality.png"/>
+        </a>
+       </div>
+      </div>
+      <div style="clear:both">
+       <p>
+        © University of Bradford 2016
+       </p>
+      </div>
+     </div>
+    </div>
+   </footer>
+   <!-- navigation object : Chat Live Sticky - Pull in -->
+  </div>
+  <script src="http://www.bradford.ac.uk/T4-css-corporate/UoB/2015/js/scripts.js?v=1803" type="text/javascript">
+  </script>
+  <script src="http://www.bradford.ac.uk/T4-css-corporate/UoB/2015/fancybox/jquery.fancybox.pack.js" type="text/javascript">
+  </script>
+  <script>
+   //Navigation
+$(document).ready(function() {
+	$('.main-uni-menu').click(function(){
+	  $(this).next('.megamenu').toggle();
+	});
+
+	 $(document).click(function(e) {
+	  var target = e.target;
+	  if (!$(target).is('.main-uni-menu') && !$(target).parents().is('.main-uni-menu')) {
+		$('.megamenu').hide();
+	  }
+	}); 
+
+	$(".megamenu ").click(function (e) {
+		e.stopPropagation();
+	});  
+  
+	OffCanvasMenu.init();		
+//Navigation and content height when nav is bigger than content
+var BoxeeBox = $('.detect-height');
+$('.content-wrap').css({ 'min-height': BoxeeBox.height() });
+
+
+
+$("#main-content").fitVids();
+// Rollover Blocks 50% - margin alternation
+jQuery(".rollover-block-50:even").
+addClass("rollover-left-0");
+$('.fancybox')
+	.fancybox({
+
+	helpers : {
+		media : {},
+      		title: {
+            		 type: 'inside'
+       		 }  
+	}
+});
+$('a.fancybox').not('a.fancybox+a.fancybox').each(function(){
+  $(this).nextUntil(':not(a.fancybox)').andSelf().wrapAll('<div class="justified-gallery" />');
+});
+  
+
+  
+$('.fileThumbContainerWrap').not('.fileThumbContainerWrap+.fileThumbContainerWrap').each(function(){
+  $(this).nextUntil(':not(.fileThumbContainerWrap)').andSelf().wrapAll('<div class="fileThumbContainerRow" />');
+});
+  
+$(".justified-gallery").justifiedGallery({
+    rowHeight : 100,
+    lastRow : 'nojustify',
+    margins : 2,
+    maxRowHeight : 150,
+    captions : false
+
+});
+});
+
+
+//Search panel height
+$(window).resize(function() { 
+var CourseSearchBox = $('.content#keyword');
+$('.content#faculty').css({ 'height': CourseSearchBox.outerHeight() });
+}).resize();
+
+var addthis_share = addthis_share || {}
+addthis_share = {
+	passthrough : {
+		twitter: {
+			via: "UniofBradford"
+		}
+	}
+}    
+var addthis_config = {
+         data_ga_property: 'UA-18301055-25',
+  	data_ga_social : true
+      };
+  </script>
+  <script type="text/javascript">
+   /*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_51623419.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+  </script>
+ </body>
+</html>

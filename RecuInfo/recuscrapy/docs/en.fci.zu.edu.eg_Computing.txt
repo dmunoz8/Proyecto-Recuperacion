@@ -1,0 +1,1075 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   computers &amp; informatics College :: Zagazig University
+  </title>
+  <link href="styles/elbehery_en.css" id="cssElbehery" rel="stylesheet"/>
+  <link href="styles/default_en.css" id="cssDefault" rel="stylesheet"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+ </head>
+ <body>
+  <form action="" id="ctl01" method="post">
+   <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUJMTgzMzA1MDAyD2QWBAIBD2QWBAIBDxYCHgRocmVmBRZzdHlsZXMvZWxiZWhlcnlfZW4uY3NzZAICDxYCHwAFFXN0eWxlcy9kZWZhdWx0X2VuLmNzc2QCAw9kFi4CAQ9kFjwCAQ8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgJmDxUBLGh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9Vbml2ZXJzaXR5T2ZaYWdhemlnZAIDDw8WAh4EVGV4dAUNU3RhZmYgU2V2aWNlc2RkAgUPDxYCHwIFGlNlcnZpY2VzIFByb3ZpZGVkIFRvIFN0YWZmZGQCBw9kFgICAQ8PFgIfAgUQU3R1ZGVudCBTZXJ2aWNlc2RkAgkPDxYCHwIFHVNlcnZpY2VzIFByb3ZpZGVkIFRvIFN0dWRlbnRzZGQCCw9kFgJmDxYCHwAFOWh0dHA6Ly93d3cuc3R1ZGVudGFjdGl2aXRpZXMuenUuZWR1LmVnL0xvZ2luL1N0dWRlbnRTdGFydGQCDQ8WAh8ABSxodHRwczovL3d3dy5mYWNlYm9vay5jb20vVW5pdmVyc2l0eU9mWmFnYXppZ2QCEQ8WAh8ABSVodHRwOi8vd3d3LmZjaS56dS5lZHUuZWcvZGVmYXVsdC5hc3B4FgJmDxYCHgNzcmMFD2ltYWdlcy9hcmFiLnBuZ2QCEw8WAh8ABS9odHRwOi8vd3d3Lm5ld3MuenUuZWR1LmVnL05ld3NSc3MuYXNweD9DYXRJRD0xMWQCFQ8WAh8ABRxodHRwOi8vc3VwcG9ydC5mY2kuenUuZWR1LmVnZAIXDxYCHwMFUmh0dHA6Ly93d3cuZmFjYWRtaW4uenUuZWR1LmVnL1VwbG9hZGVkRmlsZXMvRmFjdWx0aWVzL1ByZWZlcmVuY2VzLzEyMTUxMTU5MjMyNi5naWZkAhkPDxYCHwIFH2NvbXB1dGVycyAmIGluZm9ybWF0aWNzIENvbGxlZ2VkZAIbDw8WAh8CBRJaYWdhemlnIFVuaXZlcnNpdHlkZAIdDw8WAh8CBQRIb21lZGQCHw8PFgIfAgUFQWJvdXRkZAIhDw8WAh8CBRlWaXNzaW9uIE1pc3Npb24gT2JqZWN0aXZlZGQCIw8PFgIfAgUUT3JnYW5pemF0aW9uYWwgQ2hhcnRkZAIlDw8WAh8CBQVTdGFm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cy5hc3B4P05ld3NJRD0zNjExNiZDYXRJRD0xMYIBU2NpZW50aWZpYyBDb25mZXJlbmNlICJ0aGUgc2VjdXJpdHkgb2YgdGhlIEVneXB0aWFuIGFncmljdWx0dXJhbCBsYW5kIiBGYWN1bHR5IG9mIEFncmljdWx0dXJlLCBaYWdhemlnIFVuaXZlcnNpdHkgZnJvbSAxMC0xMSBBcHJpbGQCAg9kFgJmDxUEJk5ld3NEZXRhaWxzLmFzcHg/TmV3c0lEPTM2MTE1JkNhdElEPTExGGluZGV4MjgwNTIwMTYxMjA5MTFQLmpwZyZOZXdzRGV0YWlscy5hc3B4P05ld3NJRD0zNjExNSZDYXRJRD0xMQ5Bd2FyZGVkIFVORVNDT2QCAw9kFgJmDxUEJk5ld3NEZXRhaWxzLmFzcHg/TmV3c0lEPTM2MTE0JkNhdElEPTExHzAxMjIwMzU0MDQwODI4MDUyMDE2MTIwNDQ5UC5naWYmTmV3c0RldGFpbHMuYXNweD9OZXdzSUQ9MzYxMTQmQ2F0SUQ9MTF+VGhlIFRoaXJkIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBmb3IgVHJhaW5pbmcgYW5kIERldmVsb3BtZW50IGluIEhpZ2hlciBFZHVjYXRpb24gSW5zdGl0dXRpb25zIGluIENhaXJvIGZyb20gQXByaWwgMjYtMjcyMDE2ZAIED2QWAmYPFQQmTmV3c0RldGFpbHMuYXNweD9OZXdzSUQ9MzYxMTMmQ2F0SUQ9MTEYaW5kZXgyODA1MjAxNjExNTA1NkEuanBnJk5ld3NEZXRhaWxzLmFzcHg/TmV3c0lEPTM2MTEzJkNhdElEPTExJlJlc2VhcmNoIGdyYW50cyBpbiB0aGUgc29jaWFsIHNjaWVuY2VzZAIFD2QWAmYPFQQmTmV3c0RldGFpbHMuYXNweD9OZXdzSUQ9MzYxMTImQ2F0SUQ9MTEYaW5kZXgyODA1MjAxNjExNDQ1MkEuanBnJk5ld3NEZXRhaWxzLmFzcHg/TmV3c0lEPTM2MTEyJkNhdElEPTExPE9wZW5pbmcgdGhlIGRvb3IgdG8gYXBwbHkgZm9yIGEgc2VtaW5hciB0byB5b3VuZyByZXNlYXJjaGVyc2QCBg9kFgJmDxUEJk5ld3NEZXRhaWxzLmFzcHg/TmV3c0lEPTM2MTEyJkNhdElEPTExACZOZXdzRGV0YWlscy5hc3B4P05ld3NJRD0zNjExMiZDYXRJRD0xMTxPcGVuaW5nIHRoZSBkb29yIHRvIGFwcGx5IGZvciBhIHNlbWluYXIgdG8geW91bmcgcmVzZWFyY2hlcnNkAgcPZBYCZg8VBCZOZXdzRGV0YWlscy5hc3B4P05ld3NJRD0zNjExMSZDYXRJRD0xMRhpbmRleDI4MDUyMDE2MTE0MjQyQS5qcGcmTmV3c0RldGFpbHMuYXNweD9OZXdzSUQ9MzYxMTEmQ2F0SUQ9MTFbQW5ub3VuY2Ugc2Nob2xhcnNoaXAgZ3JhbnRzIGZyb20gdGhlIEZ1bGJyaWdodCBDb21taXNzaW9uIG9mIEFtZXJpY2EgZm9yIHRoZSB5ZWFyIDIwMTcvMjAxOGQCCA9kFgJmDxUEJk5ld3NEZXRhaWxzLmFzcHg/TmV3c0lEPTM2MTEwJkNhdElEPTExGGluZGV4MjgwNTIwMTYxMTQwMTBBLmpwZyZOZXdzRGV0YWlscy5hc3B4P05ld3NJRD0zNjExMCZDYXRJRD0xMUZPcGVuaW5nIGZvciB0aGUgaW50cm9kdWN0aW9uIG9mIGEgam9pbnQgcmVzZWFyY2ggaW4gYWdyaWN1bHR1cmFsIGFyZWFzZAIJD2QWAmYPFQQmTmV3c0RldGFpbHMuYXNweD9OZXdzSUQ9MzYxMDkmQ2F0SUQ9MTEfMDEyMjAzNTQwNDA4MjgwNTIwMTYxMTM1MjhBLmdpZiZOZXdzRGV0YWlscy5hc3B4P05ld3NJRD0zNjEwOSZDYXRJRD0xMa8BQ29uc3RlbGxhdGlvbiBvZiB0aGUgQXJhYiB3b3JsZCBhbmQgRXVyb3BlYW4gc2NpZW50aXN0cyBhdCB0aGUgb3BlbmluZyBvZiB0aGUgSW50ZXJuYXRpb25hbCBDb25ncmVzcyBvZiB0aGUgY2l2aWxpemF0aW9ucyBvZiB0aGUgYW5jaWVudCBOZWFyIEVhc3QgYXQgdGhlIFVuaXZlcnNpdHkgb2YgWmFnYXppZ2QCCA8WAh4DYWx0BQRQcmV2ZAIKDxYCHwQFBE5leHRkAgcPFgIfAwVVaHR0cDovL3d3dy5mYWNhZG1pbi56dS5lZHUuZWcvU3RhZmYvU3RhZmZQaG90by/Yudio2K/Yp9mE2YbYp9i12LEg2K3Ys9mGINix2YrYp9i2LkpQR2QCCQ8PFgIfAgUJRGVhbiBXb3JkZGQCCw9kFgICAQ8PFgIfAgUlUHJvZiA6IGFiZGVsbmFzZXIgaGVzc2VpbiByZWlhZCB6YXllZGRkAg0PDxYCHwIF9ANNeSBzb25zIGFuZCBkYXVnaHRlcnMgLi4uIHN0dWRlbnRzIGFuZCBzdHVkZW50cyBvZiB0aGUgQ29sbGVnZSBvZiBDb21wdXRpbmcNCkFuZCBpbmZvcm1hdGlvbiAtIFphZ2F6aWcgVW5pdmVyc2l0eQ0KDQpJdCBpcyBteSBwbGVhc3VyZSB0byBjb25ncmF0dWxhdGUgdGhlIGJlZ2lubmluZyBvZiB0aGUgYWNhZGVtaWMgeWVhciBhbmQgSSBhbSBwbGVhc2VkIHRvIHJlbmV3IHdlbGNvbWluZyBzdHVkZW50cyBvZiB0aGUgY29sbGVnZSB2ZXRlcmFucyBhbmQgdG8gdGhhbmsgdGhlIG5ldyBzdHVkZW50cyBvbiB0aGVpciBjaG9pY2UgY29uY2lsaWF0b3IgdG8gYXR0ZW5kIGNvbGxlZ2UgLCB3aGljaCBvcGVucyB0aGUgd2F5IGZvciB0aGVtIHRvIGxlYXJuIGFib3V0IHRoZSBsYXRlc3QgZmluZGluZ3Mgb2YgdGhlIHNjaWVuY2UgY3VycmljdWx1bSBhbmQgc2NpZW50aWZpYyB0aGVvcmllcyBhc3BpcmUgdGhhdCBlcXVpcHMgeW91IGZvciB0aGUgcG9zdCBlZmZlY3RpdmUgYW5kIHBvc2RkAg8PZBYCAgEPDxYCHwIF1wNUaGlzIEZhY3VsdHkgSXMgQ29uc2lkZXJlZCBPbmUgT2YgVGhlIEV4Y2VsbGVudCBTY2llbnRpZmljIEluc3RpdHV0aW9ucyBXaGljaCBTZXRzIEl0c2VsZiBBcyBBIEZ1bGwgUGFydG5lciBJbiBUaGUgRGV2ZWxvcG1lbnQgT2YgU2VydmljZXMgQW5kIFRoZSBPdXRwdXQgT2YgVGhpcyBQYXJ0bmVyc2hpcCBXaWxsIEJyaW5nIEluIFByb3NwZXJpdHkgQW5kIEhlYWx0aCBGb3IgVGhlIEVneXB0aWFuIFNvY2lldHkuIFRoZSBCZWdpbm5pbmcgT2YgVGhpcyBDZW50dXJ5IEhhcyBXaXRuZXNzZWQgUmFwaWQgRGV2ZWxvcG1lbnQgSW4gVGhlIEZpZWxkIE9mIEVkdWNhdGlvbiBBbmQgSW4gVGhlIFZhcmlldHkgT2YgVGhlIEFjdGl2aXRpZXMgRGV2ZWxvcG1lbnQgRmllbGRzLCBXaGljaCBOZWNlc3NpdGF0ZWQgVGhlIENvbGxlZ2UgQXQgWmFnYXppZyBVbml2ZXJzaXR5IFRvIEtlZXAgUGFjZSBXaXRoIFRoaXMgUmFwaWQgUHJvZ3Jlc3NkZAIRDw8WAh8CBQRNb3JlZGQCEw8PFgIfAgUJSG90IExpbmtzZGQCFQ9kFgICAQ8WAh8BAgEWAmYPZBYCZg8VAjtodHRwOi8vd3d3LnN0dWRlbnRhY3Rpdml0aWVzLnp1LmVkdS5lZy9Mb2dpbi9QR1N0dWRlbnRTdGFydDXZhtiq2KfYptisINin2YXYqtit2KfZhtin2Kog2KfZhNiv2LHYp9iz2KfYqiDYudmE2YrYp2QCFw8WAh4HVmlzaWJsZWcWBgIBDw8WAh8CBR1FZHVjYXRpb24gQW5kIFN0dWRlbnQgQWZmYWlyc2RkAgMPDxYCHwIFEEdyYWR1YXRlIFN0dWRpZXNkZAIFDw8WAh8CBRVFbnZpcm9ubWVudGFsIEFmZmFpcnNkZAIZDw8WAh8CBRNFbGVjdHJvbmljIFNlcnZpY2VzZGQCIQ8PFgIfAgUbVW5pZmllZCBJbmZvcm1hdGlvbiBTeXN0ZW1zZGQCJQ8PFgIfAgUQR2xvYmFsIERhdGFiYXNlc2RkAicPDxYCHwIFC1N0YWZmIFBhZ2VzZGQCKQ8PFgIfAgUPU3R1ZGVudHMgRS1NYWlsZGQCKw8PFgIfAgUMU3RhZmYgRS1NYWlsZGQCLQ8PFgIfAgUSTGF0ZXN0IENvbmZlcmVuY2VzZGQCLw8WAh8FZxYCAgEPDxYEHwIFIyDYudmB2YjYpyDZhNin2YrZiNis2K8g2KjZitin2YbYp9iqHwVnZGQCMQ8WAh8BAv////8PZAIzD2QWAgICD2QWAmYPZBYEAgEPDxYCHwIFEFNoYXJlIFlvdXIgSWRlYXNkZAIFD2QWBgIBDw8WAh8CBSR3aGF0J3MgeW91ciBvcGVuaW9uIG9mIG5ldyB3ZWJzaXRlID9kZAIDD2QWBAIBDxAPFgYeDURhdGFUZXh0RmllbGQFCENob29zZUVOHg5EYXRhVmFsdWVGaWVsZAUDQ0lEHgtfIURhdGFCb3VuZGdkEBUDCWV4Y2VsbGVudARnb29kCmRvbid0IGNhcmUVAwIzMwIzNAIzNRQrAwNnZ2dkZAIDDw8WAh8CBQRWb3RlZGQCBQ8PFgIfBWhkFgICAQ88KwAJAGQCNQ9kFjoCAQ8PFgIfAgUSWmFnYXppZyBVbml2ZXJzaXR5ZGQCAw8PFgIfAgUVVW5pdmVyc2l0eSBQcmVzaWRlbmN5ZGQCBQ8PFgIfAgURU3R1ZGVudHMgSG9zcGl0YWxkZAIHDw8WAh8CBRNVbml2ZXJzaXR5IEhvc3BpdGFsZGQCCQ8PFgIfAgUdRWR1Y2F0aW9uIEFuZCBTdHVkZW50IEFmZmFpcnNkZAILDw8WAh8CBRBHcmFkdWF0ZSBTdHVkaWVzZGQCDQ8PFgIfAgUVRW52aXJvbm1lbnRhbCBBZmZhaXJzZGQCDw8PFgIfAgUTRWxlY3Ryb25pYyBTZXJ2aWNlc2RkAhEPDxYCHwIFHVVuaXZlcnNpdHkgU2NpZW50aWZpYyBKb3VybmFsZGQCEw8PFgIfAgUPU3R1ZGVudHMgRS1NYWlsZGQCFQ8PFgIfAgUMU3RhZmYgRS1NYWlsZGQCFw8PFgIfAgUeVW5pdmVyc2l0eSBFbGVjdHJvbmljIFNlcnZpY2VzZGQCGQ8PFgIfAgUQRWxlY3Ryb25pYyBGb3Jtc2RkAhsPDxYCHwIFEk1pY3Jvc29mdCBQcm9ncmFtc2RkAh0PDxYCHwIFCFZpc2l0b3JzZGQCHw8WAh8BAgEWAmYPZBYCZg8VAiBodHRwOi8vaW5mby5mbGFnY291bnRlci5jb20vakRBWIYBaHR0cDovL3MwNC5mbGFnY291bnRlci5jb20vY291bnQvakRBWC9iZ19DQ0NDQ0MvdHh0XzAwMDAwMC9ib3JkZXJfQ0NDQ0NDL2NvbHVtbnNfMi9tYXhmbGFnc18xMi92aWV3ZXJzXzMvbGFiZWxzXzAvcGFnZXZpZXdzXzEvZmxhZ3NfMC9kAiEPDxYCHwIFElByZWZlcmVkIEJyb3dzZXJzIGRkAiMPDxYCHwIFAk9yZGQCJQ8PFgIfAgUUQ29udGFjdCBXaXRoIEZhY3VsdHlkZAInDxYCHwMFUmh0dHA6Ly93d3cuZmFjYWRtaW4uenUuZWR1LmVnL1VwbG9hZGVkRmlsZXMvRmFjdWx0aWVzL1ByZWZlcmVuY2VzLzEyMTUxMTU5MjMyNi5naWZkAikPDxYCHwIFC1Bvc3RhbCBDb2RlZGQCKw8PFgIfAgUFNDQ1MTlkZAItDw8WAh8CBQZFLU1haWxkZAIvDw8WAh8CBQ1mY2lAenUuZWR1LmVnZGQCMQ8PFgIfAgUHQWRkcmVzc2RkAjMPDxYCHwIFPEVneXB0IC0gQWwtU2hhcnFpYSBHb3Zlcm5vcmF0ZS0gWmFnYXppZyAtIFphZ2F6aWcgVW5pdmVyc2l0eWRkAjUPDxYCHwIFFkFsbCBSaWdodHMgUmVzZXJ2ZWQgVG9kZAI3Dw8WAh8CBRJaYWdhemlnIFVuaXZlcnNpdHlkZAI5Dw8WAh8CBRBQb3J0YWwgVW5pdCBUZWFtZGRkGU8zr4AazxfqTohsx1+/kj17tokqekWYTRzPhw0jt0o="/>
+   <script src="/ScriptResource.axd?d=C97z1dAbmjTP4kYxgjXuYiqvNbSsLlNsrNmEl_HBhzfIa3gLs4oWQburVge2CDTCEP2d5vBjW-waLxFhssE_cEYoZ3FP0s7SX3ZC2J5CbSY1&amp;t=16ab2387" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+   </script>
+   <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEWBgLFjpXRAQK5/NGxDgK5/NWxDgK5/NmxDgK0k4/cAgKw4727BggRGQYY1we0s5mR3xxyjpSE3EkSpItLIo1VYOCIyv4Z"/>
+   <div id="elbehery">
+    <div id="fb-root">
+    </div>
+    <script>
+     (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));
+    </script>
+    <script src="js/jquery-1.4.2.min.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     $(document).ready(function () {
+        $('.m').hover(function () {
+            $(this).children('.behery').show();
+        }, function () {
+            $(this).children('.behery').hide();
+        });
+    });
+    </script>
+    <script type="text/javascript">
+     function GetTime() {
+        var dt = new Date();
+        var time = dt.getHours() + ":" + dt.getMinutes() + ":" + dt.getSeconds() + ")";
+        $("#lblTime").text(time);
+    }
+    $(function () {
+        var dt = new Date();
+        var dateFormat = "(" + dt.getDate() + "-" + (dt.getMonth() + 1) + "-" + dt.getFullYear() + ",";
+        $("#lblBirthDate").text(dateFormat);
+        self.setInterval(function () { GetTime() }, 1000);
+    });
+    </script>
+    <div class="fblikebutton">
+     <div class="fb-like" data-action="like" data-href="https://www.facebook.com/UniversityOfZagazig" data-layout="box_count" data-share="true" data-show-faces="true">
+     </div>
+    </div>
+    <div class="horiz" id="row1" style="">
+     <div class="center">
+      <div class="leftbanner">
+       <ul>
+        <li class="m">
+         <a href="#">
+          <img src="images/stafficon.png"/>
+          <p>
+           <span id="Header1_res_lblHeaderStaffTitle">
+            Staff Sevices
+           </span>
+          </p>
+         </a>
+         <div class="behery">
+          <span id="Header1_res_lblStaffServicesTooltip">
+           Services Provided To Staff
+          </span>
+         </div>
+        </li>
+        <li class="m">
+         <a href="StudentsServices.aspx" id="Header1_aStudentsServices">
+          <img src="images/studentsicon.png"/>
+          <p>
+           <span id="Header1_res_lblHeaderStudentServicesTitle">
+            Student Services
+           </span>
+          </p>
+         </a>
+         <div class="behery">
+          <span id="Header1_res_lblStudentsServicesTooltip">
+           Services Provided To Students
+          </span>
+         </div>
+        </li>
+        <li class="m" id="Header1_liExam_Res">
+         <a href="http://www.studentactivities.zu.edu.eg/Login/StudentStart" id="Header1_a2">
+          <img src="images/exam_res.png"/>
+          <p>
+           <span id="Header1_Label2">
+            نتائج الأمتحانات
+           </span>
+          </p>
+         </a>
+         <div class="behery">
+          <span id="Header1_Label3">
+           نتائج الأمتحانات
+          </span>
+         </div>
+        </li>
+       </ul>
+       <div class="bottom">
+        <a href="https://www.facebook.com/UniversityOfZagazig" id="Header1_aFacebook" target="_blank">
+         <img src="images/faceicon.png"/>
+        </a>
+        <a href="SiteMap.aspx" id="Header1_aSitemap">
+         <img src="images/sitemap.png"/>
+        </a>
+        <a href="http://www.fci.zu.edu.eg/default.aspx" id="Header1_aEnglish">
+         <img id="Header1_imgArabicnglish" src="images/arab.png"/>
+        </a>
+        <a href="http://www.news.zu.edu.eg/NewsRss.aspx?CatID=11" id="Header1_aRSS" target="_blank">
+         <img src="images/rssicon.jpg"/>
+        </a>
+        <a href="http://www.zu.edu.eg" target="_blank">
+         <img src="images/zu.png"/>
+        </a>
+        <a href="http://support.fci.zu.edu.eg" id="Header1_aSupport" target="_blank">
+         <img src="images/support.png"/>
+        </a>
+       </div>
+      </div>
+      <div class="rightbanner">
+       <ul>
+        <li>
+         <div class="logoholder">
+          <a href="Default.aspx">
+           <img class="logo" id="Header1_imgLogo" src="http://www.facadmin.zu.edu.eg/UploadedFiles/Faculties/Preferences/121511592326.gif"/>
+          </a>
+         </div>
+        </li>
+        <li class="sitetitle">
+         <p class="maintitle">
+          <a href="Default.aspx">
+           <span id="Header1_lblFacultyName">
+            computers &amp; informatics College
+           </span>
+          </a>
+         </p>
+        </li>
+        <li>
+         <a href="http://www.zu.edu.eg" target="_blank">
+          <p class="subtitle">
+           <span id="Header1_res_lblZagazigUniversityTitle">
+            Zagazig University
+           </span>
+          </p>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="horiz" id="row2">
+     <div class="center" id="menucon">
+      <ul class="mastermenu">
+       <li>
+        <a href="Default.aspx">
+         <span id="Header1_res_lblMenuHome">
+          Home
+         </span>
+        </a>
+       </li>
+       <li class="sm">
+        <a href="#">
+         <span id="Header1_res_lblMenuAbout">
+          About
+         </span>
+        </a>
+        <ul class="submenu" dir="rtl">
+         <li>
+          <a href="About.aspx">
+           <span id="Header1_res_lblMenuVissionMissionObjective">
+            Vission Mission Objective
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="ManagStruct.aspx">
+           <span id="Header1_res_lblMenuManagStucture">
+            Organizational Chart
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="StaffDepartement.aspx">
+           <span id="Header1_res_lblMenuStaff">
+            Staff
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="LVisionMissionGoals.aspx">
+           <span id="Header1_res_lblMenuLibrary">
+            Library
+           </span>
+          </a>
+         </li>
+         <li id="Header1_liYouthCare">
+          <a href="YCActs.aspx">
+           <span id="Header1_res_lblMenuYouthCare">
+            Youth Care
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="SugandCom.aspx">
+           <span id="Header1_res_lblMenuSugAndCom">
+            Complaints And Suggestions
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="PhotoAlbums.aspx">
+           <span id="Header1_res_lblMenuPhotoAlbums">
+            Photo Albums
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="Departements.aspx">
+         <span id="Header1_res_lblMenuDepartments">
+          Departments
+         </span>
+        </a>
+       </li>
+       <li class="sm">
+        <a href="#">
+         <span id="Header1_res_lblMenuAcadimicAffairs">
+          Acadimic Affairs
+         </span>
+        </a>
+        <ul class="submenu" dir="rtl">
+         <li id="Header1_liStudAffairs">
+          <a href="AcadAdvise.aspx">
+           <span id="Header1_res_lblMenuEducationAndStudentAffairs">
+            Education And Student Affairs
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="ViewCondOfReg.aspx" id="Header1_aGraduateStudies">
+           <span id="Header1_res_lblMenuGraduateStudies">
+            Graduate Studies
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="EnvirPlan.aspx">
+           <span id="Header1_res_lblMenuEnvironmentalAffairs">
+            Environmental Affairs
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="sm">
+        <a href="ViewMasterPHD.aspx" id="Header1_aScientificResearch">
+         <span id="Header1_res_lblMenuScientificResearch">
+          Scientific Research
+         </span>
+        </a>
+        <ul class="submenu" dir="rtl">
+         <li>
+          <a href="ReaserchFields.aspx">
+           <span id="Header1_Label5">
+            المجالات البحثية
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="ViewUnitsAndCenters.aspx?ID=43" id="Header1_aUnitsAndCenters">
+         <span id="Header1_res_lblMenuUnitsAndCenters">
+          Units And Centers
+         </span>
+        </a>
+       </li>
+       <li style="border: none;">
+        <a href="#" id="Header1_aGraduates">
+         <span id="Header1_res_lblMenuGraduates">
+          Graduates
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="rowshadow">
+    </div>
+    <div class="row3bodybg">
+     <div class="horiz" id="row3">
+      <div class="center">
+       <div class="rowbody" id="rowbody1">
+        <div class="leftbody" id="events">
+         <div class="clear">
+         </div>
+         <link href="/engine1/style_en.css" rel="stylesheet"/>
+         <script src="engine1/jquery.js" type="text/javascript">
+         </script>
+         <div id="slider1_divSlider">
+          <div id="wowslider-container1">
+           <div class="ws_images">
+            <ul style="width: 700px;">
+             <li style="width: 700px;">
+              <a href="MainImageDetails.aspx?ImageID=10340" style="width: 700px;">
+               <img alt="مناقشة الماجستير للطالبة/ اسلام سامى" src="http://www.facadmin.zu.edu.eg/MainImage/122101121679.jpg" style="width: 700px;" title="Discuss the master of the student / Islam Sami"/>
+              </a>
+              <a class="more" href="MainImageDetails.aspx?ImageID=10340">
+               <span id="slider1_rptNews_res_lblMoreText_0">
+                More
+               </span>
+              </a>
+             </li>
+             <li style="width: 700px;">
+              <a href="MainImageDetails.aspx?ImageID=10300" style="width: 700px;">
+               <img alt="الجداول الدراسية لجميع الفرق الدراسية بالكلية لعام 2016 – 2017" src="http://www.facadmin.zu.edu.eg/MainImage/292703295538.jpg" style="width: 700px;" title="الجداول الدراسية لجميع الفرق الدراسية بالكلية لعام 2016 – 2017"/>
+              </a>
+              <a class="more" href="MainImageDetails.aspx?ImageID=10300">
+               <span id="slider1_rptNews_res_lblMoreText_1">
+                More
+               </span>
+              </a>
+             </li>
+             <li style="width: 700px;">
+              <a href="MainImageDetails.aspx?ImageID=10253" style="width: 700px;">
+               <img alt="تهنئة بمناسبة الولد النبوى الشريف" birthday="" s="" src="http://www.facadmin.zu.edu.eg/MainImage/112212112034.jpg" style="width: 700px;" title="Congratulations on the occasion of the Prophet"/>
+              </a>
+              <a class="more" href="MainImageDetails.aspx?ImageID=10253">
+               <span id="slider1_rptNews_res_lblMoreText_2">
+                More
+               </span>
+              </a>
+             </li>
+             <li style="width: 700px;">
+              <a href="MainImageDetails.aspx?ImageID=10212" style="width: 700px;">
+               <img alt="تهنئة" src="http://www.facadmin.zu.edu.eg/MainImage/031602031042.gif" style="width: 700px;" title="Congratulation"/>
+              </a>
+              <a class="more" href="MainImageDetails.aspx?ImageID=10212">
+               <span id="slider1_rptNews_res_lblMoreText_3">
+                More
+               </span>
+              </a>
+             </li>
+             <li style="width: 700px;">
+              <a href="MainImageDetails.aspx?ImageID=10189" style="width: 700px;">
+               <img alt="مناقشة الدكتوراه للمدرس المساعد/ سعاد نجيب" src="http://www.facadmin.zu.edu.eg/MainImage/090810093363.jpg" style="width: 700px;" title="PhD discuss the teacher assistant / Suad Najib"/>
+              </a>
+              <a class="more" href="MainImageDetails.aspx?ImageID=10189">
+               <span id="slider1_rptNews_res_lblMoreText_4">
+                More
+               </span>
+              </a>
+             </li>
+             <li style="width: 700px;">
+              <a href="MainImageDetails.aspx?ImageID=10188" style="width: 700px;">
+               <img alt="مناقشة الدكتوراه للمدرس المساعد/ سعاد نجيب" src="http://www.facadmin.zu.edu.eg/MainImage/010810012630.jpg" style="width: 700px;" title="PhD discuss the teacher assistant / Suad Najib"/>
+              </a>
+              <a class="more" href="MainImageDetails.aspx?ImageID=10188">
+               <span id="slider1_rptNews_res_lblMoreText_5">
+                More
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="ws_bullets">
+            <div>
+             <a href="#" title="مناقشة الماجستير للطالبة/ اسلام سامى">
+              <img alt="مناقشة الماجستير للطالبة/ اسلام سامى" src="http://www.facadmin.zu.edu.eg/MainImage/122101121679.jpg"/>
+              1
+             </a>
+             <a href="#" title="الجداول الدراسية لجميع الفرق الدراسية بالكلية لعام 2016 – 2017">
+              <img alt="الجداول الدراسية لجميع الفرق الدراسية بالكلية لعام 2016 – 2017" src="http://www.facadmin.zu.edu.eg/MainImage/292703295538.jpg"/>
+              2
+             </a>
+             <a href="#" title="تهنئة بمناسبة الولد النبوى الشريف">
+              <img alt="تهنئة بمناسبة الولد النبوى الشريف" src="http://www.facadmin.zu.edu.eg/MainImage/112212112034.jpg"/>
+              3
+             </a>
+             <a href="#" title="تهنئة">
+              <img alt="تهنئة" src="http://www.facadmin.zu.edu.eg/MainImage/031602031042.gif"/>
+              4
+             </a>
+             <a href="#" title="مناقشة الدكتوراه للمدرس المساعد/ سعاد نجيب">
+              <img alt="مناقشة الدكتوراه للمدرس المساعد/ سعاد نجيب" src="http://www.facadmin.zu.edu.eg/MainImage/090810093363.jpg"/>
+              5
+             </a>
+             <a href="#" title="مناقشة الدكتوراه للمدرس المساعد/ سعاد نجيب">
+              <img alt="مناقشة الدكتوراه للمدرس المساعد/ سعاد نجيب" src="http://www.facadmin.zu.edu.eg/MainImage/010810012630.jpg"/>
+              6
+             </a>
+            </div>
+           </div>
+          </div>
+          <script src="engine1/wowslider.js" type="text/javascript">
+          </script>
+          <script src="engine1/script.js" type="text/javascript">
+          </script>
+         </div>
+        </div>
+        <div class="rightbody" id="hotnews">
+         <link href="/css/ticker_en.css" rel="stylesheet"/>
+         <link href="/styles/elbehery_en.css" rel="stylesheet"/>
+         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript">
+         </script>
+         <script src="js/jquery.totemticker.js" type="text/javascript">
+         </script>
+         <script type="text/javascript">
+          $(function () {
+	        $('#vertical-ticker').totemticker({
+	            row_height: '224px',
+	            next: '#ticker-next',
+	            previous: '#ticker-previous',
+	            stop: '#stop',
+	            start: '#start',
+	            mousestop: true,
+	        });
+	    });
+         </script>
+         <div class="hotnewstitle">
+          <span id="News1_res_lblLatestNewsTitle">
+           Latest News
+          </span>
+         </div>
+         <ul id="vertical-ticker">
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36117&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/01220354040828052016121909P.gif"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36117&amp;CatID=11">
+              The presence of Deputy Minister of Higher Education and Chairman of Zagazig University Conference civilizations of the Near East announces recommendations
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36116&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/asd05032016025049P15032016095728052016121231P.jpg"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36116&amp;CatID=11">
+              Scientific Conference "the security of the Egyptian agricultural land" Faculty of Agriculture, Zagazig University from 10-11 April
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36115&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/index28052016120911P.jpg"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36115&amp;CatID=11">
+              Awarded UNESCO
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36114&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/01220354040828052016120449P.gif"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36114&amp;CatID=11">
+              The Third International Conference for Training and Development in Higher Education Institutions in Cairo from April 26-272016
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36113&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/index28052016115056A.jpg"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36113&amp;CatID=11">
+              Research grants in the social sciences
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36112&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/index28052016114452A.jpg"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36112&amp;CatID=11">
+              Opening the door to apply for a seminar to young researchers
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36112&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36112&amp;CatID=11">
+              Opening the door to apply for a seminar to young researchers
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36111&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/index28052016114242A.jpg"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36111&amp;CatID=11">
+              Announce scholarship grants from the Fulbright Commission of America for the year 2017/2018
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36110&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/index28052016114010A.jpg"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36110&amp;CatID=11">
+              Opening for the introduction of a joint research in agricultural areas
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+          <li>
+           <div class="item">
+            <a href="NewsDetails.aspx?NewsID=36109&amp;CatID=11">
+             <img alt="" class="imgnewsitem" onerror="this.onerror=null;this.src='images/newsicon.png';" src="http://www.newsadmin.zu.edu.eg/uploadedfiles/image/news/01220354040828052016113528A.gif"/>
+            </a>
+            <div class="itemtext">
+             <a href="NewsDetails.aspx?NewsID=36109&amp;CatID=11">
+              Constellation of the Arab world and European scientists at the opening of the International Congress of the civilizations of the ancient Near East at the University of Zagazig
+             </a>
+             <br/>
+             <div class="date">
+             </div>
+            </div>
+           </div>
+           <div style="height:2px;border-bottom:dashed 2px #ccc;width:200px;margin:0 auto;">
+           </div>
+          </li>
+         </ul>
+         <p class="nav">
+          <a href="#" id="ticker-previous" style="float:left;">
+           <img alt="Prev" class="arrow" id="News1_res_imgTitlePrev" src="images/leftarrowicon.jpg" title="السابق"/>
+          </a>
+          <a href="#" id="ticker-next" style="float:right;">
+           <img alt="Next" class="arrow" id="News1_res_imgTitleNext" src="images/rightarrowicon.jpg" title="التالى"/>
+          </a>
+         </p>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="clear">
+       </div>
+       <div class="rowbody" id="rowbody2">
+        <div class="leftbody" id="deanword">
+         <div class="imgDeanContainer">
+          <img id="imgDean" onerror="this.onerror=null;this.src='images/person.png';" src="http://www.facadmin.zu.edu.eg/Staff/StaffPhoto/عبدالناصر حسن رياض.JPG"/>
+         </div>
+         <div class="titleandcontent">
+          <div class="title">
+           <h2>
+            <span id="res_lblDeanWordTitle">
+             Dean Word
+            </span>
+            <a id="aANadyDetails">
+             <span id="lblDeanName">
+              Prof : abdelnaser hessein reiad zayed
+             </span>
+            </a>
+           </h2>
+          </div>
+          <div class="content">
+           <span id="lblDeanWord">
+            My sons and daughters ... students and students of the College of Computing
+And information - Zagazig University
+
+It is my pleasure to congratulate the beginning of the academic year and I am pleased to renew welcoming students of the college veterans and to thank the new students on their choice conciliator to attend college , which opens the way for them to learn about the latest findings of the science curriculum and scientific theories aspire that equips you for the post effective and pos
+           </span>
+           <a class="more" href="DeanWordDetails.aspx" style="display: inline-block;">
+            ..
+            <span id="res_lblMore">
+             More
+            </span>
+            !
+           </a>
+          </div>
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+        <div class="rightbody" id="hotlinks" style="height:auto;">
+         <div class="title">
+          <h2>
+           <span id="res_lblHotLinks">
+            Hot Links
+           </span>
+          </h2>
+         </div>
+         <div id="divHotLinks">
+          <ul>
+           <li style="padding-top:0px !important">
+            <img class="itemicon" src="images/itemicon.png"/>
+            <a class="linkitem" href="http://www.studentactivities.zu.edu.eg/Login/PGStudentStart" style="font-size:17px;">
+             نتائج امتحانات الدراسات عليا
+            </a>
+            <br/>
+           </li>
+          </ul>
+         </div>
+         <div id="divHotLinksPreview">
+          <ul>
+           <li>
+            <img class="itemicon" src="images/itemicon.png"/>
+            <a class="linkitem" href="AcadAdvise.aspx">
+             <span id="res_lblEducationAndStudentAffairs">
+              Education And Student Affairs
+             </span>
+            </a>
+            <br/>
+           </li>
+           <li>
+            <img class="itemicon" src="images/itemicon.png"/>
+            <a class="linkitem" href="ViewCondOfReg.aspx">
+             <span id="res_lblGraduateStudies">
+              Graduate Studies
+             </span>
+            </a>
+            <br/>
+           </li>
+           <li>
+            <img class="itemicon" src="images/itemicon.png"/>
+            <a class="linkitem" href="EnvirPlan.aspx">
+             <span id="res_lblEnvironmentalAffairs">
+              Environmental Affairs
+             </span>
+            </a>
+            <br/>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="rowbody" id="rowbody3">
+        <div class="leftbody" id="confandothers">
+         <div id="electronicservices">
+          <div class="padding">
+           <div class="title">
+            <h2>
+             <span id="res_lblE_Services">
+              Electronic Services
+             </span>
+            </h2>
+           </div>
+           <ul>
+            <li id="li1">
+             <img alt="" src="images/bulleticon1.jpg"/>
+             <a href="http://misweb.zu.edu.eg/zagweb/mainar.htm">
+              <span id="Label2">
+               نظم معلومات الجامعة.
+              </span>
+             </a>
+            </li>
+            <li>
+             <img alt="" src="images/bulleticon1.jpg"/>
+             <a href="http://zumis.zu.edu.eg/zagazig/UI/LoginPage.aspx">
+              <span id="res_lblE_UnitedMIS">
+               Unified Information Systems
+              </span>
+             </a>
+            </li>
+            <li>
+             <img alt="" src="images/bulleticon1.jpg"/>
+             <a href="https://alfarabi.mans.edu.eg/">
+              <span id="Label1">
+               نظام الفارابى لأدارة الجودة.
+              </span>
+             </a>
+            </li>
+            <li>
+             <img alt="" src="images/bulleticon1.jpg"/>
+             <a href="http://www.ezproxy.zu.edu.eg:81/login">
+              <span id="res_lblE_GlobalDatabases">
+               Global Databases
+              </span>
+             </a>
+            </li>
+            <li>
+             <img alt="" src="images/bulleticon1.jpg"/>
+             <a href="http://www.staffdata.zu.edu.eg/">
+              <span id="res_lblE_StaffPages">
+               Staff Pages
+              </span>
+             </a>
+            </li>
+            <li>
+             <img alt="" src="images/bulleticon1.jpg"/>
+             <a href="https://login.microsoftonline.com/login.srf?wa=wsignin1.0&amp;rpsnv=2&amp;ct=1371991709&amp;rver=6.1.6206.0&amp;wp=MCMBI&amp;wreply=https:%2F%2Fportal.microsoftonline.com%2Flanding.aspx%3Ftarget%3D%252fdefault.aspx&amp;lc=1033&amp;id=271346">
+              <span id="res_lblE_StudentsEMail">
+               Students E-Mail
+              </span>
+             </a>
+            </li>
+            <li>
+             <img alt="" src="images/bulleticon1.jpg"/>
+             <a href="https://webmail.zu.edu.eg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fwebmail.zu.edu.eg%2fowa%2f">
+              <span id="res_lblE_StaffEMail">
+               Staff E-Mail
+              </span>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div id="lastconference">
+          <div class="title">
+           <h2>
+            <a href="ViewAllConf.aspx">
+             <span id="res_lblLatestConferences">
+              Latest Conferences
+             </span>
+            </a>
+           </h2>
+          </div>
+          <div class="clear">
+          </div>
+          <div id="divConferencePreview" style="width: 342px;
+                                    height: 55px; text-align: center;">
+           <br class="clear"/>
+           <span class="empty" id="lblMesConf">
+            عفوا لايوجد بيانات
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="rightbody" id="pull">
+         <div id="Poll1_UpdatePanel1">
+          <div class="title">
+           <h2>
+            <span id="Poll1_res_lblPollTitle">
+             Share Your Ideas
+            </span>
+           </h2>
+          </div>
+          <div id="Poll1_divPoll">
+           <ul class="pullcontent">
+            <li>
+             <p class="undertitle">
+              <img class="itemicon" src="images/itemicon.png"/>
+              <span id="Poll1_lblQuestion">
+               what's your openion of new website ?
+              </span>
+             </p>
+            </li>
+            <li>
+             <div id="Poll1_pNormalStatus">
+              <div class="choose">
+               <span id="Poll1_rblChoose">
+                <input id="Poll1_rblChoose_0" name="Poll1$rblChoose" type="radio" value="33"/>
+                <label for="Poll1_rblChoose_0">
+                 excellent
+                </label>
+                <br/>
+                <input id="Poll1_rblChoose_1" name="Poll1$rblChoose" type="radio" value="34"/>
+                <label for="Poll1_rblChoose_1">
+                 good
+                </label>
+                <br/>
+                <input id="Poll1_rblChoose_2" name="Poll1$rblChoose" type="radio" value="35"/>
+                <label for="Poll1_rblChoose_2">
+                 don't care
+                </label>
+               </span>
+              </div>
+              <br class="clear"/>
+              <div align="center" class="btnVoteContainer">
+               <input class="btnVote" id="Poll1_btnVote" name="Poll1$btnVote" type="submit" value="Vote"/>
+              </div>
+             </div>
+            </li>
+           </ul>
+           <br class="clear"/>
+           <div id="service">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="rowshadow">
+    </div>
+    <div class="horiz" id="row4">
+     <div class="center">
+      <div class="upfooter">
+       <ul>
+        <li>
+         <p>
+          <span id="Footer1_res_lblZagazigUniversityTitle">
+           Zagazig University
+          </span>
+         </p>
+         <ul>
+          <li>
+           <a href="http://www.zu.edu.eg/Presidency.aspx">
+            <span id="Footer1_res_lblUniversityPresidenceTitle">
+             University Presidency
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="http://www.st-hosp.zu.edu.eg/">
+            <span id="Footer1_res_lblStudentsHospitalTitle">
+             Students Hospital
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="http://www.hosp.zu.edu.eg/">
+            <span id="Footer1_res_lblUniversityHospitalTitle">
+             University Hospital
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="http://www.zu.edu.eg/StudentAffairs/StudentAffairs.aspx">
+            <span id="Footer1_res_lblEducationAndStudentAffairsTitlefoot">
+             Education And Student Affairs
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="http://www.zu.edu.eg/GraduateAffairs/Default.aspx">
+            <span id="Footer1_res_lblGraduateStudiesTitlefoot">
+             Graduate Studies
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="http://www.zu.edu.eg/EnvAffairs/Default.aspx">
+            <span id="Footer1_res_lblEnvironmentalAffairsTitlefoot">
+             Environmental Affairs
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <p>
+          <span id="Footer1_res_lblElectronicServicesTitle">
+           Electronic Services
+          </span>
+         </p>
+         <ul>
+          <li>
+           <a href="http://www.journals.zu.edu.eg/">
+            <span id="Footer1_res_lblUniversityScientificjournalTitle">
+             University Scientific Journal
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="https://login.microsoftonline.com/login.srf?wa=wsignin1.0&amp;rpsnv=2&amp;ct=1371991709&amp;rver=6.1.6206.0&amp;wp=MCMBI&amp;wreply=https:%2F%2Fportal.microsoftonline.com%2Flanding.aspx%3Ftarget%3D%252fdefault.aspx&amp;lc=1033&amp;id=271346">
+            <span id="Footer1_res_lblStudentsEMailTitle">
+             Students E-Mail
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="https://webmail.zu.edu.eg/owa/auth/logon.aspx?url=https://webmail.zu.edu.eg/owa/&amp;reason=0">
+            <span id="Footer1_res_lblStaffEMailTitle">
+             Staff E-Mail
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="http://www.zu.edu.eg/university%20services.html">
+            <span id="Footer1_res_lblUniversityServicesTitle">
+             University Electronic Services
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="http://www.zu.edu.eg/DocumentsForDownload.aspx">
+            <span id="Footer1_res_lblElectronicFormsTitle">
+             Electronic Forms
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="http://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=8ea213c7-9d9b-e011-969d-0030487d8897&amp;vsro=8&amp;JSEnabled=1">
+            <span id="Footer1_res_lblMicrosoftProgramsTitle">
+             Microsoft Programs
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <p>
+          <span id="Footer1_res_lblVisitorsTitle">
+           Visitors
+          </span>
+         </p>
+         <ul>
+          <li>
+           <a href="http://info.flagcounter.com/jDAX">
+            <img border="0" height="130" src="http://s04.flagcounter.com/count/jDAX/bg_CCCCCC/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_3/labels_0/pageviews_1/flags_0/" width="200"/>
+           </a>
+          </li>
+          <li class="browser">
+           <span id="Footer1_res_lblBrowserText">
+            Prefered Browsers
+           </span>
+           <img src="images/firefox_icon.png"/>
+           <span id="Footer1_res_lblOR">
+            Or
+           </span>
+           <img src="images/chrome.png"/>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <p>
+          <span id="Footer1_res_lblContactWithFacultyTitle">
+           Contact With Faculty
+          </span>
+         </p>
+         <ul>
+          <li class="faccontact">
+           <img class="logofooter" id="Footer1_imgFooterFacultyLogo" src="http://www.facadmin.zu.edu.eg/UploadedFiles/Faculties/Preferences/121511592326.gif"/>
+           <div class="tex">
+            <span id="Footer1_res_lblPostalCodeText">
+             Postal Code
+            </span>
+            :
+            <br/>
+            <a href="#">
+             <span id="Footer1_lblFacultyPostalCode">
+              44519
+             </span>
+            </a>
+            <br/>
+            <span id="Footer1_res_lblEMailText">
+             E-Mail
+            </span>
+            :
+            <br/>
+            <a href="#">
+             <span id="Footer1_lblFacultyEMail">
+              fci@zu.edu.eg
+             </span>
+            </a>
+           </div>
+          </li>
+          <li>
+           <br/>
+           <span id="Footer1_res_lblAddressText">
+            Address
+           </span>
+           :
+           <a href="#">
+            <span id="Footer1_res_lblAddress">
+             Egypt - Al-Sharqia Governorate- Zagazig - Zagazig University
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </div>
+      <div class="white">
+      </div>
+      <div id="copyright">
+       <p>
+        <span id="Footer1_res_lblCopyrightText1">
+         All Rights Reserved To
+        </span>
+        <a href="http://www.zu.edu.eg">
+         <span id="Footer1_res_lblZagazigUniversityTitleCopyright">
+          Zagazig University
+         </span>
+        </a>
+        <span id="Footer1_res_lblCopyrightText2">
+         Portal Unit Team
+        </span>
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+  </form>
+ </body>
+</html>

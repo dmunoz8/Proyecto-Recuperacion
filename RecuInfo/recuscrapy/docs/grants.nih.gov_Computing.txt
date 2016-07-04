@@ -1,0 +1,2942 @@
+<html>
+ <head>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-21455298-5', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <title>
+   PA-14-155: Early Stage Development of Technologies in Biomedical Computing, Informatics, and Big Data Science (R01)
+  </title>
+  <meta content="NIH Funding Opportunities and Notices in the NIH Guide for Grants and Contracts: Early Stage Development of Technologies in Biomedical Computing, Informatics, and Big Data Science (R01)
+ PA-14-155. NIGMS" name="description"/>
+  <meta content="PA-14-155: Early Stage Development of Technologies in Biomedical Computing, Informatics, and Big Data Science (R01)
+" name="Keywords"/>
+  <link href="nih_guide_style.css" rel="stylesheet"/>
+  <script type="text/javascript">
+   var switchTo5x=false;
+  </script>
+  <script src="http://w.sharethis.com/button/buttons.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   stLight.options({publisher: "2741a526-34dd-4464-b9c5-ba9c213e652c", doNotHash: true, doNotCopy: true, hashAddressBar: false});
+  </script>
+ </head>
+ <body bgcolor="#FFFFFF" text="#000000">
+  <div class="WordSection1">
+   <div class="heading1">
+    <a name="_Toc258852634">
+     Department
+    of Health and Human Services
+    </a>
+    <br/>
+    <br/>
+    <br/>
+   </div>
+   <div class="heading1">
+    <a name="_Toc258873264">
+    </a>
+    <a name="_Part_1._Overview">
+    </a>
+    Part 1. Overview Information
+   </div>
+   <table border="1" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Participating Organization(s)
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       National Institutes of Health (
+       <a href="http://www.nih.gov/">
+        NIH
+       </a>
+       )
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       <a name="_Components_of_Participating">
+       </a>
+       Components
+          of Participating Organizations
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       National Institute of General Medical Sciences (
+       <a href="http://www.nigms.nih.gov">
+        NIGMS
+       </a>
+       )
+       <br/>
+       National Human Genome Research Institute (
+       <a href="http://www.nhgri.nih.gov/">
+        NHGRI
+       </a>
+       )
+       <br/>
+       National Institute on Alcohol Abuse and Alcoholism (
+       <a href="http://www.niaaa.nih.gov">
+        NIAAA
+       </a>
+       )
+       <br/>
+       National Institute of Arthritis and Musculoskeletal and Skin Diseases (
+       <a href="http://www.niams.nih.gov">
+        NIAMS
+       </a>
+       )
+       <br/>
+       National Institute of Biomedical Imaging and
+          Bioengineering (
+       <a href="http://www.nibib.nih.gov">
+        NIBIB
+       </a>
+       )
+       <br/>
+       Eunice Kennedy Shriver National Institute of Child Health and Human
+          Development (
+       <a href="http://www.nichd.nih.gov">
+        NICHD
+       </a>
+       )
+       <br/>
+       National Institute of Dental and Craniofacial Research (
+       <a href="http://www.nidcr.nih.gov">
+        NIDCR
+       </a>
+       )
+       <br/>
+       National Institute on Drug Abuse (
+       <a href="http://www.nida.nih.gov">
+        NIDA
+       </a>
+       )
+       <br/>
+       National Institute of Environmental Health Sciences (
+       <a href="http://www.niehs.nih.gov">
+        NIEHS
+       </a>
+       )
+       <br/>
+       National Institute of Neurological Disorders and Stroke (
+       <a href="http://www.ninds.nih.gov">
+        NINDS
+       </a>
+       )
+       <br/>
+       National Institute of Nursing Research (
+       <a href="http://www.ninr.nih.gov">
+        NINR
+       </a>
+       )
+       <br/>
+       Office of Behavioral and Social Sciences Research (
+       <a href="http://obssr.od.nih.gov">
+        OBSSR
+       </a>
+       )
+       <br/>
+       National Cancer Institute (
+       <a href="http://www.nci.nih.gov/">
+        NCI
+       </a>
+       )
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Funding Opportunity Title
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="MsoTitle">
+       Early Stage Development of Technologies
+          in Biomedical Computing, Informatics, and Big Data Science (R01)
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Activity Code
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       <a href="http://grants.nih.gov/grants/funding/ac_search_results.htm?text_curr=r01&amp;Search.x=0&amp;Search.y=0&amp;Search_Type=Activity">
+        R01
+       </a>
+       Research Project Grant
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Announcement Type
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       New
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Related Notices
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+      </p>
+      <ul>
+       <!--Related Notices 11_12_2015 Start Group 1-->
+       <li>
+        <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-004.html">
+         NOT-OD-16-004
+        </a>
+        - NIH &amp; AHRQ Announce Upcoming Changes to Policies, Instructions and Forms for 2016 Grant Applications (November 18, 2015)
+       </li>
+       <li>
+        <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-006.html">
+         NOT-OD-16-006
+        </a>
+        - Simplification of the Vertebrate Animals Section of NIH Grant Applications and Contract Proposals 
+(November 18, 2015)
+       </li>
+       <li>
+        <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-011.html">
+         NOT-OD-16-011
+        </a>
+        - Implementing Rigor and Transparency in NIH &amp; AHRQ Research Grant Applications
+(November 18, 2015)
+       </li>
+       <!--Related Notices 11_12_2015 End Group 1-->
+       <li>
+        <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-GM-14-127.html">
+         July 30, 2014
+        </a>
+        - Notice of Modification of Allowable Budgets for Data Deposition in PA-14-155. See Notice NOT-GM-14-127.
+       </li>
+       <li>
+        <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-14-074.html">
+         June 4, 2014
+        </a>
+        - 
+Notice
+        <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-14-074.html">
+         NOT-14-074
+        </a>
+        supersedes instructions in Section III.3 regarding applications that are essentially the same.
+       </li>
+       <li>
+        <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-CA-14-040.html">
+         March 24, 2014
+        </a>
+        - See Notice NOT-CA-14-040. Notice of National Cancer Institute (NCI) Participation.
+       </li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Funding Opportunity Announcement (FOA) Number
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="MsoTitle">
+       PA-14-155
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Companion Funding Opportunity
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       <a href="http://grants.nih.gov/grants/guide/pa-files/PAR-15-288.html">
+        PAR-15-288
+       </a>
+       ,
+       <a href="http://grants.nih.gov/grants/funding/ac_search_results.htm?text_curr=r44&amp;Search.x=0&amp;Search.y=0&amp;Search_Type=Activity">
+        R44
+       </a>
+       Small Business Innovation Research (SBIR) Grant - Phase II only
+       <br/>
+       <a href="http://grants.nih.gov/grants/guide/pa-files/PA-14-156.html">
+        PA-14-156
+       </a>
+       ,
+       <a href="http://grants.nih.gov/grants/funding/ac_search_results.htm?text_curr=r01&amp;Search.x=0&amp;Search.y=0&amp;Search_Type=Activity">
+        R01
+       </a>
+       Research Project Grant
+       <br/>
+       <a href="http://grants.nih.gov/grants/guide/pa-files/PA-14-154.html">
+        PA-14-154
+       </a>
+       ,
+       <a href="http://grants.nih.gov/grants/funding/ac_search_results.htm?text_curr=r43&amp;Search.x=16&amp;Search.y=10&amp;Search_Type=Activity">
+        R43
+       </a>
+       /
+       <a href="http://grants.nih.gov/grants/funding/ac_search_results.htm?text_curr=r44&amp;Search.x=0&amp;Search.y=0&amp;Search_Type=Activity">
+        R44
+       </a>
+       -
+          Small Business Innovation Research - Phase I, Phase II, and Fast Track
+       <br/>
+       <a href="http://grants.nih.gov/grants/guide/pa-files/PA-14-157.html">
+        PA-14-157
+       </a>
+       ,
+       <a href="http://grants.nih.gov/grants/funding/ac_search_results.htm?text_curr=r41&amp;Search.x=0&amp;Search.y=0&amp;Search_Type=Activity">
+        R41
+       </a>
+       /
+       <a href="http://grants.nih.gov/grants/funding/ac_search_results.htm?text_curr=r42&amp;Search.x=0&amp;Search.y=0&amp;Search_Type=Activity">
+        R42
+       </a>
+       Small Business Technology Transfer (STTR) Grant - Phase I, Phase II, and
+      Fast-Track
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       <a name="_Number_of_Applications">
+       </a>
+       Number of
+          Applications
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       See
+       <a href="#_3._Additional_Information">
+        Section III. 3.
+          Additional Information on Eligibility
+       </a>
+       .
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Catalog of Federal Domestic Assistance (CFDA) Number(s)
+       <sub>
+       </sub>
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       93.859, 93.273, 93.361, 93.121, 97.853, 93.286, 93.865, 93.279, 93.846, 93.172, 93.113, 93.393, 93.394, 93.395, 93.396, 93.399
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Funding Opportunity Purpose
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       The NIH is interested in promoting a broad base of research
+          and development of technologies in biomedical computing, informatics, and Big
+          Data Science that will support rapid progress in areas of scientific
+          opportunity in biomedical research.  It is expected that this research and
+          development is conducted in the context of important biomedical and
+          behavioral research problems.  As such, applications are intended to develop
+          enabling technologies that could apply to the interests of most NIH
+          Institutes and Centers and range from basic biomedicine and including research
+          to all relevant organ systems and diseases. Major themes of research include
+          collaborative environments; data integration; analysis and modeling
+          methodologies; and novel computer science and statistical approaches.  New
+          opportunities are also emerging as large and complex data sets are becoming
+          increasingly available to the research community.  This initiative aims to
+          address biomedical research areas in biomedical computing, informatics, and
+          Big Data science through the early stage development of new software, tools
+          and related resources, as well as the fundamental research (e.g.,
+          methodologies and approaches) leading up to that development.
+      </p>
+     </td>
+    </tr>
+   </table>
+   <div class="heading2">
+    Key Dates
+   </div>
+   <table border="1" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Posted Date
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       March 14, 2014
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Open Date (Earliest Submission Date)
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       May 5, 2014
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Letter of Intent Due Date(s)
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       Not Applicable
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Application Due Date(s)
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11111">
+        Standard
+          dates
+       </a>
+       apply, by 5:00 PM local time of applicant organization.
+      </p>
+      <p class="regulartext">
+       Applicants are encouraged to apply early to allow adequate
+          time to make any corrections to errors found in the application during the
+          submission process by the due date.
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       AIDS Application Due Date(s)
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11112">
+        Standard AIDS
+          dates
+       </a>
+       apply, by 5:00 PM local time of applicant organization.
+      </p>
+      <p class="regulartext">
+       Applicants are encouraged to apply early to allow adequate
+          time to make any corrections to errors found in the application during the
+          submission process by the due date.
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Scientific Merit Review
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11113">
+        Standard
+          dates
+       </a>
+       <a href="http://grants1.nih.gov/grants/funding/submissionschedule.htm#reviewandaward">
+       </a>
+       apply, by 5:00 PM local time of applicant organization.
+      </p>
+      <p class="regulartext">
+       Applicants are encouraged to apply early to allow adequate
+          time to make any corrections to errors found in the application during the
+          submission process by the due date.
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Advisory Council Review
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11113">
+        Standard
+          dates
+       </a>
+       <a href="http://grants1.nih.gov/grants/funding/submissionschedule.htm#reviewandaward">
+       </a>
+       apply
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Earliest Start Date
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11113">
+        Standard
+          dates
+       </a>
+       apply
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Expiration Date
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       May 8, 2017
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Due Dates for E.O. 12372
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       Not Applicable
+      </p>
+     </td>
+    </tr>
+   </table>
+   <p class="heading4">
+    Required Application Instructions
+   </p>
+   <p class="regulartext">
+    It is critical that applicants follow the instructions in
+    the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=12000">
+     SF424
+    (R&amp;R) Application Guide
+    </a>
+    , except where instructed to do otherwise (in
+    this FOA or in a Notice from the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/">
+      NIH Guide for Grants and Contracts
+     </a>
+    </i>
+    ).
+    Conformance to all requirements (both in the Application Guide and the FOA)
+    is required and strictly enforced. Applicants must read and follow all
+    application instructions in the Application Guide as well as any
+    program-specific instructions noted in
+    <a href="#_Section_IV._Application_1">
+     Section
+    IV
+    </a>
+    . When the program-specific instructions deviate from those in the
+    Application Guide, follow the program-specific instructions.
+    <b>
+     Applications that
+    do not comply with these instructions may be delayed or not accepted for review.
+    </b>
+   </p>
+   <p>
+    There are several options to submit your application to the agency through Grants.gov. You can use the ASSIST system to prepare, submit and track your application online. You can download an application package from Grants.gov, complete the forms offline, submit the completed forms to Grants.gov and track your application in eRA Commons. Or, you can use other institutional system-to-system solutions to  prepare and submit your application to Grants.gov and track your application in eRA Commons.
+    <a href="http://grants.nih.gov/grants/ElectronicReceipt/preparing.htm#2">
+     Learn more
+    </a>
+    .
+   </p>
+   <div style="float:left;">
+    <form action="../ApplyButtonSplash.cfm" method="post" target="new">
+     <input name="Opportunity" type="hidden" value="PA-14-155"/>
+     <input name="ComplexApp" type="hidden" value="1"/>
+     <input name="button" style="font-weight:bold;" type="submit" value="Apply Online Using ASSIST"/>
+    </form>
+   </div>
+   <div style="float:left; margin-left:10px;">
+    <form action="../ApplyButtonSplash.cfm" method="post" target="new">
+     <input name="Opportunity" type="hidden" value="PA-14-155"/>
+     <input name="ActivityCodes" type="hidden" value="R01"/>
+     <input name="button" style="font-weight: bold;" type="submit" value="Apply Using Downloadable Forms"/>
+    </form>
+   </div>
+   <div style="clear:both;">
+    <span class="regulartext">
+     Problems accessing or using ASSIST should be directed to the
+     <a href="http://grants.nih.gov/grants/ElectronicReceipt/support.htm#desk">
+      eRA Service Desk
+     </a>
+     .
+     <br/>
+     Problems downloading forms should be directed to
+     <a href="http://www.grants.gov/contactus/contactus.jsp">
+      Grants.gov Customer Support
+     </a>
+     .
+    </span>
+   </div>
+   <div class="heading1">
+    Table of Contents
+   </div>
+   <p class="regulartext">
+    <a href="#_Part_1._Overview">
+     Part 1. Overview Information
+    </a>
+    <br/>
+    <a href="#_Part_2._Full">
+     Part 2. Full Text of the Announcement
+    </a>
+    <br/>
+    <span class="P_SingleIndent">
+     <a href="#_Section_I._Funding">
+      Section I. Funding Opportunity Description
+     </a>
+    </span>
+    <br/>
+    <span class="P_SingleIndent">
+     <a href="#_Section_II._Award_1">
+      Section II. Award Information
+     </a>
+    </span>
+    <br/>
+    <span class="P_SingleIndent">
+     <a href="#_Section_III._Eligibility">
+      Section III. Eligibility Information
+     </a>
+    </span>
+    <br/>
+    <span class="P_SingleIndent">
+     <a href="#_Section_IV._Application_1">
+      Section IV. Application and Submission
+    Information
+     </a>
+    </span>
+    <br/>
+    <span class="P_SingleIndent">
+     <a href="#_Section_V._Application">
+      Section V. Application Review Information
+     </a>
+    </span>
+    <br/>
+    <span class="P_SingleIndent">
+     <a href="#_Section_VI._Award">
+      Section VI. Award Administration Information
+     </a>
+    </span>
+    <br/>
+    <span class="P_SingleIndent">
+     <a href="#_Section_VII._Agency">
+      Section VII. Agency Contacts
+     </a>
+    </span>
+    <br/>
+    <span class="P_SingleIndent">
+     <a href="#_Section_VIII._Other">
+      Section VIII. Other Information
+     </a>
+    </span>
+   </p>
+   <div class="heading1">
+    <a name="_Toc258873265">
+    </a>
+    <a name="_Toc258852635">
+    </a>
+    <a name="_Part_2._Full">
+    </a>
+    Part 2.
+    Full Text of Announcement
+    <br/>
+    <br/>
+    <br/>
+   </div>
+   <div class="heading2">
+    <a name="_Toc258873266">
+    </a>
+    <a name="_Toc258852636">
+    </a>
+    <a name="IFundOppDesc">
+    </a>
+    <a name="_Section_I._Funding">
+    </a>
+    Section I. Funding Opportunity Description
+   </div>
+   <p class="regulartext">
+    This Funding Opportunity
+    Announcement (FOA) encourages research projects that focus on early stage
+    research and development of technologies in biomedical computing, informatics,
+    and Big Data science.  The FOA is coordinated by the NIH Big Data Initiative
+    (BD2K) and the Biomedical Information Science and Technology Initiative (BISTI)
+    committees. Through this and related opportunities, Institutes and Centers at
+    the NIH offer support for: fundamental research (e.g., methodologies and
+    approaches) in biomedical computing, informatics, and Big Data science;
+    development of new software, tools and related resources; and applications of
+    computational technologies to a particular domain area(s) in biomedical
+    research. Information on these programs and related funding opportunities from
+    participating Institutes and Centers of NIH can be found at
+    <a href="http://www.bd2k.nih.gov">
+     http://www.bd2k.nih.gov
+    </a>
+    and
+    <a href="http://www.bisti.nih.gov/">
+     http://www.bisti.nih.gov/
+    </a>
+    .  Note that in this document, the
+    term “biomedical” will be used in the broadest sense to include biological,
+    biomedical, behavioral, social, environmental, and clinical studies that relate
+    to understanding health and disease.  Applicants are reminded to carefully
+    check that the proposed research lies in the mission of the participant
+    Institutes and Centers of the initiative.
+   </p>
+   <p class="regulartext">
+    This FOA is focused on early stage research and software
+    development which is understood to make use of a more sandbox-oriented software
+    development environment.  This means that the engagement of end users in the
+    development cycle is less critical.  Potential users may be basic or
+    translational biomedical researchers, experimental scientists, behavioral
+    scientists, social scientists, clinicians, software developers, or
+    computational scientists.  Applications for hardening of software / technology
+    that already has a proven audience of users will be accepted under a separate
+    FOA,
+    <a href="http://grants.nih.gov/grants/guide/pa-files/PA-14-156.html">
+     PA-14-156
+    </a>
+    .
+   </p>
+   <p class="regulartext">
+    In addition to applications for funding in biomedical
+    computing and informatics research that have been accepted under previous BISTI
+    funding opportunity announcements, this announcement acknowledges new
+    opportunities are also emerging as large and complex data sets are becoming
+    increasingly available to the research community. While the biomedical research
+    enterprise is producing increasingly large amounts of digital data, it has not
+    yet fully capitalized on the transformative opportunities that these data
+    provide.  As stated by the Data and Informatics Working Group (DIWG) of the
+    Advisory Committee to the NIH Director, "Colossal changes in biomedical
+    research technologies and methods have shifted the bottleneck in scientific
+    productivity from data production to data management, communication, and
+    interpretation." (
+    <a href="http://acd.od.nih.gov/Data%20and%20Informatics%20Working%20Group%20Report.pdf">
+     http://acd.od.nih.gov/Data%20and%20Informatics%20Working%20Group%20Report.pdf
+    </a>
+    ). 
+    In this context, the term "Big Data Science" is meant to capture the
+    opportunities and address the challenges facing all biomedical researchers in
+    releasing, accessing, managing, analyzing, and integrating datasets of diverse
+    data types.  Such data types may include imaging, phenotypic, molecular
+    (including –omics), physiological, anatomical, clinical, behavioral,
+    environmental, and many other types of biological and biomedical data.  They
+    may also include data generated for other purposes (e.g., social media, search
+    histories, and cell phone data).
+   </p>
+   <p class="regulartext">
+    Investigators may target one or multiple of the following
+    four themes of biomedical computing, informatics, and Big Data science that
+    will enable progress in biomedical research.
+   </p>
+   <p class="regulartext">
+    <em>
+     1.
+    Collaborative environments and technologies:
+    </em>
+    An applicant addresses
+    the issues of releasing Big Data and tools and gaining access to and using Big
+    Data and tools. Examples include, but are not limited to:
+   </p>
+   <ul>
+    <li>
+     Knowledge environments
+    </li>
+    <li>
+     Research commons
+    </li>
+    <li>
+     Scalable, extensible, and maintainable methods of data and
+      metadata curation
+    </li>
+    <li>
+     Data security and privacy, and technical areas related to other
+      ethical, legal, and social implications of Big Data
+    </li>
+   </ul>
+   <p class="regulartext">
+    <em>
+     2. Data
+    integration:
+    </em>
+    An applicant may propose efficient and effective ways
+    to create connections across data types (i.e., unimodal or multimodal data
+    integration). Examples of data types that could be addressed include, but are
+    not limited to:
+   </p>
+   <ul>
+    <li>
+     Omics data (e.g., genomics, proteomics, metabolomics, etc.)
+    </li>
+    <li>
+     Image and physiological data (e.g., CT, PET/SPECT, sMRI, fMRI,
+      rMRI, DTI, EEG, MEG, ultrasound, cellular level imaging, multi-electrode
+      recording, etc.)
+    </li>
+    <li>
+     Behavioral, social, and environmental data
+    </li>
+    <li>
+     Clinical data (e.g., lab tests, pathology, imaging, diagnosis,
+      electronic health records, etc.)
+    </li>
+    <li>
+     Data from nontraditional sources (e.g., social media, mobile
+      devices, etc.)
+    </li>
+    <li>
+     Multiscale data (genomic, epigenomic, subcellular, cellular,
+      network, organ, systems, organism, population levels)
+    </li>
+    <li>
+     Multiplatform data (desktop, cloud-based storage, etc.)
+    </li>
+    <li>
+     Data from multiple research areas and diseases (e.g., common
+      inflammation pathways in cancer, obesity, immune diseases, and
+      neurodegenerative diseases)
+    </li>
+    <li>
+     Data with special considerations (e.g., sparse data,
+      heterogeneous data, or very large or very small datasets)
+    </li>
+    <li>
+     Human-computer interfaces and visualization
+    </li>
+   </ul>
+   <p class="regulartext">
+    <em>
+     3.
+    Analysis and modeling methodologies:
+    </em>
+    An applicant may propose to
+    develop approaches for modeling, simulation, or analysis to produce useful
+    biomedical information in ways that current methods cannot provide. Examples
+    include, but are not limited to:
+   </p>
+   <ul>
+    <li>
+     Processing of data to allow more efficient analyses
+    </li>
+    <li>
+     Multidimensional statistical and computational methods for
+      analyzing, inspecting, displaying, representing, parsing, and searching
+      high-dimensional data
+    </li>
+    <li>
+     Intensive longitudinal data analyses
+    </li>
+    <li>
+     Spatio-temporal dynamical modeling and adaptive dynamical
+      modeling (e.g., parameter fitting and optimization of complex time series data)
+    </li>
+    <li>
+     Mechanistic modeling
+    </li>
+    <li>
+     Agent-based, Ordinary Differential Equation (ODE), Partial Differential
+      Equation (PDE), and stochastic methods
+    </li>
+    <li>
+     Clinical decision-making
+    </li>
+    <li>
+     Individualized therapies
+    </li>
+    <li>
+     Multi-scale modeling
+    </li>
+    <li>
+     Organ-based or whole-body-based modeling
+    </li>
+    <li>
+     Population-based modeling
+    </li>
+   </ul>
+   <p class="regulartext">
+    <em>
+     4.
+    Computer science and statistical approaches:
+    </em>
+    An applicant may
+    propose to explore research areas in the basic computational science of
+    biomedical Big Data. Examples include, but are not limited to:
+   </p>
+   <ul>
+    <li>
+     Approaches for database development and management – ways to
+      organize, store, and query Big Data
+    </li>
+    <li>
+     Technological approaches to distributing, sharing, and
+      compressing Big Data
+    </li>
+    <li>
+     Crowdsourcing data annotation and data management
+    </li>
+    <li>
+     Approaches for efficient and novel uses of cloud platforms
+    </li>
+   </ul>
+   <p class="regulartext">
+    The biomedical computing, informatics, and Big Data science
+    research and development should take place in the context of biomedical and
+    behavioral research that is of interest across most NIH Institutes and Centers
+    from basic biomedicine to research in all relevant organ systems and diseases.
+    Projects should focus on innovative and high-impact biomedical computational,
+    informatics, and Big Data science approaches to advancing biomedical research.
+    The application should address the intended use of the technology, identify the
+    technology development needs that to the project will address, and how these
+    needs are related to important biomedical, translational, or clinical research
+    problems. Applicants will be expected to demonstrate fundamental understanding
+    and adequate expertise in the relevant areas of both biomedical research and
+    computational science and technology. Cross-disciplinary collaborations are
+    strongly encouraged, including those which have been initiated or fostered
+    through other cross-cutting initiatives and are now seeking independent
+    support.
+   </p>
+   <p class="regulartext">
+    Through separate funding opportunity announcements of
+    similar scientific scope, participating Institutes and Centers invite
+    applications for extended development, hardening and dissemination of software
+    technology (R01)
+    <a href="http://grants.nih.gov/grants/guide/pa-files/PA-14-156.html">
+     PA-14-156
+    </a>
+    ,
+    as well as small business innovation research (SBIR)
+    <a href="http://grants.nih.gov/grants/guide/pa-files/PA-14-154.html">
+     PA-14-154
+    </a>
+    and small business technology transfer research (STTR)
+    <a href="http://grants.nih.gov/grants/guide/pa-files/PA-14-157.html">
+     PA-14-157
+    </a>
+    .
+    Some NIH Institutes and Centers may have other grant mechanisms that could
+    apply to biomedical computing projects. Applicants are encouraged to visit the
+    BD2K and BISTI web sites for these and other relevant funding opportunities:
+    <a href="http://www.bd2k.nih.gov/opportunities">
+     http://www.bd2k.nih.gov/opportunities
+    </a>
+    ,
+    and
+    <a href="http://www.bisti.nih.gov/bistic_funding.cfm">
+     http://www.bisti.nih.gov/bistic_funding.cfm
+    </a>
+    .
+   </p>
+   <div class="heading2">
+    <a name="_Section_II._Award_1">
+    </a>
+    <a name="_Toc258873267">
+    </a>
+    Section II. Award Information
+   </div>
+   <table border="1" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Funding Instrument
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       Grant: A support mechanism providing money, property, or
+          both to an eligible entity to carry out an approved project or activity.
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Application Types Allowed
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       New
+       <br/>
+       Renewal
+       <br/>
+       Resubmission
+      </p>
+      <p class="regulartext">
+       The
+       <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11116">
+        OER
+          Glossary
+       </a>
+       and the SF424 (R&amp;R) Application Guide provide details on
+          these application types.
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Funds Available and Anticipated Number of Awards
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       The number of awards is contingent upon NIH appropriations
+          and the submission of a sufficient number of meritorious applications.
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Award Budget
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       Acceptable budgets are not to exceed $300k direct costs
+          per year.
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" width="30%">
+      <div class="heading4">
+       Award Project Period
+      </div>
+     </td>
+     <td valign="top" width="70%">
+      <p class="regulartext">
+       The project period is limited to three years.
+      </p>
+     </td>
+    </tr>
+   </table>
+   <p class="regulartext">
+    NIH grants policies as
+    described in the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11120">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    will apply to the
+    applications submitted and awards made in response to this FOA.
+   </p>
+   <div class="heading2">
+    <a name="_Toc258873268">
+    </a>
+    <a name="_Section_III._Eligibility">
+    </a>
+    Section III. Eligibility
+    Information
+    <br/>
+    <br/>
+    <br/>
+   </div>
+   <div class="heading3">
+    1. Eligible Applicants
+    <br/>
+    <br/>
+    <br/>
+   </div>
+   <div class="heading4">
+    Eligible Organizations
+   </div>
+   <p class="regulartext">
+    Higher Education Institutions
+   </p>
+   <ul>
+    <li>
+     Public/State Controlled Institutions of Higher Education
+    </li>
+    <li>
+     Private Institutions of Higher Education
+    </li>
+   </ul>
+   <p class="P_SingleIndent">
+    The following types of Higher Education Institutions
+    are always encouraged to apply for NIH support as Public or Private Institutions
+    of Higher Education:
+   </p>
+   <ul>
+    <li>
+     Hispanic-serving
+      Institutions
+    </li>
+    <li>
+     Historically
+      Black Colleges and Universities (HBCUs)
+    </li>
+    <li>
+     Tribally
+      Controlled Colleges and Universities (TCCUs)
+    </li>
+    <li>
+     Alaska
+      Native and Native Hawaiian Serving Institutions
+    </li>
+    <li>
+     Asian
+      American Native American Pacific Islander Serving Institutions (AANAPISIs)
+    </li>
+   </ul>
+   <p class="regulartext">
+    Nonprofits Other Than Institutions of Higher Education
+   </p>
+   <ul>
+    <li>
+     Nonprofits with 501(c)(3) IRS Status (Other than Institutions of
+      Higher Education)
+    </li>
+    <li>
+     Nonprofits without 501(c)(3) IRS Status (Other than Institutions
+      of Higher Education)
+    </li>
+   </ul>
+   <p class="regulartext">
+    For-Profit Organizations
+   </p>
+   <ul>
+    <li>
+     Small Businesses
+    </li>
+    <li>
+     For-Profit Organizations (Other than Small Businesses)
+    </li>
+   </ul>
+   <p class="regulartext">
+    Governments
+   </p>
+   <ul>
+    <li>
+     State Governments
+    </li>
+    <li>
+     County Governments
+    </li>
+    <li>
+     City or Township Governments
+    </li>
+    <li>
+     Special District Governments
+    </li>
+    <li>
+     Indian/Native American Tribal Governments (Federally Recognized)
+    </li>
+    <li>
+     Indian/Native American Tribal Governments (Other than Federally
+      Recognized)
+    </li>
+    <li>
+     Eligible Agencies of the Federal Government
+    </li>
+    <li>
+     U.S. Territory or Possession
+    </li>
+   </ul>
+   <p class="regulartext">
+    Other
+   </p>
+   <ul>
+    <li>
+     Independent School Districts
+    </li>
+    <li>
+     Public Housing Authorities/Indian Housing Authorities
+    </li>
+    <li>
+     Native American Tribal Organizations (other than Federally
+      recognized tribal governments)
+    </li>
+    <li>
+     Faith-based or Community-based Organizations
+    </li>
+    <li>
+     Regional Organizations
+    </li>
+    <li>
+     Non-domestic (non-U.S.) Entities (Foreign Institutions)
+    </li>
+   </ul>
+   <div class="heading4">
+    Foreign Institutions
+   </div>
+   <p class="regulartext">
+    Non-domestic (non-U.S.) Entities (Foreign Institutions)
+    <b>
+     are
+    </b>
+    eligible to apply.
+    <br/>
+    Non-domestic (non-U.S.) components of U.S. Organizations
+    <b>
+     are
+    </b>
+    eligible to
+    apply.
+   </p>
+   <p class="regulartext">
+    Foreign components, as
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11118">
+     defined in
+    the
+     <i>
+      NIH Grants Policy Statement
+     </i>
+    </a>
+    ,
+    <b>
+     are
+    </b>
+    allowed.
+   </p>
+   <div class="heading4">
+    <a name="_Required_Registrations">
+    </a>
+    Required
+    Registrations
+   </div>
+   <p class="regulartext">
+    <strong>
+     Applicant
+    Organizations
+    </strong>
+   </p>
+   <p class="regulartext">
+    Applicant organizations must complete and maintain the
+    following registrations as described in the SF 424 (R&amp;R) Application Guide
+    to be eligible to apply for or receive an award. All registrations must be
+    completed prior to the application being submitted. Registration can take 6
+    weeks or more, so applicants should begin the registration process as soon as
+    possible. The
+    <a href="http://grants.nih.gov/grants/guide/notice-files/NOT-OD-11-035.html">
+     NIH
+    Policy on Late Submission of Grant Applications
+    </a>
+    states that failure to
+    complete registrations in advance of a due date is not a valid reason for a
+    late submission.
+   </p>
+   <ul>
+    <li>
+     <a href="http://fedgov.dnb.com/webform" title="Link to Non-U.S. Government Site">
+      Dun and Bradstreet
+      Universal Numbering System (DUNS)
+     </a>
+     - All registrations require that
+      applicants be issued a DUNS number. After obtaining a DUNS number, applicants
+      can begin both SAM and eRA Commons registrations. The same DUNS number must be
+      used for all registrations, as well as on the grant application.
+    </li>
+    <li>
+     <a href="https://www.sam.gov/portal/public/SAM/">
+      System for Award Management (SAM)
+     </a>
+     (formerly CCR) – Applicants must complete and maintain an active registration,
+     <strong>
+      which requires renewal at least
+      annually
+     </strong>
+     . The renewal process may require as much time as the
+      initial registration. SAM registration includes the assignment of a Commercial
+      and Government Entity (CAGE) Code for domestic organizations which have not
+      already been assigned a CAGE Code.
+    </li>
+    <li>
+     <a href="https://eportal.nspa.nato.int/AC135Public/Docs/US%20Instructions%20for%20NSPA%20NCAGE.pdf">
+      NATO Commercial and
+      Government Entity (NCAGE) Code
+     </a>
+     – Foreign organizations must obtain an NCAGE
+      code (in lieu of a CAGE code) in order to register in SAM.
+    </li>
+    <li>
+     <a href="https://public.era.nih.gov/elf/jsp/commons/login.jsp?TYPE=33554433&amp;REALMOID=06-1edb031f-46c7-44b3-b803-60b537de74d2&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-938PYmoLVb4VrDeXo04LZUDVDvc%2b3899ByInEAjuSUvWNIGfB2zRpWiCivYGCogG&amp;TARGET=-SM-http%3a%2f%2fpublic%2eera%2enih%2egov%2fcommons">
+      eRA Commons
+     </a>
+     - Applicants
+      must have an active DUNS number and SAM registration in order to complete the
+      eRA Commons registration. Organizations can register with the eRA Commons as
+      they are working through their SAM or Grants.gov registration. eRA Commons
+      requires organizations to identify at least one Signing Official (SO) and at
+      least one Program Director/Principal Investigator (PD/PI) account in order to
+      submit an application.
+    </li>
+    <li>
+     <a href="http://www.grants.gov/applicants/organization_registration.jsp">
+      Grants.gov
+     </a>
+     – Applicants
+      must have an active DUNS number and SAM registration in order to complete the
+      Grants.gov registration.
+    </li>
+   </ul>
+   <p class="regulartext">
+    <strong>
+     Program
+    Directors/Principal Investigators (PD(s)/PI(s))
+    </strong>
+   </p>
+   <p class="regulartext">
+    All PD(s)/PI(s) must have an eRA Commons account.
+     PD(s)/PI(s) should work with their organizational officials to either
+    create a new account or to affiliate their existing account with the applicant
+    organization in eRA Commons. If the PD/PI is also the organizational Signing Official,
+    they must have two distinct eRA Commons accounts, one for each role. Obtaining
+    an eRA Commons account can take up to 2 weeks.
+   </p>
+   <div class="heading4">
+    Eligible Individuals (Program Director/Principal
+    Investigator)
+   </div>
+   <p class="regulartext">
+    Any individual(s) with the skills, knowledge, and resources
+    necessary to carry out the proposed research as the Program Director(s)/Principal
+    Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to
+    develop an application for support. Individuals from underrepresented racial
+    and ethnic groups as well as individuals with disabilities are always
+    encouraged to apply for NIH support.
+    <br/>
+    <br/>
+    For institutions/organizations proposing multiple PDs/PIs, visit the Multiple
+    Program Director/Principal Investigator Policy and submission details in the Senior/Key
+    Person Profile (Expanded) Component of the SF424 (R&amp;R) Application Guide.
+   </p>
+   <div class="heading3">
+    2. Cost Sharing
+   </div>
+   <p class="regulartext">
+    This FOA does not require cost sharing as defined in the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11126">
+     <i>
+      NIH
+    Grants Policy Statement
+     </i>
+     .
+    </a>
+   </p>
+   <div class="heading3">
+    <a name="_3._Additional_Information">
+    </a>
+    3. Additional Information on Eligibility
+    <br/>
+    <br/>
+    <br/>
+   </div>
+   <div class="heading4">
+    Number of Applications
+   </div>
+   <p class="regulartext">
+    Applicant organizations may submit more than one application,
+    provided that each application is scientifically distinct.
+   </p>
+   <p class="regulartext">
+    NIH will not accept any application that is essentially the
+    same as one already reviewed within the past thirty-seven months (as described
+    in the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11129">
+      NIH
+    Grants Policy Statement
+     </a>
+    </i>
+    ), except for submission:
+   </p>
+   <ul>
+    <li>
+     To an RFA of an application that was submitted previously as an
+      investigator-initiated application but not paid;
+    </li>
+    <li>
+     Of an investigator-initiated application that was originally
+      submitted to an RFA but not paid; or
+    </li>
+    <li>
+     Of an application with a changed grant activity code.
+    </li>
+   </ul>
+   <div class="heading2">
+    <a name="_Section_IV._Application_1">
+    </a>
+    Section IV. Application and Submission Information
+    <br/>
+    <br/>
+    <br/>
+   </div>
+   <div class="heading3">
+    1. Requesting an Application
+    Package
+   </div>
+   <p class="regulartext">
+    Applicants must download the SF424 (R&amp;R) application
+    package associated with this funding opportunity using the “Apply for Grant
+    Electronically” button in this FOA or following the directions provided at
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11127">
+     Grants.gov
+    </a>
+    .
+   </p>
+   <div class="heading3">
+    <a name="_2._Content_and">
+    </a>
+    2. Content and Form of Application Submission
+   </div>
+   <p class="regulartext">
+    It is critical that applicants follow the instructions in
+    the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=12000">
+     SF424
+    (R&amp;R) Application Guide
+    </a>
+    , except where instructed in this funding
+    opportunity announcement to do otherwise. Conformance to the requirements in
+    the Application Guide is required and strictly enforced. Applications that are
+    out of compliance with these instructions may be delayed or not accepted for
+    review.
+   </p>
+   <p class="regulartext">
+    For information on Application Submission and Receipt, visit
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=41137">
+     Frequently
+    Asked Questions – Application Guide, Electronic Submission of Grant Applications
+    </a>
+    .
+   </p>
+   <div class="heading4">
+    Page Limitations
+   </div>
+   <p class="regulartext">
+    All page limitations described in the SF424 Application
+    Guide and the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11133">
+     Table of
+    Page Limits
+    </a>
+    must be followed.
+   </p>
+   <div class="heading4">
+    Required and Optional Components
+   </div>
+   <p class="regulartext">
+    The forms package associated with this FOA includes all
+    applicable components, required and optional. Please note that some components
+    marked optional in the application package are required for submission of
+    applications for this FOA. Follow all instructions in the SF424 (R&amp;R)
+    Application Guide to ensure you complete all appropriate “optional” components.
+   </p>
+   <div class="heading4">
+    Instructions for Application Submission
+   </div>
+   <p class="regulartext">
+    The following section supplements the instructions found in
+    the SF424 (R&amp;R) Application Guide and should be used for preparing an
+    application to this FOA.
+   </p>
+   <div class="heading4">
+    SF424(R&amp;R) Cover
+   </div>
+   <p class="regulartext">
+    All instructions in the SF424 (R&amp;R) Application Guide
+    must be followed.
+   </p>
+   <div class="heading4">
+    SF424(R&amp;R) Project/Performance Site Locations
+   </div>
+   <p class="regulartext">
+    All instructions in the SF424 (R&amp;R) Application Guide
+    must be followed.
+   </p>
+   <div class="heading4">
+    SF424(R&amp;R) Other Project Information
+   </div>
+   <p class="regulartext">
+    All instructions in the SF424 (R&amp;R) Application Guide
+    must be followed.
+   </p>
+   <div class="heading4">
+    SF424(R&amp;R) Senior/Key Person Profile
+   </div>
+   <p class="regulartext">
+    All instructions in the SF424 (R&amp;R) Application Guide
+    must be followed.
+   </p>
+   <div class="heading4">
+    R&amp;R or Modular Budget
+   </div>
+   <p class="regulartext">
+    All instructions in the SF424 (R&amp;R) Application Guide
+    must be followed. The applicant may not request funds for large-scale data
+    production or acquisition; however, so long as the $300k limit is not exceeded,
+    funds may be requested for the production or acquisition of test datasets that
+    are necessary for the development, testing, and validation of proposed
+    software, tools and related resources. The development of comprehensive central
+    databases for particular data types is not within the scope of this FOA.
+   </p>
+   <div class="heading4">
+    PHS 398 Cover Page Supplement
+   </div>
+   <p class="regulartext">
+    All instructions in the SF424 (R&amp;R) Application Guide
+    must be followed.
+   </p>
+   <div class="heading4">
+    PHS 398 Research Plan
+   </div>
+   <p class="regulartext">
+    All instructions in the SF424 (R&amp;R) Application Guide
+    must be followed, with the following additional instructions:
+   </p>
+   <p class="regulartext">
+    <strong>
+     Research
+    Strategy:
+    </strong>
+    Investigators should clearly state the long term
+    goals of the particular technology and justify the particular goals that will
+    be being developed through this early-stage FOA. Applications are expected to
+    address the generalizability of the software, the scientific validation of
+    implementations, and self-evaluation according to the following guidelines:
+   </p>
+   <p class="regulartext">
+    <em>
+     Generalizable,
+    scalable, extensible, and interoperable:
+    </em>
+    Given the expanding needs
+    in biomedical research for advances in a variety of areas of biomedical computing
+    and informatics, the technologies proposed under this announcement should
+    address a significant biocomputational research question and, as appropriate,
+    should be generalizable, scalable, extensible, and interoperable.  The
+    applicant should also provide plans for the dissemination of products of the
+    project, including software, tools and related resources, to the relevant
+    research and user communities. The biomedical computational and informatics
+    research and technology development proposed should be forward thinking, fill a
+    critical gap, address an area of need or projected need, and seek to exceed the
+    current state of the art.
+   </p>
+   <p class="regulartext">
+    <em>
+     Functionality.
+    </em>
+    Applicants should describe the different kinds of functionality and
+    how the application scientists will be involved during early stages of
+    development. Applicants should also describe the different kinds of interfaces
+    and functionalities that apply to different stakeholder and user communities.
+   </p>
+   <p class="regulartext">
+    <em>
+     Scientific
+    Validation:
+    </em>
+    Each application should contain a brief plan for
+    validation of the scientific software, tools and related resources.  This plan
+    should provide the organizing principles by which scientific validation will be
+    conducted.
+   </p>
+   <p class="regulartext">
+    <em>
+     Evaluation:
+    </em>
+    The application should include a plan for evaluating the quality and utility of
+    the new software, tools and related resources being developed through this
+    initiative and the plan should focus on the early stage of the product, since
+    it is anticipated that the product will be in early stages.  Criteria for
+    evaluation of products may include adequacy, trustworthiness, authenticity,
+    integrity, availability, documentation, and transparency. Specific examples of
+    evaluative information could include, as appropriate, the quality of
+    publications citing uses, tracking the number of users, background/training of
+    the users, requests for services, successful use of the products, number of
+    students, use of training materials, the ability to extend the utility of tools
+    through collaborations with other investigators, etc. The research community
+    being served will have expectations that could be documented through mechanisms
+    such as user feedback, letters of support, etc. Quantifiable measures of
+    results and success are important and should be built in as:
+   </p>
+   <ul>
+    <li>
+     Short-term internal metrics (for ongoing improvement);
+    </li>
+    <li>
+     Long-term objective metrics (to gauge impact of use on the
+      scientific field).
+    </li>
+   </ul>
+   <p class="regulartext">
+    Methods for assessment, such as user registration, should
+    not be so onerous that they compromise the use of the investigator’s resources.
+   </p>
+   <p class="regulartext">
+    <em>
+     Data
+    and metadata standards:
+    </em>
+    An important goal of the BD2K and BISTI
+    Initiatives is to promote a culture where a large body of annotated and
+    shareable data is available online to the broad biomedical research community.
+    The development and use of data and metadata standards are critical for
+    achieving this goal. The NIH has a number of efforts to stimulate the creation
+    and support of community-based approaches to develop such standards.
+    Investigators may participate in the development of data standards, and may
+    serve as early testers and adopters of community-developed standards. The
+    application should include a plan for how the proposed R01 will manage data and
+    metadata standards and formats.  Applicants should, as appropriate, i) engage
+    with community-based standard and format development activities, and ii) apply
+    community-based standards and formats to the data and metadata that the R01 is
+    using for its research.
+   </p>
+   <p class="regulartext">
+    <em>
+     Use of
+    Common Data Elements in NIH-funded Research:
+    </em>
+    NIH encourages the use
+    of common data elements (CDEs) in basic, clinical, and applied research,
+    patient registries, and other human subject research to facilitate broader and
+    more effective use of data and advance research across studies.  CDEs are data
+    elements that have been identified and defined for use in multiple data sets
+    across different studies.  Use of CDEs can facilitate data sharing and
+    standardization to improve data quality and enable data integration from
+    multiple studies and sources, including electronic health records.  NIH ICs
+    have identified CDEs for many clinical domains (e.g., neurological disease),
+    types of studies (e.g. genome-wide association studies (GWAS)), types of
+    outcomes (e.g., patient-reported outcomes), and patient registries (e.g., the
+    Global Rare Diseases Patient Registry and Data Repository).  NIH has
+    established a “Common Data Element (CDE) Resource Portal"
+    (http://cde.nih.gov/) to assist investigators in identifying NIH-supported CDEs
+    when developing protocols, case report forms, and other instruments for data
+    collection.  The Portal provides guidance about and access to NIH-supported CDE
+    initiatives and other tools and resources for the appropriate use of CDEs and
+    data standards in NIH-funded research.  Investigators are encouraged to consult
+    the Portal and describe in their applications any use they will make of
+    NIH-supported CDEs in their projects.
+   </p>
+   <p class="regulartext">
+    <strong>
+     Resource
+    Sharing Plan
+    </strong>
+    : Individuals are required to comply with the
+    instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+    Organisms, and Genome Wide Association Studies (GWAS)) as provided in the SF424
+    (R&amp;R) Application Guide, with the following modifications:
+   </p>
+   <p class="regulartext">
+    All applications, regardless of the amount of direct costs
+    requested for any one year, should address a Data Sharing Plan.
+   </p>
+   <p class="MsoNoSpacing">
+    A software dissemination plan, with appropriate
+    timelines, is expected to be included in the application. There is no
+    prescribed single license for software produced through grants responding to
+    this announcement. However, NIH does have goals for software dissemination, and
+    reviewers will be instructed to evaluate the dissemination plan relative to
+    these goals:
+   </p>
+   <p class="regulartext">
+    1. The software should be freely available to biomedical
+    researchers and educators in the non-profit sector, such as institutions of
+    education, research institutions, and government laboratories.
+   </p>
+   <p class="regulartext">
+    2. The terms of software availability should permit the
+    dissemination and commercialization of enhanced or customized versions of the
+    software, or incorporation of the software or pieces of it into other software
+    packages.
+   </p>
+   <p class="regulartext">
+    3. To preserve utility to the community, the software should
+    be transferable such that another individual or team can continue development
+    in the event that the original investigators are unwilling or unable to do so.
+   </p>
+   <p class="regulartext">
+    4. The terms of software availability should include the
+    ability of researchers to modify the source code and to share modifications
+    with other colleagues. An applicant should take responsibility for creating the
+    original and subsequent official versions of a piece of software.
+   </p>
+   <p class="regulartext">
+    5. To further enhance the potential impact of their
+    software, applicants may consider proposing a plan to manage and disseminate
+    the improvements or customizations of their tools and resources by others. This
+    application for funding may include a plan to incorporate the enhancements into
+    the official core software, may involve the creation of an infrastructure for
+    plug-ins, or may describe some other solution.
+   </p>
+   <p class="regulartext">
+    <strong>
+     Appendix:
+    </strong>
+    Do not use the Appendix to circumvent page limits. Follow all
+    instructions for the Appendix as described in the SF424 (R&amp;R) Application
+    Guide.
+   </p>
+   <div class="heading4">
+    Planned Enrollment Report
+   </div>
+   <p class="regulartext">
+    When conducting clinical research, follow all instructions
+    for completing Planned Enrollment Reports as described in the SF424 (R&amp;R)
+    Application Guide.
+   </p>
+   <div class="heading4">
+    PHS 398 Cumulative Inclusion Enrollment Report
+   </div>
+   <p class="regulartext">
+    When conducting clinical research, follow all instructions
+    for completing Cumulative Inclusion Enrollment Report
+    as described in the SF424 (R&amp;R) Application Guide.
+   </p>
+   <div class="heading4">
+    Foreign Institutions
+   </div>
+   <p class="regulartext">
+    Foreign (non-U.S.) institutions must follow policies
+    described in the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11137">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    , and procedures for foreign institutions described
+    throughout the SF424 (R&amp;R) Application Guide.
+   </p>
+   <div class="heading3">
+    3. Submission Dates and
+    Times
+   </div>
+   <p class="regulartext">
+    <a href="#_Part_1._Overview">
+     Part I. Overview Information
+    </a>
+    contains information about Key Dates. Applicants are encouraged to submit applications
+    before the due date to ensure they have time to make any application
+    corrections that might be necessary for successful submission.
+   </p>
+   <p class="regulartext">
+    Organizations must submit applications to
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11128" target="_blank">
+     Grants.gov
+    </a>
+    (the online portal to find and apply for grants
+    across all Federal agencies). Applicants must then complete the submission
+    process by tracking the status of the application in the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11123" target="_blank">
+     eRA Commons
+    </a>
+    , NIH’s electronic system for grants
+    administration. NIH and Grants.gov systems check the application against many
+    of the application instructions upon submission. Errors must be corrected and a
+    changed/corrected application must be submitted to Grants.gov on or before the application
+    due date.  If a Changed/Corrected application is submitted after the deadline,
+    the application will be considered late.
+   </p>
+   <p class="regulartext">
+    <strong>
+     Applicants
+    are responsible for viewing their application before the due date in the eRA
+    Commons to ensure accurate and successful submission.
+    </strong>
+   </p>
+   <p class="regulartext">
+    Information on the submission process and a definition of
+    on-time submission are provided in the SF424 (R&amp;R) Application Guide.
+   </p>
+   <div class="heading3">
+    4. Intergovernmental Review
+    (E.O. 12372)
+   </div>
+   <p class="regulartext">
+    This initiative is not subject to
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11142">
+     intergovernmental
+    review.
+    </a>
+   </p>
+   <div class="heading3">
+    <a name="_5._Funding_Restrictions">
+    </a>
+    5. Funding Restrictions
+   </div>
+   <p class="regulartext">
+    All NIH awards are subject to the terms and conditions, cost
+    principles, and other considerations described in the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11120">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    .
+   </p>
+   <p class="regulartext">
+    Pre-award costs are allowable only as described in the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11143">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    .
+   </p>
+   <div class="heading3">
+    6. Other Submission
+    Requirements and Information
+   </div>
+   <p class="regulartext">
+    Applications must be submitted electronically following the
+    instructions described in the SF424 (R&amp;R) Application Guide.  Paper applications will not be accepted.
+   </p>
+   <p class="regulartext">
+    <b>
+     Applicants must complete all required registrations
+    before the application due date.
+    </b>
+    <a href="#_Section_III._Eligibility">
+     Section
+    III. Eligibility Information
+    </a>
+    contains information about registration.
+   </p>
+   <p class="regulartext">
+    For assistance with your electronic application or for more information on the electronic submission
+    process, visit
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11144">
+     Applying
+    Electronically
+    </a>
+    .
+   </p>
+   <p class="P_SingleIndent">
+    <strong>
+     Important
+    reminders:
+     <br/>
+    </strong>
+    All PD(s)/PI(s) must include their eRA Commons ID in the
+    Credential field
+    <b>
+    </b>
+    of the Senior/Key Person Profile Component of the
+    SF424(R&amp;R) Application Package
+    <b>
+     .
+    </b>
+    Failure to register in the Commons
+    and to include a valid PD/PI Commons ID in the credential field will prevent
+    the successful submission of an electronic application to NIH. See
+    <a href="#_Required_Registrations">
+     Section III
+    </a>
+    of this FOA for information on
+    registration requirements.
+    <br/>
+    <br/>
+    The applicant organization must ensure that the DUNS number it provides on the
+    application is the same number used in the organization’s profile in the eRA
+    Commons and for the System for Award Management. Additional information may be
+    found in the SF424 (R&amp;R) Application Guide.
+    <br/>
+    <br/>
+    See
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11146">
+     more
+    tips
+    </a>
+    for avoiding common errors.
+   </p>
+   <p class="regulartext">
+    Upon receipt, applications will be evaluated for
+    completeness by the Center for Scientific Review, NIH. Applications that are
+    incomplete will not be reviewed.
+   </p>
+   <div class="heading4">
+    Post Submission Materials
+   </div>
+   <p class="regulartext">
+    Applicants are required to follow the instructions for
+    post-submission materials, as described in NOT-OD-13-030.
+   </p>
+   <div class="heading2">
+    <a name="_Section_V._Application">
+    </a>
+    <a name="_Toc258873270">
+    </a>
+    Section V. Application Review Information
+    <br/>
+    <!--section 5 update start Group 1-->
+    <p style="font-size: 14px; color:black;">
+     <img src="/common14/images/new.gif"/>
+     <b>
+      Important Update:
+     </b>
+     See
+     <a href="/grants/guide/notice-files/NOT-OD-16-006.html">
+      NOT-OD-16-006
+     </a>
+     and
+     <a href="/grants/guide/notice-files/NOT-OD-16-011.html">
+      NOT-OD-16-011
+     </a>
+     for updated review language for applications for due dates on or after January 25, 2016.
+    </p>
+    <!--section 5 update end Group 1-->
+    <br/>
+    <br/>
+   </div>
+   <div class="heading3">
+    <a name="_1._Criteria">
+    </a>
+    1.
+    Criteria
+   </div>
+   <p class="regulartext">
+    Only the review criteria described below will be considered
+    in the review process. As part of the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11149">
+     NIH mission
+    </a>
+    ,
+    all applications submitted to the NIH in support of biomedical and behavioral
+    research are evaluated for scientific and technical merit through the NIH peer
+    review system.
+   </p>
+   <div class="heading4">
+    Overall Impact
+   </div>
+   <p class="regulartext">
+    Reviewers will provide an overall impact score to reflect
+    their assessment of the likelihood for the project to exert a sustained,
+    powerful influence on the research field(s) involved, in consideration of the
+    following review criteria and additional review criteria (as applicable for the
+    project proposed).
+   </p>
+   <div class="heading4">
+    Scored Review Criteria
+   </div>
+   <p class="regulartext">
+    Reviewers will consider each of the review criteria below in
+    the determination of scientific merit, and give a separate score for each. An
+    application does not need to be strong in all categories to be judged likely to
+    have major scientific impact. For example, a project that by its nature is not
+    innovative may be essential to advance a field.
+   </p>
+   <p class="Heading4Indent">
+    Significance
+   </p>
+   <p class="P_SingleIndent">
+    Does the project address an important problem or a
+    critical barrier to progress in the field? If the aims of the project are
+    achieved, how will scientific knowledge, technical capability, and/or clinical
+    practice be improved? How will successful completion of the aims change the
+    concepts, methods, technologies, treatments, services, or preventative
+    interventions that drive this field?
+   </p>
+   <p class="Heading4Indent">
+    Investigator(s)
+   </p>
+   <p class="P_SingleIndent">
+    Are the PD(s)/PI(s), collaborators, and other
+    researchers well suited to the project? If Early Stage Investigators or New
+    Investigators, or in the early stages of independent careers, do they have
+    appropriate experience and training? If established, have they demonstrated an
+    ongoing record of accomplishments that have advanced their field(s)? If the
+    project is collaborative or multi-PD/PI, do the investigators have
+    complementary and integrated expertise; are their leadership approach,
+    governance and organizational structure appropriate for the project?
+   </p>
+   <p class="Heading4Indent">
+    Innovation
+   </p>
+   <p class="P_SingleIndent">
+    Does the application challenge and seek to shift
+    current research or clinical practice paradigms by utilizing novel theoretical
+    concepts, approaches or methodologies, instrumentation, or interventions? Are
+    the concepts, approaches or methodologies, instrumentation, or interventions
+    novel to one field of research or novel in a broad sense? Is a refinement,
+    improvement, or new application of theoretical concepts, approaches or
+    methodologies, instrumentation, or interventions proposed?
+   </p>
+   <p class="Heading4Indent">
+    Approach
+   </p>
+   <p class="P_SingleIndent">
+    Are the overall strategy, methodology, and analyses
+    well-reasoned and appropriate to accomplish the specific aims of the project?
+    Are potential problems, alternative strategies, and benchmarks for success
+    presented? If the project is in the early stages of development, will the strategy
+    establish feasibility and will particularly risky aspects be managed?
+    <br/>
+    <br/>
+    If the project involves human subjects and/or NIH-defined clinical research,
+    are the plans to address 1) the protection of human subjects from research
+    risks, and 2) inclusion (or exclusion) of individuals on the basis of
+    sex/gender, race, and ethnicity, as well as the inclusion or exclusion of
+    children, justified in terms of the scientific goals and research strategy
+    proposed?
+   </p>
+   <p class="Heading4Indent">
+    Environment
+   </p>
+   <p class="P_SingleIndent">
+    Will the scientific environment in which the work
+    will be done contribute to the probability of success? Are the institutional
+    support, equipment and other physical resources available to the investigators
+    adequate for the project proposed? Will the project benefit from unique
+    features of the scientific environment, subject populations, or collaborative
+    arrangements?
+   </p>
+   <div class="heading4">
+    Additional Review Criteria
+   </div>
+   <p class="regulartext">
+    As applicable for the project proposed, reviewers will
+    evaluate the following additional items while determining scientific and
+    technical merit, and in providing an overall impact score, but will not give
+    separate scores for these items.
+   </p>
+   <p class="Heading4Indent">
+    Protections for Human Subjects
+   </p>
+   <p class="P_SingleIndent">
+    For research that involves human subjects but does
+    not involve one of the six categories of research that are exempt under 45 CFR
+    Part 46, the committee will evaluate the justification for involvement of human
+    subjects and the proposed protections from research risk relating to their
+    participation according to the following five review criteria: 1) risk to
+    subjects, 2) adequacy of protection against risks, 3) potential benefits to the
+    subjects and others, 4) importance of the knowledge to be gained, and 5) data
+    and safety monitoring for clinical trials.
+    <br/>
+    <br/>
+    For research that involves human subjects and meets the criteria for one or
+    more of the six categories of research that are exempt under 45 CFR Part 46,
+    the committee will evaluate: 1) the justification for the exemption, 2) human
+    subjects involvement and characteristics, and 3) sources of materials. For
+    additional information on review of the Human Subjects section, please refer to
+    the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11175">
+     Guidelines
+    for the Review of Human Subjects
+    </a>
+    .
+   </p>
+   <p class="Heading4Indent">
+    Inclusion of Women, Minorities, and
+    Children
+   </p>
+   <p class="P_SingleIndent">
+    When the proposed project involves human subjects
+    and/or NIH-defined clinical research, the committee will evaluate the proposed
+    plans for the inclusion (or exclusion) of individuals on the basis of
+    sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of
+    children to determine if it is justified in terms of the scientific goals and
+    research strategy proposed. For additional information on review of the
+    Inclusion section, please refer to the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11174">
+     Guidelines
+    for the Review of Inclusion in Clinical Research
+    </a>
+    .
+   </p>
+   <p class="Heading4Indent">
+    Vertebrate Animals
+   </p>
+   <p class="P_SingleIndent">
+    The committee will evaluate the involvement of live
+    vertebrate animals as part of the scientific assessment according to the
+    following five points: 1) proposed use of the animals, and species, strains,
+    ages, sex, and numbers to be used; 2) justifications for the use of animals and
+    for the appropriateness of the species and numbers proposed; 3) adequacy of
+    veterinary care; 4) procedures for limiting discomfort, distress, pain and
+    injury to that which is unavoidable in the conduct of scientifically sound
+    research including the use of analgesic, anesthetic, and tranquilizing drugs
+    and/or comfortable restraining devices; and 5) methods of euthanasia and reason
+    for selection if not consistent with the AVMA Guidelines on Euthanasia. For
+    additional information on review of the Vertebrate Animals section, please
+    refer to the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11150">
+     Worksheet
+    for Review of the Vertebrate Animal Section
+    </a>
+    .
+   </p>
+   <p class="Heading4Indent">
+    Biohazards
+   </p>
+   <p class="P_SingleIndent">
+    Reviewers will assess whether materials or procedures
+    proposed are potentially hazardous to research personnel and/or the
+    environment, and if needed, determine whether adequate protection is proposed.
+   </p>
+   <p class="Heading4Indent">
+    Resubmissions
+   </p>
+   <p class="P_SingleIndent">
+    For Resubmissions, the committee will evaluate the
+    application as now presented, taking into consideration the responses to
+    comments from the previous scientific review group and changes made to the
+    project.
+   </p>
+   <p class="Heading4Indent">
+    Renewals
+   </p>
+   <p class="P_SingleIndent">
+    For Renewals, the committee will consider the
+    progress made in the last funding period.
+   </p>
+   <p class="Heading4Indent">
+    Revisions
+   </p>
+   <p class="P_SingleIndent">
+    For Revisions, the committee will consider the
+    appropriateness of the proposed expansion of the scope of the project. If the
+    Revision application relates to a specific line of investigation presented in
+    the original application that was not recommended for approval by the committee,
+    then the committee will consider whether the responses to comments from the
+    previous scientific review group are adequate and whether substantial changes
+    are clearly evident.
+   </p>
+   <div class="heading4">
+    Additional Review Considerations
+   </div>
+   <p class="regulartext">
+    As applicable for the project proposed, reviewers will
+    consider each of the following items, but will not give scores for these items,
+    and should not consider them in providing an overall impact score.
+   </p>
+   <p class="Heading4Indent">
+    Applications from Foreign Organizations
+   </p>
+   <p class="P_SingleIndent">
+    Reviewers will assess whether the project presents
+    special opportunities for furthering research programs through the use of
+    unusual talent, resources, populations, or environmental conditions that exist
+    in other countries and either are not readily available in the United States or
+    augment existing U.S. resources.
+   </p>
+   <p class="Heading4Indent">
+    Select Agent Research
+   </p>
+   <p class="P_SingleIndent">
+    Reviewers will assess the information provided in
+    this section of the application, including 1) the Select Agent(s) to be used in
+    the proposed research, 2) the registration status of all entities where Select
+    Agent(s) will be used, 3) the procedures that will be used to monitor
+    possession use and transfer of Select Agent(s), and 4) plans for appropriate
+    biosafety, biocontainment, and security of the Select Agent(s).
+   </p>
+   <p class="Heading4Indent">
+    Resource Sharing Plans
+   </p>
+   <p class="P_SingleIndent">
+    Reviewers will comment on whether the following
+    Resource Sharing Plans, or the rationale for not sharing the following types of
+    resources, are reasonable: 1)
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11151">
+     Data
+    Sharing Plan
+    </a>
+    ; 2)
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11152">
+     Sharing
+    Model Organisms
+    </a>
+    ; and 3)
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11153">
+     Genome Wide
+    Association Studies (GWAS)
+    </a>
+    .
+   </p>
+   <p class="Heading4Indent">
+    Budget and Period of Support
+   </p>
+   <p class="P_SingleIndent">
+    Reviewers will consider whether the budget and the
+    requested period of support are fully justified and reasonable in relation to
+    the proposed research.
+   </p>
+   <div class="heading3">
+    2. Review and Selection
+    Process
+   </div>
+   <p class="regulartext">
+    Applications will be evaluated for scientific and technical
+    merit by (an) appropriate Scientific Review Group(s), convened by the Center
+    for Scientific Review in accordance with
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11154">
+     NIH peer
+    review policy and procedures
+    </a>
+    , using the stated
+    <a href="#_1._Criteria">
+     review
+    criteria
+    </a>
+    . Assignment to a Scientific Review Group will be shown in the eRA
+    Commons.
+   </p>
+   <p class="regulartext">
+    As part of the scientific peer review, all applications:
+   </p>
+   <ul>
+    <li>
+     May undergo a selection process in which only those applications
+      deemed to have the highest scientific and technical merit (generally the top
+      half of applications under review) will be discussed and assigned an overall impact
+      score.
+    </li>
+    <li>
+     Will receive a written critique.
+    </li>
+   </ul>
+   <p class="regulartext">
+    Applications will be assigned on the basis of established
+    PHS referral guidelines to the appropriate NIH Institute or Center. Applications
+    will compete for available funds with all other recommended applications. Following
+    initial peer review, recommended applications will receive a second level of
+    review by the appropriate national Advisory Council or Board. The following
+    will be considered in making funding decisions:
+   </p>
+   <ul>
+    <li>
+     Scientific and technical merit of the proposed project as
+      determined by scientific peer review.
+    </li>
+    <li>
+     Availability of funds.
+    </li>
+    <li>
+     Relevance of the proposed project to program priorities.
+    </li>
+   </ul>
+   <div class="heading3">
+    3. Anticipated Announcement
+    and Award Dates
+   </div>
+   <p class="regulartext">
+    After the peer review of the application is completed, the
+    PD/PI will be able to access his or her Summary Statement (written critique)
+    via the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11123">
+     eRA
+    Commons
+    </a>
+    .
+   </p>
+   <p class="regulartext">
+    Information regarding the disposition of applications is
+    available in the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11156">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    .
+   </p>
+   <div class="heading2">
+    <a name="_Toc258873271">
+    </a>
+    <a name="_Section_VI._Award">
+    </a>
+    Section VI. Award Administration
+    Information
+    <br/>
+    <br/>
+    <br/>
+   </div>
+   <div class="heading3">
+    1. Award Notices
+   </div>
+   <p class="regulartext">
+    If the application is under consideration for funding, NIH
+    will request "just-in-time" information from the applicant as
+    described in the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11157">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    .
+    <br/>
+    <br/>
+    A formal notification in the form of a Notice of Award (NoA) will be provided
+    to the applicant organization for successful applications. The NoA signed by
+    the grants management officer is the authorizing document and will be sent via
+    email to the grantee’s business official.
+    <br/>
+    <br/>
+    Awardees must comply with any funding restrictions described in
+    <a href="#_5._Funding_Restrictions">
+     Section IV.5. Funding Restrictions
+    </a>
+    . Selection
+    of an application for award is not an authorization to begin performance. Any
+    costs incurred before receipt of the NoA are at the recipient's risk. These
+    costs may be reimbursed only to the extent considered allowable pre-award costs.
+    <br/>
+    <br/>
+    Any application awarded in response to this FOA will be subject to the DUNS, SAM
+    Registration, and Transparency Act requirements as noted on the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11158">
+     Award
+    Conditions and Information for NIH Grants
+    </a>
+    website.
+    <br/>
+    <br/>
+   </p>
+   <div class="heading3">
+    2. Administrative and
+    National Policy Requirements
+   </div>
+   <p class="regulartext">
+    All NIH grant and cooperative agreement awards include the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11120">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    as part of the NoA. For these terms of award, see the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11157">
+     <i>
+      NIH
+    Grants Policy Statement
+     </i>
+     Part II: Terms and Conditions of NIH Grant Awards,
+    Subpart A: General
+    </a>
+    and
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11159">
+     Part II:
+    Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for
+    Specific Types of Grants, Grantees, and Activities
+    </a>
+    . More information is
+    provided at
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11158">
+     Award
+    Conditions and Information for NIH Grants
+    </a>
+    .
+   </p>
+   <p class="Heading4">
+    Cooperative Agreement Terms and Conditions of Award
+   </p>
+   <p class="regulartext">
+    Not Applicable
+   </p>
+   <div class="heading3">
+    3. Reporting
+   </div>
+   <p class="regulartext">
+    When multiple years are involved, awardees will be required
+    to submit the annual Non-Competing Progress Report (
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11160">
+     PHS 2590
+    </a>
+    or
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11168">
+     RPPR
+    </a>
+    )
+    and financial statements as required in the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11161">
+     <i>
+      NIH Grants
+    Policy Statement
+     </i>
+     .
+    </a>
+   </p>
+   <p class="regulartext">
+    A final progress report, invention
+    statement, and the expenditure data portion of the Federal Financial Report are
+    required for closeout of an award, as described in the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11161">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    .
+   </p>
+   <p class="regulartext">
+    The Federal Funding Accountability and Transparency Act of
+    2006 (Transparency Act), includes a requirement for awardees of Federal grants
+    to report information about first-tier subawards and executive compensation
+    under Federal assistance awards issued in FY2011 or later.  All awardees of
+    applicable NIH grants and cooperative agreements are required to report to
+    the Federal Subaward Reporting System (FSRS) available at
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11170">
+     www.fsrs.gov
+    </a>
+    on all subawards over $25,000.  See the
+    <i>
+     <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11171">
+      NIH Grants
+    Policy Statement
+     </a>
+    </i>
+    for additional information on this reporting
+    requirement.
+   </p>
+   <div class="heading2">
+    <a name="_Toc258873272">
+    </a>
+    <span class="regulartext">
+     <a name="SectionVII">
+     </a>
+    </span>
+    <a name="_Section_VII._Agency">
+    </a>
+    Section VII. Agency Contacts
+   </div>
+   <p class="regulartext">
+    We encourage inquiries concerning this funding opportunity
+    and welcome the opportunity to answer questions from potential applicants.
+    <br/>
+    <br/>
+   </p>
+   <div class="heading4">
+    Application Submission Contacts
+   </div>
+   <p class="regulartext">
+    eRA Service Desk (Questions regarding ASSIST, eRA Commons registration, submitting and tracking an application, documenting system
+    problems that threaten submission by the due date, post submission issues)
+    <br/>
+    Telephone: 301-402-7469 or 866-504-9552 (Toll Free)
+   </p>
+   <p class="regulartext">
+    Finding Help Online:
+    <a href="http://grants.nih.gov/support/index.html">
+     http://grants.nih.gov/support/index.html
+    </a>
+   </p>
+   <p class="regulartext">
+    TTY: 301-451-5939
+    <br/>
+    Email:
+    <a href="mailto:commons@od.nih.gov">
+     commons@od.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    <strong>
+     <a href="http://www.grants.gov/contactus/contactus.jsp">
+      Grants.gov Customer Support
+     </a>
+    </strong>
+    (Questions
+    regarding Grants.gov registration and submission, downloading forms and
+    application packages)
+    <br/>
+    Contact CenterTelephone: 800-518-4726
+   </p>
+   <p class="regulartext">
+    Web ticketing system:
+    <a href="https://grants-portal.psc.gov/ContactUs.aspx">
+     https://grants-portal.psc.gov/ContactUs.aspx
+    </a>
+    <br/>
+    Email:
+    <a href="mailto:support@grants.gov">
+     support@grants.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    GrantsInfo (Questions regarding application instructions and
+    process, finding NIH grant resources)
+    <br/>
+    Telephone: 301-435-0714
+    <br/>
+    TTY 301-451-5936
+    <br/>
+    Email:
+    <a href="mailto:GrantsInfo@nih.gov">
+     GrantsInfo@nih.gov
+    </a>
+    <br/>
+    <br/>
+   </p>
+   <div class="heading4">
+    Scientific/Research Contact(s)
+   </div>
+   <p class="regulartext">
+    David Balshaw, Ph.D.
+    <br/>
+    National Institute of Environmental Health
+  Sciences (NIEHS)
+    <br/>
+    Email: 919-541-2448
+    <br/>
+    Email:
+    <a href="mailto:Balshaw@niehs.nih.gov">
+     Balshaw@niehs.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Vivien Bonazzi, Ph.D.
+    <br/>
+    National Human Genome Research Institute (NHGRI)
+    <br/>
+    Telephone: 301-451-8276
+    <br/>
+    Email:
+    <a href="mailto:bonazziv@mail.nih.gov">
+     bonazziv@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Regina Bures, Ph.D.
+    <br/>
+    Eunice Kennedy Shriver National Institute of Child Health and Human Development
+    (NICHD)
+    <br/>
+    Telephone: 301-496-9485
+    <br/>
+    Email:
+    <a href="mailto:buresrm@mail.nih.gov">
+     buresrm@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    John A. Matochik, Ph.D.
+    <br/>
+    National Institute on Alcohol Abuse and Alcoholism (NIAAA)
+    <br/>
+    Telephone:  301-451-7319
+    <br/>
+    Email:
+    <a href="mailto:jmatochi@mail.nih.gov">
+     jmatochi@mail.nih.gov
+    </a>
+   </p>
+   <p>
+    Augie Diana, Ph.D.
+    <br/>
+    National Institute of Nursing Research (NINR)
+    <br/>
+    Telephone: (301) 402-6423
+    <br/>
+    Email:
+    <a href="mailto:dianaa@mail.nih.gov">
+     dianaa@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Gayle Lester, Ph.D.
+    <br/>
+    National Institute of Arthritis and Musculoskeletal and Skin
+  Diseases (NIAMS)
+    <br/>
+    Telephone: 301-594-3511
+    <br/>
+    Email:
+    <a href="mailto:lester1@mail.nih.gov">
+     lester1@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    James Gnadt, PhD
+    <br/>
+    National Institute of Neurological Disorders and Stroke
+    (NINDS)
+    <br/>
+    Telephone: 301-496-9964
+    <br/>
+    Email:
+    <a href="mailto:gnadtjw@ninds.nih.gov">
+     gnadtjw@ninds.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Peter Lyster, Ph.D.
+    <br/>
+    National Institute of General Medical Sciences (NIGMS)
+    <br/>
+    Telephone: 301.451.6446
+    <br/>
+    Email:
+    <a href="mailto:lysterp@mail.nih.gov">
+     lysterp@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Vinay Pai, Ph.D.
+    <br/>
+    National Institute for Biomedical Imaging and Bioengineering
+  (NIBIB)
+    <br/>
+    Telephone: 301-451-4781
+    <br/>
+    Email:
+    <a href="mailto:paiv@mail.nih.gov">
+     paiv@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Joni L. Rutter, Ph.D.
+    <br/>
+    National Institute on Drug Abuse (NIDA)
+    <br/>
+    Telephone: 301-435.0298
+    <br/>
+    Email:
+    <a href="mailto:jrutter@mail.nih.gov">
+     jrutter@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Steven B. Scholnick, Ph.D.
+    <br/>
+    National Institute of Dental and Craniofacial Research
+  (NIDCR)
+    <br/>
+    Telephone: 301-594-3977
+    <br/>
+    Email:
+    <a href="mailto:scholnis@nidcr.nih.gov">
+     scholnis@nidcr.nih.gov
+    </a>
+   </p>
+   <div class="heading4">
+    Peer Review Contact(s)
+   </div>
+   <p class="regulartext">
+    Examine your eRA Commons account for review assignment and
+    contact information (information appears two weeks after the submission due
+    date).
+   </p>
+   <div class="heading4">
+    Financial/Grants Management Contact(s)
+   </div>
+   <p class="regulartext">
+    Carol Alderson
+    <br/>
+    National Institute on Drug Abuse (NIDA)
+    <br/>
+    Telephone: 301-933-6196
+    <br/>
+    Email:
+    <a href="mailto:aldersoc@nida.nih.gov">
+     aldersoc@nida.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Lori Burge
+    <br/>
+    National Institute of General Medical Sciences (NIGMS)
+    <br/>
+    Telephone: 301-451-6446
+    <br/>
+    Email:
+    <a href="mailto:burgle@nigms.nih.gov">
+     burgle@nigms.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Cheryl Chick
+    <br/>
+    National Human Genome Research Institute (NHGRI)
+    <br/>
+    Telephone: 301-435-7858
+    <br/>
+    Email:
+    <a href="mailto:chickc@mail.nih.gov">
+     chickc@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Bryan Clark
+    <br/>
+    Eunice Kennedy Shriver National Institute of Child Health
+    and Human Development (NICHD)
+    <br/>
+    Telephone: 301-435-6975
+    <br/>
+    Email:
+    <a href="mailto:clarkb1@mail.nih.gov">
+     clarkb1@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Maxine Davis
+    <br/>
+    National Institute of Neurological Disorders and Stroke
+  (NINDS)
+    <br/>
+    Phone: 301-496-7359
+    <br/>
+    Email:
+    <a href="mailto:davisma@ninds.nih.gov">
+     davisma@ninds.nih.gov
+    </a>
+   </p>
+   <p>
+    Judy Sint
+    <br/>
+    National Institute of Nursing Research (NINR)
+    <br/>
+    Telephone: (301) 402-6959
+    <br/>
+    Email:
+    <a href="mailto:sintj@mail.nih.gov">
+     sintj@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Judy Fox
+    <br/>
+    National Institute of Alcohol Abuse and Alcoholism (NIAAA)
+    <br/>
+    Telephone: 301-443-0606
+    <br/>
+    Email:
+    <a href="mailto:jfox@mail.nih.gov">
+     jfox@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    James Huff
+    <br/>
+    National Institute for Biomedical Imaging and Bioengineering
+  (NIBIB)
+    <br/>
+    Telephone: 301-451-4786
+    <br/>
+    Email:
+    <a href="mailto:huffj@mail.nih.gov">
+     huffj@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Melinda B. Nelson
+    <br/>
+    National Institute of Arthritis and Musculoskeletal and Skin
+  Diseases (NIAMS)
+    <br/>
+    Telephone: 301-435-5278
+    <br/>
+    Email:
+    <a href="mailto:melinda.nelson@nih.gov">
+     melinda.nelson@nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    Diana Rutberg
+    <br/>
+    National Institute of Dental and Craniofacial Research
+  (NIDCR)
+    <br/>
+    Telephone: 301-594-4798
+    <br/>
+    Email:
+    <a href="mailto:rutbergd@mail.nih.gov">
+     rutbergd@mail.nih.gov
+    </a>
+   </p>
+   <p class="regulartext">
+    James Williams
+    <br/>
+    National Institute of Environmental Health Sciences (NIEHS)
+    <br/>
+    Telephone: 919-541-1403
+    <br/>
+    Email:
+    <a href="mailto:williamsjr@niehs.nih.gov">
+     williamsjr@niehs.nih.gov
+    </a>
+   </p>
+   <div class="heading2">
+    <a name="_Toc258873273">
+    </a>
+    <a name="_Section_VIII._Other">
+    </a>
+    Section VIII. Other
+    Information
+   </div>
+   <p class="regulartext">
+    Recently issued trans-NIH
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11163">
+     policy
+    notices
+    </a>
+    may affect your application submission. A full list of policy
+    notices published by NIH is provided in the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11164">
+     <i>
+      NIH
+    Guide for Grants and Contracts
+     </i>
+    </a>
+    . All
+    awards are subject to the terms and conditions, cost principles, and other
+    considerations described in the
+    <a href="http://grants.nih.gov/grants/guide/url_redirect.htm?id=11120">
+     NIH Grants Policy Statement
+    </a>
+    .
+   </p>
+   <div class="heading4">
+    Authority and Regulations
+   </div>
+   <p class="regulartext">
+    Awards are made under the authorization of Sections 301 and
+    405 of the Public Health Service Act as amended (42 USC 241 and 284) and under
+    Federal Regulations 42 CFR Part 52 and 45 CFR Parts 74 and 92.
+   </p>
+  </div>
+  <p>
+  </p>
+  <hr/>
+  <p>
+   <a href="/grants/guide/WeeklyIndex.cfm?WeekEnding=03-14-14">
+    Weekly TOC for this Announcement
+   </a>
+   <br/>
+   <a href="/grants/guide/index.html">
+    NIH Funding Opportunities and Notices
+   </a>
+   <!-- Start DHHSFooter.cfm 3/13/2008-->
+   <br/>
+   <br/>
+  </p>
+  <hr/>
+  <table align="center">
+   <tr>
+    <td align="center" colspan="6">
+     <span class="st_facebook_hcount" displaytext="Facebook">
+     </span>
+     <span class="st_twitter_hcount" displaytext="Tweet">
+     </span>
+     <span class="st_linkedin_hcount" displaytext="LinkedIn">
+     </span>
+     <span class="st_email_hcount" displaytext="Email">
+     </span>
+     <span class="st_sharethis_hcount" displaytext="ShareThis">
+     </span>
+     <br/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <div align="center">
+      <a href="/grants/oer.htm">
+       <img alt="NIH Office of Extramural Research Logo" border="0" src="/images7/nih-oer-logo.jpg" usemap="#Map2"/>
+      </a>
+     </div>
+     <map id="Map2" name="Map2">
+      <area coords="89,17,359,39" href="http://www.nih.gov" shape="rect">
+      </area>
+      <area coords="91,39,286,58" href="http://grants.nih.gov/grants/oer.htm" shape="rect">
+      </area>
+      <area coords="3,5,78,55" href="http://grants.nih.gov/grants/oer.htm" shape="rect">
+      </area>
+     </map>
+    </td>
+    <td width="20">
+    </td>
+    <td>
+     <a href="http://www.hhs.gov/">
+      <img alt="Department of Health and Human Services (HHS) - Home Page" border="0" desc="Logo, circular in shape, depicting an American eagle in-flight with stylized profiles of human faces appearing on the trailing edge of the wings. The perimeter of the logo is encircled with the words 'Department of Health and Human Services U S A'" height="37" long="" src="/images7/dhhs_sm.gif" width="36"/>
+     </a>
+    </td>
+    <td valign="middle">
+     <font face="Arial" size="-1">
+      Department of Health
+      <br/>
+      and Human Services (HHS)
+     </font>
+    </td>
+    <td width="20">
+    </td>
+    <td>
+     <a href="http://www.usa.gov/">
+      <img alt="USA.gov - Government Made Easy" border="0" desc="Logo,- the words 'USA.gov - Government Made Easy' with single streaking star above the logo" long="" src="/images7/USA_Gov_logo.gif"/>
+     </a>
+    </td>
+   </tr>
+   <tr align="center">
+    <td colspan="7">
+    </td>
+   </tr>
+   <tr align="center">
+    <td colspan="7">
+     <span style="color:#6E6E6E; font-size:1.0em; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">
+      NIH... Turning Discovery Into Health
+      <sup>
+       ®
+      </sup>
+     </span>
+     <br/>
+     <br/>
+     <hr noshade="" size="1"/>
+     <br/>
+     <p>
+      <b>
+       Note:
+      </b>
+      For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see
+      <a href="/grants/edocs.htm">
+       Help Downloading Files
+      </a>
+      .
+     </p>
+     <br/>
+    </td>
+   </tr>
+  </table>
+  <!-- End DHHSFooter.cfm 3/13/2008-->
+ </body>
+</html>

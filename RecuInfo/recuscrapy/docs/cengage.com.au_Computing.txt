@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head id="Head">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"6da121bd25","applicationID":"14606669","transactionName":"blQBY0oEWURSWkQLXlceImRoSlNSVVhFDkUXUBBHQA==","queueTime":0,"applicationTime":5332,"ttGuid":"A03A5A42EBED54AE","agent":""}
+  </script>
+  <script type="text/javascript">
+   (window.NREUM||(NREUM={})).loader_config={xpid:"VQQAVFNQDhABUFdSAQcBXw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;d>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;d>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(15),a=t(16);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);
+  </script>
+  <meta content="1 DAYS" name="REVISIT-AFTER"/>
+  <meta content="GENERAL" name="RATING"/>
+  <meta content="DOCUMENT" name="RESOURCE-TYPE"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <title>
+   VCE Informatics Units 3 &amp; 4 (Student Book with 4 Access Codes) - 9780170364829 | Secondary | Cengage Learning - Australia
+  </title>
+  <meta content="VCE Informatics Units 3 &amp; 4 has a full and in-depth coverage of the VCAA VCE Computing Study Design 2016 – 2019.
+
+It is a trusted resource with experienced auth" id="MetaDescription" name="DESCRIPTION"/>
+  <meta content="GLOBAL" name="dcterms.audience"/>
+  <meta content="INDEX, FOLLOW" id="MetaRobots" name="ROBOTS"/>
+  <meta content="1 DAYS" id="RevisitMetadata" name="REVISIT-AFTER"/>
+  <meta content="GENERAL" name="RATING"/>
+  <meta content="width = 1080" name="viewport"/>
+  <meta content="SAME AS PAGE TITLE" id="OpenGraphTitle" property="og:title"/>
+  <meta content="Cengage Learning Australia" id="OpenGraphSiteName" property="og:site_name"/>
+  <meta content="VCE Informatics Units 3 &amp; 4 has a full and in-depth coverage of the VCAA VCE Computing Study Design 2016 – 2019.
+
+It is a trusted resource with experienced auth" id="OpenGraphDescription" property="og:description"/>
+  <meta content="SAME AS META DESCRIPTION" id="OpenGraphURL" property="og:url"/>
+  <style id="StylePlaceholder" type="text/css">
+  </style>
+  <link href="/Portals/_default/default.css?cdv=213" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/DesktopModules/ProductDetail/module.css?cdv=213" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/DesktopModules/ProductDetail/SchoolProductDetail.css?v=5&amp;cdv=213" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/_default/Containers/DarkKnight/container.css?cdv=213" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/5/portal.css?cdv=213" media="all" rel="stylesheet" type="text/css"/>
+  <script src="/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=213" type="text/javascript">
+  </script>
+  <script src="/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js?cdv=213" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   //<![CDATA[
+    var analytics_page_startTime = (new Date()).getTime();
+//]]>
+  </script>
+  <link href="../../../../touch-icon-iphone.png" rel="apple-touch-icon"/>
+  <link href="../../../../touch-icon-ipad.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="../../../../touch-icon-iphone-retina.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="../../../../touch-icon-ipad-retina.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/Portals/_default/cengage-default.css?v=4" rel="stylesheet" type="text/css"/>
+  <link href="/Portals/0/skins/Cengage/index.css?v=6" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/scripts/kendoui/styles/kendo.common.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/Resources/Shared/scripts/kendoui/styles/kendo.default.min.css" rel="stylesheet" type="text/css"/>
+  <!--[if IE 8 ]>	<link href="/Portals/0/Skins/Cengage/ie8skin.css?v=3" rel="stylesheet" type="text/css" />  <![endif]-->
+  <script src="/Resources/Shared/scripts/kendoui/latest/kendo.web.min.js" type="text/javascript">
+  </script>
+  <script src="/js/Default.js?v=5" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var _elqQ = _elqQ || [];
+_elqQ.push(['elqSetSiteId', '2138']);
+_elqQ.push(['elqTrackPageView']);
+
+(function () {
+function async_load()
+{ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//img.en25.com/i/elqCfg.min.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); }
+
+if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+else if (window.attachEvent) window.attachEvent('onload', async_load);
+})();
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function(){
+if($("#dnn_ctr1335_View_ctl00_ProductFomtRes").length>0 && $("#dnn_ctr1335_View_ctl00_ProductFomtRes").attr('src').match("noimage")!="noimage")
+$("#dnn_ctr1335_View_ctl00_ProductFomtRes").attr('src',$("#dnn_ctr1335_View_ctl00_ProductFomtRes").attr('src').replace("HED","HEDRE"));
+
+});
+  </script>
+  <link href="https://cengage.com.au/product/title/vce-informatics-units-3-4-student-book-with-4/isbn/9780170364829" rel="canonical"/>
+  <link href="https://cengage.com.au/product/title/vce-informatics-units-3-4-student-book-with-4/isbn/9780170364829" rel="canonical"/>
+ </head>
+ <body id="Body">
+  <div id="skiptocontent">
+   <a href="#dnn_ContentPane">
+    skip to main content
+   </a>
+  </div>
+  <form action="/product/title/vce-informatics-units-3-4-student-book-with-4/isbn/9780170364829" enctype="multipart/form-data" id="Form" method="post" name="Form">
+   <div>
+    <input id="StylesheetManager_TSSM" name="StylesheetManager_TSSM" type="hidden" value=""/>
+    <input id="ScriptManager_TSM" name="ScriptManager_TSM" type="hidden" value=""/>
+    <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="z/+UszW+wFvPdPjUH1rXt2uo3vQ2VRy0vS2Gm8FxF+aomRGaMc9Nw5dI/L6EaOxLxGNa3X66iycEMlfJ3LUN/2WH8bsi5hUP/CrNwerh08FY9ulULymMN+2ay2qLduyuoSYUeL055v2NqvXR0XUNipzbYAzUqRDpVqbOwqraUmfkWI60e65YVicMvEQFy/bQ0ToMZWfL+4/MaADldqMEsObuUB00r8mS05GcK1Dw3RLEYpFxe7meDR5wtGrcDTQrCRwJo+9RW5dyr92NyAMDfk3whPFUBRJQNnxSk8IPps53Eam0ciloKTBh+Pwd/MZxqEbQClkAT9RuVPKpCYRp0yZgXwrx1oyT5d7lUKK/AhgAOrnsvJD+b8URwoQ9SIB212lMFtzNUjRLVxlb+rl+rG05cP6NhPtUty8LkvLkItuJJxrjymoJYqf/NbgWHrEgX9l1tCaF0QimYZkjtBoP+VjT4Jla41EKdS5njWVmmrEU4/wY1zh2WCI3kxdk1cImqOyNvIqela5WhmpmypGuU2mSaLhiG/GRTso8SP/mFUiArfWf4tks17CDJVTMNcCpSfZ/IVFUi8Qc4v4HsdviAkxjna9cQAitinmf2Q+vzDmkAGMgsLKV/gu34B0LWHLHjPExaJKPu03dHqk3k19Rn9DR7S/t9+rNT2YxRD3t1sVxCATr37vpYOdR+xERLequEVbs1xEEP11SYft+aV7QXEJishYERdpDLdmGDDuAWtP0PxceetjpOz0bAHEXiiZgtccU+DR2RwvXDkig8zYHRYYCirzRpirmBDCGm5TzPZ3Dh8YVnjCyjU8CCgXVkPANbOcW0YJH0DLaMRNJ+LZB6XFI6KqWIHNpbd1G4eMojvagO+GJD8jmAHguUQ8eR2FMTO/s8f0F79LAmFblz/Vy3wlnx/TH+x1/HAvzmLYXjtVP9iDtFfxAyhTJ+ttxt+JC/DIew9BNrGdVJjEE02EN+lVrA0h4VvUiYGnGe01liwQkfbVIm7usQ3q2SXWNZWN4Jnwt2Qax3Y4kArHlGrkvTs09OWpoFUSUHgjwYfAP/h2xzh5lpbBxyWloMwuCnm16WWANSUyqAq0DLAWfMd5m3zG00sLy5X7FR1Pc0Icvnzjoq83SCuRt2zSfGTfqtrsa91BTH1PLVzTCMKP8rhOIRymEuc/J3Jvix9RtNlLEB65+YzZ8YRhBYSOYEVt6DGjLr4EWK3FAkzj+g5Mv9sq78g2UY3mCEDTu5+E609KVa3hv/I+WhWLipwz1cKTtvTGeN98eC8m5uFt5UGEGz8un0yIB3+wb7r9WEh+Un6f9OWhXBMGU7C/sk4qKXbnMZhYcMTLg6fBf2vcBLP6aPU2NXIIxHzclzUXroL8Stw9j8t3cgaTwHtLswm+AHwNFlG/adBQcBrq8TbXDlCx3MEpspxcw1SllGBHm8aytOhnyxzQ7JPr9GO8Nxteqn/L6W0bg0Xi908OzPfDeGGJnYrurNOx+WcrYuBMAXIH/TUxaJE8PJ8UvNDGBLQZYoTeEYXxk+QYi8qSh3iwtQUCZuTQAo1MYHzVJypR/6DAj+M0k/MkhTUQQQNM9ulTttSOHV620XBYyVKW5nm+TkVk5G/ChzSL6TaGqxfnqq2+yDpBRnF2BQpBPJRAA0fJjINLB9yO1KY8rCe8CrNp+tYPO9gHpTmDFlW/morvi1sqqw3E0bfLzgbz2cenCTjLfX+4j/MWpfplZYLUEYrq/28hIW1j5KUjH1Z6xMe2wKATATw8hKmTZKjf8PLJgxyM1Gq5GezKqtbK6Z0n0qTrx5zRKcCgqVBQF6Cj/eA+FdgIZ7/maZ17tQGMchQfzZMSU2Yir/PCbMwC5Aw54PRkoBVMIVJyHr1ZWsl3rGyS0fStxIffOm29tIVJSrhv0rtoBBh/okgX1RfFiwA469oNl8izG8byZg9kuhxg3EvNlrMMekoTm6E2c1GduEjfh3zBM8oMURPDuiBe1/xMgkc9ewM30gsjfdBUbBGzigXPDKuuzUizXIrg753aO7S7XpnEcVLwXSFXXydgwdcaFJgF0FQINK21HgUYXCfTimdw4rqVCevx944lEISVeF0HNAUD8JnhC+8NNK0wyvF6GGz9pt+harubP8zqNdQm9fuFrNKj58EJ4I9FxQPPQ7B4UIJlXL23sibfmfc9pQobC4VM3Q54j9kv0CNjbZIF6E3OhItVMzpfpW951o7YHD8lur0mA1wippEpEIlnjfPjLlDdDc84I11zBLdQL3itEEfAgT/dgI73QkIQL2Ywc8ZJc+dtJpiZ2YK6aUPnVbOixGRcXaUDTi/QXd1mwR6q8sH7hCdfmB1ecVDbbOHexugyXs0qV/gVE/rp70mnMQ5ngbjbOTQg0nR3hWbE/1P0qpOkHghTLPRBJuWD05K10IIg3kZr+9ot1WEIoeJPgCzqMD8FlgQDSL/LYBncythWLBqgwW0PU0kVe5qBTV8YbIfsRejGf0Gz+GjsEROfK1CF+ONyQT1WOuF+cRS3OQchbhwBRzVKWWUuta+bgQPYCLlKF2KNdgsctpOGlKDYQk80W5UbF5whmUwxwlwGTweC7PpBVCEhLQZcawcNIyS4tzVtm6RRbCE/MGV/NvB4FugTuZZYvgMvSUBFGJfQ/Q20f0ap+aGFTsDxuX7S8ht0OX+rSEBtFeZs3PiyjFi6WAU0vI17QGeXdIgb/vigwEyAEzQAXbKc+s0rp9n+CUL2Kd2lmIN4tpxrOv0yYEyQzfjgd+WDFIBiHOA0UW5369N6G9AvDKfQEiaa12IvFpQr1f2Rv1E+Uz3iB9wHNte0v43WunyqJCYlg4ykfkYlQ7gsSQdjk2F8fDr6+l3hg9tcQ3d/O1CVabo4nde2+LWs/2Z+JoMqNQHr6lc3UCoztQYGhd11HX3JdARGh9QmyonFnTpiLN7DJTzCrrzuuBDd7p6yffs8/Kx/m4IYXV0yQw1+OsbwoQqsYSW/C72Nqj3ZMnKlr/fBrihFb3qJtsLdMk4wQUJXubFemGZ0WIAIMSPkac9GpSsXH6igfxadnrIfkRzY3eoLauSarNHHKm8dWp2WBmh4CjZJUFwxg+ojPbpO2sGAVK0v0Xo78ID5WLoYCgFVgXu+UjpNvaiFNLXp5Iv+66fXb0ZmLtRjfr1XC4R0uC5KxsO7llgGmkYdbIwjUiXYLrvg08TwtaSjrbdtP2+TYY4wymhfwtK48hMY+k5RAegViAS6kt5lvOmRmLDnZRZlwO+EUfU3FFyWbNlaRkSZffb/evmkXgqelshjlC+QMrQtbNdPVxDvBSoHR5+fp+SCM2wSGhgGARt6/Sf4SP+PJDNVUXQsH/buRB0N01X1WytpzHk43nY0pBwR3nZCIALIzKlvrjix6J01rO8PMZK/S1T+5HLB+m/Vl7ncqITrp9AFC9uzVsXoJEJWkGDDe3iTtovzW91Dd+m50gTm/8pbvDfhhWCDk5oPgT2TY9FGXxTi74cHlt9M+zKT9elZa0AJvh9YV4YU8+dHn5F3vlDhgdE3zKYidOdvf28XgKQ1GWwwY9NeFeCgQwWYx9+l6W/BL82pY6+fyuWiLPsl/gRQ/TYeRiyNZYum1bcr6fEZW8pRKc3AJlYZeCKgEK7an1M1yhacjzqBedVpHmO9BGXoDvr1fsGgqsP3SZDHRiWFWGMVn8AHF6J4i/P5Vi9Ga3jGsEZg+UyUOf9eOEgCIylCRmzruRMyWk0H30tvr/l/xe1kvgFSFfNy5f2cOlKdCtVtgFjgWwono9lhhVDKZYAobZ40auTS3MYaJhwA7c8LCKP64c7OOQIamNiA73+Oj6exZDzL5KErLv255OQOOqAaOGinx9B84Apc5PKuu8Kz0lKhgeFvlwsRQ1ng3JZN78lATeUrWGI9F55yXadhrSsV6HNaDsGJccKS3TSaCzNt8VGNM4fq1GYFy+ewGBqZFAMB+5fqtVDrso9RFeljv8AiZHjKRmjRF/eJoVxUDo1QqQIgN5tz44OwYy6XHUSZGzoOKJdDYAcl98XAda/EmcT/y+zj3rFF74ZQuJ0Jo93MHNyIQwWngBidI8M89e8FRMebGfvJR9ozzD5xp/nAeFJjIqTYEe1NjQXSDGGZnbUiPkRXgKV9eOBaysrriTQ7jN7PE2VXQ8mRgLcqWeBk8RVjuyqL/bJhpO+lqiLwzLZVNqmDKAtTsSTDlN3t3g7z/MVSxfmlMN1FxN5wUfQ/bsb965zDARvOy3U6VDzeCsxSuD2f2enHBHq4f1guWxn17GpHlMzxoODXQtvH89SUDYnPTGMsMl8EahAZZcPERSBmJ4TsUBESAeyGwGjf17qYzOJukSxNsR6Z7XBEK/EuW6nuioCjT0cLaAWn7hJEAwNl5AggUMTzxvBTNmiLvZvsPpF5p+Yif8tlYFCgq29RdJIvVPo6RPhKsU55QZfypVZR5qEiyZySC9X00cft9skJtjd+tIPymzvfcvemkz5/k6sBGZ1VvCuoLTf9IZARurkoUMJKZ2XGd4bachT5zcElVTglpb3Sh0uyAWHoWUcguaBty0VqPa//Wd0gPmNPkHwjPS9csrd9mEPfhFgm3bLghE/IqPrJ4XaPJGRieyE44iDeVGnn5dYZ++lQmPgVgb1XO8m7hZPsYhl911QI+cikZNYP0gVmpe86qNMUj5wE0aRbLBR7CO4KbmnTZUW08A/DgjEYS0xFgeEheyWokqny4Yx2hvSzUWOxK5+HjTwVo/VtVrXbTuIHEDMoeW1GbLxu6MPrTuMhzazdeRc034vWq+dO4IYwgjlokla+u+8bdqa+eVtzmSqq915xH6BQFyYlBiMfMeo760jYExFpSWNXr/BK2oHrovSQ2tF1iqObvzk5HAYQxNhO4cjgtKovDmfJmqijqBPKBYkd4q6++nWe1/Bj8ZTa9H4hsl9XqqAA5h+P2YHLBGl2i92xgyhdUvT2nE7j6IXSKHp7VXDSxAx//2w+AeUMuOL+VEbcPzPbr6zLgcfmcGzMscH3PLa+OUkj6oe1aje+gkgbIMsvjmgm8qThg6OJN2BxsBX5qz2Rq3FkI2dsPRrn8kntxCFQ0ggDPm1J8sYnY3li1pfbcbeLmebSbTS6JzzS2+2uizvdFm7+r3ScXZPwPEcW3h3DCD4KlHElg5FPVIMA8AU2nGMe4Aysm6TIg3DBWTdIWqVXZyYJJJXf45R5M5Au88ienTjcDFKapoSnExMbw6bAMmsJU0XDsJSC5wLHRxe2nr+oOEJzcWvmFRKiwDcWneGaCkcBsue8bZmEbj73WoZk5YixQfZ4LtSobHkV2yXxBKwXXCRcJHjvi5PlYPtdGqcq76qNl6RJnuLnv9tMW0dTudLrYcVbyKG7iLUNd0QOTdVthX78Dw9bOldFiBeLHvgeZd4Jp52IYiyvVz/913cRGFy4VywhN6nl8c12F9FyxG44CH4csZtvlq7ZO5OLk4Egui/hPlma105WkKdl9NT2J7Qg2lQcah9bKu+NFiCVZFqs8NM8gjYA8MbIKUgkd/uesgGftFMllKAs+5Q5Ec0pFBY8cAryxRlESY2baTJNHGze8AO+rBGrUKNmJcB9VEbDYtUdp6kpS4x7n4vrc9mY0qurBjZPRR5sSjrXGRaXZjaL/PIt8n8LROKzK0HwLFHerLXhwJlGXEEnwKmP/vLBy1VeptuVPWorhBK45jr2ZZUuHEGzd87PFw4BNPDc92ohdqhdEMr2dq18y9wLkLLxawAQNrGyByeLB3KazFFFfhXexjTGaMRaVn10YxqfzvBakWlI+vnjDEkwIMwRJuh93JegOjk3dmueIKJtXTgKuW/SLkwZrfaAOMHW6fPokXMpFpPSlXwsN7zcoN14VI2t+iPaF41B/pNvAOUdI94U1pmcPMaI24SI4KAqm38xn6IiDrQATziNMPrJrp+J/XOK6Fk1mGRptbVLFyQxdReVDe8/9InpHEFcJPW8qMhr33Lk8rDDT++WjyTbdem13V4pjTQFv4Sj58fsjxQE9oI16b4DfnpWEgU9q666R7DZXSIq9H2b/42qURzvgMTl4ITj0xNZ365U7xLsMZ6RHHrB8nRzpLoNJ+WAKTEhX81fL4HAIA6v0LHnxn7CNE55qT/LtJYeQ3bXGOXP2qCPlKJNCdEXTxRtPC/rKkattqO22rcxTBBNQv5gDYMtQPRQrOxlvwq6QlpV5696JD6sDvq4ZcljvU1IrWHxKNymrok1Kqk6IumWM2nfBI5FRepAR2EOGdWjPDUd464ZWVecoZG5yu2e+f+ytr+t6pCDwxw1werdmR1+VEBc+z53aY94qwNKyu6BDO2qkwYsJ3rXZbSXVAS7yp8q6FsPlR9xdwF+gJR7ewR6IBWnRJQFLSEN4GIM+7/M1QyL4iQ67OUt8/qkw+JGbBKBZmWnpGISwxQ3VKuuLc48pnc5nN6faa+83JK5cNnEtZ5TNj7LNoQSQL1eAe5WMEJhrPOzqif+Kt+xwXkA2AGKS3Ir0p4WIJzvjSPhcHflcb8hiIcdy92RwqLYrkB+H5ZJ11HBwa3B93TYqTxL/Pakf2pzKSfXFcUuN5x4I4NKvIQrig16NMv4JfTwG6xOWSFoKWitUG00RlfxxuYPDFl90L0NcTYy3nLaNEcJAS44i+8kUOzDRwcpuXnTTAgT4QNpwmTvZoJCwWOHWiRqnKfxNjWMA9x8IFsT/Cq/T6dn3P/AbciT8NBhB0UTX12w0mOfwHJqSMPMpR1B/tVYulw9l3AiI9GFzIfQ9rB9fQ0G42R2l9kX0OM5L79Hjr+vu02M6PsNA+esr1REheLB0b55eyTRpsU61x6Z3oIGK39WI+CaVPij5H4V3inY4CqqxSYg9tSU3L3Q3MuMRj22RxsKT1XG2FvIuQfXxy0b36QkrC+4jrTnIFeVcA566GzeylMpM4pdP/oD3XtyeIgVgYgd1GQa3+Q8rC7gULbR+9Xuy4OyBvzj+x3NbxSu9H0Nr/YowC3BgqAPDIv0y9+PGX37aW/xvKjZEct0ZdSP/zfE9jpnDqwrcpAdNr69bJqcnsUZ9ICehylRtW3Qw+4YYfpgYbvTls3P9zQIU+n3GtFZ0i2zET6Bykt4yuhOCWGfcP4Ncomt2B7Q9hNwMPHuUHcrwjHpQAoCMctrm8dtcAPmw6qdkk9TraQLrt974Y7D7Ub5iWzQtm7McQt7fwNi9WWIGNqMkbW1ImXwBxx1swIh6gVXTagSaFLn7ZypdmIqIbVAxMATyfPUrnN9HntFgWGzgzaHZb8gZzBByAFJYAep1FDlVREIb0QnEtYVhEtmoLmyvwWTU9w2At+8lDWZzhYWnIVRdCmCNLSRtifPyLxdlSamys4W/h/CilRy2gTIWDLeln8zac06Onk+QYs7e2bc4DsctNjxrDIPnnGh4GXnkY1hxSy0rvHOK333ohNLldcfSEaoH9zF0eMcohUIiqLTwgzCicRfI+cB7ON+uC8u+NIIN3+wHaFCZqQcgDn/mhs2Y5zYAKdvGcC/KoweqoBQvBM7tBs4F6ozLA1mS8YLAFcmbNZGS1pMKcMHHbmTvniCyT0U4mUGmAQo+bcWH9I++N3Ft6OIVjUUpO6vO8wGmFpbCIJDimPJKtdd0j0PCW1SC2TJ3H7JpZpEcOseXeku1lWtZ7yLaV4fgvvlRQ/MAmcVtgv+mrKuvWJRd66HbtWZiZjq6WgyYfxgyRR3yPfpZToLtJ39fm3SIVmr2VxJHUMNC04qiQ5CttmSPkSG/4T0UYZBFRDC7z+D8F9QeQai/bgvk5Cq1MvvtfdaSHkaZT4YKaGCdSuFxK/C1LrPjmJNiz463Cr16QyrgR30qmeR19SRZ5L52yI+Rz7su4Z8clbKbl/hxR3q4P33GI4Hv3mBttxJGycrDVTSSsvhEfVbEjp8CgC/uv4xMaKlOJ6xd0Y24ahhO2RsNuo4cZZkxWxplJxHJf0WMyqttnCxMluuAIsxRnw6gnXv+mTP0oJxjmdqS1KwJWqDmcC7VstglDZxo/L1iLVPw7AIxC+bdUWlvTW+zQeWBRsIIv/xdo7YOJVjOfylW/RpUAh2kkdCpsUH8wkmWCe0c7leCrqmiEKEXYxpgptco1OHzgmlSvb1rVMZZE3Q/G8sF5yECZfrNj/jKg/lrhDzduqpwq9a5QCbJPb7T83dzozX3coSBZ7dJT/nrUIVWprOnxNtEkhJrrJ+lczJ+nZXf7IhoPHWk441WKbo1/22jWQrkHwdSS785CG6FW7Tcv3Jrk43vZKaP8/H5GWs8SUtg/aGd7XfOoh6bYaqQzeHJ2uzXBxvsPjTjS+fatDxBlDVPT19Y9JVHrckT7lkzo6ZsxiNFdRSo0tQ04hYKaXcnzVJni01onD5Fqr5lmOTdWdib4/Zvo22juQIMFIn6TCnopHXNm/zxTN9EzIIkV1uSYMYxc8cA5PRanIL47Io1dcV50uIFXK7oTjQt/n94ZjqU7bNSDVj5pghsCr0CKrSwBm3KD70Yyl/InWgradwdARklQLoJZQ7W3TxYDtK5tzYFPoVyrDltc63cfb9HNLG6QVe62FW343xLcqopvXDCeKbg87S8XD7zisXt3OZBR0su07ege3+VC0vKnxOxc3oedVzGbOzlsIKrktKWfXcIhsEckGPcaIzXI56QQJD1t4xAwhFwRRRMHXBTd2mH6jQGa0AwACtbNrx7fKylDOc02DTdS/PpYUn/hsVAkbaZm/x440ZYheOQi1HympSjbKaE7CqTr4UH0JNmFdObaCcb4Xh4jNV+EyID/nY9UY/U7lt13ru8HA0OskLhpY0G3CHU1WEZSqFP+aBk15FG+TlQ4AdswRpjllrh/Eq0tiGXmW2AHZQ78HfJSIK9XYix8UMxiKjXOGg8i35huopIWtFbYDLXgk446gQvAGUxsx5IdXp1NV9rsVNXPzkA0JDNGEWt4v8r3EeR9dkOOGiJNqf9OIOMkpQpb+qWvIDac9jB8che5N/RxEdXBqyeZMPq9v48epI/vP5+3A47JEgqGyWtr52ASpZyKSjWlc3zRhCpQU5LPiv2kac7vgXXiyFPhclpwoDUKZBVq+3/NW3we4GMuZdA0xataEOe9FxM3gi0e/Yu0iUoV0waAFFKX1/3P0GSG3Kc6iEH5C6iDnK1B/t/4gdwgWUhZF8PIkoLFyIOTxUegXYuAmrJ4QbhzDkRVePRxO8oW6bHaHTFRbF4bk1RQV2u4EFDZapZ31gyZgJ/HP/5holgyBXZciAUox6F3Z0r0MlYgQlJ4FEpi1ULb31wk2lVlk+5sGaODLKo/At9C/nAIh47MbIVf+Oz7uinS0mel9+cn7gmuxqT4enFyRDr6z8vgP4dOYszhO1jkclFbVcJcOyZ9GKjGu3Hr8zuU6aMVNiSNDD2JnQTcWdUSyP5mpZJ19QSlYWIZ6YHXydzemAz62sRGj/mmCTfuhwcVhdj953owos13K0KDKK5r9Mjc9eXJFPPRgX5UWdgJhFZKSkxcZUeGRzXEGXWjLIeneYsZ1ySj9lAG4UuI1KxRFfzJspwKWX6FTycyjled1/tgUObtwdFYOeW/qh4VAaRCCe3gs3CJkbQzshqE7wEyMhUjMkAV1fmnzZVEi76CTDkJFB2rL7NZ0PcDZroHmTRSOHaZn3pqZO/A2PuatgNK5x5VN0i5wKuemeEXsOa6FcnpK96NAuGGNxeKl/dC9yG2OHILch7g/vNq7tGOanJpp5NNfVzKjYhfzrxdEmC/NncBbodeO8S+rrUKVJsqfmkGjFX9e9/e5h3674sJzHq3NbBxHen3Rg8Ac988fpHH9/A+o9aneSk1ywxRlVx7tao+ih5kUeV7CPaR0i1VbGb2BpH+wt+piQm9ZEsgnRywidDeq3hSxVKU9C0Yqc78QuIH+JdeVviTBt3PAJ+g0OklwulAf2jB14exRPn7HWraoo1G2m/r7B0wqyul7WPSt+riegWBOMOom4ojEaZp8hp1St+U1XMZyJvhWDNuvvDc6qcof9GjXzpA8469n7yhai+RF/4p48mQUhp41sCiHtSpKV6YxrO1gY2urvhWUVjwUpbNsC9LQRQhY1PyGS5SxFrfPmtTVPMGa4fnvQxpyGrkGWl6IwtjxODvGRrijXU01XktKmwtu0Ic7Z0GE933IGjJH/MFL4ngb9+ZEkWL6H/+dNcL/IPtHGEDW/KT2N/BurmyjKDHx1fTC8k5tyMz8Pu1LoJQylEAiwue8pPmH5eHhA0MBRbyCgRN9WGQd1azACMgaMDq5LVAAyYvfVlc7vMLpbq08++r65rCWC1tvwnyrCZWQCRiGsPW2BrV0gWp8X/+W7Qkn2D2bR2EpF6kAuSJjFs9VGtXpe43zaGIkvEhH84hP13tFoPKBNh1QJBdZYllvDRNTGvBuRugb29B5ExjzKFGAg3lrvpUKUPLdzT6RJEp5za9eQdfBjxLaFckIhOdaFRP/HNeQjonMTvReuBRkiy3vF0JhdoTIrb5RiJmJpPj6Fuytmx6JEoQMFj5uG7Pgg5FI5qJrkzP816aZLXW98cyeZ7CEC0op93tYnbpFdL2JdaPc3a0/0S2Oar/leAe9dUIAyLU2tKZbSBbAduaWpiWaikC1CX8QaPwujrpzMHl6HpEV5q3OXhZpoeO4leY5AuhgiGZbw6LB7730UKQJCcHRmhFkjuYdtRqWBbGFndqtEBFh+ebSO/A05OH56t1DTusj/HARA2ie7QAQAEC7ijejY+ei5/zodIwC5HMWdrGl81GzxVjRdqY3Wdj2HTPsEO958ZyMmYeAyiwiELVCPaq8A0H1GrKyiqf6PFqx1kSjcQZE5/vpYFcaDhyzx1BjMM8ajFayQx3YOExA+V9sGKqceXnKWffXLyGauZKFxccngEWOZe0tyIi+NLJkYFskG1ptWIWno18+XB4OomcydqM3Ss5GDDUmEwe46Z2ZDu5uUOsRUAtXlAwVa260E2EPDjZtOzhqQZY3ud4RnWc6zlFMD8XxHIAoES5l5bZiHzkhxBolQ9t28RE+sANgIB/mMtr5I2W60WAT53TCi33bCLDcS2WBDZ5Fe4sFLQfCEV3dP1PpJcsIDSU/Xr7R1nZjrfXLjtTvb+OA1my3G5jMy8rbK5bhKAwdfumHEzSzPGjsSioka1C9T7Wn6Bb/LMy8Y9qtJ74jrQjX21dL9BhPYuv1u90ZWe2mmM8jjXCnmGvQ2gqwZkpp6hoSXlSPo4ktOJhNqFJ1gGp7ZZb9M1eKO2atewcIUyWxJWO3EcSndq+vzjC9lDJafF87ZFjWupOco5RWpfMK+PZK3gDPABuYe0xEL78MgVoTPDpwDen5hRzab46HpF2+qOar8HSyDNeAvQ3bm8LYLoUOJqnu+FSBR2c86uMt2iKvW0wpKi7bYvh/3Jf/rxWHm3OQXyXMrWDVULeQ8RmctlCpwzy9Kh9LVSDgvd4MXhbIhOEnfNpxQq43Wxy6q442ak/dVYVv9TMamJiENZ8I1BA96xL5NZFR8SLe561kQcZeBF+MKjeD8xK9L004hKS8IK9dGGnbG4ct+cxqUskEfAErkFRBV97pP5LW9JWvTSfOBPWLOw6Ssrz4vpVS2HAkLjvnnMRqpiVWQ2BBAoyZ4kHjjb2k/wMfrU7XsNKh2LAwkz/JUzw1EQ/sYU9/VexncS7640QKO0zB7oFvg7VnXNY+SRCHdphkTKfkNPIIENal/dh+GULWSYplzK1967sHqOt0CbUAcfGoubIy/JmoxKrNSHRkrcnSg7FGWPmifNZ3ehNvKgS1IncXKm5JJMZE7B4quvWQO5f+rODy/GS2vIy53G1OJAhMnN8DB+9Xx2qZfAdQKBebkhPK62dPb1UKkC/TrwD/zvSZDKLMTMrHv9h+G61fcEVAOmkQwhqgNSQZqymbovwolrRckcOt0/1bbXlEg+KreNeCbqb+tPHF5Q9AHg3tmRihG0fVE8M7gwKRa0F3CCVos/64GNeavxq794J81SJmpVYxDmIUG1XSBIZ3zZHIgXqFB30Es3uts2fZ3GMhdKKEGU7KjT/pJXyV9/oIOOiKRa7NxbPV2PFHnnCrbI8PTp/TBIiYT+X/dnj7HytpKDYNByeF5NacDgguoxfymFpJI6M6oHATSlHJ6ysWfRVH6arWq4oWAHDbr5lEBGnQ2Oy+3zRY9hv3Ll7TOIRHwfpmVRlF2CCrlBH6LOKSepzrPuMyYgDJjOIuTtb/viRhcvSpLHOU+3+kY3kofygf5Ctd/Jnwn5er4fdWZOXEFMEz/+ilM6084MDspskCJjACN6nhFbDMCrWTzhe6pl+gOCt64/OrfbyzuKPJAFYxXTV/FjZpS2OIBU5hYwNKnfVYp83WKzNAYrXDbFxxFmQOfYy2mO3I59exwvxAwDb3ptYf/FAfy4tZPTLl0XEDfm+4x/qL5cHvtyQAApDdkhFFqxgZxIbUebSiN0446Mh5FwwczFK3p/CcPezoBJJm0ejwdZjG9dk7PLQoGmXBrrHYGVowovq8DyAEdzXifg+ecaRlhkbrkqWtZfsST+dNrSpt1txc6vJObE5XjCmvu0joA+ZJ/e4eLPSj/jrP8PSWQn6u1jSslMHMb6k1wkEwOqmTZ/zuceOshXJuWKAiFpvmOtNvb9+tE/qOof9Z48o9imz/SfsO6Ljq+WIza6CJqNk40ePX+qrl3EYRLy+mBVzNd8iN8xmyuOJjUGTkdmCERKzcJQZLYYoAm8+wuF/ZR59v5p6taCYDrlE9L3RK8AVG3oouRyR7CAg8x8dajvDkasXiMzuD/Wmvmc2FP6TKjRnOpTBVSX75KO/KOdz9Fisi9Vov0qNS4hQ6y8ety5gVAF3j+G7jWcQBNAUok9fi4cM2rz6PdyQhc1NfuZU6qiHIHAwIt910bQD9sycqm1gARMFQAx1SD34fvoa/w41rqAAySjgxAZFTANFt5Y5L29NNxSsu0DPMBCx9rwfKbycuiXFDssbSu/A0CKHq4JLDcM7bsMM0GIN25KpXmT3YCR/tRkfL8YRJ/uKqlAsKmVgFdJX3/xN6mmcYSuDu3YiZus4aq/XSCl2L1jTWYmT5LnpdkEckzBS/0WDtnM0/5UwgPWvIpbG2q+L/Cyo32dqgp9clB85/PJFsbp0GFZmQQCgbRYuF4PKe3fcY3v0Sue5q2nOoOSBWqA6Nl0gbIx08ea9RtAUIw86Pv+B7o/BiWRqT/smjkV2lumWnjN3rpWd3c3jK2YTDUqeS5h8SHkZBFGPu3Sxer77bJ95Mc/v7KbFvxm91v429uUnrD6yDQSPI/0HcBzqxJdzljrV7nTJNIHS3qEN1wNzHFHQejixqzDpPdKxznO7wwBC9rOHJu2vIpubAwtDnstT5OAHztelmtA+n9f19PbZEfqlz7h7fs85h/1nNoaXW42dMSX6Bo3SeF756zN/5M9DuPl7pMsLczPRGN0oOEF0NV3tqMBSnW9GVkTHHoewcvXou0gL1Yeo96eZ6EFHpn/0KhzZfQWGHAazOAmFhuyxSoIDpwh3k7UrlPNUWWKEjXRAUl/hE6lLK969MIUuhwKMDo7/3fgKxJXG4T7mQtE5kerkgOMc8WiIIw+gB1nW2xQnEdXHg1b8xc/G9RrlNexCU0KxQqES3MBRNbvXBxfC4hIz2xO3hhpoOi2wMtVts5bAQ0/bNpj2PuZPm0JOAzqV6glTRGHWoOVjvzAfWQ1eQ7AeU0l7FiD1z4j6eXkey7Fq5zrvmRlX3ZDR+anMH5Hz/4bgXe9DYqTWzBCHlIm4caWcFlTbpqRyRD8cZPfWUoZ0oYeRmmPSsLxRRESKApP2jVw3hEFuFxdx8UZxeehN0aPUJry53bmVNBPSIFWcYh371zo2Y7ToXDXyMFnmn6wDqxA1zvuL+Nln0uyp0T7+sgHJk+ZAPwuidOkI1/mkVmVWmDw/aCwzc5enh+YwfVkpM0i2+wGC+6pFnmrgLoyajiT6pMBhF/90nmCpHHwh0Zh8rwaLUywUWkUIbuQLhXYHXUuzePBp9eL3TVgygdyIFXlab9d/0vwzcAGXCk3CSW+Ratne/b9jpbUHaX23eM53s+7wfC6WG3/L9me5QvPmccNB/69c1wQInSn79vIk8iv7xq6W8C7XqwqDuB2Sguh5xx9VXCO4sBwDoK6qzaveGUu2DECEu+VjKeI5/q8Qhli8gYD5YBPmaVCWSnuVkcq9RMJbB3tdeuZZyZszBoHKoaQ50rI9OtPt6nW9Jkt81+3HGpoBC9eDY3Lkza80/f8O06Kw0yAyW3ZsokGy2mB8vPhjw9fUYpf1gIqOVz5ALQzcO+phe7GeXz7G8bJkNw3hzjiv9L2lKa5i9Fen9ucomHiPBYGme9V2loqjYlLbxw0hWgHti79bp7oNGg3wSbYcA3ITTRYUynvsMYMqRIfxaFkOIJ4y2N8lNYYB6UP50ve9b26Bxux1AdFpsU/le/4enHsqmg6lWU+Xok0SHu2ivyrzQHDmZYfblNcaCErHRy2Fm2oWkPQYeAATI/qp1YLagcXJeJNUAbgC53ckeRsXQ9uhP/HcdlMc1Rf4yaL46/TXzOmDnsqBPe7lCnAIX3RYH5IBJBepyJoZM176X+I+zqttQO5TiCAPi07stGJn6s6S6i4X57U9JjoqKSB0SAo8kcxKLq5H8mmof+QqHejyYo/H7RkJlUuapbniQ+dkTVjIC3Im1hmFUdL8xVWRhkoGN/UZwVpPsiCJvw1oSlm9y+uQlYj7NZJIieB7DcH8os+c1ytOlurIIkcTPggpTJYjSinKTenXQqEl5v6tt0mSpNFcexCLqtomRSxUiCY/dD99/BN1mjAkC9BHBv/zh0fcfjM49v/GlM2EWtPgZKvy81344bf/xhN9gsYs+Pe9tTzWn3mYf7Dr24Ed9dH29I9E8YROC2eFEhcH7ugzkusaySqVfuEuYCAtGPWdIXMfL2B5e/xUoQurPohABOQetvFxk2xDpAKLSZrD0wKGF1+Eilb2c8aAkSzl+fcu+q5Uv0G"/>
+   </div>
+   <script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a7dd8b7c5-dd18-48e6-97c2-5a5a060b2752%3aea597d4b%3ab25378d2" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+   </script>
+   <div>
+    <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
+    <input id="__VIEWSTATEENCRYPTED" name="__VIEWSTATEENCRYPTED" type="hidden" value=""/>
+   </div>
+   <script src="/js/dnn.js?cdv=213" type="text/javascript">
+   </script>
+   <script src="/js/Debug/dnn.modalpopup.js?cdv=213" type="text/javascript">
+   </script>
+   <script src="/js/Debug/dnn.servicesframework.js?cdv=213" type="text/javascript">
+   </script>
+   <script src="/js/Debug/dnncore.js?cdv=213" type="text/javascript">
+   </script>
+   <script src="/DesktopModules/DNNCorp/EvoqContentLibrary/ClientScripts/dnn.analytics.Injected.js?cdv=213" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+   </script>
+   <script src="/Resources/Shared/scripts/Secondaryskin.js" type="text/javascript">
+   </script>
+   <script src="/js/supportdefault.js?v=1" type="text/javascript">
+   </script>
+   <header>
+    <div class="he-wrapper cartMenuWrapper">
+     <div class="loginGroup" id="dnn_dnnLogin_loginGroup">
+      <a class="LoginLink" href="https://cengage.com.au/login?returnurl=%2fproduct%2ftitle%2fvce-informatics-units-3-4-student-book-with-4%2fisbn%2f9780170364829" id="dnn_dnnLogin_enhancedLoginLink" onclick="return dnnModal.show('https://cengage.com.au/login?returnurl=/product/title/vce-informatics-units-3-4-student-book-with-4/isbn/9780170364829&amp;popUp=true',/*showReturn*/true,300,650,true,'')" rel="nofollow" title="Login">
+       Login
+      </a>
+     </div>
+     <div class="msginfodiv" id="LoginMessage" style="display: none;">
+      <div class="msgicon">
+       <img alt="alerticon" src="/portals/0/images/alert_icon.png"/>
+      </div>
+      <div class="msginfotxt H7">
+       YOU ARE USING THIS CENGAGE SITE AS
+       <span id="LoginUserName">
+       </span>
+      </div>
+      <a class="msginfoclosediv H7" href="#" id="msginfoclosediv">
+       (CLOSE WINDOW)
+      </a>
+     </div>
+     <div class="col-md-12">
+      <div class="pull-left" id="logo">
+       <h1 class="homepage-margin">
+        <a href="https://cengage.com.au/" id="dnn_dnnLogo_hypLogo" title="Cengage Learning - Australia">
+         <img alt="Cengage Learning - Australia" id="dnn_dnnLogo_imgLogo" src="/Portals/5/Corp.png"/>
+        </a>
+       </h1>
+      </div>
+      <div class="topnav pull-right">
+       <ul class="top-menu">
+        <li>
+         <a href="/contactus.aspx">
+          Contact Us
+         </a>
+        </li>
+        <li>
+         <a class="ddlcountry" href="../../../../controls/#" id="CountryName">
+          <span>
+           Costa Rica
+          </span>
+          <span>
+           <i class="countryline">
+            (change)
+           </i>
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/list.aspx" id="wishlistlnk">
+          My lists
+          <span id="WishList">
+          </span>
+         </a>
+        </li>
+        <li class="login-signup nobdr ">
+         <a href="/signup.aspx" id="SignUp">
+          Sign up
+         </a>
+        </li>
+        <li class="orline nobdr" id="orLi">
+         or
+        </li>
+        <li class="nobdr padding0">
+         <a href="../../../../controls/#" id="loginlnk" onclick="javascript:OpenSRFLgn();OpenLoginWindow(this);">
+          login
+         </a>
+        </li>
+        <li class="nobdr padding0">
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="Countrypopup" id="CountryPopup" style="display: none;">
+      <div class="CountryPopupHead">
+       <h2 class="countryhead1">
+        Logout
+       </h2>
+      </div>
+      <div class="boxshadowstyle">
+       <div class="CountryPopUpContentDiv">
+        <p class="CountryPopUpContent">
+         You must first logout before you can change your location setting. Do you wish to
+                logout?
+        </p>
+       </div>
+       <div class="Countryconfirm">
+        <div class="countryconfimleft">
+         <a class="btn btn-general" href="javascript:__doPostBack('dnn$Utilities1$CountryCancel','')" id="CountryCancel">
+          CANCEL
+         </a>
+        </div>
+        <div class="countryconfimright">
+         <a class="btn btn-affermative" href="javascript:__doPostBack('dnn$Utilities1$CountryLogout','')" id="CountryLogout">
+          CONFIRM
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="navalign">
+      <div class="col-md-10 pull-left display-inlineBlock">
+       <nav>
+        <ul class="menu pull-left">
+         <li id="dnn_CENGAGESUBMENU_PrimaryLink">
+          <a href="/primary">
+           PRIMARY
+          </a>
+         </li>
+         <li id="dnn_CENGAGESUBMENU_SecondaryLink">
+          <a href="/secondary">
+           SECONDARY
+          </a>
+         </li>
+         <li id="dnn_CENGAGESUBMENU_HigherEducation">
+          <a href="/university">
+           UNIVERSITY
+          </a>
+         </li>
+         <li id="dnn_CENGAGESUBMENU_VocationalLink">
+          <a href="/tafe-rto" id="voclink">
+           TAFE / RTO
+          </a>
+         </li>
+         <li id="dnn_CENGAGESUBMENU_GaleLink">
+          <a href="/gale">
+           GALE
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+      <div class="col-md-2 pull-left display-inlineBlock">
+       <div class="advertiseLbl">
+        <label>
+         FREE SHIPPING
+        </label>
+       </div>
+       <span class="advertiseLblCaret ico-caret">
+       </span>
+       <nav class="pull-right">
+        <ul class="menu">
+         <li>
+          <a href="/list.aspx?item=cart" id="cartlnk">
+           <span class="ico-pricecart">
+           </span>
+           <span class="cartbg" id="Cart">
+            0
+           </span>
+           CART
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+    </div>
+    <script src="/controls/InstructorPopUpControl.js" type="text/javascript">
+    </script>
+   </header>
+   <div id="SrchTop">
+    <div class="he-wrapper he-adsearch">
+     <div class="input-group-btn" id="BrowseDropDown">
+      <span class="btn btn-default text-left dropdown-toggle" data-toggle="dropdown">
+       <span class="Browseinactivemenu">
+        Browse Subjects
+       </span>
+       <span class="ico-caret">
+       </span>
+      </span>
+      <ul class="dropdown-menu" id="DropDownBrowseMenu">
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/a-national">
+         A+ National
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/a-vce-study-guides">
+         A+ VCE Study Guides
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/business">
+         Business
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/design-technology">
+         Design &amp; Technology
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/english">
+         English
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/geography">
+         Geography
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/health-pe">
+         Health &amp; PE
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/history">
+         History
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/languages">
+         Languages
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/mathematics">
+         Mathematics
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/religion">
+         Religion
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/science">
+         Science
+        </a>
+       </li>
+       <li class="dropdown-submenu">
+        <a href="https://cengage.com.au/secondary/browse-subjects/the-arts">
+         The Arts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <input id="DivisionHiddenField" name="dnn$SearchComponent$DivisionHiddenField" type="hidden" value="secondary"/>
+     <label class="ico-adsearch rjsearchtxthide" for="TextSearch">
+      Search
+     </label>
+     <input class="he-adinput" id="TextSearch" maxlength="70" name="dnn$SearchComponent$TextSearch" onkeypress="javascript:clickfocusevent(event);" placeholder="Secondary:" type="text"/>
+     <span class="pull-left">
+      <button onclick="javascript:SearchBtn_Click();" type="button">
+       Search
+      </button>
+     </span>
+    </div>
+   </div>
+   <!-- Side Panel Start-->
+   <div class="sidefloatright DNNEmptyPane" id="dnn_RightSidePane">
+   </div>
+   <!-- Side Panel Ends-->
+   <div class="middlecont">
+    <div class="contCentr">
+     <div class="Panes">
+      <div class="corporatContentPane" id="dnn_ContentPane">
+       <div class="DnnModule DnnModule-ProductDetail DnnModule-1335">
+        <a name="1335">
+        </a>
+        <div class="Invisible">
+         <div id="dnn_ctr1335_ContentPane">
+          <!-- Start_Module_1335 -->
+          <div class="DNNModuleContent ModProductDetailC" id="dnn_ctr1335_ModuleContent">
+           <script src="/Resources/Shared/scripts/kendoui/latest/kendo.web.min.js" type="text/javascript">
+           </script>
+           <input id="furlval" name="dnn$ctr1335$View$furlval" type="hidden" value="cengage.com.au/product/title/vce-informatics-units-3-4-student-book-with-4/isbn/9780170364829"/>
+           <link href="/Resources/Shared/scripts/jquery/jquery-ui.css" property="stylesheet" rel="stylesheet" type="text/css"/>
+           <!--CDF(Css|/DesktopModules/ProductDetail/SchoolProductDetail.css?v=5&cdv=213)-->
+           <div id="msglbl" style="display: none;">
+            <div class="dnnFormWarning dnnFormMessage" id="dnn_ctr1335_View_ctl00_MsgDiv">
+            </div>
+            <span id="custommessage" style="cursor: pointer;">
+             x
+            </span>
+           </div>
+           <div class="NavigateTitle">
+            <span class="breadcr" id="dnn_ctr1335_View_ctl00_Productbread">
+             <a href="/secondary.aspx">
+              SECONDARY
+             </a>
+             /
+             <a href="/secondary/browse-subjects">
+              SUBJECT
+             </a>
+             / VCE INFORMATICS UNITS 3 &amp; 4 (STUDENT BOOK WITH 4 ACCESS CODES) - 9780170364829
+            </span>
+           </div>
+           <div class="pd_outer" itemscope="" itemtype="http://schema.org/Book">
+            <div class="pd_lftdiv">
+             <div class="pd_imagediv">
+              <img alt="VCE Informatics Units 3 &amp; 4 (Student Book with 4 Access Codes) - 9780170364829" class="pd_productimg" id="Bookimage" itemprop="image" src="https://static.cengagelearning.com.au/SPDL9780170364829.jpg"/>
+             </div>
+             <div id="dnn_ctr1335_View_ctl00_Divpagecount">
+              <div class="pd_pagecount lblhead4" id="PageCount" itemprop="numberOfPages">
+               328 Pages
+              </div>
+             </div>
+             <div class="urltypeheader">
+              <div class="pd_imagediv" id="dnn_ctr1335_View_ctl00_urltypeimgdiv" style="display:block;">
+               <div class="urlvalue">
+                <a class="lblhead5" href="http://www.nelsonnet.com.au" id="dnn_ctr1335_View_ctl00_NelsonnetLbl">
+                 <img alt="product" id="prdimages" src="/portals/0/Images/NelsonNetLogo_1.PNG"/>
+                 <span class="lblhead5" id="dnn_ctr1335_View_ctl00_NelsonnetlinkLbl" style="position: absolute; margin-top: -16px; margin-left: 45px;">
+                  resources available
+                 </span>
+                </a>
+               </div>
+              </div>
+              <div class="urltypediv">
+               <div class="urlimg">
+                <img alt="Sample Chapter" id="dnn_ctr1335_View_ctl00_URLTypeRepeater_ctl00_linkimg" src="/portals/0/Images/A.PNG"/>
+               </div>
+               <div class="urlvalue">
+                <a class="lblhead5" href="http://www.wadsworthmedia.com/marketing/sample_chapters/anz/Secondary_Sample_Material/9780170364829_A1SoftwareSupplies_UnnormalisedData.xlsx">
+                 A1 Software Supplies – Unnormalised Data
+                </a>
+               </div>
+              </div>
+              <div class="urltypediv">
+               <div class="urlimg">
+                <img alt="Sample Chapter" id="dnn_ctr1335_View_ctl00_URLTypeRepeater_ctl01_linkimg" src="/portals/0/Images/A.PNG"/>
+               </div>
+               <div class="urlvalue">
+                <a class="lblhead5" href="http://www.wadsworthmedia.com/marketing/sample_chapters/anz/Secondary_Sample_Material/9780170364829_Chapter1_Answers.pdf">
+                 Chapter 1 Answers
+                </a>
+               </div>
+              </div>
+              <div class="urltypediv">
+               <div class="urlimg">
+                <img alt="Sample Chapter" id="dnn_ctr1335_View_ctl00_URLTypeRepeater_ctl02_linkimg" src="/portals/0/Images/G.PNG"/>
+               </div>
+               <div class="urlvalue">
+                <a class="lblhead5" href="http://wadsworthmedia.com/marketing/sample_chapters/anz/Secondary_Sample_Material/9780170364829_SampleChapter.pdf">
+                 Sample Chapter (27 MB)
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="pd_centerdiv">
+             <div class="pd_linedivider">
+              <img alt="separrow" class="pd_cenline" id="separrow" src="/portals/0/Images/separatorarrow.PNG"/>
+             </div>
+            </div>
+            <div class="pd_rhtdiv">
+             <div class="pd_rhtdivide">
+              <div class="pd_rhttopdiv" id="Titlehead">
+               <div class="pd_rhtcont1_lft">
+                <div class="pd_rht_title">
+                 <h2 class="rbold" id="Title" itemprop="name">
+                  VCE Informatics Units 3 &amp; 4 (Student Book with 4 Access Codes)
+                 </h2>
+                 <input id="HiddenProductSk" name="dnn$ctr1335$View$ctl00$HiddenProductSk" type="hidden" value="68084"/>
+                 <h3 class="pd_labelfirst pd_rhtauthorvalue lblhead5" id="dnn_ctr1335_View_ctl00_AuthorName">
+                  By
+                  <span itemprop="author">
+                   James Lawson, Therese Keane, Mark Kelly
+                  </span>
+                  |  Copyright Year:
+                  <span itemprop="copyrightYear">
+                   2016
+                  </span>
+                  | ISBN-13:
+                  <span id="ISBN13" itemprop="isbn">
+                   9780170364829
+                  </span>
+                 </h3>
+                </div>
+               </div>
+              </div>
+              <!-- Display state names belong to Books -->
+              <div>
+               <div class="pd_statediv" id="States">
+                <span class="pd_statevaluefirst" id="dnn_ctr1335_View_ctl00_lblWrittenFor">
+                </span>
+               </div>
+              </div>
+              <div class="pd_btnimg">
+               <div class="pd_btnimglft">
+                <div class="lstSrchbtncommon gradgreen divaddedlist" id="divaddedlist">
+                 <a class="pd_addedtolsfirst" href="#">
+                  ADDED TO LIST
+                 </a>
+                </div>
+                <div class="lstSrchbtncommon gradwhite H5" id="listdropdown">
+                 <select class="editgrpdropdwnper2 H5" id="AddToListDropdown" name="dnn$ctr1335$View$ctl00$AddToListDropdown">
+                  <option value="-1">
+                   Shopping List
+                  </option>
+                  <option value="0">
+                   Create New List
+                  </option>
+                 </select>
+                 <input id="UserIDHiddenField" name="dnn$ctr1335$View$ctl00$UserIDHiddenField" type="hidden" value="0"/>
+                </div>
+               </div>
+               <div class="pd_btnimgrht">
+                <div class="AddtoCart" id="AddtoCartDiv">
+                 <div id="trayimg">
+                  <img alt="" class="tray" src="/Portals/0/Images/tray_kendo.png"/>
+                 </div>
+                 <div>
+                  <a class="H5 AdtoCartbtn" id="AddtoCart">
+                   Add to cart
+                  </a>
+                  <input class="H5 AdtoCartbtnGreen" id="AddedtoCart" name="dnn$ctr1335$View$ctl00$AddedtoCart" onclick="javascript:Goto()" style="display: none;" type="button" value="ADDED TO CART"/>
+                 </div>
+                </div>
+               </div>
+               <div class="pd_fbframefirst">
+                <div class="pd_fbframesec" id="SocialMS_Like">
+                 <iframe class="pd_fbiframe" id="FB_Like" src="https://www.facebook.com/plugins/like.php?href=&lt;SITE&gt;&amp;width=450&amp;height=80&amp;colorscheme=light&amp;layout=button&amp;action=like&amp;show_faces=false&amp;send=false">
+                 </iframe>
+                </div>
+                <div class="pd_twddivfirst" id="SocialMS_Tweet">
+                 <a class="twitter-share-button" data-count="none" data-hashtags="CengageLearning" href="https://twitter.com/share">
+                  Tweet
+                 </a>
+                 <script src="/Desktopmodules/ProductDetail/cengage-tweet.js" type="text/javascript">
+                 </script>
+                </div>
+               </div>
+              </div>
+              <div class="pd_descriptiondiv lblhead5" id="dnn_ctr1335_View_ctl00_Description" itemprop="description">
+               VCE Informatics Units 3 &amp; 4 has a full and in-depth coverage of the VCAA VCE Computing Study Design 2016 – 2019.
+               <br/>
+               <br/>
+               It is a trusted resource with experienced authors that have been part of the market for over 20 years.
+               <br/>
+               <br/>
+               A problem solving methodology is applied to create digital solutions in a range of contexts that meet specific needs.
+               <br/>
+               <br/>
+               It provides full preparation for the outcome assessment tasks and end of year exam.
+               <br/>
+               <br/>
+               *Complimentary access to NelsonNet is available to teachers who use the accompanying student book as a core resource in their classroom. Contact your education consultant for access codes and conditions.
+              </div>
+              <div class="pd_studenthead">
+               <div class="pd_producthead">
+                <div class="pd_studentlbl" id="topstudent">
+                 STUDENTS:
+                </div>
+                <span class="pd_studentfirsttop" id="StudentAttributestop">
+                </span>
+               </div>
+               <div class="pd_producthead">
+                <div class="pd_productlbl" id="topproduct">
+                 PRODUCT:
+                </div>
+                <span class="pd_studentfirsttop" id="ProductAttributestop">
+                </span>
+               </div>
+              </div>
+              <div class="pd_accordinhead" id="ContentAccordin">
+               <div id="ContentSlide">
+                <h3 class="pd_firstheaderf firstheader" id="ContentHeader">
+                 <span class="pd_contentspan">
+                  CONTENTS
+                 </span>
+                </h3>
+                <div id="Content">
+                 <div class="pd_contentval" id="ContentRepater">
+                  UNIT 3
+                  <br/>
+                  1 Organisations and data management
+                  <br/>
+                  2 Data analytics: drawing conclusions Part 1
+                  <br/>
+                  3 Data analytics: drawing conclusions Part 2
+                  <br/>
+                  <br/>
+                  UNIT 4
+                  <br/>
+                  4 Data analytics: presenting the findings Part 1
+                  <br/>
+                  5 Data analytics: presenting the findings Part 2
+                  <br/>
+                  6 Information management
+                  <br/>
+                  7 Security measures
+                 </div>
+                </div>
+                <h3 class="pd_firstheaderf" id="AuthorHeader">
+                 <span class="pd_contentspan">
+                  ABOUT THE AUTHOR
+                 </span>
+                </h3>
+                <div id="Author">
+                 <p class="pd_contentval pd_Abouttheauthor">
+                  James Lawson is Head of Information Technology at Trinity Grammar, and has taught VCE IT since 1995. He has been an examiner for IT and has on a number of occasions presented at both Victorian Information Technology Teachers’ Association (VITTA) and the History Teachers’ Association of Victoria (HTAV).
+                 </p>
+                 <p class="pd_contentval pd_Abouttheauthor">
+                  Therese Keane is an Educational Technology lecturer at Swinburne University. She holds a Doctorate in Education and her topic focused on ICT leadership in schools. Therese has worked in a variety of school settings; two of the schools in which she worked had Notebook programs. She is a former office holder in VITTA and has been a state councillor for the ICTEV (Information and Communications Technology in Education Victoria). She has presented numerous seminars and workshops for teachers involved in the teaching of Information Technology and educational technologies. Therese was the Assistant State Reviewer of Information Systems. She has also written several textbooks in all units of VCE Information Technology.
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="pd_lastdiv">
+             <h2 class="pd_rhtcont1_rhttxt" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+              <span class="pd_rhtcont1_rhttxtlft lblhead5 pd_rhtcont1_rhttxtlftf" id="ProductDiscountPrice" itemprop="price">
+               $74.50
+              </span>
+              <span id="ProductAvailabilitydiv" itemprop="availability" style="display:none;">
+               Available
+              </span>
+              <meta content="AUD" id="dnn_ctr1335_View_ctl00_AUMeta" itemprop="priceCurrency"/>
+             </h2>
+            </div>
+           </div>
+           <div class="pd_subproducts" id="SubProductHeader" style="display:block">
+            <div class="pd_subproducthead">
+             <h5 class="pd_subproductheadtitle">
+              ALSO AVAILABLE / RELATED PRODUCTS
+             </h5>
+            </div>
+            <div id="pd_subproductlist">
+             <div class="pd_subproductcontents" itemscope="" itemtype="http://schema.org/Book">
+              <div class="pd_subproductlft">
+               <a href="https://cengage.com.au/product/title/vce-computing-units-1-2-student-book-with-4-a/isbn/9780170364744">
+                <img alt="VCE Computing Units 1 &amp; 2 (Student Book with 4 Access Codes)" class="pd_subproductimg" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductBookImages" itemprop="image" src="https://static.cengagelearning.com.au/SSIL9780170364744.jpg"/>
+               </a>
+              </div>
+              <div class="pd_subproductcenter">
+               <div class="pd_rht_title">
+                <h4 id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductTitle" itemprop="name">
+                 <a class="pd_pctitlelink" href="https://cengage.com.au/product/title/vce-computing-units-1-2-student-book-with-4-a/isbn/9780170364744">
+                  VCE Computing Units 1 &amp; 2 (Student Book with 4 Access Codes)
+                 </a>
+                </h4>
+               </div>
+               <div class="pd_rhtsubauthorisbnhead">
+                <div class="pd_rht_subauthorlft1 pd_author">
+                 <span class="pd_rhtby lblhead6" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductBy">
+                  By
+                 </span>
+                 <span class="pd_authorrel pd_rhtsubauthorvalue lblhead5" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductAuhtorName" itemprop="author" title="James Lawson, Colin Potts, Therese Keane, Mark Kelly, Anthony Sullivan">
+                  James Lawson, Colin Potts, Therese Keane, Mark Kelly, Anthony Sullivan
+                 </span>
+                 <span class="pd_rht_subauthorlft2" style="display: none;">
+                  |
+                 </span>
+                 <span class="pd_rhtby lblhead6" style="display: none;">
+                  ISBN-10:
+                 </span>
+                 <span class="pd_rht_subauthorlft2" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductSep">
+                  |
+                 </span>
+                 <span class="pd_rhtby lblhead6" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductISBNlbl">
+                  ISBN-13:
+                 </span>
+                 <span class="subProductISBN13 pd_rhtauthorvalue lblhead5" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_subProductISBN13" itemprop="isbn">
+                  9780170364744
+                 </span>
+                 <span class="subProductISBN13 pd_rhtauthorvalue lblhead5" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_subProductISBN15" itemprop="numberOfPages" style="display:none">
+                  368
+                 </span>
+                </div>
+               </div>
+               <div class="pd_subdescriptiondiv lblhead5" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductDescription" itemprop="description">
+                VCE Computing Units 1 &amp; 2 has a full and in-depth coverage of the VCAA VCE Computing Study Design 2016 – 2019.
+
+It is a trusted resource with experienced authors that have been part of the market for over 20 years.
+
+A problem solving methodology is applied to create digital solutions in a range of contexts that meet specific needs.
+
+It provides full preparation for the outcome assessment tasks and end of year exam.
+
+*Complimentary access to NelsonNet is available to teachers who use the accompanying student book as a core resource in their classroom. Contact your education consultant for access codes and conditions.
+               </div>
+               <div class="pd_btnimg">
+                <div class="pd_btnimglft">
+                 <div class="lstSrchbtncommon gradgreen divaddedlist addlist1">
+                  <a class="pd_addedlstrel" href="#">
+                   ADDED TO LIST
+                  </a>
+                 </div>
+                 <div class="listdropdown1 lstSrchbtncommon gradwhite H5 lisheight" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_listdropdown1">
+                  <select class="AddToListDropdown1 editgrpdropdwnper2 H5" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_AddToListDropdown1" name="dnn$ctr1335$View$ctl00$SubProductRepeater$ctl00$AddToListDropdown1">
+                   <option value="-1">
+                    Shopping List
+                   </option>
+                   <option value="0">
+                    Create New List
+                   </option>
+                  </select>
+                  <input id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_HiddenSubProductUserID" name="dnn$ctr1335$View$ctl00$SubProductRepeater$ctl00$HiddenSubProductUserID" type="hidden" value="0"/>
+                  <span class="HiddenSubProductSk" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_HiddenSubProductSk" style="display: none;">
+                   68083
+                  </span>
+                 </div>
+                </div>
+                <div class="pd_btnimgrht">
+                 <div class="AddtoCartSubProductDiv AddtoCart" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_AddtoCartSubProductDiv">
+                  <div class="trayimgsubproduct" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_trayimgsubproduct">
+                   <img alt="" class="tray" src="/Portals/0/Images/tray_kendo.png"/>
+                  </div>
+                  <div>
+                   <input class="AddedtoCartSubProduct H5 AdtoCartbtnGreen" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_AddedtoCartSubProduct" name="dnn$ctr1335$View$ctl00$SubProductRepeater$ctl00$AddedtoCartSubProduct" onclick="javascript:Goto()" style="display: none;" type="button" value="ADDED TO CART"/>
+                   <input class="H5 AdtoCartbtn" onclick="AddSubProductToCart(this)" type="button" value="Add to cart"/>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="pd_studenthead">
+                <div class="pd_productheadf pd_producthead" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductStudentHeading">
+                 <div class="pd_studentlblf">
+                  STUDENTS:
+                 </div>
+                 <div class="pd_studentdiv">
+                  <span class="pd_studspanf" id="StudentAttributessub68083">
+                  </span>
+                 </div>
+                </div>
+                <div class="pd_producthead" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductHeading">
+                 <div class="pd_productlbl">
+                  PRODUCT:
+                 </div>
+                 <div class="pd_productdiv" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductListDiv">
+                  <span class="pd_studspanf" id="ProductAttributessub68083">
+                  </span>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="pd_subproductrht">
+               <div class="pd_rhtcont1_rhttxt" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+                <div class="pd_rhtcont1_rhttxtlft lblhead5" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_SubProductDiscountPrice" itemprop="price" style="font-weight: normal !important">
+                 $74.50
+                </div>
+                <span itemprop="availability" style="display:none;">
+                 Available
+                </span>
+                <meta content="AUD" id="dnn_ctr1335_View_ctl00_SubProductRepeater_ctl00_subAUMeta" itemprop="priceCurrency"/>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="popupClass prdcreatelistdivf" id="Popuocreatelistbutton" style="display: none;">
+            <div class="popupbottmshade popupdeleteheader">
+             <h1 class="fontnormal marginnone">
+              Create a List
+             </h1>
+            </div>
+            <br/>
+            <div class="boxshadowstyle">
+             <div class="prdcreatelistdivs">
+              <h5 class="marginnone l-space5 PopUpContentSpan prdcreatelistdivth">
+               Please enter the name of your new list:
+              </h5>
+              <div class="lstSrchdiv">
+               <div class="lstSrchbtn IE_Filter_grad prdcreatelistdivfrt">
+                <a class="prdcreatelistaf" href="#">
+                 List Name:
+                </a>
+               </div>
+               <div class="srchbox1 createdivmacs createlistbuttoninputdiv">
+                <input class="lsttxtsrchbox H5 prdcreatelistinpf" id="txtcreatelistbox" name="dnn$ctr1335$View$ctl00$txtcreatelistbox" onblur="if(this.value == '') 
+                            { this.value='i.e. wish-list, to booklist next year, save for later'}" onfocus="if (this.value == 'i.e. wish-list, to booklist next year, save for later') {this.value=''}" type="text" value="i.e. wish-list, to booklist next year, save for later"/>
+               </div>
+              </div>
+              <div class="clearall">
+              </div>
+              <div class="dnnFormWarning1 prdcreatelistdivlst" id="Div1" style="display: none;">
+              </div>
+              <div class="clearall">
+              </div>
+             </div>
+             <div class="prdcreatelistdivlstt">
+              <input class="prdcreatelistbtnf favoritegreycancelbutton popupbutton floatLeft floatLeft10 IE_Filter_gray" id="CancelCreateListButton" name="dnn$ctr1335$View$ctl00$CancelCreateListButton" type="submit" value="CANCEL"/>
+              <input class="popupbutton lstfavourhbtn floatRight floatRight10" id="CreateListButton" name="dnn$ctr1335$View$ctl00$CreateListButton" type="submit" value="CREATE LIST"/>
+             </div>
+            </div>
+           </div>
+           <div class="popupClass" id="OrderRestrictPopup" style="display: none;">
+            <div class="popupbottmshade popupdeleteheader">
+             <h1 class="fontnormal marginnone">
+              Technical Issues
+             </h1>
+            </div>
+            <br/>
+            <div class="boxshadowstyle">
+             <div class="PopUpContentDiv">
+              <h5 class="marginnone l-space5 PopUpContentSpan">
+               We are currently we are experiencing technical issues with our website. Please try
+                again later.....
+              </h5>
+             </div>
+             <div class="divok prdtechdivmar">
+              <input class="lstfavourhbtn lstfavourhbtnf" id="Ok" name="dnn$ctr1335$View$ctl00$Ok" type="submit" value="OK"/>
+             </div>
+            </div>
+           </div>
+           <div class="popupClass" id="Prdoutofstock" style="display: none;">
+            <div class="popupbottmshade popupdeleteheader">
+             <h1 class="fontnormal marginnone">
+              Out Of Stock
+             </h1>
+            </div>
+            <br/>
+            <div class="boxshadowstyle">
+             <div class="PopUpContentDiv">
+              <h5 class="marginnone l-space5 PopUpContentSpan">
+               This item is currently out of stock, and will be back ordered..
+              </h5>
+             </div>
+             <div class="divok prdtechdivmar">
+              <input class="lstfavourhbtn lstfavourhbtnf" id="Prdoutok" name="dnn$ctr1335$View$ctl00$Prdoutok" type="submit" value="CONFIRM"/>
+             </div>
+            </div>
+           </div>
+           <div class="popupClass" id="Prdoutofstocklist" style="display: none;">
+            <div class="popupbottmshade popupdeleteheader">
+             <h1 class="fontnormal marginnone">
+              Out Of Stock
+             </h1>
+            </div>
+            <br/>
+            <div class="boxshadowstyle">
+             <div class="PopUpContentDiv">
+              <h5 class="marginnone l-space5 PopUpContentSpan">
+               This item is currently out of stock, and will be back ordered..
+              </h5>
+             </div>
+             <div class="divok prdtechdivmar">
+              <input class="lstfavourhbtn lstfavourhbtnf" id="Prdoutoklist" name="dnn$ctr1335$View$ctl00$Prdoutoklist" type="submit" value="CONFIRM"/>
+             </div>
+            </div>
+           </div>
+           <div class="popupClass" id="Prdoutofstockcrlist" style="display: none;">
+            <div class="popupbottmshade popupdeleteheader">
+             <h1 class="fontnormal marginnone">
+              Out Of Stock
+             </h1>
+            </div>
+            <br/>
+            <div class="boxshadowstyle">
+             <div class="PopUpContentDiv">
+              <h5 class="marginnone l-space5 PopUpContentSpan">
+               This item is currently out of stock, and will be back ordered..
+              </h5>
+             </div>
+             <div class="divok prdtechdivmar">
+              <input class="lstfavourhbtn lstfavourhbtnf" id="Prdoutokcrlist" name="dnn$ctr1335$View$ctl00$Prdoutokcrlist" type="submit" value="CONFIRM"/>
+             </div>
+            </div>
+           </div>
+           <input id="HdDivision" name="dnn$ctr1335$View$ctl00$HdDivision" type="hidden"/>
+           <input id="HdnRelatedprdsk" name="dnn$ctr1335$View$ctl00$HdnRelatedprdsk" type="hidden" value="68083,68083,"/>
+           <!-- AddtoList Popup -->
+           <div class="popupClass prdshoplistdivf" id="Popuocreateuserbutton" style="display: none;">
+            <div class="popupbottmshade popupdeleteheader">
+             <h1 class="fontnormal marginnone">
+              Shopping List
+             </h1>
+            </div>
+            <br/>
+            <div class="boxshadowstyle">
+             <div>
+              <div class="PopUpContentDiv prdshoplistdivse">
+               <h5 class="marginnone l-space5 PopUpContentSpan prdshoplisth5se">
+                To add items to the Shopping List, you must first be logged in...
+               </h5>
+               <div class="clearall">
+               </div>
+              </div>
+              <div class="clearall">
+              </div>
+              <div class="prdshoplistdivthd">
+               <div>
+                <input class="popupbutton lstfavourhbtn floatRight floatRight10" id="LoginButton" onclick="javascript:OpenLoginWindowFromList();" type="button" value="LOGIN"/>
+               </div>
+               <div class="prdshoplistdivfrt">
+                OR
+               </div>
+               <div class="prdshoplistdivfve">
+                <input class="popupbutton lstfavourhbtn floatRight floatRight10" id="SignupButton" onclick="javascript:OpenWindowFromList();" type="button" value="SIGN UP"/>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="popupClass prdcrlistdivf" id="PopuocreatelistAnonbutton" style="display: none;">
+            <div class="popupbottmshade popupdeleteheader" id="dnn_ctr1335_View_ctl00_Div3">
+             <h1 class="fontnormal marginnone">
+              Create a List
+             </h1>
+            </div>
+            <br/>
+            <div class="boxshadowstyle">
+             <div class="PopUpContentDiv prdcrlistdivsec">
+              <h5 class="marginnone l-space5 PopUpContentSpan prdcrlistdivmar">
+               Please enter the name of your new list:
+              </h5>
+              <div class="lstSrchdiv prdcrlistdivthd">
+               <div class="lstSrchbtn IE_Filter_grad prdcrlistdivfrt">
+                <label class="prdcrlistlblf" for="CreateListAnonTextBox">
+                 List Name:
+                </label>
+               </div>
+               <div class="srchbox1 createdivmac createlistbuttoninputdiv">
+                <input class="lsttxtsrchbox H5 prdcrlistinpff" id="CreateListAnonTextBox" name="dnn$ctr1335$View$ctl00$CreateListAnonTextBox" onblur="if(this.value == '') { this.value='i.e. wish-list, to booklist next year, save for later'}" onfocus="if (this.value == 'i.e. wish-list, to booklist next year, save for later') {this.value=''}" type="text" value="i.e. wish-list, to booklist next year, save for later"/>
+               </div>
+              </div>
+              <div class="clearall">
+              </div>
+              <div class="dnnFormWarning prdcrlistdivfve" id="errorDiv4" style="display: none;">
+              </div>
+              <div class="clearall">
+              </div>
+             </div>
+             <div class="PopUpContentDiv prdcrlistdivsix">
+              <h5 class="marginnone l-space5 macleft PopUpContentSpan prdcrlisth5sec">
+               To create and save a list you must first be logged into your user acccount
+               <br/>
+               Creating an accout is free and easy.
+              </h5>
+              <div class="clearall">
+              </div>
+             </div>
+             <div class="prdcrlistdivsev">
+              <input class="popupbutton lstfavourhbtn floatRight10 prdcrlistbtnlst" id="CreateListLoginButton" name="dnn$ctr1335$View$ctl00$CreateListLoginButton" type="submit" value="LOGIN"/>
+              <div class="prdcrlistdivlst">
+               OR
+              </div>
+              <input class="popupbutton lstfavourhbtn floatRight floatRight10 prdcrlistbtnlstt" id="CreateListSignUpButton" name="dnn$ctr1335$View$ctl00$CreateListSignUpButton" type="submit" value="SIGN UP"/>
+             </div>
+            </div>
+           </div>
+           <!-- AddtoList Popup -->
+           <script src="/DesktopModules/ProductDetail/Productdetail.js?v=3" type="text/javascript">
+           </script>
+          </div>
+          <!-- End_Module_1335 -->
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="footer-all">
+    <div class="scrolltotop">
+     <a href="#">
+      <span class="ico-backtotop">
+      </span>
+      Back To Top
+     </a>
+    </div>
+    <div id="footer_top">
+     <div class="he-wrapper">
+      <div class="he-footerlist noborder">
+       <span class="ico-footer1">
+       </span>
+       <ul>
+        <li>
+         <a href="/">
+          Corporate Home
+         </a>
+        </li>
+        <li>
+         <a href="/primary">
+          Primary
+         </a>
+        </li>
+        <li>
+         <a href="/secondary">
+          Secondary
+         </a>
+        </li>
+        <li>
+         <a href="/university">
+          University
+         </a>
+        </li>
+        <li>
+         <a href="/tafe-rto">
+          TAFE / RTO
+         </a>
+        </li>
+        <li>
+         <a href="/elt">
+          English Language Teaching
+         </a>
+        </li>
+        <li>
+         <a href="/gale">
+          Gale Library Reference
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="he-footerlist">
+       <span class="ico-footer2">
+       </span>
+       <ul>
+        <li>
+         <a href="/booksellers">
+          Booksellers
+         </a>
+        </li>
+        <li>
+         <a href="/university/instructor">
+          Instructors - University
+         </a>
+        </li>
+        <li>
+         <a href="/tafe-rto/instructor">
+          Instructors - TAFE / RTO
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="he-footerlist">
+       <span class="ico-footer3">
+       </span>
+       <ul>
+        <li>
+         <a href="/contact-us">
+          Contact Us
+         </a>
+        </li>
+        <li>
+         <a href="/about-us">
+          About Us
+         </a>
+        </li>
+        <li>
+         <a href="/permissions">
+          Permissions
+         </a>
+        </li>
+        <li>
+         <a href="/accessibility">
+          Accessibility
+         </a>
+        </li>
+        <li>
+         <a href="/careers">
+          Careers
+         </a>
+        </li>
+        <li>
+         <a href="/help">
+          Help
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="he-footerlist">
+       <span class="ico-footer4">
+       </span>
+       <ul>
+        <li>
+         <a href="/delivery">
+          Shipping &amp; Delivery
+         </a>
+        </li>
+        <li>
+         <a href="/search?division=primary&amp;q=">
+          Primary Catalogue
+         </a>
+        </li>
+        <li>
+         <a href="/search?division=secondary&amp;q=">
+          Secondary Catalogue
+         </a>
+        </li>
+        <li>
+         <a href="/search?division=university&amp;q=">
+          University Catalogue
+         </a>
+        </li>
+        <li>
+         <a href="/search?division=tafe-rto&amp;q=">
+          TAFE / RTO Catalogue
+         </a>
+        </li>
+        <li>
+         <a href="/search?division=gale&amp;q=">
+          Gale Catalogue
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="he-footer">
+     <div class="he-wrapper">
+      <div class="footer-leftmenu">
+       <ul>
+        <li class="footer-noborder">
+         <a href="/terms-and-conditions">
+          Terms &amp; Conditions
+         </a>
+        </li>
+        <li>
+         <a href="/privacy">
+          Privacy
+         </a>
+        </li>
+        <li>
+         <a href="/copyright">
+          Copyright
+         </a>
+        </li>
+        <li>
+         <a href="/disclaimer">
+          Disclaimer
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-rightmenu">
+       <div class="copyright">
+        © 2016 Cengage Learning Australia Limited | ABN:14058280149 IRD675786748598
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- Begin Inspectlet -->
+    <script id="inspectletjs" type="text/javascript">
+     if(location.href.toLowerCase().indexOf('type=auto')>-1){$('#loginlnk').click();}var path = window.location.pathname;if(path.indexOf("/search") != 0 && path.indexOf("/primary") != 0 && path.indexOf("/secondary") != 0 && path.indexOf("/ecollection") != 0){ window.__insp = window.__insp || [];__insp.push(["wid", 2106033206]);(function() {function __ldinsp(){var insp = document.createElement("script"); insp.type = "text/javascript"; insp.async = true; insp.id = "inspsync"; insp.src = ("https:" == document.location.protocol ? "https" : "http") + "://cdn.inspectlet.com/inspectlet.js"; var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(insp, x); }if (window.attachEvent){window.attachEvent("onload", __ldinsp);}else{window.addEventListener("load", __ldinsp, false);}})();};
+    </script>
+    <!-- End Inspectlet -->
+   </div>
+   <input id="Hiddenpageresult" name="dnn$Hiddenpageresult" type="hidden" value="Beforeclick"/>
+   <div style="display: none;">
+    <input id="hiddenbutton" name="dnn$hiddenbutton" style="display: none;" type="submit" value=" "/>
+   </div>
+   <input id="ScrollTop" name="ScrollTop" type="hidden"/>
+   <input id="__dnnVariable" name="__dnnVariable" type="hidden" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`405`,`evoq_TabId`:`405`,`evoq_PageLanguage`:`en-US`,`evoq_ContentItemId`:`-1`,`evoq_UrlReferrer`:`https://www.google.com/search?q=computing and informatics\u0026rct=j\u0026start=90`,`evoq_UrlPath`:`https%3a%2f%2fcengage.com.au%2fproduct%2ftitle%2fvce-informatics-units-3-4-student-book-with-4%2fisbn%2f9780170364829`,`evoq_UrlQuery`:`%3fTabId%3d405%26title%3dvce-informatics-units-3-4-student-book-with-4%26isbn%3d9780170364829%26language%3den-US`,`evoq_ContentItemReferrer`:`-1`,`evoq_PersonalizedUrlReferrer`:`-1`,`evoq_DisableAnalytics`:`False`}"/>
+   <input id="_userDomainForGA" name="_userDomainForGA" type="hidden" value="No"/>
+   <input id="_storeName" name="_storeName" type="hidden" value="S05-INTL"/>
+   <input id="CheckLogin" name="CheckLogin" type="hidden" value="false"/>
+   <input id="corpinviteesk" name="corpinviteesk" type="hidden" value="false"/>
+   <input id="autocountrypopup" name="autocountrypopup" type="hidden" value="true"/>
+   <input id="higher" name="higher" type="hidden" value="university"/>
+   <input id="vocational" name="vocational" type="hidden" value="tafe / rto"/>
+   <input id="vocationalpage" name="vocationalpage" type="hidden" value="tafe-rto"/>
+   <input id="higherpage" name="higherpage" type="hidden" value="university"/>
+   <input id="AsianCountryHdn" name="AsianCountryHdn" type="hidden" value="False"/>
+   <input name="__RequestVerificationToken" type="hidden" value="6zFr1Oi73Cw8svEPHhCCdjEWVYRrWQ16m_4JOJ0Dwv5Dk3OU26S7Q8CV6_38662J_Rj505B7phg-7p_hnl5xpBJGZtsnplOKyDppLtszdoeh8O5pyJFXmZmRvPQ1"/>
+   <span id="IndexValue" style="display: none;">
+    0
+   </span>
+   <script type="text/javascript">
+    //<![CDATA[
+(function() {
+
+  var analyticsSettings;
+  var initAnalyticsSettings = function (e) {
+    analyticsSettings = {
+      pageStart: analytics_page_startTime,
+      servicesFramework: $.ServicesFramework(-1)
+    };
+  };
+  if(window.addEventListener) {
+    window.addEventListener('load', initAnalyticsSettings, false);
+  } else {
+    window.attachEvent('onload', initAnalyticsSettings);
+  };
+
+  var eventName = (window.onpagehide || window.onpagehide === null) ? 'pagehide' : 'unload';
+  if (window.addEventListener) {
+    window.addEventListener(eventName, function (e) {
+      if (analyticsSettings) {
+        analyticsSettings.eventSource = 'pagehide';
+        if(dnn && dnn.analytics) { dnn.analytics.clientUnloading(e,analyticsSettings); }
+      }
+    }, false);
+  } else {
+    window.attachEvent('on' + eventName, function (e) {
+      if (analyticsSettings) {
+        analyticsSettings.eventSource = 'pagehide';
+        if(dnn && dnn.analytics) { dnn.analytics.clientUnloading(e,analyticsSettings); }
+      }
+    });
+  }
+
+})();
+//]]>
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+Getstudentproduct();//]]>
+   </script>
+  </form>
+  <div aria-hidden="false" id="updateProgress1" role="status" style="display: none;">
+  </div>
+  <script src="/Resources/Shared/scripts/css_browser_selector.js" type="text/javascript">
+  </script>
+  <script src="/Resources/Shared/scripts/Bootstrap/js/bootstrap.min.js" type="text/javascript">
+  </script>
+  <script src="/Resources/Shared/scripts/kendoui/latest/kendo.touch.min.js" type="text/javascript">
+  </script>
+  <script src="/Resources/Shared/scripts/jquery/jquery.mCustomScrollbar.concat.min.js" type="text/javascript">
+  </script>
+ </body>
+</html>

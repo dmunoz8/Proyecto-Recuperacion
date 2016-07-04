@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <link href="http://www.robots.ox.ac.uk/~davidc/images/icon.png" rel="SHORTCUT ICON"/>
+  <title>
+   Computational Health Informatics
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+  <script src="js/cufon-yui.js" type="text/javascript">
+  </script>
+  <script src="js/arial.js" type="text/javascript">
+  </script>
+  <script src="js/cuf_run.js" type="text/javascript">
+  </script>
+  <script src="js/jquery-1.3.2.min.js" type="text/javascript">
+  </script>
+  <script src="js/radius.js" type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-314719-1', 'ox.ac.uk');
+  ga('send', 'pageview');
+  </script>
+  <div class="main">
+   <div class="header">
+    <div class="header_resize">
+     <div class="logo">
+      <a href="index.php">
+       <img alt="Computational Health Informatic" border="0/" class="chi_logo" src="images/chi_logo.gif"/>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="content">
+    <div class="content_resize">
+     <div class="mainbar">
+      <div class="article">
+       <h2>
+        <span>
+         Introduction
+        </span>
+       </h2>
+       <div class="clr">
+       </div>
+       <img alt="" class="fr" src="images/intro.gif" width="260/"/>
+       <p>
+        Welcome to the web-site of the
+        <b>
+         Computational Health Informatics
+        </b>
+        (or CHI) laboratory.  Our group exists at the interface between
+        <i>
+         machine learning
+        </i>
+        ,
+        <i>
+         biomedical signal processing
+        </i>
+        , and
+        <i>
+         health informatics
+        </i>
+        .  Members of the group share a common interest in exploiting the very large quantities of data that are routinely acquired throughout the healthcare system, using scalable, probabilistic methods to address this "big data" problem.
+       </p>
+       <p>
+        Our group has some of the world's largest anonymised healthcare datasets, acquired in collaboration with the group of
+        <a href="http://www.ibme.ox.ac.uk/research/biomedical-signal-processing-instrumentation/prof-l-tarassenko" target="_blank">
+         Prof. Lionel Tarassenko
+        </a>
+        .  Our research includes work with mobile ("m-health") projects and electronic health record (EHR) data, across scales from the massively multivariate (including anonymised genomics) to the high-rate data acquired from wearable sensors.
+       </p>
+       <p>
+        <img alt="" class="fl" src="images/genome.png" width="260/"/>
+        Systems developed as a result of our work are routinely used in the care of patients within the UK NHS, and for improving access to healthcare in the developing world.  Clinical collaboration is at the heart of each of our projects, with biomedical engineers working alongside clinical colleagues, which ensures that each project feeds directly into the care of patients.  Please see our [
+        <a href="projects.php">
+         projects
+        </a>
+        ] page for further details.
+       </p>
+       <p>
+        We are based at the
+        <a href="http://www.ibme.ox.ac.uk" target="_blank">
+         Institute of Biomedical Engineering
+        </a>
+        (IBME), within the
+        <a href="http://www.eng.ox.ac.uk" target="_blank">
+         Department of Engineering Science
+        </a>
+        of the University of Oxford.
+       </p>
+       <p>
+        Our collaborators include world-leading clinicians from the
+        <a href="http://www.ouh.nhs.uk/" target="_blank">
+         Oxford University Hospitals NHS Trust
+        </a>
+        , the
+        <a href="http://www.georgeinstitute.org/" target="_blank">
+         George Institute for Global Health
+        </a>
+        , the
+        <a href="http://www.oxcaht.org/" target="_blank">
+         Oxford Centre for Affordable Healthcare Technology
+        </a>
+        , specialists in developing regions from the
+        <a href="http://www.geog.ox.ac.uk/" target="_blank">
+         School of Geography and the Environment
+        </a>
+        , and numerous industrial bodies.
+       </p>
+       <p>
+        <img alt="" class="fr" src="images/news_151127.jpg" width="150/"/>
+        Our work is supported by the UK Department of Health (DoH), the Wellcome Trust, the NHS National Institute for Health Research (NIHR), the Engineering &amp; Physical Science Research Council (EPSRC), the UK Department for International Development (DfID), the Natural Environment Research Council (NERC), UNICEF, the Gates Foundation, Balliol College, Microsoft Research, ARM, and others.
+       </p>
+       <p>
+        The IBME, of which the CHI Lab is a part, was recently awarded the Queen's Anniversary Prize, which recognises research institutions that have demonstrated excellence, innovation, impact, and societal benefit.
+       </p>
+       <p>
+        Please use the
+        <a href="contact.php">
+         contact
+        </a>
+        page to get in touch - we welcome questions from potential collaborators and those looking to join our group.
+       </p>
+      </div>
+     </div>
+     <div class="sidebar">
+      <div class="gadget">
+       <h2 class="star">
+        <span>
+         Group
+        </span>
+        Pages
+       </h2>
+       <div class="clr">
+       </div>
+       <ul class="sb_menu">
+        <li>
+         <a href="index.php">
+          Home
+         </a>
+        </li>
+        <li>
+         <a href="news.php">
+          News
+         </a>
+        </li>
+        <li>
+         <a href="people.php">
+          People
+         </a>
+        </li>
+        <li>
+         <a href="projects.php">
+          Projects
+         </a>
+        </li>
+        <li>
+         <a href="publications.php">
+          Publications
+         </a>
+        </li>
+        <li>
+         <a href="code.php">
+          Code
+         </a>
+        </li>
+        <li>
+         <a href="meetings.php">
+          Lab Meetings
+         </a>
+        </li>
+        <li>
+         <a href="contact.php">
+          Contact
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="gadget">
+       <h2 class="star">
+        <span>
+         News
+        </span>
+       </h2>
+       <div class="clr">
+       </div>
+       <ul class="sb_menu">
+        <li>
+         <a href="news.php#news1">
+          CHI Lab Lectures
+         </a>
+        </li>
+        <li>
+         <a href="news.php#news2">
+          Smart Handpump Installation
+         </a>
+        </li>
+        <li>
+         <a href="news.php#news3">
+          Achut joins CHI Lab
+         </a>
+        </li>
+        <li>
+         <a href="news.php">
+          More news...
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="clr">
+     </div>
+    </div>
+   </div>
+   <div class="footer">
+    <div class="footer_resize">
+     <p class="lf">
+      © Copyright University of Oxford.
+     </p>
+     <p class="rf">
+      Updated March, 2016
+     </p>
+     <div class="clr">
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+  <link href="/sites/all/themes/project/img/favicon/apple-touch-icon.png" rel="apple-touch-icon"/>
+  <link href="/sites/all/themes/project/img/favicon/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="/sites/all/themes/project/img/favicon/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/sites/all/themes/project/img/favicon/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/sites/all/themes/project/img/favicon/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/sites/all/themes/project/img/favicon/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/sites/all/themes/project/img/favicon/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/sites/all/themes/project/img/favicon/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/sites/all/themes/project/img/favicon/favicon.ico?v=1" rel="shortcut icon" type="image/x-icon"/>
+  <title>
+   Health Informatics | Unitec
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="http://www.unitec.ac.nz/misc/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <meta content="To critically review the application of information technology in health care systems. To develop critical knowledge on health informatics concepts and technologies. To critically review the business impact of introducing information technology in health care systems." name="description"/>
+  <meta content="Drupal 7 (http://drupal.org)" name="generator"/>
+  <link href="http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics" rel="canonical"/>
+  <link href="http://www.unitec.ac.nz/node/53981" rel="shortlink"/>
+  <link href="http://www.unitec.ac.nz/sites/default/files/public/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.unitec.ac.nz/sites/default/files/public/css/css_UqOoffvk-FuWbV_8eQT7rRkyNlgHbJYnIPpRiPfBsCw.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.unitec.ac.nz/sites/default/files/public/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://www.unitec.ac.nz/sites/default/files/public/css/css_fYaLINHHpyio8CChnmEqlbXKkItHHh7LiOHuG7YMiPU.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.unitec.ac.nz/sites/default/files/public/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.unitec.ac.nz/sites/default/files/public/css/css_grtBY51pmauXsOZiu6eQi82c5Llu7WVDrbh1rOazs_U.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://www.unitec.ac.nz/sites/default/files/public/css/css_diVnp6dgTv-3OIcP5gJvfGnic2uNE2L0sdhknt6qPsE.css" media="print" rel="stylesheet" type="text/css"/>
+  <script src="http://code.jquery.com/jquery-1.9.1.min.js">
+  </script>
+  <script type="text/javascript">
+   // see https://www.drupal.org/node/1058168
+   			var $jq = jQuery.noConflict();
+  </script>
+  <script src="http://www.unitec.ac.nz/sites/default/files/public/js/js_XFy_K7NmIJyFz8bYH3okdPSJLyiucbnEZbL8hY0ppN0.js" type="text/javascript">
+  </script>
+  <script src="http://www.unitec.ac.nz/sites/default/files/public/js/js_pLJhikCmas_-ms6sHbM9Ol0-KrZI1iJCXHNELBJDAP8.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"project","theme_token":"l1YdTnzUtnbdl1mdNQah-z9aTILhVkSuwjw-JlanuVk","js":{"sites\/default\/files\/public\/minify\/jquery.min.js":1,"sites\/default\/files\/public\/minify\/jquery.once.min.js":1,"sites\/default\/files\/public\/minify\/drupal.min.js":1,"sites\/default\/files\/public\/minify\/lib.min.min.js":1,"sites\/default\/files\/public\/minify\/init.min.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/find-content\/find_content.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/drupal-ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/project\/css\/main.css":1,"sites\/all\/themes\/project\/css\/extras.css":1,"sites\/all\/themes\/project\/css\/print.css":1}}});
+//--><!]]>
+  </script>
+ </head>
+ <body class="peppermint site-primary">
+  <div class="outer-wrap">
+   <!-- template specific body -->
+   <!-- header -->
+   <header class="header t5-header" id="top" role="banner">
+    <img class="print-logo" src="/sites/all/themes/project/img/logos/img-logo-print.jpg"/>
+    <div class="inner-wrap">
+     <div class="header-overlay">
+     </div>
+     <!-- Mobile Header -->
+     <div class="header-bar-mobile">
+      <a class="nav-toggle site icon-menu-burger" href="#">
+       <span>
+        Toggle nav
+       </span>
+      </a>
+      <h1>
+       <a href="/unitec">
+        Unitec
+       </a>
+      </h1>
+      <a class="nav-toggle global icon-unitec" href="#">
+       <span>
+        Toggle site nav
+       </span>
+      </a>
+     </div>
+     <!-- Top Nav -->
+     <nav class="site-nav-global btn-dd">
+      <div class="nav-header">
+       <h2>
+        Select Site
+       </h2>
+      </div>
+      <a class="button small" href="">
+       Select site
+      </a>
+      <ul class="btn-dd-items">
+       <li class="selected peppermint-site-link">
+        <a class="selected" href="/">
+         Unitec
+        </a>
+       </li>
+       <li class=" peach-site-link">
+        <a class="" href="/current-students">
+         Current Students
+        </a>
+       </li>
+       <li class=" apple-site-link">
+        <a class="" href="/international">
+         International
+        </a>
+       </li>
+       <li class=" raspberry-site-link">
+        <a class="" href="/maori">
+         Māori
+        </a>
+       </li>
+       <li class=" aubergine-site-link">
+        <a class="" href="/pacific">
+         Pacific
+        </a>
+       </li>
+       <li class=" peppermint-site-link">
+        <a class="" href="/alumni">
+         Alumni
+        </a>
+       </li>
+       <li class=" mint-site-link">
+        <a class="" href="/about-us">
+         About Us
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <!-- Site Nav -->
+     <nav class="site-nav">
+      <div class="nav-header">
+       <h2>
+        Unitec
+       </h2>
+      </div>
+      <ul class="block site-nav-terminus site-nav-1">
+       <li>
+        <a class="selected" href="/career-and-study-options">
+         Career and study options
+        </a>
+       </li>
+       <li>
+        <a class="" href="/why-choose-unitec">
+         Why choose Unitec
+        </a>
+       </li>
+       <li>
+        <a class="" href="/application-and-funding">
+         Application and funding
+        </a>
+       </li>
+       <li>
+        <a class="" href="/research">
+         Research
+        </a>
+       </li>
+       <li class="secondary">
+        <a class="" href="/about-us/contact-us">
+         Contact us
+        </a>
+       </li>
+       <li class="secondary">
+        <a class="" href="/about-us/frequently-asked-questions">
+         FAQs
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <nav class="primary-secondary">
+      <li>
+       <a class="" href="/about-us/careers">
+        Careers
+       </a>
+      </li>
+      <li>
+       <a class="" href="/about-us/contact-us">
+        Contact us
+       </a>
+      </li>
+      <li>
+       <a class="" href="/about-us/frequently-asked-questions">
+        FAQs
+       </a>
+      </li>
+      <li>
+       <a class="" href="https://myportal.unitec.ac.nz/welcome">
+        Student Portal
+       </a>
+      </li>
+     </nav>
+     <!-- logo fill -->
+     <!-- Search Trigger -->
+     <a class="search-trigger" href="">
+      Search
+     </a>
+     <!-- Polygon wrapper -->
+     <div class="hd-polygon-wrap">
+     </div>
+     <!-- Search overlay -->
+     <div class="search-overlay">
+      <div class="search-menu">
+       <span class="search-guide">
+        <strong>
+         Search the Unitec website
+        </strong>
+        <span class="hide-mobile">
+         (Hit ESC or click anywhere to cancel)
+        </span>
+       </span>
+       <span class="search-close icon-close">
+        Close
+       </span>
+      </div>
+      <form action="/node/20908" method="get">
+       <div>
+        <input autocomplete="off" class="search-input" id="search-input" name="search_q" placeholder="Start typing to search" spellcheck="false"/>
+       </div>
+       <input autocomplete="off" id="SearchSubmit" style="display:none;" type="submit"/>
+      </form>
+     </div>
+    </div>
+   </header>
+   <div class="inner-wrap">
+    <!-- main content area -->
+    <article class="sticky-modal">
+     <!-- modal toolbar -->
+     <div class="modal-toolbar">
+      <div class="article-share">
+       <h3>
+        Share on
+       </h3>
+       <ul>
+        <li>
+         <a class="icon-facebook" href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;p[images][0]=http://www.unitec.ac.nz/sites/default/files/public/_resampled/default.jpg-752x424.jpg&amp;p[title]=Health Informatics">
+          <span>
+           Share on Facebook
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="icon-twitter" href="http://twitter.com/intent/tweet?url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;text=Health Informatics&amp;hashtags=Unitecnz">
+          <span>
+           Share on Twitter
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="icon-google" href="https://plus.google.com/share?url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics">
+          <span>
+           Share on Google+
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="icon-linkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;title=Health Informatics&amp;summary=Health Informatics&amp;source=Unitec">
+          <span>
+           Share on LinkedIn
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <a class="icon-close modal-trigger" href="#">
+       Close
+      </a>
+     </div>
+     <div class="article-body">
+      <header class="width-100">
+       <h2>
+        Health Informatics                (ISCG8044)
+       </h2>
+      </header>
+      <div class="article-main width-100 mobile-accordion">
+       <dl>
+        <dt>
+         Level:
+        </dt>
+        <dd>
+         8
+        </dd>
+        <dt>
+         Credits:
+        </dt>
+        <dd>
+         15 (0.125 EFTS)
+        </dd>
+        <dt>
+         Compulsory:
+        </dt>
+        <dd>
+         No
+        </dd>
+        <dt>
+         Aim:
+        </dt>
+        <dd>
+         To critically review the application of information technology in health care systems. To develop critical knowledge on health informatics concepts and technologies. To critically review the business impact of introducing information technology in health care systems.
+        </dd>
+        <dt>
+         Pre-requisites / Co-requisites:
+        </dt>
+        <dd>
+        </dd>
+        <dt>
+         Timetable:
+        </dt>
+        <dd>
+         Choose your class for this course from the option(s) below. You will need to attend all the sessions in that class to complete the course. Where more than one class number is shown, choose one of them and attend all sessions within that class number. (Note: If a class is held in different locations at the same time, you only need to attend all the sessions in one of the locations.)
+        </dd>
+        <dd>
+         There are no classes on public holidays.
+        </dd>
+       </dl>
+       <div class="accordion-section">
+        <h4 class="accordion-trigger">
+         Class: 6205
+        </h4>
+        <div class="table-mob-stack">
+         <table cellspacing="0" class="table timetable" summary="Class 6205">
+          <thead>
+           <tr>
+            <th>
+             From – To
+            </th>
+            <th>
+             Session
+            </th>
+            <th>
+             Day
+            </th>
+            <th>
+             Time
+            </th>
+            <th>
+             Campus (Room)
+            </th>
+           </tr>
+          </thead>
+          <tbody>
+           <tr>
+            <td data-title="From - To" rowspan="1">
+             30 Jul 16 - 31 Jul 16
+            </td>
+            <td data-title="Session" rowspan="1">
+             Computing
+            </td>
+            <td class="day-cell">
+             Saturday, Sunday
+            </td>
+            <td>
+             08:30 - 12:30
+            </td>
+            <td>
+             Mt Albert                                                                                                                                (182-3011)
+            </td>
+           </tr>
+           <tr>
+            <td data-title="From - To" rowspan="1">
+             27 Aug 16 - 4 Sep 16
+            </td>
+            <td data-title="Session" rowspan="1">
+             Computing
+            </td>
+            <td class="day-cell">
+             Saturday, Sunday
+            </td>
+            <td>
+             08:30 - 12:30
+            </td>
+            <td>
+             Mt Albert                                                                                                                                (182-3011)
+            </td>
+           </tr>
+           <tr>
+            <td data-title="From - To" rowspan="1">
+             22 Oct 16 - 23 Oct 16
+            </td>
+            <td data-title="Session" rowspan="1">
+             Computing
+            </td>
+            <td class="day-cell">
+             Saturday, Sunday
+            </td>
+            <td>
+             08:30 - 12:30
+            </td>
+            <td>
+             Mt Albert                                                                                                                                (182-3011)
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+       <!-- 14/9/15 Jeff: added to display all programme pages related to the course: -->
+       <dl>
+        <dd>
+         Note: This course is offered as part of
+         <a href="/career-and-study-options/computing-and-information-technology/master-of-computing">
+          Master of Computing
+         </a>
+         ,
+         <a href="/career-and-study-options/computing-and-information-technology/postgraduate-diploma-in-computing">
+          Postgraduate Diploma in Computing
+         </a>
+         .
+        </dd>
+       </dl>
+       <!-- end of 14/9/15. -->
+       <sidebar>
+        <div class="article-share">
+         <h3>
+          Share on
+         </h3>
+         <ul>
+          <li>
+           <a class="icon-facebook" href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;p[images][0]=http://www.unitec.ac.nz/sites/default/files/public/_resampled/default.jpg-752x424.jpg&amp;p[title]=Health Informatics">
+            <span>
+             Share on Facebook
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="icon-twitter" href="http://twitter.com/intent/tweet?url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;text=Health Informatics&amp;hashtags=Unitecnz">
+            <span>
+             Share on Twitter
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="icon-google" href="https://plus.google.com/share?url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics">
+            <span>
+             Share on Google+
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="icon-linkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;title=Health Informatics&amp;summary=Health Informatics&amp;source=Unitec">
+            <span>
+             Share on LinkedIn
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </sidebar>
+      </div>
+     </div>
+    </article>
+    <!-- share + publish date etc -->
+    <div class="article-footer">
+     <div class="article-share">
+      <h3>
+       Share on
+      </h3>
+      <ul>
+       <li>
+        <a class="icon-facebook" href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;p[images][0]=http://www.unitec.ac.nz/sites/default/files/public/_resampled/default.jpg-752x424.jpg&amp;p[title]=Health Informatics">
+         <span>
+          Share on Facebook
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="icon-twitter" href="http://twitter.com/intent/tweet?url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;text=Health Informatics&amp;hashtags=Unitecnz">
+         <span>
+          Share on Twitter
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="icon-google" href="https://plus.google.com/share?url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics">
+         <span>
+          Share on Google+
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="icon-linkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.unitec.ac.nz/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics&amp;title=Health Informatics&amp;summary=Health Informatics&amp;source=Unitec">
+         <span>
+          Share on LinkedIn
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="article-meta">
+      Page last edited:
+      <span>
+       23 January 2016
+      </span>
+     </div>
+    </div>
+    <!-- related articles -->
+    <div class="footer-cta-row">
+     <h2 class="header-side-lines">
+      <span>
+       Related Articles
+      </span>
+     </h2>
+     <div class="packery-container article-tile-container">
+      <div class="cta-panel cta-thumb-article item article-tile ">
+       <div class="cta-img">
+        <a class="article-link" href="/about-us/it-education-opening-doors">
+         <img src="http://www.unitec.ac.nz/sites/default/files/public/_resampled/Mobile-competition-thumbnail_0.jpg-350x198.jpg"/>
+        </a>
+       </div>
+       <div class="cta-body">
+        <div class="cta-reference">
+         <a href="/about-us/contact-us/staff-directory/dr-mahsa-mohaghegh">
+          Dr Mahsa Mohaghegh
+         </a>
+        </div>
+        <h3>
+         <a class="article-link" href="/about-us/it-education-opening-doors">
+          IT Education opening doors
+         </a>
+        </h3>
+        <div class="cta-excerpt">
+         It’s a male dominated industry with a reputation as the domain of the geek, but that isn’t stopping two young women from pursuing careers in computing.
+        </div>
+       </div>
+      </div>
+      <div class="cta-panel cta-thumb-article item article-tile ">
+       <div class="cta-img">
+        <a class="article-link" href="/about-us/tertiary-teaching-excellence-award-for-unitec-lecturer">
+         <img src="http://www.unitec.ac.nz/sites/default/files/public/_resampled/John%20Davies%20tertiary%20excellence%20Thumb.jpg-350x198.jpg"/>
+        </a>
+       </div>
+       <div class="cta-body">
+        <div class="cta-reference">
+         <a href="/about-us/our-people/our-staff">
+          Our staff
+         </a>
+        </div>
+        <h3>
+         <a class="article-link" href="/about-us/tertiary-teaching-excellence-award-for-unitec-lecturer">
+          Tertiary Teaching Excellence award for Unitec lecturer
+         </a>
+        </h3>
+        <div class="cta-excerpt">
+         Performing and Screen Arts Lecturer John Davies receives a 2014 Ako Aotearoa Tertiary Teaching Excellence Award.
+        </div>
+       </div>
+      </div>
+      <div class="cta-panel cta-thumb-article item article-tile ">
+       <div class="cta-img">
+        <a class="article-link" href="/about-us/mobile-app-competition">
+         <img src="http://www.unitec.ac.nz/sites/default/files/public/_resampled/Unitec_Mobile_App_Competition%20Thumb.jpg-350x198.jpg"/>
+        </a>
+       </div>
+       <div class="cta-body">
+        <div class="cta-reference">
+         <a href="/career-and-study-options/computing-and-information-technology">
+          Computing and Information Technology
+         </a>
+        </div>
+        <h3>
+         <a class="article-link" href="/about-us/mobile-app-competition">
+          Mobile App competition
+         </a>
+        </h3>
+        <div class="cta-excerpt">
+         Mobile App Competition for Girls to stimulate the creativity and inventiveness of Year 11 to 13 female high school students.
+        </div>
+       </div>
+      </div>
+      <div class="cta-panel cta-thumb-article item article-tile ">
+       <div class="cta-img">
+        <a class="article-link" href="/about-us/new-professor-of-computing">
+         <img src="http://www.unitec.ac.nz/sites/default/files/public/_resampled/Unitec%27s%20new%20professor%20-%20thumb.jpg-350x198.jpg"/>
+        </a>
+       </div>
+       <div class="cta-body">
+        <div class="cta-reference">
+         <a href="/about-us/our-people/our-staff">
+          Our staff
+         </a>
+        </div>
+        <h3>
+         <a class="article-link" href="/about-us/new-professor-of-computing">
+          New professor of computing
+         </a>
+        </h3>
+        <div class="cta-excerpt">
+         Dr Hossein Sarrafzadeh intends to keep Unitec at the forefront of computing education.
+        </div>
+       </div>
+      </div>
+     </div>
+     <a class="button large article-page-load" data-page-size="4" href="/career-and-study-options/computing-and-information-technology/master-of-computing/health-informatics?ra_page=2">
+      <span>
+       Load more articles
+      </span>
+     </a>
+    </div>
+   </div>
+   <!-- Footer -->
+   <footer class="footer">
+    <div class="inner-wrap">
+     <div class="campuses row">
+      <div class="footer-block footer-links-blocks row">
+       <h2 class="header-side-lines">
+        <span>
+         Links
+        </span>
+       </h2>
+       <!-- Icon footer tile -->
+       <div class="footer-links-block div-link" style="">
+        <div class="footer-links-block-wrapper">
+         <div class="footer-links-block-details">
+          <a href="/application-and-funding/how-to-apply">
+           <span>
+            Apply now
+           </span>
+           <br/>
+           Apply now for Semester 2, 2016
+           <br/>
+           <span class="footer-cta-link">
+            Find out more
+           </span>
+          </a>
+         </div>
+         <picture>
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source media="(min-width: 769px)" srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-apply-now-unitechome_0.png-288x164.png">
+           <source srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-apply-now-unitechome_0.png-96x45.png">
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="main image" srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-apply-now-unitechome_0.png-288x164.png"/>
+           </source>
+          </source>
+         </picture>
+        </div>
+       </div>
+       <!-- Icon footer tile -->
+       <div class="footer-links-block div-link" style="">
+        <div class="footer-links-block-wrapper">
+         <div class="footer-links-block-details">
+          <a href="/application-and-funding/scholarships-and-awards">
+           <span>
+            Scholarships
+           </span>
+           <br/>
+           Help fund your studies with a scholarship.
+           <span class="footer-cta-link">
+            Find out more
+           </span>
+          </a>
+         </div>
+         <picture>
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source media="(min-width: 769px)" srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-scholarship-unitechome_0.png-288x164.png">
+           <source srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-scholarship-unitechome_0.png-96x45.png">
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="main image" srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-scholarship-unitechome_0.png-288x164.png"/>
+           </source>
+          </source>
+         </picture>
+        </div>
+       </div>
+       <!-- Icon footer tile -->
+       <div class="footer-links-block div-link" style="">
+        <div class="footer-links-block-wrapper">
+         <div class="footer-links-block-details">
+          <a href="/about-us/summer-school-courses-2014-2015">
+           <span>
+            Summer School
+           </span>
+           <br/>
+           Get a head start on your studies at Summer School.
+           <br/>
+           <span class="footer-cta-link">
+            Find out more
+           </span>
+          </a>
+         </div>
+         <picture>
+          <!--[if IE 9]><video style="display: none;"><![endif]-->
+          <source media="(min-width: 769px)" srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-summer-school-unitechome_0.png-288x164.png">
+           <source srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-summer-school-unitechome_0.png-96x45.png">
+            <!--[if IE 9]></video><![endif]-->
+            <img alt="main image" srcset="http://www.unitec.ac.nz/sites/default/files/public/_resampled/U008791-WEB-new-cta-buttons-summer-school-unitechome_0.png-288x164.png"/>
+           </source>
+          </source>
+         </picture>
+        </div>
+       </div>
+      </div>
+      <div class="footer-block contact row">
+       <h2 class="header-side-lines">
+        <span>
+         Contact
+        </span>
+       </h2>
+       <div class="contact-body">
+        <a class="tel" href="tel:0800 10 95 10">
+         0800 10 95 10
+        </a>
+        <a class="mail" href="mailto:study@unitec.ac.nz">
+         study@unitec.ac.nz
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="footer-block social-bar row">
+      <h2>
+       Follow Unitec
+      </h2>
+      <nav>
+       <a class="icon-facebook" href="https://www.facebook.com/UnitecNZ" target="_blank">
+        <span>
+         Unitec on Facebook
+        </span>
+       </a>
+       <a class="icon-twitter" href="https://twitter.com/unitecnz" target="_blank">
+        <span>
+         Unitec on Twitter
+        </span>
+       </a>
+       <a class="icon-youtube" href="http://www.youtube.com/user/UnitecNZ" target="_blank">
+        <span>
+         Unitec on YouTube
+        </span>
+       </a>
+       <a class="icon-google" href="https://plus.google.com/+unitecnz" target="_blank">
+        <span>
+         Unitec on Google+
+        </span>
+       </a>
+       <a class="icon-linkedIn" href="http://www.linkedin.com/groups?home=&amp;gid=1039787" target="_blank">
+        <span>
+         Unitec on LinkedIn
+        </span>
+       </a>
+      </nav>
+     </div>
+     <p class="copyright">
+      © Unitec Institute of Technology, Private Bag 92025, Victoria Street West, Auckland 1142
+     </p>
+     <nav class="nav-footer-global">
+      <ul>
+       <li>
+        <a class="" href="/about-us/contact-us">
+         Contact Us
+        </a>
+       </li>
+       <li>
+        <a class="" href="/about-us/careers">
+         Careers at Unitec
+        </a>
+       </li>
+       <li>
+        <a class="" href="/about-us/staff-logins">
+         Staff
+        </a>
+       </li>
+       <li>
+        <a class="" href="/about-us/information-for-unitec-suppliers">
+         Suppliers
+        </a>
+       </li>
+       <li>
+        <a class="" href="/privacy-policy">
+         Privacy
+        </a>
+       </li>
+       <li>
+        <a class="" href="/terms-of-use">
+         Terms of Use
+        </a>
+       </li>
+       <li>
+        <a class="" href="/site-map">
+         Site Map
+        </a>
+       </li>
+      </ul>
+     </nav>
+    </div>
+   </footer>
+  </div>
+  <!-- Color declaration for js to use -->
+  <div class="color-finder">
+   <span class="color-1">
+   </span>
+   <span class="color-2">
+   </span>
+   <span class="color-3">
+   </span>
+   <span class="color-4">
+   </span>
+  </div>
+  <!-- admin buttons -->
+  <!-- dev bar -->
+  <!-- js templates -->
+  <div class="body-overlay">
+   <div>
+   </div>
+  </div>
+  <script id="article-modal-tpl" type="text/template">
+   <div id="{id}" class="modal-wrapper invisible">
+            {content}
+        </div>
+  </script>
+  <!-- OK -->
+ </body>
+</html>

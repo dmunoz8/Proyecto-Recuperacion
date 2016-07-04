@@ -1,0 +1,1728 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <style type="text/css">
+   .limitdisplay-user { display: none; }.limitdisplay-user-10 { display: inline; }.limitdisplay-user-block-10 { display: block; }
+  </style>
+  <title>
+   Centre for Informatics and Computing / Joint Scientific Support Units / Research / Ruđer Bošković Institute
+  </title>
+  <meta content="text/html; charset=utf-8" name="Content-Type"/>
+  <meta content="en-GB" name="Content-language"/>
+  <meta content="RBI" name="author"/>
+  <meta content="Leading Croatian institute in the natural and biomedical sciences and marine and environmental research." name="description"/>
+  <meta content="theoretical and experimental physics, physics and chemistry of materials, electronics, physical chemistry, organic chemistry and biochemistry, molecular biology, biomedicine, marine and environmental research " name="keywords"/>
+  <!--[if lt IE 9 ]>
+        <meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
+    <![endif]-->
+  <meta content="TRUE" name="MSSmartTagsPreventParsing"/>
+  <meta content="eZ Publish" name="generator"/>
+  <link href="/eng" rel="Home" title="Ruđer Bošković Institute front page"/>
+  <link href="/eng" rel="Index"/>
+  <link href="/eng" rel="Top" title="Centre for Informatics and Computing / Joint Scientific Support Units / Research / Ruđer Bošković Institute"/>
+  <link href="/eng/content/search" rel="Search" title="Search Ruđer Bošković Institute"/>
+  <link href="/extension/ez_irb/design/irb/images/favicon.ico" rel="Shortcut icon" type="image/x-icon"/>
+  <link href="/eng/layout/set/print/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing" media="print" rel="Alternate" title="Printable version"/>
+  <link href="/var/ezflow_site/cache/public/stylesheets/d6fd6c692d34fc15337f48056188e1d4_all.css" rel="stylesheet" type="text/css"/>
+  <link href="/extension/ez_irb/design/irb/stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <!-- IE conditional comments; for bug fixes for different IE versions -->
+  <!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezflow/design/ezflow/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+  <!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ez_irb/design/irb/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+  <!--[if lte IE 8]> <style type="text/css"> @import url(/extension/ez_irb/design/irb/stylesheets/browsers/ie8lte.css); </style> <![endif]-->
+  <!--[if lte IE 9]> <style type="text/css"> @import url(/extension/ez_irb/design/irb/stylesheets/browsers/ie9lte.css); </style> <![endif]-->
+  <script charset="utf-8" src="/var/ezflow_site/cache/public/javascript/2b93938b95f7ca4680d4d43b1f3f478f.js" type="text/javascript">
+  </script>
+  <script src="//use.typekit.net/ekh8iih.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   try{Typekit.load();}catch(e){}
+  </script>
+  <script type="text/javascript">
+   jwplayer.key="1kHXijADq+5yB04hM5jkawmHjCngc8xSp7Unlg==";
+  </script>
+  <script type="text/javascript">
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-1281718-2', 'auto');
+		  ga('send', 'pageview');
+  </script>
+ </head>
+ <body class="eng-GB">
+  <!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+  <div class="nosidemenu extrainfo section_id_1 subtree_level_0_node_id_2 subtree_level_1_node_id_62 subtree_level_2_node_id_21006 subtree_level_3_node_id_270" id="page">
+   <div id="top">
+    <div id="pre-header">
+     <div class="container_12 clearfix">
+      <div class="grid_12" id="upper-menu">
+       <div class="lang">
+        <ul>
+         <li class="other_siteaccess site_cro">
+          <a href="/eng/switchlanguage/to/cro/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+           Hrv
+          </a>
+         </li>
+         <li class="current_siteaccess site_eng">
+          <a href="/eng/switchlanguage/to/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+           Eng
+          </a>
+         </li>
+        </ul>
+       </div>
+       <ul id="nav">
+        <li class="first">
+         <a href="/eng/About-the-RBI/Contact-Us">
+          Contact us
+         </a>
+        </li>
+        <li>
+         <a href="#">
+          My RBI
+         </a>
+         <ul>
+          <li>
+           <span>
+            Administrative and Technical Services
+           </span>
+           <ul>
+            <li>
+             <a href="/eng/About-the-RBI/Public-Documents">
+              Dokumenti
+             </a>
+            </li>
+            <li>
+             <a href="http://srvuprava.irb.hr/Telim/Trazi.aspx">
+              Imenik uprave
+             </a>
+            </li>
+            <li>
+             <a href="https://mojoblak.irb.hr/index.php/apps/files/?dir=%2FIRB%20-%20Za%20zaposlenike%2FMisljenja%20o%20eticnosti%20ponasanja%20ili%20djelovanja">
+              Mišljenja o etičnosti ponašanja/djelovanja
+             </a>
+            </li>
+            <li>
+             <a href="https://cloud.irb.hr/speed">
+              Speed
+             </a>
+            </li>
+            <li>
+             <a href="http://srvuprava.irb.hr/webXdata/Default.aspx">
+              Web aplikacije uprave
+             </a>
+            </li>
+            <li>
+             <a href="/eng/O-IRB-u/Administrativne-strucne-i-tehnicke-sluzbe/Dokumenti/Zapisnici-UV-a">
+              Zapisnici UV-a
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <span>
+            CIR
+           </span>
+           <ul>
+            <li>
+             <a href="https://webmail.irb.hr">
+              Webmail
+             </a>
+            </li>
+            <li>
+             <a href="https://mail.irb.hr/">
+              Novi webmail
+             </a>
+            </li>
+            <li>
+             <a href="https://imenik.irb.hr/">
+              LDAP imenik
+             </a>
+            </li>
+            <li>
+             <a href="http://helpdesk.irb.hr">
+              Helpdesk
+             </a>
+            </li>
+            <li>
+             <a href="https://jumbo.irb.hr/">
+              Jumbo
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <span>
+            Library
+           </span>
+           <ul>
+            <li>
+             <a href="http://lib.irb.hr">
+              Web knjižnice
+             </a>
+            </li>
+            <li>
+             <a href="https://rezervacije.irb.hr">
+              Sustav za rezervaciju dvorana
+             </a>
+            </li>
+            <li>
+             <a href="https://katalog.irb.hr/">
+              Katalog
+             </a>
+            </li>
+            <li>
+             <a href="http://rezervacije.irb.hr/export/weekly_gen.html">
+              Tjedni kalendar
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <span>
+            Ostalo
+           </span>
+           <ul>
+            <li>
+             <a href="http://sestar.irb.hr/">
+              Šestar
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <em>
+          <a href="/eng/saml/login">
+           Login
+          </a>
+         </em>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="container_12 clearfix">
+     <div class="grid_12 clearfix" id="header">
+      <div class="grid_7 alpha" id="logo">
+       <a href="/eng" title="Ruđer Bošković Institute">
+        <span class="logo-text">
+         Ruđer Bošković Institute
+        </span>
+       </a>
+      </div>
+      <div class="grid_5 omega">
+       <form action="/eng/content/search">
+        <div class="grid_2 search-class alpha">
+         <input id="search-people" name="SearchClassID" type="radio" value="irb_djelatnik"/>
+         <label for="search-people">
+          People
+         </label>
+         <input checked="checked" id="search-web" name="SearchClassID" type="radio" value=""/>
+         <label for="search-web">
+          Web
+         </label>
+        </div>
+        <div class="grid_3 omega" id="searchbox">
+         <div class="float-break" id="searchbox-inner">
+          <label class="hide" for="searchtext">
+           Search text:
+          </label>
+          <input id="searchtext" name="SearchText" onblur="if(this.value=='') this.value='Search';" onfocus="if(this.value=='Search') this.value='';" size="30" type="text" value="Search"/>
+          <input class="button" id="searchbutton" title="" type="submit" value=""/>
+         </div>
+        </div>
+       </form>
+      </div>
+      <p class="hide">
+       <a href="#main">
+        Skip to main content
+       </a>
+      </p>
+      <!--[if lte IE 9]><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+     </div>
+    </div>
+   </div>
+   <div class="container_12 clearfix">
+    <div class="grid_12" id="topmenu">
+     <ul class="topmenu clearfix">
+      <li class="index-home li-first-level firstli" id="node_id_2">
+       <div class="wrap menu-select">
+        <a class="menuitem level1 " href="/eng">
+         <span>
+          Home
+         </span>
+        </a>
+       </div>
+      </li>
+      <li class="index-0 current li-first-level popmenu" id="node_id_62">
+       <div class="wrap menu-select">
+        <a class="menuitem level1" href="/eng/Research">
+         <span>
+          Research
+         </span>
+        </a>
+        <div class="menu-list">
+         <div class="menu-list-inner">
+          <ul>
+           <li class="li-second-level popmenu" id="node_id_68">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/Research/Divisions">
+              Divisions
+              <span class="arrow-more">
+               <span>
+               </span>
+              </span>
+             </a>
+             <div class="menu-list">
+              <ul>
+               <li class="li-third-level" id="node_id_82">
+                <a href="/eng/Research/Divisions/Division-of-Theoretical-Physics">
+                 Division of Theoretical Physics
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_83">
+                <a href="/eng/Research/Divisions/Division-of-Experimental-Physics">
+                 Division of Experimental Physics
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_96">
+                <a href="/eng/Research/Divisions/Division-of-Materials-Physics">
+                 Division of Materials Physics
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_100">
+                <a href="/eng/Research/Divisions/Division-of-Electronics">
+                 Division of Electronics
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_104">
+                <a href="/eng/Research/Divisions/Division-of-Physical-Chemistry">
+                 Division of Physical Chemistry
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_110">
+                <a href="/eng/Research/Divisions/Division-of-Organic-Chemistry-and-Biochemistry">
+                 Division of Organic Chemistry and Biochemistry
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_124">
+                <a href="/eng/Research/Divisions/Division-of-Materials-Chemistry">
+                 Division of Materials Chemistry
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_138">
+                <a href="/eng/Research/Divisions/Division-of-Molecular-Biology">
+                 Division of Molecular Biology
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_155">
+                <a href="/eng/Research/Divisions/Division-of-Molecular-Medicine">
+                 Division of Molecular Medicine
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_175">
+                <a href="/eng/Research/Divisions/Center-for-Marine-Research">
+                 Center for Marine Research
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_182">
+                <a href="/eng/Research/Divisions/Division-for-Marine-and-Environmental-Research">
+                 Division for Marine and Environmental Research
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </li>
+           <li class="li-second-level popmenu" id="node_id_21006">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/Research/Joint-Scientific-Support-Units">
+              Joint Scientific Support Units
+              <span class="arrow-more">
+               <span>
+               </span>
+              </span>
+             </a>
+             <div class="menu-list">
+              <ul>
+               <li class="li-third-level" id="node_id_21163">
+                <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Scientific-Information2">
+                 Centre for Scientific Information
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_198">
+                <a href="/eng/Research/Joint-Scientific-Support-Units/NMR-Centre">
+                 NMR Centre
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_270">
+                <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+                 Centre for Informatics and Computing
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_18179">
+            <div class="menu-select">
+             <a class="a-second-level menuitem shortcut" href="http://www.irb.hr/eng/explore/projects" title="Projects">
+              Projects
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_70">
+            <div class="menu-select">
+             <a class="a-second-level last menuitem" href="/eng/Research/Research-Instruments-Facilities">
+              Research Instruments (Facilities)
+             </a>
+            </div>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="index-1 li-first-level popmenu" id="node_id_64">
+       <div class="wrap menu-select">
+        <a class="menuitem level1" href="/eng/Education">
+         <span>
+          Education
+         </span>
+        </a>
+        <div class="menu-list">
+         <div class="menu-list-inner">
+          <ul>
+           <li class="li-second-level" id="node_id_134">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/Education/RBI-Activities">
+              RBI Activities
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level popmenu" id="node_id_2584">
+            <div class="menu-select">
+             <a class="a-second-level last menuitem" href="/eng/Education/Conferences-Summer-Schools-and-Workshops">
+              Conferences, Summer Schools and Workshops
+              <span class="arrow-more">
+               <span>
+               </span>
+              </span>
+             </a>
+             <div class="menu-list">
+              <ul>
+               <li class="li-third-level" id="node_id_21162">
+                <a href="/eng/Education/Conferences-Summer-Schools-and-Workshops/Third-European-Crystallography-School-ECS3">
+                 Third European Crystallography School (ECS3)
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_20339">
+                <a href="/eng/Education/Conferences-Summer-Schools-and-Workshops/Game-of-Epigenomics">
+                 Game of Epigenomics
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_20913">
+                <a href="/eng/Education/Conferences-Summer-Schools-and-Workshops/International-Congress-of-the-NDP-Kinase-Nm23-Aawd-Family">
+                 International Congress of the NDP Kinase/Nm23/Aawd Family
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_20354">
+                <a href="/eng/Education/Conferences-Summer-Schools-and-Workshops/MECAME2016">
+                 MECAME2016
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_2585">
+                <a href="/eng/Education/Conferences-Summer-Schools-and-Workshops/KEKS-Short-Educational-Seminars-Library">
+                 KEKS - Short Educational Seminars Library
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="index-2 li-first-level popmenu" id="node_id_63">
+       <div class="wrap menu-select">
+        <a class="menuitem level1" href="/eng/Industry">
+         <span>
+          Industry
+         </span>
+        </a>
+        <div class="menu-list">
+         <div class="menu-list-inner">
+          <ul>
+           <li class="li-second-level popmenu" id="node_id_126">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/Industry/Services">
+              Services
+              <span class="arrow-more">
+               <span>
+               </span>
+              </span>
+             </a>
+             <div class="menu-list">
+              <ul>
+               <li class="li-third-level" id="node_id_7265">
+                <a href="/eng/Industry/Services/All">
+                 All
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7264">
+                <a href="/eng/Industry/Services/Miscellaneous-Services">
+                 Miscellaneous Services
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7263">
+                <a href="/eng/Industry/Services/Energy-and-Renewable-Resources">
+                 Energy and Renewable Resources
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7262">
+                <a href="/eng/Industry/Services/ICT-Services">
+                 ICT Services
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7261">
+                <a href="/eng/Industry/Services/Chemical-and-Petrochemical-Industries">
+                 Chemical and Petrochemical Industries
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7260">
+                <a href="/eng/Industry/Services/Food-Industry">
+                 Food Industry
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7259">
+                <a href="/eng/Industry/Services/Safety-and-Hazardous-Materials">
+                 Safety and Hazardous Materials
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7258">
+                <a href="/eng/Industry/Services/Environmental-Protection">
+                 Environmental Protection
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7257">
+                <a href="/eng/Industry/Services/Medicine">
+                 Medicine
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_7256">
+                <a href="/eng/Industry/Services/Farmaceutical-Industry">
+                 Farmaceutical Industry
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_114">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/Industry/Intellectual-Property">
+              Intellectual Property
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_21542">
+            <div class="menu-select">
+             <a class="a-second-level menuitem shortcut" href="http://www.irb.hr/explore/innovations" title="Innovations">
+              Innovations
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_133">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/Industry/Rudjer-Innovations-Ltd">
+              Rudjer Innovations Ltd.
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_131">
+            <div class="menu-select">
+             <a class="a-second-level last menuitem" href="/eng/Industry/Spin-off-Companies">
+              Spin-off Companies
+             </a>
+            </div>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="index-3 li-first-level" id="node_id_66">
+       <div class="wrap menu-select">
+        <a class="menuitem level1" href="http://www.irb.hr/eng/explore/people" title="People">
+         <span>
+          People
+         </span>
+        </a>
+       </div>
+      </li>
+      <li class="index-4 lastli li-first-level popmenu" id="node_id_67">
+       <div class="wrap menu-select">
+        <a class="menuitem level1" href="/eng/About-the-RBI">
+         <span>
+          About the RBI
+         </span>
+        </a>
+        <div class="menu-list">
+         <div class="menu-list-inner">
+          <ul>
+           <li class="li-second-level" id="node_id_15155">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/About-the-RBI/General-information">
+              General information
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_149">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/About-the-RBI/Mission-and-Vision">
+              Mission and Vision
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level popmenu" id="node_id_152">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/About-the-RBI/Organization">
+              Organization
+              <span class="arrow-more">
+               <span>
+               </span>
+              </span>
+             </a>
+             <div class="menu-list">
+              <ul>
+               <li class="li-third-level" id="node_id_10049">
+                <a href="/eng/About-the-RBI/Organization/Scientific-Council">
+                 Scientific Council
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </li>
+           <li class="li-second-level popmenu" id="node_id_5523">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/About-the-RBI/Administrative-and-Technical-Services">
+              Administrative and Technical Services
+              <span class="arrow-more">
+               <span>
+               </span>
+              </span>
+             </a>
+             <div class="menu-list">
+              <ul>
+               <li class="li-third-level" id="node_id_21007">
+                <a href="/eng/About-the-RBI/Administrative-and-Technical-Services/Office-of-the-Director-General">
+                 Office of the Director General
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_21008">
+                <a href="/eng/About-the-RBI/Administrative-and-Technical-Services/Departments">
+                 Departments
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_5524">
+                <a href="/eng/About-the-RBI/Administrative-and-Technical-Services/Available-Research-Jobs">
+                 Available Research Jobs
+                </a>
+               </li>
+               <li class="li-third-level" id="node_id_5526">
+                <a href="/eng/About-the-RBI/Administrative-and-Technical-Services/Documents">
+                 Documents
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_18739">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/About-the-RBI/Public-Documents">
+              Public Documents
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_154">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/About-the-RBI/Annual-Reports">
+              Annual Reports
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_5131">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/About-the-RBI/Ruder-Josip-Boskovic">
+              Ruđer Josip Bošković
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_158">
+            <div class="menu-select">
+             <a class="a-second-level menuitem" href="/eng/About-the-RBI/For-Media">
+              For Media
+             </a>
+            </div>
+           </li>
+           <li class="li-second-level" id="node_id_159">
+            <div class="menu-select">
+             <a class="a-second-level last menuitem" href="/eng/About-the-RBI/Contact-Us">
+              Contact Us
+             </a>
+            </div>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </li>
+     </ul>
+     <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+    </div>
+   </div>
+   <div class="path-has-3 container_12 clearfix" id="path">
+    <ul class="grid_12">
+     <li class="first">
+      You are here
+     </li>
+     <li class="index-1">
+      <span class="raquo">
+       »
+      </span>
+      <a href="/eng/Research" title="Research">
+       Research
+      </a>
+     </li>
+     <li class="index-2">
+      <span class="raquo">
+       »
+      </span>
+      <a href="/eng/Research/Joint-Scientific-Support-Units" title="Joint Scientific Support Units">
+       Joint Scientific Support Units
+      </a>
+     </li>
+     <li class="index-3 last">
+      <span class="raquo">
+       »
+      </span>
+      Centre for Informatics and Computing
+     </li>
+    </ul>
+   </div>
+   <div class="container_12 clearfix" id="columns">
+    <div class="grid_8" id="main">
+     <div class="content-view-full class-irb-zavod">
+      <div class="zavod-main category-main">
+       <div class="description rounded clearfix">
+        <div class="attribute-image">
+         <img alt="Cir logo" height="157" src="/var/ezflow_site/storage/images/istrazivanja/zavodi-i-centri/centar-za-informatiku-i-racunarstvo/2711-4-cro-HR/Centre-for-Informatics-and-Computing_IRBZavodNaslovna.jpg" title="Cir logo" width="200"/>
+        </div>
+        <div class="data">
+         <h1 class="attribute-name">
+          Centre for Informatics and Computing
+         </h1>
+         <div class="attribute-short">
+          <p>
+           The Center for Informatics and Computing is a organizational unit of the Ruđer Bošković Institute in which research projects, development programs and services for scientists are performed in the fields of optoelectronics, information technology and computing.
+          </p>
+         </div>
+        </div>
+        <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+       </div>
+       <div class="main-data rounded clearfix">
+        <div class="main-data-bg-alt clearfix">
+         <div class="attribute-representatives clearfix">
+          <div class="attribute-representative-image">
+           <a href="/eng/People/Karolj-Skala">
+            <img alt="prof. dr. K. Skala" height="160" src="/var/ezflow_site/storage/images/users/zaposlenici-irb-a/karolj-skala/23870-7-cro-HR/Karolj-Skala_IRBDjelatnikLineBox.jpg" title="prof. dr. K. Skala" width="120"/>
+            <span class="white-border">
+            </span>
+           </a>
+          </div>
+          <div class="attribute-representative-data">
+           <h2>
+            Head of Centre
+           </h2>
+           <h3>
+            <a href="/eng/People/Karolj-Skala">
+             prof. dr. sc. Karolj Skala
+            </a>
+           </h3>
+           <div class="contact-data">
+            <div class="email">
+             <a href="mailto:Karolj.Skala@irb.hr">
+              Karolj.Skala@irb.hr
+             </a>
+            </div>
+            <div class="tel">
+             +385 1 457 1218
+            </div>
+            <div class="fax">
+             Fax: 
++385 1 4680 212
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="attribute-secretary">
+          <a id="eztoc90137_1" name="eztoc90137_1">
+          </a>
+          <h2>
+           Administration
+          </h2>
+          <p>
+           Margareta Cvetkovski
+           <br/>
+           e-mail:
+           <a href="http://www.irb.hr/administracija/Margareta.Cvetkovski@irb.hr" target="_self">
+            Margareta.Cvetkovski@irb.hr
+           </a>
+          </p>
+         </div>
+         <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+        </div>
+       </div>
+      </div>
+      <div class="zavod-tabs scrollto-tabs">
+       <a class="nav nav-left" href="#">
+        left
+       </a>
+       <a class="nav nav-right" href="#">
+        right
+       </a>
+       <div class="sub-data">
+        <div class="tabs-container scrollto-pane">
+         <ul class="tabs clearfix">
+          <li>
+           <a class="rounded" href="#">
+            About
+            <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+           </a>
+          </li>
+          <li>
+           <a class="rounded" href="#">
+            Staff
+            <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+           </a>
+          </li>
+          <li>
+           <a class="rounded" href="#">
+            Projects
+            <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="panes rounded">
+         <div class="pane-tab clearfix">
+          <div class="attribute-body">
+           <p>
+            <b>
+             Mission:
+            </b>
+            Scientific research, development and maintenance of the infrastructure, technology and logistics for contemporary multidisciplinary (RBI) and multi-institutional (global) scientific research, based on modern computer science, technologies, informatics, which have resulted in the development of eScience technologies on the basis of Science Information Communication Technology—ICST.
+            <br/>
+           </p>
+           <p>
+            <b>
+             Objectives:
+            </b>
+           </p>
+           <p>
+            ●
+            <b>
+             Scientific Research:
+            </b>
+            advance the state of the art in eScience and develop new technologies, providing research grants at the national and international level;
+           </p>
+           <p>
+            ●
+            <b>
+             Transfer of technology:
+            </b>
+            support scientific community and transfer of technology from scientific realm to the industry and government, while supporting the growth of SMEs and large enterprises in Croatia;
+           </p>
+           <p>
+            ●
+            <b>
+             Consultations and maintain resources:
+            </b>
+            provide know-how and expertise on eScience, maintain  HPC, CLOUD, GRID resources  and support industry with an access to advanced computing facilities and expertise;
+           </p>
+           <p>
+            ●
+            <b>
+             Education and training:
+            </b>
+            implementation of educational activities in EU educational networks and conferences of local and global scale;
+           </p>
+           <p>
+            ●
+            <b>
+             Innovation and exploitation activities:
+            </b>
+            support innovative and creative activities, transfer of technology and to provide expertise to industry and government to support the economic growth;
+           </p>
+           <p>
+            ●
+            <b>
+             Networking and dissemination:
+            </b>
+            Aiming to create national and EU strategic partnerships with academic and industry.
+           </p>
+          </div>
+         </div>
+         <div class="pane-tab clearfix">
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Enis-Afgan">
+             Enis Afgan
+            </a>
+           </h2>
+           <div class="attribute-title">
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:Enis.Afgan@irb.hr">
+             Enis.Afgan@irb.hr
+            </a>
+           </div>
+           <div class="tel">
+            <label>
+             Telephone:
+            </label>
+            +385 1 456 1091
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1671
+1351
+           </div>
+          </div>
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Eva-Cetinic">
+             Eva Cetinić
+            </a>
+           </h2>
+           <div class="attribute-title">
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:Eva.Cetinic@irb.hr">
+             Eva.Cetinic@irb.hr
+            </a>
+           </div>
+           <div class="tel">
+            <label>
+             Telephone:
+            </label>
+            +385 1 456 1091
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1671
+1248
+           </div>
+          </div>
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Jelena-Cubric">
+             Jelena Čubrić
+             <br/>
+             <span class="attribute-title">
+              Struč. spec.ing. techn. inf.
+             </span>
+            </a>
+           </h2>
+           <div class="attribute-title">
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:Jelena.Cubric@irb.hr">
+             Jelena.Cubric@irb.hr
+            </a>
+           </div>
+           <div class="tel">
+            <label>
+             Telephone:
+            </label>
+            +385 1 457 1357
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1874
+           </div>
+          </div>
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Davor-Davidovic">
+             Davor Davidović
+             <br/>
+             <span class="attribute-title">
+              PhD
+             </span>
+            </a>
+           </h2>
+           <div class="attribute-title">
+            Research assistant
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:Davor.Davidovic@irb.hr">
+             Davor.Davidovic@irb.hr
+            </a>
+           </div>
+           <div class="tel">
+            <label>
+             Telephone:
+            </label>
+            +385 1 456 1091
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1671
+1351
+           </div>
+          </div>
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Ivan-Grubisic">
+             Ivan Grubišić
+            </a>
+           </h2>
+           <div class="attribute-title">
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:Ivan.Grubisic@irb.hr">
+             Ivan.Grubisic@irb.hr
+            </a>
+           </div>
+           <div class="tel">
+            <label>
+             Telephone:
+            </label>
+            +385 1 457 1357
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1874
+           </div>
+          </div>
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Kristian-Kovacic">
+             Kristian Kovačić
+            </a>
+           </h2>
+           <div class="attribute-title">
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:kkovacic@irb.hr">
+             kkovacic@irb.hr
+            </a>
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1874
+           </div>
+          </div>
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Tomislav-Lipic">
+             Tomislav Lipić
+             <br/>
+             <span class="attribute-title">
+              M.Sc.
+             </span>
+            </a>
+           </h2>
+           <div class="attribute-title">
+            Assistant (Junior researcher)
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:Tomislav.Lipic@irb.hr">
+             Tomislav.Lipic@irb.hr
+            </a>
+           </div>
+           <div class="tel">
+            <label>
+             Telephone:
+            </label>
+            +385 1 456 1091
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1671
+1351
+           </div>
+          </div>
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Karolj-Skala">
+             Karolj Skala
+             <br/>
+             <span class="attribute-title">
+              prof. dr. sc.
+             </span>
+            </a>
+           </h2>
+           <div class="attribute-title">
+            znanstveni savjetnik u trajnom zvanju, sveučilišni profesor
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:Karolj.Skala@irb.hr">
+             Karolj.Skala@irb.hr
+            </a>
+           </div>
+           <div class="tel">
+            <label>
+             Telephone:
+            </label>
+            +385 1 457 1218
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1709
+           </div>
+           <div class="tel-internal">
+            <label>
+             Mobile phone:
+            </label>
+            +385 98 209 816
+           </div>
+          </div>
+          <div class="content-view-line class-irb-djelatnik clearfix">
+           <h2 class="attribute-header">
+            <a href="/eng/People/Ivan-Sovic">
+             Ivan Sović
+             <br/>
+             <span class="attribute-title">
+              mag.ing.
+             </span>
+            </a>
+           </h2>
+           <div class="attribute-title">
+            Research assistant
+           </div>
+           <div class="work-organization margined-down">
+            <label>
+             Centar:
+            </label>
+            <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing">
+             Centre for Informatics and Computing
+            </a>
+           </div>
+           <div class="email">
+            <label>
+             Email:
+            </label>
+            <a href="mailto:ivan@irb.hr">
+             ivan@irb.hr
+            </a>
+           </div>
+           <div class="tel">
+            <label>
+             Telephone:
+            </label>
+            +385 1 456 1091
+           </div>
+           <div class="tel-internal">
+            <label>
+             Internal phone numbers:
+            </label>
+            1671
+1351
+           </div>
+          </div>
+         </div>
+         <div class="pane-tab clearfix">
+          <div class="content-view-tab class-ng-category rounded">
+           <div class="category-items">
+            <div class="content-view-line class-ng-category clearfix">
+             <h2 class="attribute-header">
+              <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/Projects/European-projects">
+               European projects
+              </a>
+             </h2>
+            </div>
+            <div class="content-view-line class-ng-category clearfix">
+             <h2 class="attribute-header">
+              <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/Projects/COST-projects">
+               COST projects
+              </a>
+             </h2>
+            </div>
+            <div class="content-view-line class-ng-category clearfix">
+             <h2 class="attribute-header">
+              <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/Projects/CIR-Internal-projects">
+               CIR Internal projects
+              </a>
+             </h2>
+            </div>
+            <div class="content-view-line class-ng-category clearfix">
+             <h2 class="attribute-header">
+              <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/Projects/IT-projects">
+               IT projects
+              </a>
+             </h2>
+            </div>
+            <div class="content-view-line class-ng-category clearfix">
+             <h2 class="attribute-header">
+              <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/Projects/Technological-projects">
+               Technological projects
+              </a>
+             </h2>
+            </div>
+           </div>
+           <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+          </div>
+         </div>
+         <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="grid_4" id="rightmenu">
+     <div class="box clearfix">
+      <div class="block-type-itemlistsmall block-view-standard">
+       <div class="irb-label clearfix">
+        <span>
+         <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/News">
+          NEWS
+         </a>
+         <!--[if lte IE 9]><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+        </span>
+       </div>
+       <div class="block-content">
+        <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/News/Centre-for-informatics-and-computing-Interactive-Workshop-Introduction-to-cloud-computing-and-its-application-in-bioinformatics">
+         Centre for informatics and computing Interactive Workshop - Introduction to cloud computing (and its application in bioinformatics)
+        </a>
+        <div class="separator">
+        </div>
+        <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/News/PRIDE-Exhibition-and-HPC-for-SME-Forum">
+         PRIDE Exhibition and HPC for SME Forum
+        </a>
+        <div class="separator">
+        </div>
+        <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/News/CASE-28-conference">
+         CASE 28 conference
+        </a>
+        <div class="separator">
+        </div>
+        <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/News/High-Performance-Computing-Essential-for-Economic-Development">
+         High Performance Computing Essential for Economic Development
+        </a>
+        <div class="separator">
+        </div>
+        <a href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/News/SCPE-Journal-Published-a-Special-Issue-with-papers-from-DC-VIS-Conference-on-MIPRO-2015">
+         SCPE Journal Published a Special Issue with papers from DC VIS Conference  on MIPRO 2015
+        </a>
+       </div>
+       <a class="archive-link" href="/eng/Research/Joint-Scientific-Support-Units/Centre-for-Informatics-and-Computing/News">
+        Archive
+       </a>
+      </div>
+      <div class="block-separator">
+      </div>
+      <div class="block-type-manualgallery block-view-standard block white-frame clearfix">
+       <div class="cycler random-cycle">
+        <div class="cycle-slides">
+         <div class="cycler-slide attribute-image ">
+          <a href="http://www.irb.hr/cir/galerija/index.php">
+           <img alt="Staff" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-galerija-naslovnica/cir-web-album/121107-6-eng-GB/CIR-web-album_IRBGallerySmall.jpg" title="CIR web album" width="300"/>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            CIR staff 2010
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="block-separator">
+      </div>
+      <div class="block-type-manualgallery block-view-simple block clearfix">
+       <div class="cycler random-cycle">
+        <div class="cycle-slides">
+         <div class="cycler-slide attribute-image ">
+          <a href="http://www.riteh.uniri.hr/">
+           <img alt="Tehnički fakultet Rijeka" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/tehnicki-fakultet-rijeka/122458-3-eng-GB/Tehnicki-fakultet-Rijeka_IRBGallerySmall.gif" title="Tehnički fakultet Rijeka" width="300"/>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Scientific cooperation
+           </p>
+          </div>
+         </div>
+         <div class="cycler-slide attribute-image ">
+          <a href="http://www.fer.unizg.hr/">
+           <img alt="FER" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/faklutet-elektronike-i-racunarstva/122291-1-cro-HR/Faklutet-elektronike-i-racunarstva_IRBGallerySmall.gif" title="Faculty of Electrical Engineering and Computing" width="300"/>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Scientific cooperation
+           </p>
+          </div>
+         </div>
+         <div class="cycler-slide attribute-image fancybox">
+          <a href="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/graficki-fakultet/122298-1-cro-HR/Graficki-fakultet_NGFancyBoxMax.gif" rel="fancybox8272" title="Scientific cooperation">
+           <img alt="GRF" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/graficki-fakultet/122298-1-cro-HR/Graficki-fakultet_IRBGallerySmall.gif" title="Open in full size" width="300"/>
+           <span>
+           </span>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Scientific cooperation
+           </p>
+          </div>
+         </div>
+         <div class="cycler-slide attribute-image fancybox">
+          <a href="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/sveuciliste-u-splitu-fakultet-elektrotehnike-strojarstva-i-brodogradnje/122305-1-cro-HR/SVEUCILISTE-U-SPLITU-FAKULTET-ELEKTROTEHNIKE-STROJARSTVA-I-BRODOGRADNJE_NGFancyBoxMax.gif" rel="fancybox8272" title="Scientific cooperation">
+           <img alt="FESB" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/sveuciliste-u-splitu-fakultet-elektrotehnike-strojarstva-i-brodogradnje/122305-1-cro-HR/SVEUCILISTE-U-SPLITU-FAKULTET-ELEKTROTEHNIKE-STROJARSTVA-I-BRODOGRADNJE_IRBGallerySmall.gif" title="Open in full size" width="300"/>
+           <span>
+           </span>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Scientific cooperation
+           </p>
+          </div>
+         </div>
+         <div class="cycler-slide attribute-image ">
+          <a href="http://www.etfos.hr/">
+           <img alt="FACULTY OF ELECTRICAL ENGINEERING (ETFOS)" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/elektrotehnicki-fakultet-osijek/122402-1-cro-HR/Elektrotehnicki-fakultet-Osijek_IRBGallerySmall.gif" title="FACULTY OF ELECTRICAL ENGINEERING (ETFOS)" width="300"/>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Scientific cooperation
+           </p>
+          </div>
+         </div>
+         <div class="cycler-slide attribute-image ">
+          <a href="http://www.ethz.ch/index_EN">
+           <img alt="ETH Zurich" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/eth-zurich/122409-1-cro-HR/ETH-Zurich_IRBGallerySmall.gif" title="ETH Zurich" width="300"/>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Scientific cooperation
+           </p>
+          </div>
+         </div>
+         <div class="cycler-slide attribute-image ">
+          <a href="http://www.sztaki.hu/">
+           <img alt="MTA SZTAKI" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/the-computer-and-automation-research-institute-hungarian-academy-of-sciences/122416-1-cro-HR/The-Computer-and-Automation-Research-Institute-Hungarian-Academy-of-Sciences_IRBGallerySmall.gif" title="The Computer and Automation Research Institute, Hungarian Academy of Sciences" width="300"/>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Scientific cooperation
+           </p>
+          </div>
+         </div>
+         <div class="cycler-slide attribute-image ">
+          <a href="http://www.ijs.si/ijsw/IJS">
+           <img alt='Institut "Jožef Stefan"' height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-galerija/institut-jozef-stefan/122423-1-cro-HR/Institut-Jozef-Stefan_IRBGallerySmall.gif" title='Institut "Jožef Stefan"' width="300"/>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Scientific cooperation
+           </p>
+          </div>
+         </div>
+        </div>
+        <span class="arrow arrow-left">
+         <a href="#previous">
+          previous
+         </a>
+        </span>
+        <span class="arrow arrow-right">
+         <a href="#next">
+          next
+         </a>
+        </span>
+       </div>
+      </div>
+      <div class="block-separator">
+      </div>
+      <div class="block-type-manualgallery block-view-simple block clearfix">
+       <div class="cycler random-cycle">
+        <div class="cycle-slides">
+         <div class="cycler-slide attribute-image fancybox">
+          <a href="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-projektna-suradnja/mzos/123945-1-cro-HR/MZOS_NGFancyBoxMax.gif" rel="fancybox8552" title="Project Cooperation">
+           <img alt="MZOS" height="165" src="/var/ezflow_site/storage/images/media/multimedija-i-datoteke/cir/cir-banner-projektna-suradnja/mzos/123945-1-cro-HR/MZOS_IRBGallerySmall.gif" title="Open in full size" width="300"/>
+           <span>
+           </span>
+           <span class="white-border">
+           </span>
+          </a>
+          <div class="caption">
+           <p>
+            Project Cooperation
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!--[if lte IE 9]><div class="rounded-tl"></div><div class="rounded-tr"></div><div class="rounded-bl"></div><div class="rounded-br"></div><![endif]-->
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <div class="container_12 clearfix">
+     <div class="grid_3">
+      <div class="label">
+       Institute
+      </div>
+      <div class="data">
+       <p>
+        <b>
+         Ruđer Bošković Institute
+        </b>
+       </p>
+       <p>
+        <a href="https://maps.google.com/maps/ms?msid=201157588388735627558.000462cf131c9e5460411&amp;msa=0">
+         Bijenička cesta 54, 10000 Zagreb
+        </a>
+       </p>
+      </div>
+      <div class="data">
+       <p>
+        <b>
+         Tel:
+        </b>
+        +385 (0)1 4561-111
+       </p>
+       <p>
+        <b>
+         Fax:
+        </b>
+        +385 (0)1 4680-084
+       </p>
+       <p>
+        <b>
+         PR:
+        </b>
+        +385 (0)1 4571-269
+       </p>
+       <p>
+        <b>
+         Mail:
+        </b>
+        <a href="mailto:info@irb.hr">
+         info@irb.hr
+        </a>
+       </p>
+      </div>
+      <div class="data">
+       <p>
+        <b>
+         OIB:
+        </b>
+        69715301002
+       </p>
+       <p>
+        <b>
+         IBAN:
+        </b>
+        HR6623600001101210403
+       </p>
+       <p>
+        <b>
+         SWIFT CODE:
+        </b>
+        ZABAHR2X
+       </p>
+       <p>
+        <b>
+         VAT number:
+        </b>
+        HR69715301002
+       </p>
+      </div>
+     </div>
+     <div class="grid_6">
+      <div class="label">
+       Divisions and Centers
+      </div>
+      <div class="grid_3 alpha">
+       <ul>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Theoretical-Physics">
+          Division of Theoretical Physics
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Experimental-Physics">
+          Division of Experimental Physics
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Materials-Physics">
+          Division of Materials Physics
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Electronics">
+          Division of Electronics
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Physical-Chemistry">
+          Division of Physical Chemistry
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Organic-Chemistry-and-Biochemistry">
+          Division of Organic Chemistry and Biochemistry
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Materials-Chemistry">
+          Division of Materials Chemistry
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Molecular-Biology">
+          Division of Molecular Biology
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-of-Molecular-Medicine">
+          Division of Molecular Medicine
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="grid_3 omega">
+       <ul>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Center-for-Marine-Research">
+          Center for Marine Research
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Division-for-Marine-and-Environmental-Research">
+          Division for Marine and Environmental Research
+         </a>
+        </li>
+        <li class="label-li">
+         Scientific Support
+        </li>
+        <li>
+         <a href="http://lib.irb.hr/web/en.html">
+          Centre for Scientific Information
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/NMR-Centre">
+          NMR Centre
+         </a>
+        </li>
+        <li>
+         <a href="http://www.irb.hr/eng/Research/Divisions-and-Centers/Centre-for-Informatics-and-Computing">
+          Centre for Informatics and Computing
+         </a>
+        </li>
+        <hr/>
+        <li>
+         <a href="http://www.irb.hr/eng/About-the-RBI/Administrative-and-Technical-Services">
+          Administrative and Technical Services
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="grid_3">
+      <div class="socialbox clearfix">
+       <div class="label">
+        FOLLOW US
+       </div>
+       <div class="icons">
+        <a class="facebook" href="http://www.facebook.com/irb.hr" target="_blank">
+         facebook
+        </a>
+        <a class="twitter" href="https://twitter.com/institutrb" target="_blank">
+         twitter
+        </a>
+        <a class="googleplus" href="https://plus.google.com/+irbhr" target="_blank">
+         googleplus
+        </a>
+        <a class="linkedin" href="http://www.linkedin.com/company/ruder-boskovic-institute?trk=hb_tab_compy_id_27956" target="_blank">
+         linkedin
+        </a>
+        <a class="vimeo" href="http://vimeo.com/institutrb" target="_blank">
+         vimeo
+        </a>
+        <a class="foursquare" href="https://foursquare.com/institutrb" target="_blank">
+         foursquare
+        </a>
+       </div>
+      </div>
+      <div class="label">
+       © IRB 2013
+      </div>
+      <ul>
+       <li>
+        <a href="/eng/About-the-RBI/Contact-Us">
+         Contact Us
+        </a>
+       </li>
+       <li>
+        <a href="/eng/Terms-of-Use">
+         Terms of Use
+        </a>
+       </li>
+       <li>
+        <a href="/eng/About-This-Site">
+         About This Site
+        </a>
+       </li>
+       <li>
+        <a href="/eng/About-the-RBI/For-Media">
+         For Media
+        </a>
+       </li>
+      </ul>
+      <div class="powered_by">
+       <a href="http://www.netgenlabs.com/What-we-do">
+        Powered by Netgen &amp; eZ Publish
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script type="text/javascript">
+    var $cookie_disclamer_html = '<div class="cookie_policy_message"><div class="inner clearfix"><p>We have placed cookies on your computer to help make this website better. <a href="/eng/RBI-Cookie-Policy" target="_blank">Read more</a></p><a class="close">I agree</a></div></div>';
+   </script>
+  </div>
+ </body>
+</html>

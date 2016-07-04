@@ -1,0 +1,677 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Informatica
+  </title>
+  <meta content="Informatica is an international refereed journal. publishes papers addressing all issues of interests to computer and informatics professionals and cognitive scientists: from scientific and technical to educational, commercial and industrial." name="description"/>
+  <meta content="Informatics, computer, IT, professional, journal, papers, Informatica, computer science" name="keywords"/>
+  <meta content="Open Journal Systems 2.4.3.0" name="generator"/>
+  <link href="http://www.informatica.si/public/journals/1/journalFavicon_en_US.ico" rel="icon" type="image/x-icon"/>
+  <link href="http://www.informatica.si/lib/pkp/styles/pkp.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.informatica.si/lib/pkp/styles/common.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.informatica.si/styles/common.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.informatica.si/styles/compiled.css" rel="stylesheet" type="text/css"/>
+  <!-- Base Jquery -->
+  <script src="//www.google.com/jsapi" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--
+			// Provide a local fallback if the CDN cannot be reached
+			if (typeof google == 'undefined') {
+				document.write(unescape("%3Cscript src='http://www.informatica.si/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+				document.write(unescape("%3Cscript src='http://www.informatica.si/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+			} else {
+				google.load("jquery", "1.4.4");
+				google.load("jqueryui", "1.8.6");
+			}
+			// -->
+  </script>
+  <link href="http://www.informatica.si/styles/sidebar.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.informatica.si/styles/leftSidebar.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.informatica.si/styles/rightSidebar.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.informatica.si/styles/bothSidebars.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.informatica.si/plugins/themes/inf/inf.css" rel="stylesheet" type="text/css"/>
+  <!-- Default global locale keys for JavaScript -->
+  <script type="text/javascript">
+   jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+  </script>
+  <!-- Compiled scripts -->
+  <script src="http://www.informatica.si/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/functions/fontController.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/functions/general.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/functions/jqueryValidatorI18n.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/classes/Helper.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/classes/ObjectProxy.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/classes/Handler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/classes/linkAction/LinkActionRequest.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/classes/features/Feature.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/SiteHandler.js" type="text/javascript">
+  </script>
+  <!-- Included only for namespace definition -->
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/UrlInDivHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/AutocompleteHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/ExtrasOnDemandHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/form/FormHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/form/AjaxFormHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/form/ClientFormHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/grid/GridHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/controllers/linkAction/LinkActionHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/js/pages/search/SearchFormHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/js/statistics/ReportGeneratorFormHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/plugins/generic/lucene/js/LuceneAutocompleteHandler.js" type="text/javascript">
+  </script>
+  <script src="http://www.informatica.si/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js" type="text/javascript">
+  </script>
+  <!-- Add javascript required for font sizer -->
+  <script type="text/javascript">
+   <!--
+		$(function(){
+			fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+		});
+		// -->
+  </script>
+  <!-- Form validation -->
+  <script src="http://www.informatica.si/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--
+		// initialise plugins
+		
+		$(function(){
+			jqueryValidatorI18n("http://www.informatica.si", "en_US"); // include the appropriate validation localization
+			
+			$(".tagit").live('click', function() {
+				$(this).find('input').focus();
+			});
+		});
+		// -->
+  </script>
+  <link href="http://www.informatica.si/index.php/informatica/gateway/plugin/WebFeedGatewayPlugin/atom" rel="alternate" title="Informatica (atom+xml)" type="application/atom+xml"/>
+  <link href="http://www.informatica.si/index.php/informatica/gateway/plugin/WebFeedGatewayPlugin/rss" rel="alternate" title="Informatica (rdf+xml)" type="application/rdf+xml"/>
+  <link href="http://www.informatica.si/index.php/informatica/gateway/plugin/WebFeedGatewayPlugin/rss2" rel="alternate" title="Informatica (rss+xml)" type="application/rss+xml"/>
+ </head>
+ <body>
+  <div id="container">
+   <div id="header">
+    <div id="headerTitle">
+     <h1>
+      <img alt="Informatica, An International Journal of Computing and Informatics" height="135" src="http://www.informatica.si/public/journals/1/homeHeaderTitleImage_en_US.gif" width="950"/>
+     </h1>
+    </div>
+   </div>
+   <div id="body">
+    <div id="sidebar">
+     <div id="leftSidebar">
+      <div class="block" id="sidebarinfCustom">
+       <span class="blockTitle">
+        Contact Editors
+       </span>
+       <font class="smaller">
+        Europe, Africa:
+       </font>
+       <a href="mailto:matjaz.gams@ijs.si">
+        <br/>
+        Matjaz Gams
+       </a>
+       <br/>
+       <font class="smaller">
+        N. and S. America:
+       </font>
+       <a href="mailto:rahimi@cs.siu.edu">
+        <br/>
+        Shahram Rahimi
+       </a>
+       <br/>
+       <font class="smaller">
+        Asia, Australia:
+       </font>
+       <a href="mailto:fengling@tsinghua.edu.cn">
+        <br/>
+        Ling Feng
+       </a>
+       <br/>
+       <font class="smaller">
+        Overview papers:
+       </font>
+       <a href="mailto:maria.ganzha@ibspan.waw.pl">
+        <br/>
+        Maria Ganzha
+       </a>
+       <a href="mailto:w.pawlowski@ipipan.gda.pl">
+        <br/>
+        Wiesław Pawlowski
+       </a>
+       <span class="blockTitle">
+        Abstacting / Indexing
+       </span>
+       <p>
+        Informatica is surveyed by:
+       </p>
+       <font class="smaller">
+        ACM Digital Library
+        <br/>
+        Citeseer
+        <br/>
+        COBISS
+        <br/>
+        Compendex
+        <br/>
+        Computer &amp; Information Systems Abstracts
+        <br/>
+        Computer Database
+        <br/>
+        Computer Science Index
+        <br/>
+        dLib.si
+        <br/>
+        DBLP Computer Science Bibliography
+        <br/>
+        Directory of Open Access Journals
+        <br/>
+        Google Scholar
+        <br/>
+        InfoTrac OneFile
+        <br/>
+        Inspec
+        <br/>
+        Linguistic and Language Behaviour Abstracts
+        <br/>
+        Mathematical Reviews, MatSciNet, MatSci on SilverPlatter and Current Mathematical Publications
+        <br/>
+        Scopus
+       </font>
+       <!--<center><a href="http://www.scopus.com/" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/SCOPUS.png" alt="" width=110 /></a>
+	<a href="http://www.theiet.org/resources/inspec/" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/INSPEC.png" alt="" width=110 /></a></center>-->
+       <span class="blockTitle">
+        Publishing
+       </span>
+       <p>
+        Informatica is published by:
+       </p>
+       <center>
+        <a href="http://www.drustvo-informatika.si/" target="_blank">
+         <img alt="" src="http://wen.ijs.si/ojs-2.4.3/public/site/images/admin/dsi_logo.png" width="150"/>
+        </a>
+       </center>
+       <span class="blockTitle">
+        Support
+       </span>
+       <p>
+        Informatica is supported by:
+       </p>
+       <font class="smaller">
+        <a href="http://www.acm.si/" target="_blank">
+         ACM Slovenia
+        </a>
+        <br/>
+        <a href="http://sdrv.fe.uni-lj.si/" target="_blank">
+         Slovenian Society for Pattern Recognition
+        </a>
+        <br/>
+        <a href="http://slais.ijs.si/" target="_blank">
+         Slovenian Artificial Intelligence Society
+        </a>
+        <br/>
+        <a href="http://www.kognitivna.si/index.php?stran=drustvo" target="_blank">
+         Slovenian Society for Cognitive Science
+        </a>
+        <br/>
+        <a href="http://www.dmfa.si/" target="_blank">
+         Slovenian Society of Mathematicians, Physicists and Astronomers
+        </a>
+        <br/>
+        <a href="http://www.drustvo-das.si/" target="_blank">
+         Automatic Control Society of Slovenia
+        </a>
+        <br/>
+        <a href="http://en.ias.si/" target="_blank">
+         Slovenian Academy of Engineering
+        </a>
+        <br/>
+        <a href="http://www.ifip.org/" target="_blank">
+         International Federation for Information Processing
+        </a>
+       </font>
+       <div class="blank_space">
+       </div>
+       <!--<a href="http://www.acm.si/" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/ACM.png" alt="" /></a>
+	<a href="http://sdrv.fe.uni-lj.si/" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/SDRV.png" alt="" /></a>
+	<a href="http://www.dmfa.si/" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/DMFA.png" alt="" style="margin-left:14px;" /></a>
+	<a href="http://www.ifip.org/homeintro.html" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/ifip.png" alt="" /></a>-->
+       <!--<center>
+	<a href="http://www.acm.si/" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/ACM.png" alt="" style="margin-bottom:7px;" /></a><br/>
+	<a href="http://sdrv.fe.uni-lj.si/" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/SDRV.png" alt="" style="margin-bottom:7px;" /></a><br/>
+	<a href="http://www.dmfa.si/" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/DMFA.png" alt="" style="margin-bottom:7px;" /></a><br/>
+	<a href="http://www.ifip.org/homeintro.html" target="_blank"><img src="/ojs-2.4.3/public/site/images/admin/ifip.png" alt="" /></a></center>-->
+      </div>
+     </div>
+     <div id="rightSidebar">
+      <div class="block" id="sidebarHelp">
+       <a class="blockTitle" href="javascript:openHelp('http://www.informatica.si/index.php/informatica/help/view/user/topic/000001')">
+        Journal Help
+       </a>
+      </div>
+      <!--M start - end-->
+      <div class="block" id="sidebarUser">
+       <span class="blockTitle">
+        User
+       </span>
+       <form action="http://www.informatica.si/index.php/informatica/login/signIn" method="post">
+        <table>
+         <tr>
+          <td>
+           <label for="sidebar-username">
+            Username
+           </label>
+          </td>
+          <td>
+           <input class="textField" id="sidebar-username" maxlength="32" name="username" size="12" type="text" value=""/>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <label for="sidebar-password">
+            Password
+           </label>
+          </td>
+          <td>
+           <input class="textField" id="sidebar-password" maxlength="32" name="password" size="12" type="password" value=""/>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <input id="remember" name="remember" type="checkbox" value="1"/>
+           <label for="remember">
+            Remember me
+           </label>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <input class="button" type="submit" value="Login"/>
+          </td>
+         </tr>
+        </table>
+       </form>
+      </div>
+      <!--M start - end-->
+      <div class="block" id="sidebarNavigation">
+       <span class="blockTitle">
+        Journal Content
+       </span>
+       <span class="blockSubtitle">
+        Search
+       </span>
+       <form action="http://www.informatica.si/index.php/informatica/search/search" id="simpleSearchForm" method="post">
+        <table id="simpleSearchInput">
+         <tr>
+          <td>
+           <input class="textField" id="simpleQuery" maxlength="255" name="simpleQuery" size="15" type="text" value=""/>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <select class="selectMenu" id="searchField" name="searchField" size="1">
+            <option label="All" value="query">
+             All
+            </option>
+            <option label="Authors" value="authors">
+             Authors
+            </option>
+            <option label="Title" value="title">
+             Title
+            </option>
+            <option label="Abstract" value="abstract">
+             Abstract
+            </option>
+            <option label="Index terms" value="indexTerms">
+             Index terms
+            </option>
+            <option label="Full Text" value="galleyFullText">
+             Full Text
+            </option>
+           </select>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <input class="button" type="submit" value="Search"/>
+          </td>
+         </tr>
+        </table>
+       </form>
+       <br/>
+       <span class="blockSubtitle">
+        Browse
+       </span>
+       <ul>
+        <li>
+         <a href="http://www.informatica.si/index.php/informatica/issue/archive">
+          By Issue
+         </a>
+        </li>
+        <li>
+         <a href="http://www.informatica.si/index.php/informatica/search/authors">
+          By Author
+         </a>
+        </li>
+        <li>
+         <a href="http://www.informatica.si/index.php/informatica/search/titles">
+          By Title
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="block" id="sidebarInformation">
+       <span class="blockTitle">
+        Information
+       </span>
+       <ul>
+        <li>
+         <a href="http://www.informatica.si/index.php/informatica/information/readers">
+          For Readers
+         </a>
+        </li>
+        <li>
+         <a href="http://www.informatica.si/index.php/informatica/information/authors">
+          For Authors
+         </a>
+        </li>
+        <li>
+         <a href="http://www.informatica.si/index.php/informatica/information/librarians">
+          For Librarians
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="block" id="notification">
+       <span class="blockTitle">
+        Notifications
+       </span>
+       <ul>
+        <li>
+         <a href="http://www.informatica.si/index.php/informatica/notification">
+          View
+         </a>
+        </li>
+        <li>
+         <a href="http://www.informatica.si/index.php/informatica/notification/subscribeMailList">
+          Subscribe
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="block" id="sidebarWebFeed">
+       <span class="blockTitle">
+        Current Issue
+       </span>
+       <a href="http://www.informatica.si/index.php/informatica/gateway/plugin/WebFeedGatewayPlugin/atom">
+        <img alt="Atom logo" border="0" src="http://www.informatica.si/plugins/generic/webFeed/templates/images/atom10_logo.gif"/>
+       </a>
+       <br/>
+       <a href="http://www.informatica.si/index.php/informatica/gateway/plugin/WebFeedGatewayPlugin/rss2">
+        <img alt="RSS2 logo" border="0" src="http://www.informatica.si/plugins/generic/webFeed/templates/images/rss20_logo.gif"/>
+       </a>
+       <br/>
+       <a href="http://www.informatica.si/index.php/informatica/gateway/plugin/WebFeedGatewayPlugin/rss">
+        <img alt="RSS1 logo" border="0" src="http://www.informatica.si/plugins/generic/webFeed/templates/images/rss10_logo.gif"/>
+       </a>
+      </div>
+      <div class="block" id="sidebarinfCustom">
+       <span class="blockTitle">
+        Support &amp; Indexing
+       </span>
+       <center>
+        <a href="http://www.acm.si/" target="_blank">
+         <img alt="" src="http://wen.ijs.si/ojs-2.4.3/public/site/images/admin/ACM.png"/>
+        </a>
+        <br/>
+        <a href="http://sdrv.fe.uni-lj.si/" target="_blank">
+         <img alt="" src="http://wen.ijs.si/ojs-2.4.3/public/site/images/admin/SDRV.png"/>
+        </a>
+        <br/>
+        <a href="http://www.dmfa.si/" target="_blank">
+         <img alt="" src="http://wen.ijs.si/ojs-2.4.3/public/site/images/admin/DMFA.png"/>
+        </a>
+        <br/>
+        <a href="http://www.ifip.org/homeintro.html" target="_blank">
+         <img alt="" src="http://wen.ijs.si/ojs-2.4.3/public/site/images/admin/ifip.png"/>
+        </a>
+       </center>
+       <center>
+        <a href="http://www.scopus.com/" target="_blank">
+         <img alt="" src="http://wen.ijs.si/ojs-2.4.3/public/site/images/admin/SCOPUS.png" width="110"/>
+        </a>
+        <a href="http://www.theiet.org/resources/inspec/" target="_blank">
+         <img alt="" src="http://wen.ijs.si/ojs-2.4.3/public/site/images/admin/INSPEC.png" width="110"/>
+        </a>
+       </center>
+      </div>
+     </div>
+    </div>
+    <div id="main">
+     <div id="navbar">
+      <ul class="menu">
+       <li id="home">
+        <a href="http://www.informatica.si/index.php/informatica/index">
+         Home
+        </a>
+       </li>
+       <!--M start - end-->
+       <li id="about">
+        <a href="http://www.informatica.si/index.php/informatica/about">
+         About
+        </a>
+       </li>
+       <!--M start - end-->
+       <li id="login">
+        <a href="http://www.informatica.si/index.php/informatica/login">
+         Login
+        </a>
+       </li>
+       <li id="register">
+        <a href="http://www.informatica.si/index.php/informatica/user/register">
+         Register
+        </a>
+       </li>
+       <!--M start-->
+       <!--			<li id="search"><a href="http://www.informatica.si/index.php/informatica/search">Search</a></li>
+		-->
+       <!--M end-->
+       <li id="current">
+        <a href="http://www.informatica.si/index.php/informatica/issue/current">
+         Current
+        </a>
+       </li>
+       <li id="archives">
+        <a href="http://www.informatica.si/index.php/informatica/issue/archive">
+         Archives
+        </a>
+       </li>
+       <li class="navItem" id="navItem-0">
+        <a href="http://www.informatica.si/index.php/informatica/pages/view/cfp">
+         Calls for Papers
+        </a>
+       </li>
+       <li class="navItem" id="navItem-1">
+        <a href="http://www.informatica.si/index.php/informatica/pages/view/oj">
+         Order journal
+        </a>
+       </li>
+       <li class="navItem" id="navItem-2">
+        <a href="http://www.informatica.si/index.php/informatica/author/submit">
+         Submission
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div id="breadcrumb">
+      <a href="http://www.informatica.si/index.php/informatica/index">
+       Home
+      </a>
+      &gt;
+      <a class="current" href="http://www.informatica.si/index.php/informatica">
+       Vol 40, No 1 (2016)
+      </a>
+     </div>
+     <h2>
+      Informatica
+     </h2>
+     <div id="content">
+      <div>
+       <div>
+        <p>
+         Informatica is an international journal with its base in Europe. It publishes peer-reviewed papers from all areas of computer science, informatics and cognitive sciences,
+         <br/>
+         with a focus on intelligent systems and software in general.
+        </p>
+        <p>
+         Informatica publishes
+         <span>
+          several types of papers, including
+         </span>
+         :
+        </p>
+        <ul>
+         <li>
+          Technical papers reporting novel research
+         </li>
+         <li>
+          Overview papers covering a subarea of computer and information science
+         </li>
+         <li>
+          <span>
+           Position papers presenting an interesting plausible scientific opinion
+          </span>
+         </li>
+         <li>
+          <span>
+           PhD paper describing recent doctoral dissertation on 2 pages
+          </span>
+         </li>
+        </ul>
+        <p>
+         Informatica has been published continuously since 1977, four times a year by the
+         <a href="http://www.drustvo-informatika.si/" target="_blank">
+          Slovenian Society Informatika
+         </a>
+         .
+        </p>
+       </div>
+      </div>
+      <br/>
+      <p>
+       NEW
+      </p>
+      <p>
+       <a href="/index.php/informatica/pages/view/csi">
+        Call for special issue on Virtual reality in cultural heritage (eHeritage)
+       </a>
+      </p>
+      <br/>
+      <h3>
+       Vol 40, No 1 (2016)
+      </h3>
+      <ul class="menu">
+       <li>
+        <a href="http://www.informatica.si/index.php/informatica/issue/current/showToc">
+         Table of Contents
+        </a>
+       </li>
+      </ul>
+      <br/>
+      <div id="issueCoverImage">
+       <a href="http://www.informatica.si/index.php/informatica/issue/current/showToc">
+        <img alt="Cover Page" height="806" src="http://www.informatica.si/public/journals/1/cover_issue_201_en_US.png" width="570"/>
+       </a>
+      </div>
+      <div id="issueCoverDescription">
+      </div>
+      <!--	<br /><br />
+		<a target="_blank" rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+			<img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/>
+		</a>
+		<br/>
+		This work is licensed under a <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0  License</a>.
+	<br /><br />
+	<p>Informatica is financially supported by the Slovenian research agency from the Call for co-financing of scientific periodical publications.</p><br /><p class="left author">Webmaster: <a href="mailto:mario.konecki@gmail.com">Mario Konecki</a></p><p class="footer_logo_right_last right">© 2015 Slovenian Society Informatika | <a href="/index.php/informatica/about">About</a> | <a href="/index.php/informatica/issue/current">Current issue</a> | <a href="/index.php/informatica/pages/view/cfp">Calls for papers</a> | <a href="/index.php/informatica/author/submit">Submission</a></p>
+-->
+     </div>
+     <!-- content -->
+    </div>
+    <!-- main -->
+   </div>
+   <!-- body -->
+   <!--M start-->
+   <br/>
+   <br/>
+   <a href="http://creativecommons.org/licenses/by/3.0/" rel="license" target="_blank">
+    <img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/3.0/80x15.png" style="border-width:0"/>
+   </a>
+   <br/>
+   This work is licensed under a
+   <a href="http://creativecommons.org/licenses/by/3.0/" rel="license" target="_blank">
+    Creative Commons Attribution 3.0  License
+   </a>
+   .
+   <div id="inf_footer">
+    <p>
+     Informatica is financially supported by the Slovenian research agency from the Call for co-financing of scientific periodical publications.
+    </p>
+    <br/>
+    <p class="left author">
+     Webmaster:
+     <a href="mailto:mario.konecki@gmail.com">
+      Mario Konecki
+     </a>
+    </p>
+    <p class="footer_logo_right_last right">
+     © 2015 Slovenian Society Informatika |
+     <a href="/index.php/informatica/about">
+      About
+     </a>
+     |
+     <a href="/index.php/informatica/issue/current">
+      Current issue
+     </a>
+     |
+     <a href="/index.php/informatica/pages/view/cfp">
+      Calls for papers
+     </a>
+     |
+     <a href="/index.php/informatica/author/submit">
+      Submission
+     </a>
+    </p>
+   </div>
+   <!--M end-->
+  </div>
+  <!-- container -->
+ </body>
+</html>

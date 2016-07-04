@@ -1,0 +1,2333 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en-AU">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <title>
+   Computational and Algorithmic Thinking (CAT) | AMT
+  </title>
+  <link href="http://www.amt.edu.au/wp-content/uploads/favicon.ico" rel="shortcut icon"/>
+  <link href="http://www.amt.edu.au/xmlrpc.php" rel="pingback"/>
+  <link href="http://www.amt.edu.au/feed/" rel="alternate" title="AMT » Feed" type="application/rss+xml"/>
+  <link href="http://www.amt.edu.au/comments/feed/" rel="alternate" title="AMT » Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.amt.edu.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=32b68ffe1dcb2fde4c650a0f29c53f35"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="http://www.amt.edu.au/wp-content/themes/DynamiX/style.css" id="themeva-custom-styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="themeva-custom-styles-inline-css" type="text/css">
+   #custom-layer1 { 
+				background:transparent;
+				opacity:1;
+				-ms-filter: 
+				progid:DXImageTransform.Microsoft.Alpha(opacity=100)
+				progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);
+				zoom:1;
+				background-image: url(/wp-content/uploads/bg-header.png);
+				background-position: center top;
+				background-repeat: no-repeat; }
+			#custom-layer3 { 
+			background: rgb( 187,223,249 );
+			background: rgba( 187,223,249,  1);
+			background-color: transparent;
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffbbdff9 , endColorstr=#ffdbeaf9);
+			-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffbbdff9 , endColorstr=#ffdbeaf9)";
+			background: linear-gradient(to bottom, rgba( 187,223,249,1), rgba( 219,234,249,1) );
+			background: -o-linear-gradient(top,rgba(187,223,249,1), rgba( 219,234,249,1));
+			background: -moz-linear-gradient(100% 100% 90deg, rgba( 219,234,249,1), rgba( 187,223,249,1));
+			background: -webkit-gradient(linear, 0% 0%, 0% 90%, from(rgba( 187,223,249,1)), to(rgba( 219,234,249,1)));
+			*background: transparent;
+			zoom:1; }
+			#custom-layer4 { 
+				opacity:.10;
+				-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+				filter: alpha(opacity=10);
+				background-color: #f2f2f2;
+				background-image: url(http://www.amt.edu.au/wp-content/themes/DynamiX/images/pattern-c.png); }
+			#custom-layer5-color { background-color: #;; }
+				#custom-layer5 { 
+				background:transparent;
+				opacity:1;
+				-ms-filter: 
+				progid:DXImageTransform.Microsoft.Alpha(opacity=100)
+				progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);
+				zoom:1;
+				background-color: #3d74aa;
+				background-image: url(/wp-content/uploads/math-bg.png);
+				background-position: center top;
+				background-repeat: repeat; }
+			#custom-layer5-color { background-color: #;; }
+				.skinset-background.nv-skin {
+			
+ 			font-size:14px;
+ 			font-family:Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+			filter:none;
+			-ms-filter:none;
+			
+			}
+			.skinset-background .woocommerce .woocommerce-error, 
+			.skinset-background .woocommerce .woocommerce-info, 
+			.skinset-background .woocommerce .woocommerce-message,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-closed,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-trash,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-spam,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.super-sticky,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.sticky { 
+ 			border-color:#2791db; }
+			
+				#header .mobilemenu-init a,
+				#header .toppaneltrigger.mobile a,
+				
+			.skinset-background a,
+			.skinset-background #content span.price,
+			.skinset-background .fonticon i.inherit,
+			.skinset-background #content span.amount,
+			.skinset-background .woocommerce .woocommerce-info:before,
+			.skinset-background span.text_linkcolor,
+			#nv-tabs .skinset-background li[class*="scrollTo_"] a {
+			color:#2791db; }
+			.skinset-background h1, .skinset-background h1 a, .skinset-background h2, .skinset-background h2 a, .skinset-background h3, .skinset-background h3 a, .skinset-background h4, .skinset-background h4 a, .skinset-background h5, .skinset-background h5 a, .skinset-background h6, .skinset-background h6 a,.skinset-background .bbp-topic-title a.bbp-topic-permalink,.skinset-background .bbp-forum-info a.bbp-forum-title { 
+ 			font-family:Oswald;	}
+			.skinset-background h1, .skinset-background h1 a { 
+			color:#3966a6;
+ 			font-size:33px; }
+			.skinset-background h2, .skinset-background h2 a { 
+ 			color:#3966a6;
+			font-size:27px; }
+			.skinset-background h3, .skinset-background h3 a { 
+ 			color:#004990;
+			font-size:22px; }
+			.skinset-background h4,.skinset-background h5,.skinset-background h6,.skinset-background .ui-tabs-nav li a, .skinset-background .accordionhead a, .skinset-background span.price-value,.skinset-background .nv-recent-posts h4 a { 
+ 			color:#cc992e;
+			font-size:19px; }
+			
+			.skinset-background span.nvcolor,
+			.skinset-background span.dropcap.two.link_color,
+			.skinset-background span.highlight.one,
+			.skinset-background .post-metadata li.post-date,
+			.skinset-background .commentlist .reply a,
+			.skinset-background div.header-infobar,
+			.skinset-background div.item-list-tabs ul li a span,
+			.skinset-background .widget_display_stats dd strong,
+			.skinset-background div.bbp-template-notice,
+			.skinset-background div#message.updated,
+			.skinset-background .hoverimg i,
+			.skinset-background .hovervid i,
+			.skinset-background span.activity,
+			.skinset-background a.button,
+			.skinset-background button.button,
+			.skinset-background .fonticon.background,
+			.skinset-background .button.link_color,
+			.skinset-background .action-icons i,
+			.skinset-background #respond input#submit.alt,
+			.skinset-background a.button.alt,
+			.skinset-background button.button.alt,
+			.skinset-background input.button.alt,
+			.skinset-background.woocommerce span.onsale,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-closed:before,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-trash:before,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-spam:before,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.super-sticky:before,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.sticky:before,
+			.woocommerce.skinset-background .widget_price_filter .ui-slider .ui-slider-range,
+			.woocommerce.skinset-background .widget_price_filter .ui-slider .ui-slider-handle,
+			.skinset-background input[type="submit"] { 
+ 			background-color:#2791db; }
+			.skinset-background acronym, .skinset-background abbr { 
+ 			border-bottom: 1px dashed #2791db; }
+			.skinset-main.nv-skin {
+			
+			filter:none;
+			-ms-filter:none;
+			
+			}.skinset-header.nv-skin {
+			
+ 			font-size:14px;
+ 			font-family:Oswald;
+ 			color:#2f61a8;
+			filter:none;
+			-ms-filter:none;
+			
+			}
+			.skinset-header div.item-list-tabs ul li a,
+			.skinset-header .widget ul li.current_page_item a,
+			.skinset-header span.menudesc,
+			div.post-metadata a,
+			.skinset-header .commentlist .comment-author a,
+			.skinset-header .recent-metadata a,
+			.skinset-header .nv-recent-posts h4 a,
+			.skinset-header .post-metadata a,
+			.skinset-header .widget.widget_pages li a,
+			.skinset-header .widget.widget_nav_menu li a,
+			.skinset-header .widget.widget_recent_entries li a,
+			.skinset-header div.blind_down ul li a,
+			.skinset-header #item-header-content h2 a,
+			.skinset-header a.topic-title,
+			.skinset-header .bbp-topic-title a,
+			.skinset-header a.bbp-forum-title,
+			.skinset-header td.td-group .object-name a { 
+ 			color:#2f61a8; }
+			
+			.skinset-header .woocommerce .woocommerce-error, 
+			.skinset-header .woocommerce .woocommerce-info, 
+			.skinset-header .woocommerce .woocommerce-message,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-closed,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-trash,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-spam,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.super-sticky,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.sticky { 
+ 			border-color:#2f61a8; }
+			
+			.skinset-header a,
+			.skinset-header #content span.price,
+			.skinset-header .fonticon i.inherit,
+			.skinset-header #content span.amount,
+			.skinset-header .woocommerce .woocommerce-info:before,
+			.skinset-header span.text_linkcolor,
+			#nv-tabs .skinset-header li[class*="scrollTo_"] a {
+			color:#2f61a8; }
+			
+			.skinset-header a:hover,
+			.skinset-header #nv-tabs .extended-menu li.scroll a:hover,
+			.skinset-header a.waypoint_active,
+			.skinset-header .post-metadata a:hover,
+			.skinset-header .widget.widget_pages li a:hover,
+			.skinset-header .widget.widget_nav_menu li a:hover,
+			.skinset-header .widget.widget_recent_entries li a:hover,
+			.skinset-header #item-header-content h2 a:hover,
+			.skinset-header .current_page_item>a,
+			.skinset-header .current-menu-item>a,
+			.skinset-header li.menu-item:hover > a,
+			.skinset-header .current-menu-ancestor>a,
+			.skinset-header #mobile-tabs .current_page_item>a,
+			.skinset-header #mobile-tabs .extended-menu .current_page_item>a,
+			.skinset-header .bbp-reply-content #favorite-toggle .is-favorite a,
+			.skinset-header .bbp-reply-content #subscription-toggle .is-subscribed a,
+			.woocommerce.skinset-header p.stars a.active { 
+ 			color:#cc992e; }
+			
+			.skinset-header span.nvcolor,
+			.skinset-header span.dropcap.two.link_color,
+			.skinset-header span.highlight.one,
+			.skinset-header .post-metadata li.post-date,
+			.skinset-header .commentlist .reply a,
+			.skinset-header div.header-infobar,
+			.skinset-header div.item-list-tabs ul li a span,
+			.skinset-header .widget_display_stats dd strong,
+			.skinset-header div.bbp-template-notice,
+			.skinset-header div#message.updated,
+			.skinset-header .hoverimg i,
+			.skinset-header .hovervid i,
+			.skinset-header span.activity,
+			.skinset-header a.button,
+			.skinset-header button.button,
+			.skinset-header .fonticon.background,
+			.skinset-header .button.link_color,
+			.skinset-header .action-icons i,
+			.skinset-header #respond input#submit.alt,
+			.skinset-header a.button.alt,
+			.skinset-header button.button.alt,
+			.skinset-header input.button.alt,
+			.skinset-header.woocommerce span.onsale,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-closed:before,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-trash:before,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-spam:before,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.super-sticky:before,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.sticky:before,
+			.woocommerce.skinset-header .widget_price_filter .ui-slider .ui-slider-range,
+			.woocommerce.skinset-header .widget_price_filter .ui-slider .ui-slider-handle,
+			.skinset-header input[type="submit"] { 
+ 			background-color:#2f61a8; }
+			.skinset-header .nvcolor-wrap:hover span.nvcolor,.woocommerce.skinset-header #respond input#submit.alt:hover, .woocommerce.skinset-header a.button.alt:hover, .woocommerce.skinset-header button.button.alt:hover, .woocommerce.skinset-header input.button.alt:hover { 
+			background-color:#cc992e; }
+			.skinset-header acronym, .skinset-header abbr { 
+ 			border-bottom: 1px dashed #2f61a8; }
+			.skinset-menu.nv-skin {
+			
+			filter:none;
+			-ms-filter:none;
+			
+			}#header #nv-tabs ul ul  { 
+ 			background-color:#ffffff;
+			border-color:#1e73be;
+			 }
+			.skinset-footer.nv-skin {
+			
+ 			color:#004990;
+			filter:none;
+			-ms-filter:none;
+			
+			}
+			.skinset-footer div.item-list-tabs ul li a,
+			.skinset-footer .widget ul li.current_page_item a,
+			.skinset-footer span.menudesc,
+			div.post-metadata a,
+			.skinset-footer .commentlist .comment-author a,
+			.skinset-footer .recent-metadata a,
+			.skinset-footer .nv-recent-posts h4 a,
+			.skinset-footer .post-metadata a,
+			.skinset-footer .widget.widget_pages li a,
+			.skinset-footer .widget.widget_nav_menu li a,
+			.skinset-footer .widget.widget_recent_entries li a,
+			.skinset-footer div.blind_down ul li a,
+			.skinset-footer #item-header-content h2 a,
+			.skinset-footer a.topic-title,
+			.skinset-footer .bbp-topic-title a,
+			.skinset-footer a.bbp-forum-title,
+			.skinset-footer td.td-group .object-name a { 
+ 			color:#004990; }
+			
+			.skinset-footer .woocommerce .woocommerce-error, 
+			.skinset-footer .woocommerce .woocommerce-info, 
+			.skinset-footer .woocommerce .woocommerce-message,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.status-closed,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.status-trash,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.status-spam,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.super-sticky,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.sticky { 
+ 			border-color:#004990; }
+			
+			.skinset-footer a,
+			.skinset-footer #content span.price,
+			.skinset-footer .fonticon i.inherit,
+			.skinset-footer #content span.amount,
+			.skinset-footer .woocommerce .woocommerce-info:before,
+			.skinset-footer span.text_linkcolor,
+			#nv-tabs .skinset-footer li[class*="scrollTo_"] a {
+			color:#004990; }
+			
+			.skinset-footer a:hover,
+			.skinset-footer #nv-tabs .extended-menu li.scroll a:hover,
+			.skinset-footer a.waypoint_active,
+			.skinset-footer .post-metadata a:hover,
+			.skinset-footer .widget.widget_pages li a:hover,
+			.skinset-footer .widget.widget_nav_menu li a:hover,
+			.skinset-footer .widget.widget_recent_entries li a:hover,
+			.skinset-footer #item-header-content h2 a:hover,
+			.skinset-footer .current_page_item>a,
+			.skinset-footer .current-menu-item>a,
+			.skinset-footer li.menu-item:hover > a,
+			.skinset-footer .current-menu-ancestor>a,
+			.skinset-footer #mobile-tabs .current_page_item>a,
+			.skinset-footer #mobile-tabs .extended-menu .current_page_item>a,
+			.skinset-footer .bbp-reply-content #favorite-toggle .is-favorite a,
+			.skinset-footer .bbp-reply-content #subscription-toggle .is-subscribed a,
+			.woocommerce.skinset-footer p.stars a.active { 
+ 			color:#727272; }
+			.skinset-footer h1, .skinset-footer h1 a { 
+			color:#4996c6; }
+			.skinset-footer h2, .skinset-footer h2 a { 
+ 			color:#4996c6; }
+			.skinset-footer h3, .skinset-footer h3 a { 
+ 			color:#4996c6; }
+			.skinset-footer h4,.skinset-footer h5,.skinset-footer h6,.skinset-footer .ui-tabs-nav li a, .skinset-footer .accordionhead a, .skinset-footer span.price-value,.skinset-footer .nv-recent-posts h4 a { 
+ 			color:#000000; }
+			
+			.skinset-footer span.nvcolor,
+			.skinset-footer span.dropcap.two.link_color,
+			.skinset-footer span.highlight.one,
+			.skinset-footer .post-metadata li.post-date,
+			.skinset-footer .commentlist .reply a,
+			.skinset-footer div.header-infobar,
+			.skinset-footer div.item-list-tabs ul li a span,
+			.skinset-footer .widget_display_stats dd strong,
+			.skinset-footer div.bbp-template-notice,
+			.skinset-footer div#message.updated,
+			.skinset-footer .hoverimg i,
+			.skinset-footer .hovervid i,
+			.skinset-footer span.activity,
+			.skinset-footer a.button,
+			.skinset-footer button.button,
+			.skinset-footer .fonticon.background,
+			.skinset-footer .button.link_color,
+			.skinset-footer .action-icons i,
+			.skinset-footer #respond input#submit.alt,
+			.skinset-footer a.button.alt,
+			.skinset-footer button.button.alt,
+			.skinset-footer input.button.alt,
+			.skinset-footer.woocommerce span.onsale,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.status-closed:before,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.status-trash:before,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.status-spam:before,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.super-sticky:before,
+			.skinset-footer #bbpress-forums li.bbp-body .hentry.sticky:before,
+			.woocommerce.skinset-footer .widget_price_filter .ui-slider .ui-slider-range,
+			.woocommerce.skinset-footer .widget_price_filter .ui-slider .ui-slider-handle,
+			.skinset-footer input[type="submit"] { 
+ 			background-color:#004990; }
+			.skinset-footer .nvcolor-wrap:hover span.nvcolor,.woocommerce.skinset-footer #respond input#submit.alt:hover, .woocommerce.skinset-footer a.button.alt:hover, .woocommerce.skinset-footer button.button.alt:hover, .woocommerce.skinset-footer input.button.alt:hover { 
+			background-color:#727272; }
+			.skinset-footer acronym, .skinset-footer abbr { 
+ 			border-bottom: 1px dashed #004990; }
+			
+		@media only screen and (min-width: 1025px) {
+			.site-inwrap .tab, .site-inwrap .gallery-wrap.stage .control-wrap, .site-inwrap .gallery-wrap.group-slider,.site-inwrap .accordion-gallery-wrap.stage,.site-inwrap .row, .dock-panel-wrap.dockpanel_type_2.dock_layout_1 .infodock-innerwrap { 
+				max-width:980px; 
+			}
+			#primary-wrapper { min-width:980px; }
+		}
+		/* ============== GENERAL ============================ */
+
+/* Adjust max row width --- controlling width of page content */
+div.content-wrap.row, footer#footer,  div.lowerfooter.row { max-width: 900px !important; }
+
+/* Page Background */
+div#primary-wrapper {background: url(/wp-content/uploads/bg-page.png) center top repeat-y;}
+
+/* Heading Styles */
+h1 { font-weight: 400 !important; }
+h2 { font-weight: 400 !important; }
+h3 { font-weight: 300 !important; }
+h4 {}
+h5 { font-size: 16px !important; color: #3966A6 !important; }
+
+body { font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, Helvetica, Arial, san-serif !important; }
+
+/* Side Bar Width */
+div.sidebar { width: 19.5em !important; }
+
+.quoteBox { font-size: 16px; }
+.quoteBox i.fa-quote-left { font-size: 24px; margin-right: 10px; }
+.quoteBox i.fa-quote-right { font-size: 24px; margin-left: 10px; position: relative; top: 4px; }
+
+/* Font Icons */
+.fonticon i { color: #3966A6; margin-right: 0px; }
+span.fonticon { margin: 5px 0px; }
+
+/* Modified the "Teal" colour setting in theme options */
+.teal i {color: #6A92C5 !important;}
+
+/* Topic Links & Link Separators */
+a.topicLink {}
+.linkSeparator { color:#CECECE; }
+
+/* Image Caption Text */
+.imgCaption  { font-style: italic; margin-top: 20px; text-align: center; color: #555; font-size: 13px;}
+
+/* Reveal Toggle */
+div.revealbox h4 {font-size: 18px !important;}
+
+/*Styled Boxes*/
+.wpb_wrapper .styledbox.custom .boxcontent, .wpb_wrapper .styledbox.general .boxcontent { padding: 15px 0 0 !important; }
+
+
+/* ============== HEADER ============================= */
+
+/* Hides default drop shadow on Header background */
+.shadow.top.custom-layer { display: none; }
+
+/* Removed bottom margin on header container */
+header#header { margin-bottom: 0px; }
+
+/* Adjusts the site logo */
+#primary-wrapper #header-logo { margin-left: 35px; }
+
+/* Adjusts the search bar position */
+/* ul.icon-dock { right: 6px; }*/
+ul.icon-dock { right: 90px; }
+ul.icon-dock li { 
+line-height: 30px !important;
+height: 32px !important;
+ }
+ul.icon-dock #panelsearchform #drops {
+    line-height: 26px !important;
+    height: 26px !important;
+}
+ul.icon-dock #panelsearchsubmit {
+    line-height: 28px !important;
+}
+
+/* ============== NAVIGATION ========================== */
+
+/* Adjusts the right margin of the site navigation */
+#primary-wrapper #nv-tabs { margin-right: 16px; }
+
+/* Link styling (padding and font-weight) */
+#header #nv-tabs a {font-weight: 400 !important; padding: 10px 15px; }
+
+/* Removes separator lines between top level nav links */
+#header #nv-tabs li.menubreak { display: none !important; }
+
+/* Removes drop down arrow next to top level nav links */
+#header #nv-tabs ul li.hasdropmenu span.dropmenu-icon { opacity: 0 !important; }
+#header #nv-tabs ul li.hasdropmenu a { padding: 10px 15px 16px; } 
+
+/* Drop Down Menu Styling*/
+#header #nv-tabs ul ul {
+background-color: #F7F7F7;
+margin-top: 0px;
+border: 0px;
+border-top: 3px solid #1E73BE;
+border-radius: 0px 0px 10px 10px;
+box-shadow: none;
+}
+
+/* =============== FOOTER =========================== */
+
+/* Hides default arrow graphic on footer menu lists */
+#footer .widget_nav_menu ul li a:before { display: none; }
+
+/* Adjusts footer list item padding */
+/*#footer .widget li { padding: 0px 0px 15px !important; }*/
+
+/* Lower footer Links */
+.skinset-footer a.lowerFooter  { }
+.skinset-footer a:hover.lowerFooter  { }
+.skinset-footer a.dlLink { color: #b0b2b0 !important; }
+.skinset-footer a:hover.dlLink { color: #f26522 !important; }
+
+/* ============== FORM - CONTACT 7 =================== */
+
+span.required { color: #FF0000; }
+
+
+/* ============== HOME PAGE ========================= */
+
+.hmCol1 {}
+.hmCol2 {}
+.hmCol3 {}
+
+.hmCol1 img, .hmCol2 img, .hmCol3 img { border-radius: 10px; }
+.hmCol1 h3, .hmCol2 h3, .hmCol3 h3 { color: #CC992E !important;}
+.hmCol1 h3 a, .hmCol2 h3 a, .hmCol3 h3 a { color: #CC992E !important;}
+
+/* ============== OUR PEOPLE PAGE ================== */
+
+div.columns.four.pplNamesCol { font-weight: bold; width: 35%; padding-right: 0px !important; }
+div.columns.four.pplNamesCol h5 { margin-bottom: 2px !important; }
+div.columns.four.pplTitleCol { width: 46%; padding-right: 0px;}
+div.columns.four.pplEmailCol { width: 19%; text-align: right; padding-right: 0px; }
+
+/*div.columns.four.pplTitleCol { width: 260px; }*/
+/*div.columns.four.pplEmailCol { width: 130px; padding-right: 25px; text-align: right;  }*/
+
+div.columns.four.pplNamesCol p, div.columns.four.pplTitleCol p, div.columns.four.pplEmailCol p { margin-bottom: 0px; }
+div.wpb_row.row.pplRow { margin-bottom: 0px; }
+
+
+/* ============== BIOs PAGE ========================== */
+
+.formOlympians h4.reveal { font-size: 22px !important; font-weight: 400; }
+
+
+/* ============== AMC PAGE ========================== */
+
+.sponsImgHead { float: right; position: relative; bottom: 30px; }
+
+
+/* ============== MCYA Page ========================= */
+
+.mcyaFontIcons .fonticon  { font-size: 16px; margin-right: 0px !important; }
+
+
+/* ============= STATISTICS PAGE ==================== */
+div.statsSponLogo { }
+
+/* ============= DIRECTORY PAGE ====================       ============================================================ */
+#cn-list .vcard span {
+   display: initial !important;
+}
+#cn-entry-actions li {
+  list-style: none;
+}
+
+/* ============== IMO RESULTS Page ================== */
+
+div.imoLocation { float: left; display: inline; width: 170px; color: #004990; }
+div.imoMedHd, div.imoRankHd { float: left; display:inline; margin-right: 5px; color: #004990; }
+div.imoMed, div.imoRank { float: left; display: inline; }
+div.imoMed { width: 200px; }
+
+
+
+/* ============== AIO FAQs Page ====================== */
+
+.faqsQ hr { margin-bottom: 8px; }
+.faqsQ p { margin-bottom: 8px; font-size: 16px; }
+
+/* ============== FOR TEACHERS Page ================ */
+
+div.columns.six.olyprofPicCol { width: 210px; }
+div.columns.six.olyprofDetailsCol.wpb_column.column_container.olyprofDetailsCol {width: 66%;}
+
+.feesCompHd, .mcyaCompHd, .feesPrice {margin-bottom: 10px;} 
+.feesCompHd, .mcyaCompHd, .feesCompSubHd { float: left; display: inline; }
+.feesCompHd { width: 360px; }
+.mcyaCompHd { width: 600px;}
+.feesCompSubHd { width: 360px;}
+.feesPrice {}
+
+/* ============== MATT SUMS (POSTS) ================ */
+
+.mattSumsPost {  }
+div.nv-skin.mediawrap.alignleft { margin: 0px !important; }
+.mattHd { font-family: 'Satisfy' !important; color:#3966A6; }
+
+.mattBlogIntroFirstCol { width: 57% !important; }
+.mattBlogIntroSecCol {width: 43% !important; padding: 30px 0px 0px !important; }
+
+/* ============== NEWS ============================ */
+
+.group-slider .panelcontent {text-align: left !important;}
+.group-slider .panelcontent h3 {margin-bottom: 10px !important;}
+.group-slider .panelcontent h3 a { font-size: 15px !important; font-weight: 500 !important;}
+
+/* ============== NEWS (RESULTS) ================== */
+
+div.resName { float: left; display: inline; width: 145px; color: #004990;  }
+div.resName2 { float: left; display: inline; width: 120px; color: #004990;   }
+div.resYear { float: left; display: inline; width: 60px; }
+div.resSchool { float: left; display: inline; width: 265px;}
+div.resScore { float: left; display: inline; }
+
+.wpb_row.row.imoFirstRow {margin-bottom: 0px !important; }
+.wpb_row.row.alexImgRow {margin-bottom: 0px !important;}
+
+
+/* ============== OLYMPIAN TEAMS TABLES ================ */
+
+div.olyName { float: left; display: inline; width: 160px; color: #004990; }
+div.olyGrade, div.olySchool { float: left; display: inline; }
+div.olyGrade { width: 65px;}
+div.olySchool { width: 255px;}
+div.olyState {}
+
+/* ============== Mini Quiz PAGE ===================== */
+
+/* Hides the 'Message Displayed Before' template space */
+div.quiz_section.quiz_begin.slide1 { display: none !important; }
+
+.quiz_section > input {       }
+.quiz_section {
+  border-top: 2px solid #3966A6;
+  margin-top: 50px;
+  padding-top: 20px;
+}
+div.mlw_qmn_quiz input[type="radio"] {
+    display:none;
+padding: 20px;
+}
+
+div.mlw_qmn_quiz input[type="radio"] + label{
+    display:inline-block;
+    height:30px;
+    margin:10px 4px 0 50px;
+    vertical-align:middle;
+    background:url("http://www.amt.edu.au/wp-content/uploads/radio-buttons2.png") left top no-repeat;
+    cursor:pointer;
+    margin-left: 50px;
+}
+div.mlw_qmn_quiz input[type="radio"]:checked + label{
+    background:url("http://www.amt.edu.au/wp-content/uploads/radio-buttons2.png") left -50px no-repeat;
+}
+div.mlw_qmn_quiz label{
+   padding-left:40px;
+}
+div.mlw_qmn_quiz input[type="radio"]:disabled+ label{
+    background:url("http://www.amt.edu.au/wp-content/uploads/radio-buttons2.png") left -100px no-repeat;
+}
+div.mlw_qmn_quiz input[type="radio"]:disabled:checked + label{
+    background:url("http://www.amt.edu.au/wp-content/uploads/radio-buttons2.png") left -150px no-repeat;
+}
+
+.quizImage {
+  padding: 20px;
+  text-align: center;
+}
+
+/* ============== EVENTS (CALENDAR) Pg ================ */
+
+/* Removes published date on 'Event' Category posts only */
+.category-event .post-metadata-wrap { display: none !important; }
+.category-event footer.row { display: none; }
+
+/* Calendar Top Navigation */
+#calTopNav { margin-left: 20px;  }
+#calTopNav h3 { color:#DADADA; }
+#firstHalfNav, #secHalfNav { display: inline; float: left; padding-bottom: 20px; }
+
+/* Remove Dynamix styling to Table Header */
+#qem-calendar td.calmonth { background: none !important; }
+
+
+/* ============== EVENTS (LIST) Pg ================ */
+.row.eventsListPg .qem h2 a { font-size: 0.8em !important; }
+
+
+/* ============== MILESTONE Plugin ================ */
+.milestone-content { max-width: 18em; margin-top: 0px !important; }
+.milestone-header { background-color: #4996C6 !important; }
+.milestone-countdown, .milestone-message { color:#4996C6 !important; }@media only screen and (max-width: 767px) {/* ============== GENERAL ==================== */
+/* Changes paragraph font */
+body { font-family: "Open Sans", Helvetica, Arial, sans-serif !important;  }
+
+/* Topic Links */
+a.topicLink { float: left; clear: left; margin-top: 7px; margin-bottom: 10px; }
+.linkSeparator { display: none; }
+
+/*column margin - creating extra space between H2 and prev section*/
+div.columns.twelve { margin-bottom: 0px !important; }
+
+/*Dividers*/
+div.hozbreak.clearfix { padding-top: 10px; }
+
+/* ============== HEADER ==================== */
+
+/* Adjusts the site logo */
+#primary-wrapper #header-logo { margin-left: 0px !important; margin-top: 55px; }
+#header-logo img { margin-bottom: 5px; }
+
+/* Menu position (mobile) */
+.skinset-main.nv-skin { float:right; }
+header#header { padding-top: 55px; }
+
+/* ============== FOOTER ================== */
+
+/* Lower Footer Alignment */
+div.lowfooterleft, div.lowfooterright { text-align: center !important; }
+span.lowfooterHidden { display: none; }
+
+/* ============== OUR PEOPLE ================== */
+
+div.columns.four.pplNamesCol { margin-bottom: 3px Important;} 
+div.columns.four.pplTitleCol { margin-bottom: 8px !important; }
+div.columns.four.pplEmailCol { text-align: left !important; padding-bottom: 20px; border-bottom: 1px solid #e8e8e8; margin-bottom: 20px !important; }
+
+div.columns.six.nameCol { margin-bottom: 0px !important;}
+
+div.columns.six.emailCol { text-align: left !important; margin-bottom: 0px !important; }
+div.columns.six.emailCol p { margin-bottom: 0px !important; }
+div.columns.six.emailCol img { margin-bottom: 0px !important; }
+
+/* ============== AMC PAGE ================== */
+.sponsImgHead { float: left; margin-right: 500px; margin-bottom: 30px; bottom: -10px; }
+.dateHeader { width: 100%; }
+
+
+/* ============== STATISTICS PAGE ================== */
+
+div.wpb_row.row.keyStatDates { margin-bottom: 0px; }
+div.columns.eight.keyStatDatesCol.wpb_column.column_container h3 { margin: 0 !important; }
+.keyStatDates div.hozbreak.clearfix { display: none !important; }
+
+/* ============== MATH OLYMPIAD. PROG PAGE ================== */
+
+div.imoLocation { width:100%; font-size: 20px; color: #004990; font-family: Oswald; font-weight: 500; }
+div.imoMedHd, div.imoRankHd { float: left; display:inline; margin-right: 5px; }
+div.imoMed, div.imoRank { float: left; display: inline; }
+div.imoMed { width: 200px; }
+
+/* ============== OLYMPIAN TEAMS TABLES ================ */
+
+div.olyName { width: 100%; font-size: 1.15em;}
+div.olyGrade, div.olySchool , div.olyState { float: left; clear: left; }
+div.olyState { margin-bottom: 10px; }
+
+/* ============== MINI AMC ================ */
+div.mlw_qmn_timer { top: 130px !important;}
+
+
+/* ============== EVENTS page ================ */
+
+/* Hide Calendar */
+#qem-calendar { display: none !important;}
+#calTopNav { display: none; }
+
+/* Calendar Top Navigation */
+/*#calTopNav { margin-left: 0px;  }
+#firstHalfNav { margin-bottom: 10px; }
+span.calNavDivider { display: none !important; }*/
+
+
+/* ============== NEWS (RESULTS) ================== */
+
+div.resHdRow { display: none !important; }
+div.resName { width: 100% !important; font-size: 1.3em;  }
+div.resScore { margin-bottom: 20px; }
+}
+  </style>
+  <link href="http://fonts.googleapis.com/css?family=Oswald%3A700%2C400%2C300%7COswald%3A700%2C400%2C300&amp;ver=32b68ffe1dcb2fde4c650a0f29c53f35" id="tvaGoogleFonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/connections/assets/css/cn-user.min.css?ver=8.5.15" id="cn-public-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//www.amt.edu.au/wp-content/plugins/connections/vendor/chosen/chosen.min.css?ver=1.4.2" id="cn-chosen-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/milestone/css/fergcorp_milestone-style.css?ver=20120208" id="fergcorp-milestone-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/quick-event-manager/quick-event-manager.css?ver=32b68ffe1dcb2fde4c650a0f29c53f35" id="event_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/connections-form/css/cn-form-user.min.css?ver=2.4" id="cn-form-public-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/connections-business-directory-login/assets/css/cn-login-user.min.css?ver=2.0.1" id="cn-login-public-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2" id="js_composer_front-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=3.1.9" id="mc4wp-form-basic-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/themes/DynamiX/style.css" id="northvantage-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/themes/DynamiX/stylesheets/responsive.css" id="acoda-responsive-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.11.2" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.amt.edu.au/wp-content/themes/DynamiX/stylesheets/font-icons/css/font-awesome-social.css" id="font-awesome-social-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://www.amt.edu.au/wp-includes/js/jquery/jquery.js?ver=1.12.3" type="text/javascript">
+  </script>
+  <script src="http://www.amt.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0" type="text/javascript">
+  </script>
+  <script src="//www.amt.edu.au/wp-content/plugins/connections-rot13/cn_rot13.js?ver=1.1" type="text/javascript">
+  </script>
+  <link href="http://www.amt.edu.au/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://www.amt.edu.au/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://www.amt.edu.au/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="http://www.amt.edu.au/informatics/cat/" rel="canonical"/>
+  <link href="http://www.amt.edu.au/?p=322" rel="shortlink"/>
+  <link href="http://www.amt.edu.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.amt.edu.au%2Finformatics%2Fcat%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://www.amt.edu.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.amt.edu.au%2Finformatics%2Fcat%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <style media="screen" type="text/css">
+   .qem {width:100%;margin: 0 0 20px 0;;}
+.qem p {margin: 0 0 0.5em 0;padding: 0 0 0 0;}
+.qem p, .qem h2 {margin: 0 0 8px 0;padding:0;}
+.qem p {font-family: arial, sans-serif; font-size: 0.9em;}
+.qem h2, .qem h2 a {font-size: 100% !important;color: !important}
+@media only screen and (max-width:480px) {.qemtrim span {font-size:50%;}
+.qemtrim, .calday, data-tooltip {font-size: 80%;}}#qem-calendar-widget h2 {font-size: 1em;}
+#qem-calendar-widget .qemtrim span {display:none;}
+#qem-calendar-widget .qemtrim:after{content:"\25B6";font-size:150%;}
+@media only screen and (max-width:480px;) {
+    .qemtrim span {display:none;}.qemtrim:after{content:"\25B6";font-size:150%;}
+}
+.qem-small, .qem-medium, .qem-large {}
+.qem-register {border: 1px solid #c4dbe9;padding:7px;}.qem-register{max-width:280px;}
+.qem-register #submit {background: #343838;}
+.qem-register #submit:hover {background: #888888;}
+.qemright {max-width:40%;width:300px;height:auto;overflow:hidden;}
+.qemlistright {max-width:40%;width:300px;height:auto;overflow:hidden;}
+img.qem-image {width:100%;height:auto;overflow:hidden;}
+img.qem-list-image {width:100%;height:auto;overflow:hidden;}
+.qem-category {border: 1px solid #c4dbe9;}
+.qem-icon .qem-calendar-small {width:52px;}
+.qem-small {margin-left:58px;}
+.qem-icon .qem-calendar-medium {width:72px;}
+.qem-medium {margin-left:78px;}
+.qem-icon .qem-calendar-large {width:92px;}
+.qem-large {margin-left:98px;}
+.qem-calendar-small .nonday, .qem-calendar-medium .nonday, .qem-calendar-large .nonday {display:block;border: 1px solid #c4dbe9;border-top:none;background:#FFF;}
+.qem-calendar-small .day, .qem-calendar-medium .day, .qem-calendar-large .day {display:block;color:#4996c6;background:#dbeaf4; border: 1px solid #c4dbe9;border-bottom:none;}
+.qem-calendar-small .month, .qem-calendar-medium .month, .qem-calendar-large .month {color:#343838}
+.qem-error { border-color: red !important; }
+.qem-error-header { color: red !important; }
+.qem-columns, .qem-masonry {border:;}
+#qem-calendar h2 {margin: 0 0 8px 0;padding:0;}
+#qem-calendar .calmonth {text-align:center;}
+#qem-calendar .calday {background:#dadada; color:#849bb1}
+#qem-calendar .day {background:#e7f3fa;}
+#qem-calendar .eventday {background:#cfe9f7;}
+#qem-calendar .eventday a {-webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;color:#000000 !important;background: !important;border:none !important;}
+#qem-calendar .oldday {background:#f5f5f5;}
+#qem-calendar table border-collapse: separate;border-spacing:3;}
+#qem-calendar td a:hover {background:#9bd0ec !important;}
+.qemtrim span {}
+@media only screen and (max-width: 700px) {.qemtrim img {display:none;}}
+@media only screen and (max-width: 480px) {.qem-large, .qem-medium {margin-left: 50px;}
+    .qem-icon .qem-calendar-large, .qem-icon .qem-calendar-medium  {font-size: 80%;width: 40px;margin: 0 0 10px 0;padding: 0 0 2px 0;}
+    .qem-icon .qem-calendar-large .day, .qem-icon .qem-calendar-medium .day {padding: 2px 0;}
+    .qem-icon .qem-calendar-large .month, .qem-icon .qem-calendar-medium .month {font-size: 140%;padding: 2px 0;}
+}#xlightbox {width:60%;margin-left:-30%;}
+@media only screen and (max-width: 480px) {#xlightbox {width:90%;margin-left:-45%;}}.qem-small { margin-left: 65px; }
+.qem-small p { margin: 0 !important; line-height: 1.5em; padding-top: 3px; }
+.qem-small h3 { font-size: 1em !important; font-weight: 500 !important; }
+.qem-small h3 a { font-size: 1em;}
+
+#qem-calendar .day { border: 1px solid #CBE5F3; }
+#qem-calendar .eventday { border:  1px solid #BFDFF0;}
+
+.qem-calendar-small .day { font-size: 160%; font-weight: bold; }
+.qem-calendar-small .month { color: #4996C6; }
+.qem-calendar-small .nonday, .qem-calendar-medium .nonday, .qem-calendar-large .nonday { color: #a5a5a5; }
+
+/* Widget : Sidebar 2 */
+
+li#qem_widget-2 .qem-small p { display: none !important; }
+
+
+/* Event Post Template (Category: Event) */
+
+.category-event .qem-calendar-small { width: 70px; }
+.category-event .qem-small { margin-left: 90px !important; }
+.category-event section.entry { padding-top: 20px; }
+.category-event .qem-small p { margin-bottom: 0.5em !important; }
+
+
+/* Calendar */
+
+/* Table Header */
+#qem-calendar .top { height: 43px; border: 1px solid #fbfbfb; background: none !important; }
+
+/* Adjustments to the Calendar Pop-Up */
+.qempop { min-height: 7.5em; }
+
+/* Calendar Event Text */
+.qemtrim span { font-family: Oswald; color:#2D7BAF; font-size: 1.2em; }
+
+/* Borders on calendar cells */
+td.day h2, td.eventday h2 { font-size: 1.5em; color: #87B9D3; }
+
+/* Prev/Next styling adjustments */
+#qem-calendar a.calnav { color: #2D7BAF !important; border: 1px solid #E2E2E2; }
+#qem-calendar a.calnav:hover { background: #DBEAF4 !important; border: 1px solid #C4DBE9 !important;  }#qem-calendar a.olympiad-event {background:#dd3333 !important;color: !important;}.olympiad-event .qem-small, .olympiad-event .qem-medium, .olympiad-event .qem-large {border-color:#dd3333;}
+.olympiad-event .qem-calendar-small .day, .olympiad-event .qem-calendar-medium .day, .olympiad-event .qem-calendar-large .day, .olympiad-event .qem-calendar-small .nonday, .olympiad-event .qem-calendar-medium .nonday, .olympiad-event .qem-calendar-large .nonday {border-color:#dd3333;}
+  </style>
+  <script type="text/javascript">
+   ajaxurl = "http://www.amt.edu.au/wp-admin/admin-ajax.php"; qem_calendar_atts = []; qem_year = []; qem_month = []; qem_category = [];
+  </script>
+  <meta content="Powered by Visual Composer - drag and drop page builder for WordPress." name="generator"/>
+  <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.amt.edu.au/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+  <!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.amt.edu.au/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+  <style type="text/css">
+   .broken_link, a.broken_link {
+	text-decoration: line-through;
+}
+  </style>
+  <!-- BEGIN GADWP v4.9.3.1 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-76115599-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <!-- END GADWP Universal Tracking -->
+  <noscript>
+   <style type="text/css">
+    .wpb_animate_when_almost_visible { opacity: 1; }
+   </style>
+  </noscript>
+  <!--[if IE 7]>
+    <link href="http://www.amt.edu.au/wp-content/themes/DynamiX/stylesheets/ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+  <!--[if lte IE 8]>	
+    <script src="http://www.amt.edu.au/wp-content/themes/DynamiX/js/ie7.js" type="text/javascript"></script>
+    <link href="http://www.amt.edu.au/wp-content/themes/DynamiX/stylesheets/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+  <script>
+   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1033372556736828');
+fbq('track', "PageView");
+  </script>
+ </head>
+ <body class="page page-id-322 page-child parent-pageid-321 page-template-default skinset-background loaded nv-skin wpb-js-composer js-comp-ver-4.11.2 vc_responsive">
+  <div class="nv-light" id="primary-wrapper">
+   <div class="site-inwrap clearfix ">
+    <a id="top">
+    </a>
+    <div class="custom-layer" id="custom-layer5-color">
+    </div>
+    <div class="custom-layer " id="custom-layer5">
+    </div>
+    <div id="toppanel">
+     <div class="tab-wrap">
+      <ul class="icon-dock clearfix">
+       <li class="searchform">
+        <form action="http://www.amt.edu.au" class="active" id="panelsearchform" method="get">
+         <fieldset>
+          <input id="drops" name="s" placeholder="Search" type="text"/>
+          <input id="panelsearchsubmit" type="button" value=""/>
+         </fieldset>
+        </form>
+       </li>
+      </ul>
+     </div>
+     <!-- / tab-wrap -->
+    </div>
+    <!--/toppanel -->
+    <div class="skinset-main nv-skin " id="mobile-tabs">
+     <div class="mobilemenu-init clearfix skinset-main nv-skin">
+      <a href="#">
+       <i class="fa fa-times fa-lg">
+       </i>
+      </a>
+     </div>
+     <ul class="menu hide-on-desktops" id="mobilemenu">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page">
+       <a href="http://www.amt.edu.au/">
+        <span class="menutitle">
+         Home
+        </span>
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu">
+       <a href="http://www.amt.edu.au/about-amt/">
+        <span class="menutitle">
+         About AMT
+        </span>
+       </a>
+       <ul class="sub-menu skinset-menu nv-skin">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/about-amt/our-people/">
+          <span class="menutitle">
+           Our People
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+         <a href="http://www.amt.edu.au/about-amt/committees/">
+          <span class="menutitle">
+           Our Volunteer Committees
+          </span>
+         </a>
+         <ul class="sub-menu skinset-menu nv-skin">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/about-amt/meet-our-volunteers/">
+            <span class="menutitle">
+             Meet Our Volunteers
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/about-amt/awards-bios/">
+          <span class="menutitle">
+           Awards, Bios &amp; Obits
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+         <a href="https://sites.google.com/site/pjt154/home">
+          <span class="menutitle">
+           A History of the AMT
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu">
+       <a href="http://www.amt.edu.au/mathematics/">
+        <span class="menutitle">
+         Mathematics
+        </span>
+       </a>
+       <ul class="sub-menu skinset-menu nv-skin">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/mathematics/amc/">
+          <span class="menutitle">
+           AMC
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+         <a href="http://www.amt.edu.au/mathematics/mcya/">
+          <span class="menutitle">
+           MCYA, Challenge &amp; Enrichment
+          </span>
+         </a>
+         <ul class="sub-menu skinset-menu nv-skin">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/mathematics/mcya/aimo-results/">
+            <span class="menutitle">
+             AIMO Results
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+         <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/">
+          <span class="menutitle">
+           Olympiad Program
+          </span>
+         </a>
+         <ul class="sub-menu skinset-menu nv-skin">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/amo-results/">
+            <span class="menutitle">
+             AMO Results
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/senior-contest-results/">
+            <span class="menutitle">
+             Senior Contest Results
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/apmo-results/">
+            <span class="menutitle">
+             APMO Results
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/mathematics/australias-imo-results/">
+            <span class="menutitle">
+             Australia’s IMO Results
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/mathematics/asc/">
+          <span class="menutitle">
+           Statistics
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+         <a href="http://getsetamc.edfinity.com/">
+          <span class="menutitle">
+           GetSet AMC
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children hasdropmenu">
+       <a href="http://www.amt.edu.au/informatics/">
+        <span class="menutitle">
+         Informatics
+        </span>
+       </a>
+       <ul class="sub-menu skinset-menu nv-skin">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-322 current_page_item menu-item-has-children">
+         <a href="http://www.amt.edu.au/informatics/cat/">
+          <span class="menutitle">
+           CAT
+          </span>
+         </a>
+         <ul class="sub-menu skinset-menu nv-skin">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/informatics/cat-results/">
+            <span class="menutitle">
+             CAT Results
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/informatics/aio/">
+          <span class="menutitle">
+           AIO
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+         <a href="http://www.amt.edu.au/informatics/aiocip-olympiad-program/">
+          <span class="menutitle">
+           Olympiad Program
+          </span>
+         </a>
+         <ul class="sub-menu skinset-menu nv-skin">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/informatics/aiocip-olympiad-program/aiio-results/">
+            <span class="menutitle">
+             AIIO Results
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/informatics/australias-ioi-results/">
+            <span class="menutitle">
+             Australia’s IOI Results
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu">
+       <a href="http://www.amt.edu.au/information/">
+        <span class="menutitle">
+         Information
+        </span>
+       </a>
+       <ul class="sub-menu skinset-menu nv-skin">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+         <a href="http://www.amt.edu.au/information/for-teachers/">
+          <span class="menutitle">
+           For Teachers
+          </span>
+         </a>
+         <ul class="sub-menu skinset-menu nv-skin">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/information/for-teachers/teacher-workshops/">
+            <span class="menutitle">
+             Teacher Workshops
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+         <a href="http://www.amt.edu.au/information/for-students/">
+          <span class="menutitle">
+           For Students
+          </span>
+         </a>
+         <ul class="sub-menu skinset-menu nv-skin">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/information/for-students/practice-problems/">
+            <span class="menutitle">
+             Practice Problems
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/mathematics/australias-imo-results/former-imo-olympians/our-olympians/">
+            <span class="menutitle">
+             Meet our IMO Olympians
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="http://www.amt.edu.au/informatics/australias-ioi-results/former-ioi-olympians/our-ioi-olympians/">
+            <span class="menutitle">
+             Meet our IOI Olympians
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/information/curious-minds-girls-in-science-technology-engineering-and-mathematics/">
+          <span class="menutitle">
+           Curious Minds
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/information/news/">
+          <span class="menutitle">
+           News
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/information/prices-and-key-dates/">
+          <span class="menutitle">
+           Prices &amp; Key Dates
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/information/links/">
+          <span class="menutitle">
+           Links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu">
+       <a href="http://www.amtt.com.au/SchoolLoginHome.php">
+        <span class="menutitle">
+         Entry
+        </span>
+       </a>
+       <ul class="sub-menu skinset-menu nv-skin">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="http://www.amt.edu.au/information/prices-and-key-dates/">
+          <span class="menutitle">
+           Prices &amp; Key Dates
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom">
+       <a href="http://www.amtt.com.au/">
+        <span class="menutitle">
+         Shop
+        </span>
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page">
+       <a href="http://www.amt.edu.au/contact/">
+        <span class="menutitle">
+         Contact
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="header-wrap gallery ">
+     <div class="header-skin-wrap">
+      <div class="custom-layer" id="custom-layer1">
+      </div>
+      <div class="custom-layer" id="custom-layer2">
+      </div>
+      <div class="shadow top custom-layer">
+      </div>
+     </div>
+     <div class="wrapper">
+      <header class="skinset-header row nv-skin droppanel gallery divider-light" id="header">
+       <div class="mobilemenu-init skinset-main nv-skin">
+        <a href="#">
+         <i class="fa fa-bars fa-lg">
+         </i>
+        </a>
+       </div>
+       <div class="left" id="header-logo">
+        <div id="logo">
+         <a href="http://www.amt.edu.au/">
+          <img alt="AMT" class="primary" src="/wp-content/uploads/amt-logo.png"/>
+         </a>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <!-- /header-logo -->
+       <nav class="static right" id="nv-tabs">
+        <ul class="menu clearfix hide-on-phones" id="dyndropmenu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="http://www.amt.edu.au/">
+           <span class="menutitle">
+            Home
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu">
+          <a href="http://www.amt.edu.au/about-amt/">
+           <span class="menutitle">
+            About AMT
+           </span>
+          </a>
+          <ul class="sub-menu skinset-menu nv-skin">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/about-amt/our-people/">
+             <span class="menutitle">
+              Our People
+             </span>
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+            <a href="http://www.amt.edu.au/about-amt/committees/">
+             <span class="menutitle">
+              Our Volunteer Committees
+             </span>
+            </a>
+            <ul class="sub-menu skinset-menu nv-skin">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/about-amt/meet-our-volunteers/">
+               <span class="menutitle">
+                Meet Our Volunteers
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/about-amt/awards-bios/">
+             <span class="menutitle">
+              Awards, Bios &amp; Obits
+             </span>
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="https://sites.google.com/site/pjt154/home">
+             <span class="menutitle">
+              A History of the AMT
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu">
+          <a href="http://www.amt.edu.au/mathematics/">
+           <span class="menutitle">
+            Mathematics
+           </span>
+          </a>
+          <ul class="sub-menu skinset-menu nv-skin">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/mathematics/amc/" title="Australian Mathematics Competition">
+             <span class="menutitle">
+              AMC
+             </span>
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+            <a href="http://www.amt.edu.au/mathematics/mcya/" title="Mathematics Challenge for Young Australians">
+             <span class="menutitle">
+              MCYA, Challenge &amp; Enrichment
+             </span>
+            </a>
+            <ul class="sub-menu skinset-menu nv-skin">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/mathematics/mcya/aimo-results/">
+               <span class="menutitle">
+                AIMO Results
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+            <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/" title="Invitational Program">
+             <span class="menutitle">
+              Olympiad Program
+             </span>
+            </a>
+            <ul class="sub-menu skinset-menu nv-skin">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/amo-results/">
+               <span class="menutitle">
+                AMO Results
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/senior-contest-results/">
+               <span class="menutitle">
+                Senior Contest Results
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/apmo-results/">
+               <span class="menutitle">
+                APMO Results
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/mathematics/australias-imo-results/">
+               <span class="menutitle">
+                Australia’s IMO Results
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/mathematics/asc/" title="Australian Statistics Project Competition">
+             <span class="menutitle">
+              Statistics
+             </span>
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="http://getsetamc.edfinity.com/">
+             <span class="menutitle">
+              GetSet AMC
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children hasdropmenu">
+          <a href="http://www.amt.edu.au/informatics/">
+           <span class="menutitle">
+            Informatics
+           </span>
+          </a>
+          <ul class="sub-menu skinset-menu nv-skin">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-322 current_page_item menu-item-has-children">
+            <a href="http://www.amt.edu.au/informatics/cat/" title="Computational and Algorithmic Thinking">
+             <span class="menutitle">
+              CAT
+             </span>
+            </a>
+            <ul class="sub-menu skinset-menu nv-skin">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/informatics/cat-results/">
+               <span class="menutitle">
+                CAT Results
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+            <a href="http://www.amt.edu.au/informatics/aio/" title="Australian Informatics Olympiad">
+             <span class="menutitle">
+              AIO
+             </span>
+            </a>
+            <ul class="sub-menu skinset-menu nv-skin">
+             <li class="menu-item menu-item-type-custom menu-item-object-custom">
+              <a href="http://www.amt.edu.au/informatics/aio/aio-results/">
+               <span class="menutitle">
+                AIO Results
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+            <a href="http://www.amt.edu.au/informatics/aiocip-olympiad-program/" title="Invitational Program">
+             <span class="menutitle">
+              Olympiad Program
+             </span>
+            </a>
+            <ul class="sub-menu skinset-menu nv-skin">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/informatics/aiocip-olympiad-program/aiio-results/">
+               <span class="menutitle">
+                AIIO Results
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/informatics/australias-ioi-results/">
+               <span class="menutitle">
+                Australia’s IOI Results
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="http://getsetamc.edfinity.com/">
+             <span class="menutitle">
+              GetSet CAT
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasdropmenu">
+          <a href="http://www.amt.edu.au/information/">
+           <span class="menutitle">
+            Information
+           </span>
+          </a>
+          <ul class="sub-menu skinset-menu nv-skin">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+            <a href="http://www.amt.edu.au/information/for-teachers/">
+             <span class="menutitle">
+              For Teachers
+             </span>
+            </a>
+            <ul class="sub-menu skinset-menu nv-skin">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/information/for-teachers/teacher-workshops/">
+               <span class="menutitle">
+                Teacher Workshops
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+            <a href="http://www.amt.edu.au/information/for-students/">
+             <span class="menutitle">
+              For Students
+             </span>
+            </a>
+            <ul class="sub-menu skinset-menu nv-skin">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/information/for-students/practice-problems/">
+               <span class="menutitle">
+                Practice Problems
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/mathematics/australias-imo-results/former-imo-olympians/our-olympians/">
+               <span class="menutitle">
+                Meet our IMO Olympians
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://www.amt.edu.au/informatics/australias-ioi-results/former-ioi-olympians/our-ioi-olympians/">
+               <span class="menutitle">
+                Meet our IOI Olympians
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/information/curious-minds-girls-in-science-technology-engineering-and-mathematics/">
+             <span class="menutitle">
+              Curious Minds
+             </span>
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/information/news/">
+             <span class="menutitle">
+              News
+             </span>
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/information/prices-and-key-dates/">
+             <span class="menutitle">
+              Prices &amp; Key Dates
+             </span>
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/information/links/">
+             <span class="menutitle">
+              Links
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu">
+          <a href="http://www.amt.edu.au/entry/" title="Competition Entry">
+           <span class="menutitle">
+            Entry
+           </span>
+          </a>
+          <ul class="sub-menu skinset-menu nv-skin">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://www.amt.edu.au/information/prices-and-key-dates/">
+             <span class="menutitle">
+              Prices &amp; Key Dates
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom">
+          <a href="http://www.amtt.com.au/" title="AMT Shop">
+           <span class="menutitle">
+            Shop
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="http://www.amt.edu.au/contact/" title="Contact the AMT">
+           <span class="menutitle">
+            Contact
+           </span>
+          </a>
+         </li>
+        </ul>
+       </nav>
+       <!-- /nv-tabs -->
+       <div class="clear">
+       </div>
+      </header>
+      <!-- /header -->
+     </div>
+    </div>
+    <div class="gallery-wrap stage stage-slider-wrap none nivo" data-stage-easing="linear" data-stage-effect="random" data-stage-nav="disabled" data-stage-type="nivo" id="main-stage">
+     <div class="slider-inner-wrap" style="max-width:900px;">
+      <div class="stage-slider-nivo stage">
+       <div class="panel " style="display:none">
+        <div class="panel-inner">
+         <div class="container ">
+          <div class="gridimg-wrap" style="max-width:900px">
+           <div class="effect-wrap image ">
+            <img alt="Cat-banner" class="" height="294" src="http://www.amt.edu.au/wp-content/uploads/bfi_thumb/Cat-banner-mpmqg18x2rpq7soa68hqw7na3b0yix3lud0q60bx4s.jpg" width="900"/>
+           </div>
+           <div class="clear">
+           </div>
+          </div>
+          <!-- / gridimg-wrap -->
+         </div>
+         <!-- / container -->
+        </div>
+        <!--  / panel-inner -->
+       </div>
+       <!--  / panel -->
+      </div>
+      <!-- / slider-inner-wrap -->
+     </div>
+     <!-- / stageslider -->
+     <input class="timeout_array" name="mainstage_timeout_array" type="hidden" value="1000000,"/>
+     <input class="timeout" name="mainstage_timeout" type="hidden" value="1000000"/>
+     <div class="clear">
+     </div>
+    </div>
+    <!-- / gallery-wrap -->
+    <div class="wrapper main">
+     <div class="content-wrap row">
+      <div class="disabled skinset-main nv-skin columns twelve divider-light">
+       <div class="intro-text-wrap row">
+        <div class="intro-text columns twelve">
+         <div>
+          <div class="post-titles entry-header">
+           <!-- post-titles -->
+           <h1 class="entry-title">
+            Computational and Algorithmic Thinking (CAT)
+           </h1>
+          </div>
+          <!-- /post-titles -->
+         </div>
+         <div class="clear">
+         </div>
+        </div>
+       </div>
+       <div class="row main-row">
+        <div class="columns eight layout_four" id="content">
+         <article class="post-322 page type-page status-publish hentry" id="post-322">
+          <section class="entry">
+           <div class="vc_row wpb_row row">
+            <div class="wpb_column vc_column_container vc_col-sm-12">
+             <div class="vc_column-inner ">
+              <div class="wpb_wrapper">
+               <div class="wpb_text_column wpb_content_element ">
+                <div class="wpb_wrapper">
+                 <h3 style="color: #cc992e;">
+                  Tuesday 22 March 2016
+                 </h3>
+                 <div class="hozbreak clearfix">
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="vc_row wpb_row row">
+            <div class="wpb_column vc_column_container vc_col-sm-6">
+             <div class="vc_column-inner ">
+              <div class="wpb_wrapper">
+               <div class="wpb_text_column wpb_content_element ">
+                <div class="wpb_wrapper">
+                 <h3>
+                  Useful Links
+                 </h3>
+                 <p>
+                  <a href="http://www.amt.edu.au/entry/">
+                   <span class="fonticon small ">
+                    <i class="fa fa-share">
+                    </i>
+                   </span>
+                   Competition Entry
+                  </a>
+                  <br/>
+                  <a href="http://www.amt.edu.au/information-for-schools-about-online-competitions-2016/" target="_blank">
+                   <span class="fonticon small ">
+                    <i class="fa fa-share">
+                    </i>
+                   </span>
+                   Online Competition FAQs
+                  </a>
+                  <br/>
+                  <a href="http://www.amt.edu.au/informatics/cat-results/" title="View 2015 Results">
+                   <span class="fonticon small ">
+                    <i class="fa fa-share">
+                    </i>
+                   </span>
+                   CAT Results
+                  </a>
+                 </p>
+                 <h3>
+                  Additional Information
+                 </h3>
+                 <p>
+                  <a href="https://amt.edfinity.com/" target="_blank">
+                   <span class="fonticon small ">
+                    <i class="fa fa-share">
+                    </i>
+                   </span>
+                   GetSet CAT
+                  </a>
+                  <br/>
+                  <a href="https://edfinity.com/join/7H74J7GA" target="_blank">
+                   <span class="fonticon small ">
+                    <i class="fa fa-share">
+                    </i>
+                   </span>
+                   GetSet CAT Sample Questions
+                  </a>
+                  (free)
+                  <br/>
+                  <a href="http://www.amtt.com.au/ProductList.php?Operation=SetSessionVariable&amp;Variable[cat2]=Informatics%20 &amp;Variable[cat3]=-1" target="_blank">
+                   <span class="fonticon small ">
+                    <i class="fa fa-share">
+                    </i>
+                   </span>
+                   CAT Past Papers
+                  </a>
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="wpb_column vc_column_container vc_col-sm-6">
+             <div class="vc_column-inner ">
+              <div class="wpb_wrapper">
+               <div class="wpb_text_column wpb_content_element ">
+                <div class="wpb_wrapper">
+                 <h3>
+                  Downloads
+                 </h3>
+                 <p>
+                  <a href="http://www.amt.edu.au/wp-content/uploads/2016-CAT-poster.pdf" target="_blank">
+                   <span class="fonticon small ">
+                    <i class="fa fa-file-text">
+                    </i>
+                   </span>
+                   CAT
+                   <span style="color: #0066cc;">
+                    –
+                   </span>
+                   2016 Poster
+                  </a>
+                  <br/>
+                  <a href="http://www.amt.edu.au/wp-content/uploads/CAT-Handbook-16.pdf" target="_blank">
+                   <span class="fonticon small ">
+                    <i class="fa fa-file-text">
+                    </i>
+                   </span>
+                   CAT – 2016 Handbook (paper version)
+                  </a>
+                  <br/>
+                  <a href="http://www.amt.edu.au/wp-content/uploads/CATOnlineManagersHandbook2016.pdf" target="_blank">
+                   <span class="fonticon small ">
+                    <i class="fa fa-file-text">
+                    </i>
+                   </span>
+                   CAT – 2016 Handbook (online version)
+                  </a>
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="vc_row wpb_row row">
+            <div class="wpb_column vc_column_container vc_col-sm-12">
+             <div class="vc_column-inner ">
+              <div class="wpb_wrapper">
+               <div class="hozbreak clearfix">
+               </div>
+               <div class="wpb_text_column wpb_content_element ">
+                <div class="wpb_wrapper">
+                 <h2>
+                  No previous experience in computer programming is necessary
+                 </h2>
+                 <p>
+                  The Computational and Algorithmic Thinking (CAT) competition is a one-hour problem-solving competition which seeks to identify computer programming potential—something which students might not normally have an opportunity to demonstrate.
+                 </p>
+                 <p>
+                  Existing AMT customers can enter the 2016 Online CAT (Computational and Algorithmic Thinking) for free! Given the growing curriculum emphasis on algorithmic thinking, this special offer provides a unique opportunity to expose students to this exciting new discipline.
+                 </p>
+                 <p>
+                  The CAT is not a programming competition and no programming experience is required. Results in the CAT often enable a talent to be discovered that is not always apparent or sought in normal classroom activities. Some questions test the ability to accurately perform procedures; others require logical thought, while the more challenging problems require the identification and application of algorithms. The inclusion of digital technologies in the Australian Curriculum provides another reason why schools should consider this contest for their students.
+                 </p>
+                 <p>
+                  There are four papers: Upper Primary, Years 5–6; Junior, Years 7–8; Intermediate, Years 9–10; Senior, Years 11–12. Each paper includes six multiple-choice questions, followed by nine more challenging questions where an integer constitutes the solution to a problem.
+                 </p>
+                 <p>
+                  The CAT problems are written by some of Australia’s most experienced teachers and computer scientists who are a part of the
+                  <a href="http://www.amt.edu.au/aic.html" target="_blank" title="View the AIC Committee page">
+                   CAT Problems Committee
+                  </a>
+                  . The original problems are designed to be quick to solve and highly approachable, and range in difficulty from very easy to challenging. The competition employs a mixture of multiple-choice and integer answers, and incorporates unique ‘three stage tasks’ that encourage students to develop informal algorithms and apply them to test data of increasing size or complexity. The competition is an ideal activity to encourage an interest in programming and is suitable for any mathematics class.
+                 </p>
+                 <p>
+                  Students who enjoyed the CAT are encouraged to enter the
+                  <a href="/informatics/aio/" target="_blank" title="Go to the Australian Infortmatics Olympiad page">
+                   Australian Informatics Olympiad
+                  </a>
+                  (AIO). The AIO is a programming competition to be held on 1 September 2016.
+                  <a href="http://orac.amt.edu.au/cgi-bin/train/hub.pl" target="_blank" title="Go to the AIO Training page">
+                   Free training for the AIO
+                  </a>
+                  is available and the
+                  <a href="https://groklearning.com/challenge/?utm_source=challenge-ncss&amp;utm_medium=website&amp;utm_campaign=challengeweb" target="_blank" title="Visit the National Computer Science School site">
+                   National Computer Science School
+                  </a>
+                  offers courses in programming.
+                 </p>
+                 <p>
+                  The CAT gives students external recognition of their achievements. All students receive a certificate showing their level of achievement and a detailed report showing how they went on each problem compared with others in their own year and country/Australian state. Every school receives a confidential set of statistics that can be used to assess its overall performance against statistics for their country/Australian state.
+                 </p>
+                </div>
+               </div>
+               <div class="hozbreak clearfix">
+               </div>
+               <div class="wpb_text_column wpb_content_element ">
+                <div class="wpb_wrapper">
+                 <h4>
+                  How to Enter
+                 </h4>
+                 <p>
+                  Entry into the CAT is through schools. The AMT maintains a register of schools which includes every school in Australia and schools from many other countries who have participated in our competitions and activities in the past. Each year schools are contacted with dates and competition advice.
+                  <a href="http://amt.edfinity.com/cat?utm_source=amt&amp;utm_medium=banner&amp;utm_campaign=catfree" target="_blank">
+                   Schools can enter online
+                  </a>
+                  .
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="clear">
+           </div>
+          </section>
+          <!-- /entry -->
+         </article>
+         <div class="clear">
+         </div>
+        </div>
+        <!-- #content -->
+        <div class="sidebar columns side_one four layout_four border right last">
+         <div class="sidebar-shadow top">
+         </div>
+         <div class="sidebar-shadow mid">
+          <ul>
+           <li class="widget widget_fergcorp_milestone" id="fergcorp_milestone-3">
+            <div class="milestone-content">
+             <div class="milestone-header">
+              <strong class="event">
+               Australian Informatics Olympiad (AIO)
+              </strong>
+              <span class="date">
+               1 September, 2016
+              </span>
+             </div>
+             <div class="milestone-countdown">
+              <span class="difference">
+               2
+              </span>
+              <span class="label">
+               months
+              </span>
+              to go.
+             </div>
+            </div>
+            <!--milestone-content-->
+           </li>
+           <li class="widget widget_text" id="text-17">
+            <div class="textwidget">
+             <br/>
+             <div align="justify">
+              <img alt="Computational and Algorithmic Thinking Competition logo" class="sponsImgHead" src="/wp-content/uploads/CAT-logo-widget.jpg" title="Computational and Algorithmic Thinking Competition" width="100%"/>
+             </div>
+            </div>
+           </li>
+           <li class="widget widget_text" id="text-18">
+            <div class="textwidget">
+             <span class="fonticon small ">
+              <i class="fa fa-file-text">
+              </i>
+             </span>
+             <a href="http://www.amt.edu.au/wp-content/uploads/2016-dates-flyer.pdf" target="_blank">
+              Download the 2016 AMT Events calendar
+             </a>
+            </div>
+           </li>
+           <li class="widget widget_text" id="text-19">
+            <div class="textwidget">
+             <hr/>
+            </div>
+           </li>
+           <li class="widget widget_text" id="text-20">
+            <h3>
+             AMT newsletter – Maths Matters
+            </h3>
+            <div class="textwidget">
+             <p>
+              <em>
+               Maths Matters
+              </em>
+              , the
+              <a href="/information/news/" target="_blank" title="Go to News page">
+               AMT newsletter is now available for download.
+              </a>
+             </p>
+             <h5>
+              Sign up to newsletter
+             </h5>
+            </div>
+           </li>
+           <li class="widget widget_text" id="text-21">
+            <div class="textwidget">
+             <hr/>
+            </div>
+           </li>
+           <li class="widget widget_mc4wp_form_widget" id="mc4wp_form_widget-3">
+            <script type="text/javascript">
+             (function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+            </script>
+            <!-- MailChimp for WordPress v3.1.9 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
+            <form class="mc4wp-form mc4wp-form-4524 mc4wp-form-basic" data-id="4524" data-name="Default sign-up form" id="mc4wp-form-1" method="post">
+             <div class="mc4wp-form-fields">
+              <p>
+               <label>
+                First Name:
+               </label>
+               <input name="FNAME" placeholder="Your first name" type="text"/>
+              </p>
+              <p>
+               <label for="mc4wp_email">
+                Email address:
+               </label>
+               <input id="mc4wp_email" name="EMAIL" placeholder="Your email address" required="" type="email"/>
+              </p>
+              <p>
+               <input type="submit" value="Sign up"/>
+              </p>
+              <div style="display: none;">
+               <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""/>
+              </div>
+              <input name="_mc4wp_timestamp" type="hidden" value="1465615089"/>
+              <input name="_mc4wp_form_id" type="hidden" value="4524"/>
+              <input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-1"/>
+             </div>
+             <div class="mc4wp-response">
+             </div>
+            </form>
+            <!-- / MailChimp for WordPress Plugin -->
+           </li>
+           <li class="widget widget_recent_entries" id="recent-posts-3">
+            <h3>
+             In the news
+            </h3>
+            <ul>
+             <li>
+              <a href="http://www.amt.edu.au/vale-geoff-ball/">
+               Vale Geoff Ball
+              </a>
+             </li>
+             <li>
+              <a href="http://www.amt.edu.au/enter-enrichment-now/">
+               Enter Enrichment now
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="widget widget_text" id="text-22">
+            <h3>
+             GetSet CAT – the official, online problem-solving course
+            </h3>
+            <div class="textwidget">
+             <p>
+              &gt; Self-paced, for students of all levels
+              <br/>
+              &gt; Skill-building problem sets on critical topics
+              <br/>
+              &gt; Full length, timed practice tests
+              <br/>
+              &gt; Scores, performance analysis &amp; ranking
+              <br/>
+              &gt; $6 per student
+             </p>
+             <h5>
+              <a href="http://getsetamc.edfinity.com/" target="_blank" title="Enrol now in GetSet CAT">
+               » Enrol now
+              </a>
+             </h5>
+            </div>
+           </li>
+           <li class="widget widget_text" id="text-23">
+            <div class="textwidget">
+             <hr/>
+            </div>
+           </li>
+           <li class="widget widget_text" id="text-24">
+            <div class="textwidget">
+             <a href="https://www.facebook.com/AusMathsTrust">
+              <img alt="Visit our Facebook page." src="/wp-content/uploads/facebook-hm.png"/>
+             </a>
+             <a href="https://twitter.com/austmathstrust">
+              <img alt="Visit our Twitter feed." src="/wp-content/uploads/twitter-hm.png"/>
+             </a>
+            </div>
+           </li>
+          </ul>
+         </div>
+         <div class="sidebar-shadow bottom">
+         </div>
+        </div>
+        <!-- /sidebar-content -->
+       </div>
+       <!-- / row -->
+       <div class="clear">
+       </div>
+      </div>
+      <!-- /skinset-main-->
+      <div class="clear">
+      </div>
+     </div>
+     <!-- /content-wrapper -->
+    </div>
+    <!-- /wrapper -->
+    <div id="footer-wrap">
+     <div class="custom-layer " id="custom-layer3">
+     </div>
+     <div class="custom-layer " id="custom-layer4">
+     </div>
+     <div class="shadow bottom custom-layer">
+     </div>
+     <div class="wrapper">
+      <footer class="clearfix row skinset-footer nv-skin divider-light" id="footer">
+       <div class="content">
+        <div class="block columns three_column ">
+         <ul>
+          <li class="widget widget_nav_menu" id="nav_menu-2">
+           <h3>
+            Mathematics
+           </h3>
+           <div class="menu-footer-menu-col1-container">
+            <ul class="menu" id="menu-footer-menu-col1">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1043" id="menu-item-1043">
+              <a href="http://www.amt.edu.au/mathematics/amc/">
+               Australian Mathematics Competition
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1044" id="menu-item-1044">
+              <a href="http://www.amt.edu.au/mathematics/mcya/">
+               Mathematics Challenge for Young Australians
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045" id="menu-item-1045">
+              <a href="http://www.amt.edu.au/mathematics/amocip-olympiad-program/">
+               AMOC Invitational Program
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046" id="menu-item-1046">
+              <a href="http://www.amt.edu.au/information/for-students/meet-our-olympians/">
+               Meet Our Olympians
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+         </ul>
+        </div>
+        <div class="block columns three_column ">
+         <ul>
+          <li class="widget widget_nav_menu" id="nav_menu-3">
+           <h3>
+            Informatics
+           </h3>
+           <div class="menu-footer-menu-col2-container">
+            <ul class="menu" id="menu-footer-menu-col2">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-322 current_page_item menu-item-1049" id="menu-item-1049">
+              <a href="http://www.amt.edu.au/informatics/cat/">
+               Computational and Algorithmic Thinking (CAT)
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1050" id="menu-item-1050">
+              <a href="http://www.amt.edu.au/informatics/aio/">
+               Australian Informatics Olympiad
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1052" id="menu-item-1052">
+              <a href="http://www.amt.edu.au/informatics/aiocip-olympiad-program/">
+               Australian Informatics Olympiad Committee Program
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051" id="menu-item-1051">
+              <a href="http://www.amt.edu.au/informatics/aio/aio-faqs/">
+               AIO FAQs
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1053" id="menu-item-1053">
+              <a href="http://orac.amt.edu.au/cgi-bin/train/hub.pl">
+               AIOC Training Hub
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+         </ul>
+        </div>
+        <div class="block columns three_column last">
+         <ul>
+          <li class="widget widget_nav_menu" id="nav_menu-4">
+           <h3>
+            General Information
+           </h3>
+           <div class="menu-footer-menu-col3-container">
+            <ul class="menu" id="menu-footer-menu-col3">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1054" id="menu-item-1054">
+              <a href="http://www.amt.edu.au/information/for-teachers/">
+               For Teachers
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91" id="menu-item-91">
+              <a href="http://www.amt.edu.au/entry/">
+               School Online Entry &amp; Reports
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1055" id="menu-item-1055">
+              <a href="http://www.amt.edu.au/information/news/">
+               News
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1440" id="menu-item-1440">
+              <a href="http://getsetamc.edfinity.com/">
+               GetSet AMC Training
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2624" id="menu-item-2624">
+              <a href="http://getsetamc.edfinity.com/">
+               GetSet CAT Training
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4140" id="menu-item-4140">
+              <a href="http://www.amt.edu.au/information/news/">
+               Subscribe to Maths Matters
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <!-- / row -->
+      </footer>
+      <!-- / footer -->
+     </div>
+     <!-- / wrapper -->
+     <div class="lowerfooter-wrap skinset-footer nv-skin clearfix divider-light">
+      <div class="wrapper">
+       <div class="lowerfooter">
+        <div class="row">
+         <div class="lowfooterleft columns six">
+          © 2016 Australian Mathematics Trust.
+         </div>
+         <div class="lowfooterright columns six">
+          <a class="lowerFooter" href="http://www.amt.edu.au/privpol.html" target="_blank">
+           Privacy Policy
+          </a>
+          |
+          <a class="lowerFooter" href="/sitemap.xml" target="_blank">
+           Site Map
+          </a>
+          <span class="lowfooterHidden">
+           |
+          </span>
+          Website by
+          <a href="http://www.digitallamb.com.au" target="_blank">
+           Digital Lamb
+          </a>
+         </div>
+        </div>
+       </div>
+       <!-- / lowerfooter -->
+      </div>
+      <!-- / wrapper -->
+     </div>
+     <!-- / lowerfooter-wrap -->
+    </div>
+    <!-- / footer-wrap -->
+    <div class="autototop">
+     <a href="#">
+     </a>
+    </div>
+    <!-- I would like to give a great thankyou to WordPress for their amazing platform -->
+    <!-- Theme Design by themeva - http://themeva.com -->
+    <script src="//www.amt.edu.au/wp-content/plugins/connections/vendor/picturefill/picturefill.min.js?ver=2.3.1" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     /* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.amt.edu.au\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/plugins/quick-event-manager/quick-event-manager.js?ver=32b68ffe1dcb2fde4c650a0f29c53f35" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/plugins/quick-event-manager/quick-event-lightbox.js?ver=32b68ffe1dcb2fde4c650a0f29c53f35" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/themes/DynamiX/js/jquery.fancybox.min.js?ver%5B0%5D=jquery" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     /* <![CDATA[ */
+var NV_SCRIPT = {"template_url":"http:\/\/www.amt.edu.au\/wp-content\/themes\/DynamiX","branding_2x":"\/wp-content\/uploads\/amt-logo-retina.png","branding_2x_dimensions":"187x66","branding_sec_2x":"","branding_sec_2x_dimensions":""};
+/* ]]> */
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/themes/DynamiX/js/nv-script.pack.js?ver%5B0%5D=jquery" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/themes/DynamiX/js/jquery.reflection.js?ver%5B0%5D=jquery" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-includes/js/wp-embed.min.js?ver=32b68ffe1dcb2fde4c650a0f29c53f35" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/themes/DynamiX/js/nivo.slider.min.js?ver%5B0%5D=jquery" type="text/javascript">
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     /* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+    </script>
+    <script src="http://www.amt.edu.au/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=3.1.9" type="text/javascript">
+    </script>
+    <!--[if lte IE 9]>
+<script type='text/javascript' src='http://www.amt.edu.au/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=3.1.9'></script>
+<![endif]-->
+    <script type="text/javascript">
+     (function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}})();
+    </script>
+    <script type="text/javascript">
+     WebFontConfig = {
+    google: { families: [ 'Satisfy::latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+    </script>
+    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76115599-1', 'auto');
+  ga('send', 'pageview');
+    </script>
+   </div>
+  </div>
+ </body>
+</html>

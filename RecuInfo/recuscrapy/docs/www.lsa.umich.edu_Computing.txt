@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <title>
+   Curriculum | Informatics | University of Michigan
+  </title>
+  <meta content="null" name="keywords"/>
+  <link href="/vgn-ext-templating/common/styles/vgn-ext-templating.css" rel="stylesheet" type="text/css"/>
+  <link href="/vgn-ext-templating/resources/css/style.css" rel="stylesheet" type="text/css"/>
+  <link href="/vgn-ext-templating/sites/informatics/style_custom.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.lsa.umich.edu/vgn-ext-templating/favicon.ico" rel="icon" type="image/png"/>
+  <!--[if IE 9]>
+    <link rel="stylesheet" href="/vgn-ext-templating/resources/css/style_ie9.css" />
+<![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" href="/vgn-ext-templating/resources/css/style_ie8.css" />
+<![endif]-->
+  <!--[if IE 7]>
+    <link rel="stylesheet" href="/vgn-ext-templating/resources/css/style_ie7.css" />
+<![endif]-->
+  <link href="/vgn-ext-templating/resources/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <script src="/vgn-ext-templating/resources/js/modernizr.custom.12005.js" type="text/javascript">
+  </script>
+  <script src="/vgn-ext-templating/resources/js/jquery.js" type="text/javascript">
+  </script>
+  <script src="/vgn-ext-templating/resources/js/jquery-ui.min.js" type="text/javascript">
+  </script>
+  <!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="/vgn-ext-templating/resources/js/selectivizr-min.js"></script>
+<![endif]-->
+  <script src="/vgn-ext-templating/resources/js/mootools.js" type="text/javascript">
+  </script>
+  <script src="/vgn-ext-templating/resources/js/search.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   Modernizr.load([
+{
+test: Modernizr.cssgradients,
+nope: '/vgn-ext-templating/resources/js/PIE.js'
+}
+]);
+
+function hideTips(event) {  
+    var saveAlt = $(this).attr('alt');
+    var saveTitle = $(this).attr('title');
+    if (event.type == 'mouseenter') {
+        $(this).attr('title','');
+        $(this).attr('alt','');
+    } else {
+        if (event.type == 'mouseleave'){
+            $(this).attr('alt',saveAlt);
+            $(this).attr('title',saveTitle);
+        }
+   }
+}
+
+$(document).ready(function(){
+ $("img").live("hover", hideTips);
+});
+  </script>
+  <script src="/vgn-ext-templating/resources/js/slimbox.js" type="text/javascript">
+  </script>
+  <script src="/vgn-ext-templating/resources/js/flowplayer-min.js" type="text/javascript">
+  </script>
+  <link href="/vgn-ext-templating/resources/css/splash.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div id="buffer">
+   <div id="wrapper">
+    <div id="header">
+     <a href="/informatics">
+      <img alt="Informatics" border="0" id="banner" src="/vgn-ext-templating/sites/informatics/images/banner.png" style="outline: none; border: none" title="Informatics"/>
+     </a>
+     <a href="/informatics" id="link">
+     </a>
+     <a href="http://www.umich.edu" id="umlink">
+      <span>
+       University of Michigan
+      </span>
+     </a>
+     <a alt="LSA home page" href="http://lsa.umich.edu" id="lsalink">
+      <span>
+       College of Literature, Science, and the Arts
+      </span>
+     </a>
+     <form action="http://search.bus.umich.edu/search">
+      <fieldset id="searchbox">
+       <input name="site" type="hidden" value="LSA-INFORMATICS"/>
+       <input name="proxystylesheet" type="hidden" value="LSA"/>
+       <input name="client" type="hidden" value="LSA"/>
+       <input id="search" name="q" onfocus="if(this.value=='Search')this.value=''" size="20" type="text" value="Search"/>
+       <input data-site="LSA-INFORMATICS" id="searchbtn" type="submit" value="GO"/>
+       <ul id="search_suggestions">
+        <li>
+         <a href="#">
+          Undergrad Admissions
+         </a>
+        </li>
+        <li>
+         <a href="#">
+          Faculty Directory
+         </a>
+        </li>
+        <li>
+         <a href="#">
+          Donations
+         </a>
+        </li>
+        <li>
+         <a href="#">
+          Jobs
+         </a>
+        </li>
+       </ul>
+      </fieldset>
+     </form>
+    </div>
+    <!-- breadcrumb length is 3 -->
+    <ul id="nav">
+     <li>
+      <a class="selected" href="/informatics/about">
+       About
+      </a>
+      <ul>
+       <li>
+        <a href="/informatics/about/people">
+         People
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/about/admission">
+         Admission
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/about/academicpreparation">
+         Academic Preparation
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/about/curriculum">
+         Curriculum
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/about/careersandgraduatestudy">
+         Careers &amp; Graduate Study
+        </a>
+       </li>
+       <li>
+        <a href="mailto:informatics@umich.edu">
+         Contact Us
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/about/sitemap">
+         Sitemap
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/informatics/curriculum">
+       Curriculum
+      </a>
+      <ul>
+       <li>
+        <a href="/informatics/curriculum/dataminingandinformationanalysis">
+         Data Mining &amp; Information Analysis
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/curriculum/lifescienceinformatics">
+         Life Science Informatics
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/curriculum/electives">
+         Electives
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/curriculum/honors">
+         Honors
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/informatics/undergraduates">
+       Undergraduates
+      </a>
+      <ul>
+       <li>
+        <a href="/informatics/undergraduates/advising">
+         Advising
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/undergraduates/resources">
+         Resources
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/informatics/alumni">
+       Alumni
+      </a>
+      <ul>
+       <li>
+        <a href="/informatics/alumni/howtogive">
+         How to Give
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/alumni/howtoparticipate">
+         How to Participate
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/informatics/news">
+       News
+      </a>
+      <ul>
+       <li>
+        <a href="/informatics/news/articlesofinterest">
+         Articles of Interest
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="/informatics/events">
+       Events
+      </a>
+     </li>
+    </ul>
+    <!-- Begin Alert Region -->
+    <!-- Channel: Home -->
+    <!-- Associated content: -->
+    <!-- Article: 90c1ecfdc6b33310VgnVCM10000055b1d38dRCRD, Subscriptions & RSS Feeds -->
+    <!-- Article: e7b1ecfdc6b33310VgnVCM10000055b1d38dRCRD, lsa Home Left Article -->
+    <!-- Article: da023a9807435310VgnVCM100000c2b1d38dRCRD, About LSA Today -->
+    <!-- Article: 3fa1ecfdc6b33310VgnVCM10000055b1d38dRCRD, Welcome Title -->
+    <!-- Article: 47345527116ac310VgnVCM100000c2b1d38dRCRD, EEB -->
+    <!-- Channel: Curriculum -->
+    <!-- Associated content: -->
+    <!-- Article: 70993c4fbec1d310VgnVCM100000c2b1d38dRCRD, EECS 280 Programming and Introductory Data Structures -->
+    <!-- Article: 14c7b73708abc310VgnVCM100000c2b1d38dRCRD, EECS 280 Programming and Introductory Data Structures -->
+    <!-- Article: e546a09cb304d310VgnVCM100000c2b1d38dRCRD, EECS 183 Elementray Programming Concepts -->
+    <!-- Article: 18bbc724894ce210VgnVCM100000c2b1d38dRCRD, STATS 250 (formerly STATS 350) Intro to Statistics and Data Analysis -->
+    <!-- Article: 42e8c724894ce210VgnVCM100000c2b1d38dRCRD, Math 115 Calculus I (or equivalent) -->
+    <!-- Article: 7249b9c5d44ee210VgnVCM100000c2b1d38dRCRD, Tracks (13-16 credits) -->
+    <!-- Article: 7265b1ae4f3ee210VgnVCM100000c2b1d38dRCRD, STATS 403 Intro to Quantitative Research Methods -->
+    <!-- Article: 7404b1ae4f3ee210VgnVCM100000c2b1d38dRCRD, Core (12 credits) -->
+    <!-- Article: afb1b1ae4f3ee210VgnVCM100000c2b1d38dRCRD, SI/UC 110 Introduction to Information Systems -->
+    <!-- Article: dc54b1ae4f3ee210VgnVCM100000c2b1d38dRCRD, EECS 203 Discrete Mathematics -->
+    <!-- Article: f958c724894ce210VgnVCM100000c2b1d38dRCRD, Curriculum -->
+    <!-- Article: 0a7bb9c5d44ee210VgnVCM100000c2b1d38dRCRD, Electives (12-16 credits) -->
+    <!-- End Alert Region -->
+    <div id="content">
+     <div class="column" id="left">
+      <div id="contentheader">
+       <h3 id="breadcrumb">
+        <a href="/informatics">
+         Home
+        </a>
+        /
+        <a href="/informatics/about">
+         About
+        </a>
+        /
+       </h3>
+       <h1>
+        Curriculum
+       </h1>
+      </div>
+      <div id="contentmain">
+       <script language="javascript">
+        function HomePopwin(context, path, target, features, width, height) {
+   SimplePopwin(context + path, target, features, width, height);
+}
+
+function dispatchURL2(context, path, key) {
+   var dispatchUrl = context + '/secure/common/session/dispatch.jsp?VgnSessionKey=' + escape(key) + '&context=' + escape(context) + '&path=' + escape(path);
+   return dispatchUrl;
+}
+
+function vgnHomeActionsLink(url) {
+   location = url;
+}
+
+function confirmDelete() {
+   return confirm('Please confirm the removal of this Content Instance? ');
+}
+
+function confirmAssociation() {
+   return confirm('Do you want to remove the association of this item? The content will not be removed from the Content Management and will be kept for future usage');
+}
+
+function confirmClone() {
+   return confirm('Do you want to clone this item? A content with the same attribute values and associations will be created');
+}
+       </script>
+       <script language="JavaScript" type="text/javascript">
+        /* <![CDATA[ */
+	function deleteRelation(ciId, relationId) {
+		if (confirm('Are you sure you want to remove this content from the Region Config?')) {
+			var context = "/umich-coe-web";
+			var path = "/secure/util/deleteRelationItem.jsp";
+			var params = "?ciId=" + ciId + "&relationId=" + relationId;
+			var fullPath = context + path + params;
+			var target = '';
+			var features = 'location=no,menubar=yes,resizable=yes,scrollbars=yes,status=yes,toolbar=no';
+			var width = 320;
+			var height = 200;
+			window.open(fullPath, '', target, features, width , height);
+		}
+	}
+	
+	function clearRegionConfigCache(ciId) {
+			var context = "/vgn-ext-templating";
+			var path = "/resources/util/clearRegionConfigCache.jsp";
+			var params = "?ciId=" + ciId;
+			var fullPath = context + path + params;
+			var target = '';
+			var features = 'location=no,menubar=yes,resizable=yes,scrollbars=yes,status=yes,toolbar=no';
+			var width = 320;
+			var height = 200;
+			window.open(fullPath, '', target, features, width , height);
+	}
+	
+	function approvePress(CiId) {
+			window.open('/umich-coe-web/secure/approve.jsp?vcmId='+CiId,'Approve','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=600,height=400');
+	}
+/* ]]> */
+       </script>
+       <p>
+        <span style=" font-size: large;">
+         <i>
+          As of July 1, 2015, the U-M Informatics major is no longer accepting new students, except for the
+          <a href="http://lsa.umich.edu/stats/undergraduate-students/undergraduate-programs/informatics.html">
+           Life Science Informatics
+          </a>
+          track.  All students who have already declared an Informatics major will be fully accommodated until graduation. Students who are interested in data mining, information analysis, or computational informatics may wish to consider the
+          <a href="https://www.eecs.umich.edu/eecs/undergraduate/data-science/">
+           Data Science major in the College of Engineering
+          </a>
+          , the
+          <a href="https://www.lsa.umich.edu/students/academicsrequirements/majorsminors/datascience/majordatascience">
+           Data Science major in LSA
+          </a>
+          , or the
+          <a href="https://www.si.umich.edu/content/bsi">
+           Bachelor of Science in Information
+          </a>
+          .
+         </i>
+        </span>
+       </p>
+       <p>
+       </p>
+       <p>
+        Informatics is an interdisciplinary major that is housed in the College of Literature, Science, and the Arts in cooperation with the College of Engineering and the School of Information. The major requires four prerequisite courses and 40 credit hours of core, track, and elective courses.  It is important to note that there are courses that require prerequisites with grades higher than a C- and other LSA grade requirements.
+       </p>
+       <h3>
+        Prerequisites
+       </h3>
+       <p>
+        Prerequisite courses serve as an introduction to academic concepts in the major core. All students declaring a major in Informatics must complete the prerequisite courses, each with a minimum grade of a C.  MATH 115, EECS 182 or 183 and STATS 250 must be completed prior to declaration.
+       </p>
+       <h3 class="expand_toggle">
+        <a href="javascript:void(0)" id="toggle_32e8c724894ce210VgnVCM100000c2b1d38d____" title="Click to expand content.">
+         Math 115 Calculus I (or equivalent)
+         <span id="view_32e8c724894ce210VgnVCM100000c2b1d38d____">
+          +
+         </span>
+        </a>
+       </h3>
+       <div class="expand" id="slide_32e8c724894ce210VgnVCM100000c2b1d38d____">
+        <p>
+        </p>
+        <p>
+         The course presents the concepts of calculus from four points of view: geometric (graphs), numeric (tables), symbolic (formulas), and verbal descriptions. Students will develop their reading, writing and questioning skills, as well as their ability to work cooperatively. Topics include functions and graphs, derivatives and their applications to real-life problems in various fields, and an introduction to integration. The classroom atmosphere is interactive and cooperative. Both individual and team homework is assigned.
+         <br/>
+         <i>
+          Advisory prerequisite: Four years of high school math.
+          <br/>
+         </i>
+         4 credits. Offered F, W, Sp, Su
+        </p>
+       </div>
+       <script type="text/javascript">
+        $(document).ready(function() {
+		$('#slide_32e8c724894ce210VgnVCM100000c2b1d38d____').toggle(false);
+		$('#toggle_32e8c724894ce210VgnVCM100000c2b1d38d____').click(function(){
+			$('#view_32e8c724894ce210VgnVCM100000c2b1d38d____').html($('#view_32e8c724894ce210VgnVCM100000c2b1d38d____').html() == '+' ? '-' : '+');
+			$('#slide_32e8c724894ce210VgnVCM100000c2b1d38d____').toggle();
+		});
+	});
+       </script>
+       <h3 class="expand_toggle">
+        <a href="javascript:void(0)" id="toggle_b546a09cb304d310VgnVCM100000c2b1d38d____" title="Click to expand content.">
+         EECS 183 Elementray Programming Concepts
+         <span id="view_b546a09cb304d310VgnVCM100000c2b1d38d____">
+          +
+         </span>
+        </a>
+       </h3>
+       <div class="expand" id="slide_b546a09cb304d310VgnVCM100000c2b1d38d____">
+        <p>
+        </p>
+        <p>
+         Fundamental concepts and skills of programming in a high level language.  Flow of control:  selection, iteration, subprograms.  Data structures:  strings, arrays, records, lists, tables.  Algorithms using selection and iteration (decision making, finding maxima/minima, searching, sorting, simulation, etc.).  Good program design, structure, and style are emphasized.  Testing and debugging. Not intended for Engineering students (who should take ENGR 101), nor for CS majors in LSA who qualify for EECS 280.
+        </p>
+        <p>
+         4 credits. Offered: F, W
+        </p>
+       </div>
+       <script type="text/javascript">
+        $(document).ready(function() {
+		$('#slide_b546a09cb304d310VgnVCM100000c2b1d38d____').toggle(false);
+		$('#toggle_b546a09cb304d310VgnVCM100000c2b1d38d____').click(function(){
+			$('#view_b546a09cb304d310VgnVCM100000c2b1d38d____').html($('#view_b546a09cb304d310VgnVCM100000c2b1d38d____').html() == '+' ? '-' : '+');
+			$('#slide_b546a09cb304d310VgnVCM100000c2b1d38d____').toggle();
+		});
+	});
+       </script>
+       <h3 class="expand_toggle">
+        <a href="javascript:void(0)" id="toggle_08bbc724894ce210VgnVCM100000c2b1d38d____" title="Click to expand content.">
+         STATS 250 (formerly STATS 350) Intro to Statistics and Data Analysis
+         <span id="view_08bbc724894ce210VgnVCM100000c2b1d38d____">
+          +
+         </span>
+        </a>
+       </h3>
+       <div class="expand" id="slide_08bbc724894ce210VgnVCM100000c2b1d38d____">
+        <p>
+        </p>
+        <p>
+         A one term course in applied statistical methodology from an analysis-of-data viewpoint. Frequency distributions; measures of location; mean, median, mode; measures of dispersion; variance; graphic presentation; elementary probability; populations and samples; sampling distributions; one sample univariate inference problems, and two sample problems; categorical data; regression and correlation; and analysis of variance. Use of computers in data analysis.
+         <br/>
+         <i>
+          No prerequisites. No credit granted to those who have completed or are enrolled in ECON 404, ECON 405, IOE 265, STATS 400, STATS 412, or ENVIRON/NRE 438.
+          <br/>
+          NOTE: Students who are also considering a concentration in Computer Science may wish to enroll in STATS 412 or IOE 265 instead of STATS 250. STATS 412 or IOE 265 will satisfy a core requirement in Computer Science, but STATS 250 will not.
+          <br/>
+         </i>
+         4 credits. Offered F, W, Sp, Su.
+        </p>
+       </div>
+       <script type="text/javascript">
+        $(document).ready(function() {
+		$('#slide_08bbc724894ce210VgnVCM100000c2b1d38d____').toggle(false);
+		$('#toggle_08bbc724894ce210VgnVCM100000c2b1d38d____').click(function(){
+			$('#view_08bbc724894ce210VgnVCM100000c2b1d38d____').html($('#view_08bbc724894ce210VgnVCM100000c2b1d38d____').html() == '+' ? '-' : '+');
+			$('#slide_08bbc724894ce210VgnVCM100000c2b1d38d____').toggle();
+		});
+	});
+       </script>
+       <h3 class="expand_toggle">
+        <a href="javascript:void(0)" id="toggle_9fb1b1ae4f3ee210VgnVCM100000c2b1d38d____" title="Click to expand content.">
+         SI/UC 110 Introduction to Information Systems
+         <span id="view_9fb1b1ae4f3ee210VgnVCM100000c2b1d38d____">
+          +
+         </span>
+        </a>
+       </h3>
+       <div class="expand" id="slide_9fb1b1ae4f3ee210VgnVCM100000c2b1d38d____">
+        <p>
+        </p>
+        <p>
+         This course provides foundational knowledge necessary to begin addressing the key issues associated with the Information Revolution. Issues will range from the theoretical (what is information and how do humans construct it?), to the cultural (is life on the screen a qualitatively different phenomenon from experiences with earlier distance-shrinking and knowledge-building technologies such as telephones?), to the practical (what are the basic architectures of computing and networks?). Successful completion of this course will give you, the student, the conceptual tools necessary to understand the politics, economics, and culture of the Information Age.
+         <br/>
+         <i>
+          No prerequisites.
+          <br/>
+         </i>
+         4 credits. Offered F, W
+        </p>
+       </div>
+       <script type="text/javascript">
+        $(document).ready(function() {
+		$('#slide_9fb1b1ae4f3ee210VgnVCM100000c2b1d38d____').toggle(false);
+		$('#toggle_9fb1b1ae4f3ee210VgnVCM100000c2b1d38d____').click(function(){
+			$('#view_9fb1b1ae4f3ee210VgnVCM100000c2b1d38d____').html($('#view_9fb1b1ae4f3ee210VgnVCM100000c2b1d38d____').html() == '+' ? '-' : '+');
+			$('#slide_9fb1b1ae4f3ee210VgnVCM100000c2b1d38d____').toggle();
+		});
+	});
+       </script>
+       <h3>
+        Core (12 credits)
+       </h3>
+       <p>
+        Three core courses are required for all students who major in Informatics. Together, the three core courses establish a foundation in discrete mathematics, computer programs and models and research methods in applied statistics. Each course contributes to the preparation necessary for advanced study of Informatics issues in the four concentration Tracks.
+       </p>
+       <h3 class="expand_toggle">
+        <a href="javascript:void(0)" id="toggle_cc54b1ae4f3ee210VgnVCM100000c2b1d38d____" title="Click to expand content.">
+         EECS 203 Discrete Mathematics
+         <span id="view_cc54b1ae4f3ee210VgnVCM100000c2b1d38d____">
+          +
+         </span>
+        </a>
+       </h3>
+       <div class="expand" id="slide_cc54b1ae4f3ee210VgnVCM100000c2b1d38d____">
+        <p>
+        </p>
+        <p>
+         Introduction to the mathematical foundations of computer science. Topics covered include: prepositional and predicate logic, set theory, function and relations, growth of functions and asymptotic notation, introduction to algorithms, elementary combinatorics, and graph theory, and discrete probability theory.
+         <br/>
+         <i>
+          Enforced prerequisites: MATH 115 or 116 or 119 or 120 or 121 or 156 or 176 or 185 or 186 or 295 or 296 or 215 or 255 or 285 with a C or better.
+          <br/>
+         </i>
+         4 credits. Offered F, W
+        </p>
+        <p>
+        </p>
+       </div>
+       <script type="text/javascript">
+        $(document).ready(function() {
+		$('#slide_cc54b1ae4f3ee210VgnVCM100000c2b1d38d____').toggle(false);
+		$('#toggle_cc54b1ae4f3ee210VgnVCM100000c2b1d38d____').click(function(){
+			$('#view_cc54b1ae4f3ee210VgnVCM100000c2b1d38d____').html($('#view_cc54b1ae4f3ee210VgnVCM100000c2b1d38d____').html() == '+' ? '-' : '+');
+			$('#slide_cc54b1ae4f3ee210VgnVCM100000c2b1d38d____').toggle();
+		});
+	});
+       </script>
+       <h3 class="expand_toggle">
+        <a href="javascript:void(0)" id="toggle_40993c4fbec1d310VgnVCM100000c2b1d38d____" title="Click to expand content.">
+         EECS 280 Programming and Introductory Data Structures
+         <span id="view_40993c4fbec1d310VgnVCM100000c2b1d38d____">
+          +
+         </span>
+        </a>
+       </h3>
+       <div class="expand" id="slide_40993c4fbec1d310VgnVCM100000c2b1d38d____">
+        <p>
+        </p>
+        <p>
+         Techniques and algorithm development and effective programming, top-down analysis, structured programming, testing, and program correctness. Program language syntax and static and runtime semantics. Scope, procedure instantiation, recursion, abstract data types, and parameter passing methods. Structured data types, pointers, linked data structures, stacks, queues, arrays, records, and trees.
+         <br/>
+         <i>
+          Advisory prerequisite: MATH 115.
+         </i>
+         <br/>
+         4 credits. Offered F, W
+        </p>
+        <p>
+        </p>
+       </div>
+       <script type="text/javascript">
+        $(document).ready(function() {
+		$('#slide_40993c4fbec1d310VgnVCM100000c2b1d38d____').toggle(false);
+		$('#toggle_40993c4fbec1d310VgnVCM100000c2b1d38d____').click(function(){
+			$('#view_40993c4fbec1d310VgnVCM100000c2b1d38d____').html($('#view_40993c4fbec1d310VgnVCM100000c2b1d38d____').html() == '+' ? '-' : '+');
+			$('#slide_40993c4fbec1d310VgnVCM100000c2b1d38d____').toggle();
+		});
+	});
+       </script>
+       <h3 class="expand_toggle">
+        <a href="javascript:void(0)" id="toggle_6265b1ae4f3ee210VgnVCM100000c2b1d38d____" title="Click to expand content.">
+         STATS 403 Intro to Quantitative Research Methods
+         <span id="view_6265b1ae4f3ee210VgnVCM100000c2b1d38d____">
+          +
+         </span>
+        </a>
+       </h3>
+       <div class="expand" id="slide_6265b1ae4f3ee210VgnVCM100000c2b1d38d____">
+        <p>
+        </p>
+        <p>
+         This course introduces methods for planning, executing, and evaluating research studies based on experiments, surveys, and observational datasets. In addition to learning a toolset of methods, students will read and report on recent research papers to learn how study design and data analysis are handled in different fields.
+         <br/>
+         <i>
+          Advisory prerequisites: MATH 115; and one of STATS 265, 250, 400, 405, 412; or permission of instructor.
+          <br/>
+         </i>
+         4 credits. Offered F
+        </p>
+       </div>
+       <script type="text/javascript">
+        $(document).ready(function() {
+		$('#slide_6265b1ae4f3ee210VgnVCM100000c2b1d38d____').toggle(false);
+		$('#toggle_6265b1ae4f3ee210VgnVCM100000c2b1d38d____').click(function(){
+			$('#view_6265b1ae4f3ee210VgnVCM100000c2b1d38d____').html($('#view_6265b1ae4f3ee210VgnVCM100000c2b1d38d____').html() == '+' ? '-' : '+');
+			$('#slide_6265b1ae4f3ee210VgnVCM100000c2b1d38d____').toggle();
+		});
+	});
+       </script>
+       <h3>
+        Tracks (13-16 credits)
+       </h3>
+       <p>
+        Based on personal academic interests, students are required to choose from one of four tracks of study within the Informatics major. Courses in each track provide foundational skills, in-depth study, and intellectual perspectives specific to the associated track.
+       </p>
+       <p>
+        <a href="/informatics/curriculum/dataminingandinformationanalysis">
+         **Data Mining &amp; Information Analysis Track
+        </a>
+       </p>
+       <p>
+        <a href="/informatics/curriculum/lifescienceinformatics">
+         Life Science Informatics Track
+        </a>
+       </p>
+       <p>
+        <a href="/UMICH/informatics/Curriculum Handout 7 - Effective Winter 2013.pdf" onclick="window.open('/UMICH/informatics/Curriculum Handout 7 - Effective Winter 2013.pdf','popup', 'width=800,height=600,status=yes, scrollbars=yes, resizable=yes, menubar=yes'); return false;">
+         *Computational Informatics Track
+        </a>
+       </p>
+       <p>
+        <a href="/UMICH/informatics/Curriculum Handout 7 - Effective Winter 2013.pdf" onclick="window.open('/UMICH/informatics/Curriculum Handout 7 - Effective Winter 2013.pdf','popup', 'width=800,height=600,status=yes, scrollbars=yes, resizable=yes, menubar=yes'); return false;">
+         *Social Computing Track
+        </a>
+       </p>
+       <p>
+        In addition to core and track requirements, students round out their Informatics studies with carefully selected elective courses. The number and breadth of available electives allows you to add intellectual depth to their selected track of study or broaden your perspective on other aspects of the informatics field. All electives must be selected in consultation with a faculty track advisor.
+       </p>
+       <p>
+        *The last semester the Computational Informatics track and the Social Computing track were available to declare was F13.
+       </p>
+       <p>
+        **Declarations for Data Mining and Information Analysis will not be accepted after July 1, 2015.
+       </p>
+       <h3>
+        Electives (12-16 credits)
+       </h3>
+       <p>
+        In addition to core and track requirements, students round out their Informatics studies with carefully selected elective courses. The number and breadth of available electives allows you to add intellectual depth to their selected track of study or broaden your perspective on other aspects of the informatics field. All electives must be selected in consultation with a concentration advisor.
+       </p>
+       <p>
+        See the list of approved concentration
+        <a href="/informatics/curriculum/electives">
+         electives
+        </a>
+        .
+       </p>
+       <script type="text/javascript">
+        /* <![CDATA[ */
+	flowplayer("a.player", "/vgn-ext-templating/resources/flowplayer/flowplayer-3.1.3.swf", {
+
+		clip: { 
+				 
+				// these two configuration variables does the trick 
+				autoPlay: false,
+				scaling: 'fit',
+				autoBuffering: true // <- do not place a comma here	 
+		} , 
+							
+		// The controlbar plugin is loaded by specifying it in the plugins section of the configuration. 
+		plugins: { 
+ 
+		// The controlbar is called "controls". By tweaking this, you can modify its look and feel 
+			controls: { 
+ 
+				// -location of the controlbar plugin 
+				url: '/vgn-ext-templating/resources/flowplayer/flowplayer.controls-3.1.3.swf', 
+ 
+				// -display properties such as size, location and opacity 
+				//top: 20, 
+				//left: 20, 
+				//bottom: 0, 
+				//opacity: 0.95, 
+ 
+				// -styling properties (will be applied to all plugins) 
+				//background: '#E5E5E5 url(/my/custom/controls.png) no-repeat 3px 6px'
+				backgroundColor: '#FFFFFF', 
+				backgroundGradient: 'none', 
+
+				// -controlbar specific settings 
+				timeColor: '#000000',
+				timeBgColor: 'null',
+				timeBorder: 'null', 
+				durationColor: '#acacac',
+				progressColor: '#acacac',
+				progressGradient: 'medium',
+				bufferColor: '#E5E5E5',
+				bufferGradient: 'none',			 
+				sliderColor: '#000000',
+				sliderGradient: 'none',
+				buttonColor: '#acacac',
+				buttonOverColor: '#696969',
+				tooltipColor: '#000000', 
+				volumeSliderColor: '#acacac',
+				volumeSliderGradient: 'medium',
+				all: true, 
+				play: true, 
+				volume: true,
+				mute: true,
+				time: true,
+				stop: false,
+				playlist: false,
+				fullscreen: true,
+				// -timeline+playhead combination
+				scrubber:	true, 
+						 
+				// -custom height 
+				height: 30, 
+				// -a little more styling							
+				//width: '98%',	
+				//bottom: 5, 
+				//left: '50%', 
+				//borderRadius: 15, 
+	
+				// -tooltips (since 3.1) 
+				//tooltips: { 
+				//		buttons: true, 
+				//		fullscreen: 'Enter fullscreen mode' 
+				//}, 
+						
+				// -setup auto hide 
+				autoHide: 'always'						 
+			} 
+		},
+		//log: { level: 'debug' }, 
+		onBeforeUnload: function() { 
+			//console.log("onBeforeUnload function entered"); 
+			return false;
+		}, 
+		
+		onLoad: function() { 
+			//console.log("onLoad function entered"); 
+		} 
+
+	});
+/* ]]> */
+       </script>
+       <script type="text/javascript">
+        /* <![CDATA[ */
+	function LoadAndLog(){
+		//alert("we are here in LoadAndLog");
+		$f("*").each(function() { 
+ 		//console.log("iterating through everything function entered");
+ 		//console.log("status:"+this.getStatus());
+ 		//this.getClip().update({autoBuffering:true,autoPlay:false}); 
+ 		this.load();
+ 		//this.pause(); 
+		});
+	}
+	LoadAndLog();
+/* ]]> */
+       </script>
+       <!-- regionConfigRenderHardTest.jsp built at Sun Jun 12 12:26:09 EDT 2016 elapsed time = 323 -->
+      </div>
+     </div>
+     <div class="column" id="right">
+      <div>
+      </div>
+      <h1 id="first">
+       About
+      </h1>
+      <ul>
+       <li>
+        <a href="/informatics/about/people">
+         People
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/about/admission">
+         Admission
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/about/academicpreparation">
+         Academic Preparation
+        </a>
+       </li>
+       <li class="selected">
+        <a href="/informatics/about/curriculum">
+         Curriculum
+        </a>
+        <ul>
+         <li>
+          <a href="/informatics/curriculum/computationalinformatics">
+           Computational Infomatics
+          </a>
+         </li>
+         <li>
+          <a href="/informatics/curriculum/dataminingandinformationanalysis">
+           Data Mining &amp; Information Analysis
+          </a>
+         </li>
+         <li>
+          <a href="/informatics/curriculum/lifescienceinformatics">
+           Life Science Informatics
+          </a>
+         </li>
+         <li>
+          <a href="/informatics/curriculum/socialcomputing">
+           Social Computing
+          </a>
+         </li>
+         <li>
+          <a href="/informatics/about/curriculum/honors">
+           Honors
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="/informatics/about/careersandgraduatestudy">
+         Careers &amp; Graduate Study
+        </a>
+       </li>
+       <li>
+        <a href="mailto:informatics@umich.edu">
+         Contact Us
+        </a>
+       </li>
+       <li>
+        <a href="/informatics/about/sitemap">
+         Sitemap
+        </a>
+       </li>
+      </ul>
+     </div>
+     <br class="clear"/>
+    </div>
+   </div>
+  </div>
+  <!-- footer curSiteName is informatics -->
+  <div id="footer">
+   <p>
+    Informatics
+    <br/>
+    439 West Hall
+    <br/>
+    1085 South University Ave.
+    <br/>
+    University of Michigan
+    <br/>
+    Ann Arbor, MI
+	 48109-1107
+   </p>
+   <p>
+    ph: 734.615.3789
+    <br/>
+    fx: 734.763.4676
+   </p>
+   <p id="ftr-contact">
+    e:
+    <a href="mailto:informatics@umich.edu" id="ftr-email">
+     informatics@umich.edu
+    </a>
+    <br/>
+    <a href="/informatics/about/sitemap">
+     Sitemap
+    </a>
+   </p>
+   <p>
+    <a href="http://www.umich.edu">
+     <img alt="University of Michigan" src="/vgn-ext-templating/resources/images/michigan.png" style="margin-bottom: -48px; margin-left: 114px;"/>
+    </a>
+   </p>
+   <p id="logos">
+    <a href="http://www.lsa.umich.edu">
+     <img alt="LSA" src="/vgn-ext-templating/sites/informatics/images/lsa.png"/>
+    </a>
+    <a href="http://www.engin.umich.edu/">
+     <img alt="/vgn-ext-templating/sites/informatics/images/engineering.png" src="/vgn-ext-templating/sites/informatics/images/engineering.png"/>
+    </a>
+    <a href="http://www.si.umich.edu/">
+     <img alt="/vgn-ext-templating/sites/informatics/images/information.png" src="/vgn-ext-templating/sites/informatics/images/information.png"/>
+    </a>
+   </p>
+   <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-36677223-1', 'auto');
+ga('create', 'UA-7736274-1', 'auto', {'name': 'newTracker'});
+ga('require', 'linker');
+ga('linker:autoLink', ['search.bus.umich.edu']);
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+ga('newTracker.send', 'pageview');
+   </script>
+   <!-- get crazy shell -->
+   <script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/7346.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+   </script>
+   <!-- IP Address: 141.211.177.192, Tracker ID: UA-7736274-1 -->
+  </div>
+ </body>
+</html>
+<!-- so so so so extra updated -->

@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <head>
+  <meta charset="utf-8"/>
+  <link href="http://icacci-conference.org/web/sites/all/themes/theme4/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="/web/node/13" rel="shortlink"/>
+  <link href="/web/wci-home" rel="canonical"/>
+  <meta content="Drupal 7 (http://drupal.org)" name="Generator"/>
+  <title>
+   Welcome to WCI 2015! | ICACCI 2015
+  </title>
+  <link href="http://icacci-conference.org/web/sites/default/files/css/css_sCZyELruzZsU-H603lC0fwMis5xoFBBkEwLLm2q2V1w.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://icacci-conference.org/web/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://icacci-conference.org/web/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://icacci-conference.org/web/sites/default/files/css/css_QsclgYBlAn77LN8S32ItuZchNI3pI3P7NwboqxrAzac.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://icacci-conference.org/web/sites/default/files/css/css_C8wrm_hKYaVGpyhN5AM8sXcqfK1WZ1paU11G6hJiX2I.css" media="all" rel="stylesheet" type="text/css"/>
+  <style media="all" type="text/css">
+   <!--/*--><![CDATA[/*><!--*/
+#back-top{right:40px;}#back-top span#button{background-color:#CCCCCC;}#back-top span#button:hover{opacity:1;filter:alpha(opacity = 1);background-color:#777777;}
+
+/*]]>*/-->
+  </style>
+  <link href="http://icacci-conference.org/web/sites/default/files/css/css_yLLmRpoYuHdhmRrtmmVnQ5DTyBQSEarccnxasq706X4.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://icacci-conference.org/web/sites/default/files/css/css_-JrRTMijZQz31wfFZsq-H6hLZSNkkH1eQ6dII_USzU0.css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://icacci-conference.org/web/sites/default/files/js/js_oCVMDTeSNt-_QxknevWyf6yO5OzmME3AhRz3ggZgNtg.js" type="text/javascript">
+  </script>
+  <script src="/build/mediaelement-and-player.min.js?v=2.1.6" type="text/javascript">
+  </script>
+  <script src="http://icacci-conference.org/web/sites/default/files/js/js_obFUyTbqtcoGQtszVI46l1_oD927PzlDtlr_ilpYBqE.js" type="text/javascript">
+  </script>
+  <script src="http://icacci-conference.org/web/sites/default/files/js/js_M7TlEb5n-tm3OVQVYixroEI9ebCO3xHidNaaOJ1cvMc.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-24473854-3", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+  </script>
+  <script src="http://icacci-conference.org/web/sites/default/files/js/js_dh1ZQWWIq-S4c1hB5Duf9SIHwNZyLp0y8y8LyJU4Qnk.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002Fweb\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"theme4", "theme_token":"FxKpUZEiBTvS_l_9DhUvW-M_QcYpoHYmE-TyJJatoqM", "js":{"0":1, "sites\u002Fall\u002Fmodules\u002Fjquery_update\u002Freplace\u002Fjquery\u002F1.10\u002Fjquery.min.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "\u002Fbuild\u002Fmediaelement-and-player.min.js":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fjs\u002Fviews_slideshow.js":1, "sites\u002Fall\u002Fmodules\u002Fmediaelement\u002Fmediaelement.js":1, "sites\u002Fall\u002Fmodules\u002Fscroll_to_top\u002Fscroll_to_top.js":1, "sites\u002Fall\u002Flibraries\u002Fjquery.cycle\u002Fjquery.cycle.all.min.js":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fcontrib\u002Fviews_slideshow_cycle\u002Fjs\u002Fviews_slideshow_cycle.js":1, "sites\u002Fall\u002Fmodules\u002Fgoogle_analytics\u002Fgoogleanalytics.js":1, "1":1, "sites\u002Fall\u002Fthemes\u002Ftheme4\u002Fjs\u002Fsuperfish.js":1, "sites\u002Fall\u002Fthemes\u002Ftheme4\u002Fjs\u002Feffects.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "\u002Fbuild\u002Fmediaelementplayer.min.css":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fviews_slideshow.css":1, "sites\u002Fall\u002Fmodules\u002Fscroll_to_top\u002Fscroll_to_top.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "sites\u002Fall\u002Fmodules\u002Fdate\u002Fdate_api\u002Fdate.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fckeditor\u002Fcss\u002Fckeditor.css":1, "sites\u002Fall\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "0":1, "sites\u002Fall\u002Fmodules\u002Fviews_slideshow\u002Fcontrib\u002Fviews_slideshow_cycle\u002Fviews_slideshow_cycle.css":1, "sites\u002Fall\u002Fthemes\u002Ftheme4\u002Fstyle.css":1}}, "mediaelementAll":true, "scroll_to_top":{"label":"Back to top"}, "viewsSlideshow":{"wci_featured_slider-block":{"methods":{"goToSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "nextSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "pause":[ "viewsSlideshowControls", "viewsSlideshowCycle" ], "play":[ "viewsSlideshowControls", "viewsSlideshowCycle" ], "previousSlide":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle" ], "transitionBegin":[ "viewsSlideshowPager", "viewsSlideshowSlideCounter" ], "transitionEnd":[  ]}, "paused":0}}, "viewsSlideshowCycle":{"#views_slideshow_cycle_main_wci_featured_slider-block":{"num_divs":4, "id_prefix":"#views_slideshow_cycle_main_", "div_prefix":"#views_slideshow_cycle_div_", "vss_id":"wci_featured_slider-block", "effect":"fade", "transition_advanced":1, "timeout":2500, "speed":350, "delay":0, "sync":1, "random":0, "pause":1, "pause_on_click":0, "action_advanced":0, "start_paused":0, "remember_slide":0, "remember_slide_days":1, "pause_in_middle":0, "pause_when_hidden":0, "pause_when_hidden_type":"full", "amount_allowed_visible":"", "nowrap":0, "fixed_height":1, "items_per_slide":1, "wait_for_image_load":1, "wait_for_image_load_timeout":3000, "cleartype":0, "cleartypenobg":0, "advanced_options":"{}"}}, "googleanalytics":{"trackOutbound":1, "trackMailto":1, "trackDownload":1, "trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+  </script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+ </head>
+ <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-13 node-type-wci-basic-pages white">
+  <div id="wrapper">
+   <div class="inwrap">
+    <div id="header-top">
+     <div class="logo">
+      <div id="logoimg">
+       <!--<img src="http://icacci-conference.org/web/sites/all/themes/theme4/logo.png" alt="Home" />-->
+      </div>
+      <!--
+		  <div class="sitename">
+            <h1><a href="/web/" title="Home">ICACCI 2015</a></h1>
+            <h2></h2>
+         </div>
+-->
+      <div class="social-icons">
+       <ul>
+        <li>
+         <a href="/web/rss.xml">
+          <img alt="RSS Feed" src="/web/sites/all/themes/theme4/images/rss.png"/>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.facebook.com/#" rel="me" target="_blank">
+          <img alt="Facebook" src="/web/sites/all/themes/theme4/images/facebook.png"/>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.twitter.com/#" rel="me" target="_blank">
+          <img alt="Twitter" src="/web/sites/all/themes/theme4/images/twitter.png"/>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div id="menu-container">
+      <div class="menu-menu-container" id="menu-wci-main-menu">
+       <ul class="menu">
+        <li class="first leaf active-trail">
+         <a class="active-trail active" href="/web/wci-home">
+          Home
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/web/wci-cfp">
+          Call for Papers
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="http://icacci-conference.org/web/wci-final-submission">
+          Submission
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/web/wci-committee">
+          Committee
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/web/wci-keynote">
+          Keynote
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/web/wci-registration">
+          Registration
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/web/wi-program">
+          Program
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/web/wci-travel">
+          Hotels, Travel &amp; Visa
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/web/wci-venue">
+          Venue
+         </a>
+        </li>
+        <li class="leaf">
+         <a href="/web/wci-kerala">
+          About Kerala
+         </a>
+        </li>
+        <li class="last leaf">
+         <a href="/web/wci-contact">
+          Contact
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="content-container">
+     <div id="page-container">
+      <aside class="sidebar clearfix" id="sidebar-first" role="complementary">
+       <div class="region region-sidebar-first">
+        <div class="block block-search" id="block-search-form">
+         <div class="content">
+          <form accept-charset="UTF-8" action="/web/wci-home" id="search-block-form" method="post">
+           <div>
+            <div class="container-inline">
+             <h2 class="element-invisible">
+              Search form
+             </h2>
+             <div class="form-item form-type-textfield form-item-search-block-form">
+              <label class="element-invisible" for="edit-search-block-form--2">
+               Search
+              </label>
+              <input class="form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" size="15" title="Enter the terms you wish to search for." type="text" value=""/>
+             </div>
+             <div class="form-actions form-wrapper" id="edit-actions">
+              <input class="form-submit" id="edit-submit" name="op" type="submit" value="Search"/>
+             </div>
+             <input name="form_build_id" type="hidden" value="form-9t_1ZgV5bx1Y7TZTfrXwUXt7msUkm10t8Hyq_NQXHp0"/>
+             <input name="form_id" type="hidden" value="search_block_form"/>
+            </div>
+           </div>
+          </form>
+         </div>
+        </div>
+        <!-- /.block -->
+        <div class="block block-menu" id="block-menu-menu-previous-wci">
+         <h2>
+          Previous WCI
+         </h2>
+         <div class="content">
+          <ul class="menu">
+           <li class="first leaf">
+            <a href="http://icacci-conference.org/website/wci2014-home" target="_blank">
+             WCI 2014
+            </a>
+           </li>
+           <li class="last leaf">
+            <a href="http://icacci-conference.org/site/wci2013" target="_blank">
+             WCI 2013
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <!-- /.block -->
+        <div class="block block-block" id="block-block-9">
+         <h2>
+          WCI'15 Proceedings
+         </h2>
+         <div class="content">
+          <p>
+           <a href="http://dl.acm.org/citation.cfm?id=2791405" target="_blank">
+            <span style="font-size:16px">
+             <strong>
+              <img alt="" src="http://dl.acm.org/images/ACMDL_Logo.jpg" style="height:48px; width:185px"/>
+             </strong>
+            </span>
+           </a>
+          </p>
+          <div>
+           <span style="color:#000080">
+            <span style="font-size:14px">
+             <strong>
+              Proceedings indexed in DBLP
+             </strong>
+            </span>
+           </span>
+          </div>
+          <div>
+          </div>
+          <div>
+           <a href="http://dblp.uni-trier.de/db/conf/wci/index.html" target="_blank">
+            <img alt="" src="http://icacci-conference.org/sscc2015/images/dblp-logo.png" style="height:78px; width:200px"/>
+           </a>
+          </div>
+          <div>
+          </div>
+          <p>
+           <span style="font-size:14px">
+            <em>
+             <strong>
+              Organized by
+             </strong>
+            </em>
+           </span>
+          </p>
+          <p>
+           <a href="http://www.scmsgroup.org/sset/" style="font-size: 12.8000001907349px; line-height: 16.6399993896484px;" target="_blank">
+            <img alt="" src="http://icacci-conference.org/web/sites/default/files/scms.jpg" style="height:56px; width:200px"/>
+           </a>
+          </p>
+          <p>
+           <em>
+            <strong>
+             Proceedings Published by ACM
+            </strong>
+           </em>
+          </p>
+          <div>
+           <a href="http://www.acm.org/" target="_blank">
+            <img alt="Published by ACM" src="http://icacci-conference.org/web/files/icps.jpg" style="height:120px; width:185px"/>
+           </a>
+          </div>
+          <div>
+          </div>
+          <p>
+           <em>
+            <strong>
+             Technical Co-sponsors
+            </strong>
+           </em>
+          </p>
+          <p>
+           <strong>
+            <a href="http://women.acm.org/" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">
+             <img alt="" src="http://icacci-conference.org/web/files/acm-w.png"/>
+            </a>
+           </strong>
+          </p>
+          <p>
+           <a href="http://india.acm.org/" target="_blank">
+            <img alt="" src="http://icacci-conference.org/web/files/acmindia.jpg" style="height:100px; width:180px"/>
+           </a>
+          </p>
+          <div>
+           <a href="http://www.inns.org/india" target="_blank">
+            <img alt="INNS-India" src="http://icacci-conference.org/web/files/INNS-India-logo.jpg" style="height:115px; width:190px"/>
+           </a>
+          </div>
+          <div>
+          </div>
+          <div>
+           <a href="http://acm-trivandrum.acm.org/" style="font-size: 12.8000001907349px; line-height: 16.6399993896484px;" target="_blank">
+            <img alt="ACM Trivandrum Chapter" src="http://icacci-conference.org/web/files/acm-tvm.jpg" style="height:97px; width:190px"/>
+           </a>
+          </div>
+          <p>
+          </p>
+         </div>
+        </div>
+        <!-- /.block -->
+       </div>
+       <!-- /.region -->
+      </aside>
+      <!-- /#sidebar-first -->
+      <div id="content">
+       <div class="breadcrumb">
+        <h2 class="element-invisible">
+         You are here
+        </h2>
+        <nav class="breadcrumb">
+         <a href="/web/">
+          Home
+         </a>
+         » Welcome to WCI 2015!
+        </nav>
+       </div>
+       <section class="post" id="main" role="main">
+        <a id="main-content">
+        </a>
+        <div id="content_top">
+         <div class="region region-content-top">
+          <div class="block block-block" id="block-block-18">
+           <div class="content">
+            <blockquote>
+             <p>
+              <span style="color:#FF0000">
+               <strong>
+                WCI 2015 has been indexed in Scopus and DBLP
+               </strong>
+              </span>
+             </p>
+            </blockquote>
+           </div>
+          </div>
+          <!-- /.block -->
+          <div class="block block-views" id="block-views-wci-featured-slider-block">
+           <div class="content">
+            <div class="view view-wci-featured-slider view-id-wci_featured_slider view-display-id-block view-dom-id-a67807ed1e9df960e9480d2fa08fa65f">
+             <div class="view-content">
+              <div class="skin-default">
+               <div class="views_slideshow_cycle_main views_slideshow_main" id="views_slideshow_cycle_main_wci_featured_slider-block">
+                <div class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section" id="views_slideshow_cycle_teaser_section_wci_featured_slider-block">
+                 <div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_cycle_div_wci_featured_slider-block_0">
+                  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+                   <div class="views-field views-field-field-wci-slider-image">
+                    <div class="field-content">
+                     <img alt="" height="320" src="http://icacci-conference.org/web/sites/default/files/all-others-thankyou.jpg" typeof="foaf:Image" width="620"/>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_wci_featured_slider-block_1">
+                  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even">
+                   <div class="views-field views-field-field-wci-slider-image">
+                    <div class="field-content">
+                     <img alt="" height="320" src="http://icacci-conference.org/web/sites/default/files/slide-image-4.jpg" typeof="foaf:Image" width="620"/>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_wci_featured_slider-block_2">
+                  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd">
+                   <div class="views-field views-field-field-wci-slider-image">
+                    <div class="field-content">
+                     <img alt="" height="320" src="http://icacci-conference.org/web/sites/default/files/slide-image-2.jpg" typeof="foaf:Image" width="620"/>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_wci_featured_slider-block_3">
+                  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-3 views-row-even views-row-last">
+                   <div class="views-field views-field-field-wci-slider-image">
+                    <div class="field-content">
+                     <img alt="" height="320" src="http://icacci-conference.org/web/sites/default/files/slide-image-1.jpg" typeof="foaf:Image" width="620"/>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <!-- /.block -->
+         </div>
+         <!-- /.region -->
+        </div>
+        <div class="title">
+         <h2 class="title" id="page-title">
+          Welcome to WCI 2015!
+         </h2>
+        </div>
+        <div class="region region-content">
+         <div class="block block-system" id="block-system-main">
+          <div class="content">
+           <span class="rdf-meta element-hidden" content="Welcome to WCI 2015!" property="dc:title">
+           </span>
+           <span class="rdf-meta element-hidden" content="0" datatype="xsd:integer" property="sioc:num_replies">
+           </span>
+           <div class="content">
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+             <div class="field-items">
+              <div class="field-item even" property="content:encoded">
+               <p class="rtecenter">
+                <a href="http://dl.acm.org/citation.cfm?id=2791405" target="_blank">
+                 <span style="font-size:16px">
+                  <strong>
+                   Proceedings of WCI-2015 are now available online in the ACM Digital Library
+                  </strong>
+                 </span>
+                </a>
+                <span style="font-size:16px">
+                </span>
+               </p>
+               <p class="rtejustify">
+                Women represent approximately 51% of the total population. Over the course of history, the demographics of the workforce have changed significantly. Women continue to advance, holding important roles and positions in both academia and industry. Although progress has been made, the precipitous journey is not yet complete. Global concerns about current and future roles of women in computing occupations gained more importance with the emerging information age.
+               </p>
+               <p class="rtejustify">
+                The
+                <span style="color:rgb(115, 0, 171); font-size:12.7272720336914px">
+                 <strong>
+                  Third International Symposium on Women in Computing and Informatics (WCI-2015)
+                 </strong>
+                </span>
+                will serve as a platform to explore the opportunities as well as the diverse challenges facing women in computing and allied areas. WCI-2015 provides a great opportunity to network with students, professionals, and researchers. The Third ediiton will be held in Kochi, Kerala, India during August 10-13, 2015. The Symposium is co-located with
+                <a href="http://icacci-conference.org/web/" target="_blank">
+                 <strong>
+                  Fourth International Conference on Advances in Computing, Communications and Informatics (ICACCI-2015)
+                 </strong>
+                </a>
+                . WCI-2015 is organised in association with Association for Computing Machinery (ACM) Trivandrum Professional Chapter, ACM Cochin Chapter, ACM Committee on Women in Computing (ACM-W) India and IWNN of INNS India - Regional Chapter.
+               </p>
+               <div class="rtejustify">
+                <span style="background-color:rgb(255, 255, 255); color:rgb(51, 51, 51); font-family:tahoma,georgia,arial,sans-serif; font-size:12.8000001907349px">
+                 <strong>
+                  All accepted and presented papers will be published in the proceedings and archived in the
+                 </strong>
+                </span>
+                <strong>
+                 <a href="http://dl.acm.org/" style="text-decoration: none; color: rgb(115, 0, 171); transition: color 0.2s ease-in-out; -webkit-transition: color 0.2s ease-in-out;" target="_blank">
+                  ACM Digital Library
+                 </a>
+                 (ISBN No.  978-1-4503-3361-0)
+                </strong>
+                <span style="color:rgb(51, 51, 51); font-family:tahoma,georgia,arial,sans-serif; font-size:13px">
+                 <strong>
+                  .
+                 </strong>
+                </span>
+               </div>
+               <div class="rtejustify">
+               </div>
+               <div class="rtejustify">
+                <a href="https://www.keralatourism.org/" target="_blank">
+                 Kerala, God's Own Country
+                </a>
+                , located on the Southwestern tip of India, enjoys unique geographical features that have made it one of the most sought-after tourist destinations in Asia. Besides its famous languid network of backwaters, rice paddies, coconut groves, tea-covered hills, elegant houseboats and delicately spiced, taste-bud-tingling cuisine, Kerala is home to wild elephants, exotic birds and the odd tiger; and crazily vibrant traditions and snake-boat races.
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <footer>
+           </footer>
+          </div>
+         </div>
+         <!-- /.block -->
+        </div>
+        <!-- /.region -->
+       </section>
+       <!-- /#main -->
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+    </div>
+    <div class="bottom">
+     <div class="bottom-container in3">
+      <!-- / start first footer block -->
+      <div class="column A">
+       <div class="region region-footer-first">
+        <div class="block block-block" id="block-block-5">
+         <h2>
+          KEY DATES
+         </h2>
+         <div class="content">
+          <p>
+           <strong>
+            Paper Submission Ends:
+           </strong>
+           <strong>
+            April 28, 2015 09:29:00 IST (Extended)
+           </strong>
+           <br/>
+           <strong>
+            Acceptance Notification:
+           </strong>
+           May 25, 2015
+           <br/>
+           <strong>
+            Final Paper Deadline:
+           </strong>
+           June 20, 2015
+          </p>
+         </div>
+        </div>
+        <!-- /.block -->
+       </div>
+       <!-- /.region -->
+      </div>
+      <!-- / end first footer -->
+      <!-- / start second footer block -->
+      <div class="column B">
+       <div class="region region-footer-second">
+        <div class="block block-block" id="block-block-6">
+         <h2>
+          LATEST NEWS
+         </h2>
+         <div class="content">
+          <p>
+           Call for Papers announced -  Dec. 3, 2015
+          </p>
+          <p>
+           Publisher for the Proceedings - ACM ICPS (All accepted papers will be archived in the ACM Digital Library.) - Dec. 3, 2015
+          </p>
+          <p>
+           INNS India Regional Chapter granted technical co-sponsorship - Dec. 1, 2015
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <!-- /.block -->
+       </div>
+       <!-- /.region -->
+      </div>
+      <!-- / end second footer -->
+      <!-- / start third footer block -->
+      <div class="column C">
+       <div class="region region-footer-third">
+        <div class="block block-block" id="block-block-7">
+         <div class="content">
+          <ul>
+           <li>
+            <a href="http://icacci-conference.org/web/">
+             <strong>
+              ICACCI 2015
+             </strong>
+            </a>
+           </li>
+           <li>
+            <a href="http://icacci-conference.org/sscc2015/">
+             <strong>
+              SSCC 2015
+             </strong>
+            </a>
+           </li>
+           <li>
+            <a href="http://icacci-conference.org/ista2015/">
+             <strong>
+              ISTA 2015
+             </strong>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <!-- /.block -->
+       </div>
+       <!-- /.region -->
+      </div>
+      <!-- / end third footer -->
+      <div class="clear">
+      </div>
+     </div>
+    </div>
+    <div id="footer">
+     <div class="copyright">
+      Copyright © 2015 ICACCI 2015.
+     </div>
+     <div class="credit">
+      Powered by
+      <a href="http://www.itekcms.com">
+       iTEK CMS Web Solutions
+      </a>
+      .
+     </div>
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//zopim.com/?2pb1caEJE7jDkd4wnFVAS6P42JZhDm6T' charset='utf-8' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+  </script>
+ </body>
+</html>

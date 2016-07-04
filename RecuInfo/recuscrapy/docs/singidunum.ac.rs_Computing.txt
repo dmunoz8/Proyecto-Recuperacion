@@ -1,0 +1,1523 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="https://schema.org/WebPage" lang="sr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=0.3" name="viewport"/>
+  <title itemprop="name" property="og:title">
+   Informatics and Computing
+  </title>
+  <meta content="informatics,computing,developer,java,android,wordpress,php" name="keywords"/>
+  <meta content="The study programme Informatics and Computing is designed to meet the needs of today's market with the aim to prepare future graduates for well -paid and attractive jobs" name="description"/>
+  <meta content="The study programme Informatics and Computing is designed to meet the needs of today's market with the aim to prepare future graduates for well -paid and attractive jobs" itemprop="description"/>
+  <meta content="RS" name="geo.region"/>
+  <meta content="Belgrade" name="geo.placename"/>
+  <meta content="44.783693;20.477314" name="geo.position"/>
+  <meta content="44.783693, 20.477314" name="ICBM"/>
+  <meta content="index,follow" name="robots"/>
+  <meta content="KsXmEbtwHewaUDe2o5A9VpEWRxD-hVeQJ_ZokEOR-Yw" name="google-site-verification"/>
+  <link href="https://singidunum.ac.rs/upis/assets/css/fractionslider.css" rel="stylesheet"/>
+  <link href="https://singidunum.ac.rs/upis/assets/css/main.css" rel="stylesheet"/>
+  <link href="https://singidunum.ac.rs/upis/assets/css/study_programme.css" rel="stylesheet" type="text/css"/>
+  <link href="https://singidunum.ac.rs/upis/assets/css/ir.css" rel="stylesheet" type="text/css"/>
+  <link href="https://singidunum.ac.rs/upis/assets/css/colorbox.css" rel="stylesheet" type="text/css"/>
+  <!--[if IE 8]>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+	<![endif]-->
+  <!--[if IE 11]>
+		<link rel="stylesheet" href="css/ie9.css">
+	<![endif]-->
+  <!--[if !IE]><!-->
+  <script src="https://singidunum.ac.rs/assets/main/js/jquery.js" type="text/javascript">
+  </script>
+  <!--<![endif]-->
+  <script src="https://singidunum.ac.rs/upis/assets/js/main.js">
+  </script>
+  <script type="text/javascript">
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		 ga('create', 'UA-19861284-10', 'auto');
+		 ga('send', 'pageview');
+  </script>
+ </head>
+ <body>
+  <div class="wrapper">
+   <div class="language-sp">
+    <ul>
+     <li>
+      <a class="rs" href="https://singidunum.ac.rs/upis/study_programme/informatika_i_racunarstvo" target="_blank">
+      </a>
+     </li>
+     <li>
+      <a class="en" target="_blank">
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="header">
+    <div class="singidunum">
+     <a href="https://eng.singidunum.ac.rs">
+      <img alt="Sinigudnum logo" src="https://singidunum.ac.rs/upis/assets/images/univerzitet-singidunum-red-en.png"/>
+     </a>
+    </div>
+    <div class="banner">
+     <div class="slider">
+      <div class="slide" data-in="fade">
+       <img alt="banner 1" data-fixed="" height="620" src="https://singidunum.ac.rs/upis/assets/images/banner/banner2.jpg" width="1400"/>
+      </div>
+     </div>
+    </div>
+    <div class="main-menu en unselectable" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+     <div class="main-menu-item-image">
+     </div>
+     <ul itemprop="about" itemscope="" itemtype="http://schema.org/ItemList">
+      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ItemList">
+       <a class="mouse-hand" href="https://singidunum.ac.rs/admission" itemprop="url">
+        <span itemprop="name">
+         HOME
+        </span>
+       </a>
+      </li>
+      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ItemList">
+       <a class="mouse-hand" href="https://singidunum.ac.rs/admission/application" itemprop="url" target="_blank">
+        <span itemprop="name">
+         ONLINE
+         <br/>
+         REGISTRATION
+        </span>
+       </a>
+      </li>
+      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ItemList">
+       <a class="mouse-hand" href="https://singidunum.ac.rs/admission/pages/support-to-the-employed-students#title" itemprop="url">
+        <span itemprop="name">
+         SUPPORT FOR
+         <br/>
+         THE EMPLOYED STUDENTS
+        </span>
+       </a>
+      </li>
+      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ItemList">
+       <a class="mouse-hand" href="https://singidunum.ac.rs/admission/pages/transfer-from-other-heis#title" itemprop="url">
+        <span itemprop="name">
+         TRANSFERS FROM
+         <br/>
+         OTHER HEIS
+        </span>
+       </a>
+      </li>
+      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ItemList">
+       <a class="mouse-hand" href="https://singidunum.ac.rs/admission/contact" itemprop="url">
+        <span itemprop="name">
+         CONTACT
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="page">
+    <div class="social-lf">
+     <a class="social-coloured facebook ir" href="https://www.facebook.com/singidunum" rel="nofollow" target="_blank">
+     </a>
+     <a class="social-coloured gplus ir" href="https://plus.google.com/112812340670612811488" rel="nofollow" target="_blank">
+     </a>
+     <a class="social-coloured twitter ir" href="https://twitter.com/singidunum" rel="nofollow" target="_blank">
+     </a>
+     <a class="social-coloured youtube ir cboxElement" href="https://www.youtube.com/user/singidunumuniversity" rel="nofollow" target="_blank">
+     </a>
+     <a class="social-coloured android ir" href="https://singidunum.ac.rs/link/google-play-store" rel="nofollow" target="_blank">
+     </a>
+    </div>
+    <div class="study_programmes">
+     <ul>
+      <li class="study_programme en ">
+       <a data-bg="f1f8f8" data-color="11387d" href="https://singidunum.ac.rs/admission/study_programme/business-economics">
+        <span>
+         BUSINESS
+         <br/>
+         ECONOMICS
+        </span>
+       </a>
+      </li>
+      <li class="study_programme en ">
+       <a data-bg="f1f8f8" data-color="00b1be" href="https://singidunum.ac.rs/admission/study_programme/tourism-and-hospitality">
+        <span>
+         TOURISM AND HOSPITALITY
+        </span>
+       </a>
+      </li>
+      <li class="study_programme en active">
+       <a data-bg="f2f8f1" data-color="fd7226" href="https://singidunum.ac.rs/admission/study_programme/informatics-and-computing">
+        <span>
+         INFORMATICS AND COMPUTING
+        </span>
+       </a>
+      </li>
+      <li class="study_programme en ">
+       <a data-bg="f2f8f1" data-color="fd7226" href="https://singidunum.ac.rs/admission/study_programme/information-technology">
+        <span>
+         INFORMATION TECHNOLOGY
+        </span>
+       </a>
+      </li>
+      <li class="study_programme en ">
+       <a data-bg="f1f1f8" data-color="006531" href="https://singidunum.ac.rs/admission/study_programme/electrical-engineering-and-computing">
+        <span>
+         ELECTRICAL ENGINEERING AND COMPUTING
+        </span>
+       </a>
+      </li>
+      <li class="study_programme en ">
+       <a data-bg="f1f1f8" data-color="006531" href="https://singidunum.ac.rs/admission/study_programme/software-and-information-engineering">
+        <span>
+         SOFTWARE &amp; INFORMATION ENGINEERING
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="content">
+     <div class="faculty">
+      Faculty of Informatics and Computing
+     </div>
+     <div class="programme">
+      Informatics and Computing
+     </div>
+     <div class="page-content">
+      <p>
+       The study programme Informatics and Computing enables students to acquire knowledge and skills necessary for identification and algorithmic formalization of the real-life issues in practice, and their software implementation using modern programming languages. In addition, students shall acquire necessary knowledge in the area of design and administration of computer networks and databases of complete information systems based on modern Internet technology and Web services. This study programme deals with theory-based mechanisms for information protection in computers and computer networks and their practical implementation in computer protocols.
+      </p>
+      <p>
+       Studijski programi su osmišljeni u skladu sa potrebama savremenog tržišta i sa ciljem da se budući diplomci obuče za dobro plaćen i atraktivan posao.
+      </p>
+      <p>
+       The study programme Informatics and Computing is designed to meet the needs of today's market with the aim to prepare future graduates for well -paid and attractive jobs.The programme is supported by software packages through cooperation with the renowned international companies such as Microsoft, IBM, Oracle, Cisco, CA Technologies (CA Erwin Data Modeler) and SAP. Through implementation of modern programming languages, students are trained to solve every day practical problems, i.e. find the desired employment upon graduation without additional training.
+      </p>
+      <p>
+       Here you can fill out the online pre-admission registration form for the study programme Informatics and Computing.
+       <br/>
+       <a class="btn-upis" href="http://online.upis.singidunum.ac.rs/prijemni-web/registracija.jsf" target="_blank">
+        Fill out the pre-admission form
+       </a>
+      </p>
+      <p>
+       Upon successful completion of studies, the students should be competent enough to solve various practical issues and perform a large number of jobs in the following areas:
+      </p>
+      <div class="accordion left">
+       <div class="accordion-item jobs">
+        <input id="jobs-1" name="jobs" type="radio"/>
+        <label for="jobs-1">
+         <i class="accordion-icon">
+         </i>
+         Programming
+        </label>
+        <div class="article">
+         <p>
+          JAVA, C++, .NET, PHP, Frontend, Backend, Wordpress, Web Services
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-2" name="jobs" type="radio"/>
+        <label for="jobs-2">
+         <i class="accordion-icon">
+         </i>
+         Security
+        </label>
+        <div class="article">
+         <p>
+          manager, developer, security analyst of IT systems, computer networks security engineer and / or CISCO, digital forensics, cryptographic mechanisms development engineer, safety engineers IS
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-3" name="jobs" type="radio"/>
+        <label for="jobs-3">
+         <i class="accordion-icon">
+         </i>
+         Databases
+        </label>
+        <div class="article">
+         <p>
+          database administrator, Oracle database administrator, data modeling engineer, database applications designer, Oracle SQL, MySQL, Microsoft Access, SQL developer
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-4" name="jobs" type="radio"/>
+        <label for="jobs-4">
+         <i class="accordion-icon">
+         </i>
+         Processes
+        </label>
+        <div class="article">
+         <p>
+          analyst, engineer, business processes designer, engineer in charge of business processes reengineering
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-5" name="jobs" type="radio"/>
+        <label for="jobs-5">
+         <i class="accordion-icon">
+         </i>
+         Computer networks
+        </label>
+        <div class="article">
+         <p>
+          administrator, engineer, computer network manager
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-6" name="jobs" type="radio"/>
+        <label for="jobs-6">
+         <i class="accordion-icon">
+         </i>
+         Interface
+        </label>
+        <div class="article">
+         <p>
+          engineers who design and develop the user interface of web applications, design and development of user interface desktop applications, optimization of web / desktop application development Oracle interface
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-7" name="jobs" type="radio"/>
+        <label for="jobs-7">
+         <i class="accordion-icon">
+         </i>
+         Web services
+        </label>
+        <div class="article">
+         <p>
+          web services developer, developer of service-oriented applications, developer of business and / or integrated web services, developer of web services in cloud computing environments, development engineer in charge of Internet marketing and trade
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="accordion right">
+       <div class="accordion-item jobs">
+        <input id="jobs-8" name="jobs" type="radio"/>
+        <label for="jobs-8">
+         <i class="accordion-icon">
+         </i>
+         Server
+        </label>
+        <div class="article">
+         <p>
+          web administrator / application server, virtualization platforms administrator
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-9" name="jobs" type="radio"/>
+        <label for="jobs-9">
+         <i class="accordion-icon">
+         </i>
+         Operating systems
+        </label>
+        <div class="article">
+         <p>
+          Unix administrator and / or Linux and / or Windows systems
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-10" name="jobs" type="radio"/>
+        <label for="jobs-10">
+         <i class="accordion-icon">
+         </i>
+         Information systems
+        </label>
+        <div class="article">
+         <p>
+          IS project development manager, IS architect, systems analyst, IS modeling engineer, implementation engineer, development and maintenance of ERP solutions, testing and system implementation engineer, IT consultant
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-11" name="jobs" type="radio"/>
+        <label for="jobs-11">
+         <i class="accordion-icon">
+         </i>
+         Intelligent systems
+        </label>
+        <div class="article">
+         <p>
+          Data mining and / or Data Warehouse and / or ETL developers, engineering for modeling data warehouse, intelligent business solutions development engineer, intelligent systems development project manager
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-12" name="jobs" type="radio"/>
+        <label for="jobs-12">
+         <i class="accordion-icon">
+         </i>
+         Applications
+        </label>
+        <div class="article">
+         <p>
+          all engineering positions in the field of internet providing, developers of CMS systems, Internet / Intranet applications, applications for mobile phones, software engineer, graphics applications programmer, development engineer, implementation and maintenance of data protection in computer networks, e-business development engineer, developer of modern information technology in public administration and local government, banking, tourism
+         </p>
+        </div>
+       </div>
+       <div class="accordion-item jobs">
+        <input id="jobs-13" name="jobs" type="radio"/>
+        <label for="jobs-13">
+         <i class="accordion-icon">
+         </i>
+         Engineering
+        </label>
+        <div class="article">
+         <p>
+          engineering in the field of geographic information systems, artificial intelligence developer, development engineer for educational purposes
+         </p>
+        </div>
+       </div>
+      </div>
+      <br/>
+      <br/>
+      <p>
+       According to the survey conducted among the graduates who are members of the ALUMNI association,  the students who successfully complete this programme can seek employment in various fields:
+      </p>
+      <ul class="jobs-left">
+       <li>
+        Java developer
+       </li>
+       <li>
+        SQL developer
+       </li>
+       <li>
+        Web developer
+       </li>
+       <li>
+        PHP developer
+       </li>
+       <li>
+        Frontend developer
+       </li>
+       <li>
+        Wordpress developer
+       </li>
+       <li>
+        Web Services developer
+       </li>
+       <li>
+        Android developer
+       </li>
+       <li>
+        IT Systems Security Manager
+       </li>
+       <li>
+        Information Security  Analyst
+       </li>
+       <li>
+        Information Systems Security Designer
+       </li>
+       <li>
+        Network Security Engineer
+       </li>
+       <li>
+        CISCO Security Engineer
+       </li>
+       <li>
+        Digital Forensic Expert
+       </li>
+       <li>
+        Oracle Data Base Administrator/ Oracle
+       </li>
+       <li>
+        DBA
+       </li>
+       <li>
+        DBA (Database Administrator)
+       </li>
+       <li>
+        Database Application Designer
+       </li>
+       <li>
+        Oracle SQL Development Engineer
+       </li>
+       <li>
+        MySQL Development Engineer
+       </li>
+       <li>
+        Microsoft Access Development Engineer
+       </li>
+       <li>
+        Data Base Designer
+       </li>
+       <li>
+        Business Processes Manager /Analyst/Designer
+       </li>
+       <li>
+        Network Administrator / Engineer
+       </li>
+       <li>
+        Unix/Linux System Administrator
+       </li>
+       <li>
+        Windows Administrator
+       </li>
+       <li>
+        Web Server Administrator
+       </li>
+      </ul>
+      <ul class="jobs-right">
+       <li>
+        Virtualisation/Colud Platforms  Administrator
+       </li>
+       <li>
+        Application Service Administrator
+       </li>
+       <li>
+        Service-oriented Application Development Engineer
+       </li>
+       <li>
+        Business Web Services Development Engineer
+       </li>
+       <li>
+        Integrated Web Services Development Engineer
+       </li>
+       <li>
+        Middleware Architect
+       </li>
+       <li>
+        BPM/SOA Integration Specialist
+       </li>
+       <li>
+        System Architect
+       </li>
+       <li>
+        System Analyst
+       </li>
+       <li>
+        Systems Implementation and Testing Engineer
+       </li>
+       <li>
+        IT Consultant/Manager
+       </li>
+       <li>
+        Data Warehouse Solutions Development Engineer
+       </li>
+       <li>
+        Development Engineer for Content Management System (CMS)
+       </li>
+       <li>
+        It Sector Manager
+       </li>
+       <li>
+        Technical Account Manager
+       </li>
+       <li>
+        IT Solution Manager
+       </li>
+       <li>
+        Corporate IT Planning Manager
+       </li>
+       <li>
+        IT Application Development Manager
+       </li>
+       <li>
+        Software Development Team Manager
+       </li>
+       <li>
+        IT System Based Service Developed Manager
+       </li>
+       <li>
+        IT System Maintenance and Implementation Manager
+       </li>
+       <li>
+        IT System Sales Manager
+       </li>
+       <li>
+        IT Strategy Manager
+       </li>
+       <li>
+        IT Consultant
+       </li>
+      </ul>
+      <br/>
+      <br/>
+      <p class="books">
+       <img alt="books" src="../assets/images/books.png"/>
+       <strong>
+        All course materials are included in the tuition fee.
+       </strong>
+      </p>
+      <p>
+       <strong>
+        Entrance exam
+       </strong>
+       for the study programme Informatics and Computing comprises the following parts:
+      </p>
+      <ul>
+       <li>
+        General knowledge test (5 questions)
+       </li>
+       <li>
+        Intelligence test (5 questions)
+       </li>
+       <li>
+        Test in Informatics ( 20 questions)
+       </li>
+       <li>
+        A brief interview on the candidate’s additional areas of interest and use of modern technologies
+       </li>
+      </ul>
+      <p>
+       Upon on-line registration, the candidate can access online tests for the entrance exam.
+      </p>
+      <p class="hat">
+       <img alt="hat" src="../assets/images/hat.png"/>
+       Upon successful completion of studies, the students shall be awarded an academic title of
+       <strong>
+        Bachelor of Science in Informatics (BSc in Informatics)
+       </strong>
+       .
+      </p>
+     </div>
+     <div class="year-tab">
+      <div class="tabs">
+       <div class="tab_title">
+        <div class="year">
+         I year
+        </div>
+       </div>
+       <div class="tab_content">
+        <div class="election-tab">
+         <div class="sub_tabs">
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-737" type="checkbox"/>
+            <label for="check-737">
+             <i class="accordion-icon">
+             </i>
+             Informatics
+            </label>
+            <div class="article">
+             <p>
+              The students should become familiar with the fundamentals of information technology, hardware and software of modern computer systems, as well as with the phenomenon of networking and the Internet. Introduction to programming with examples in Visual Basic. Through practical laboratory exercises, the students should acquire basic computer literacy regarding operating systems, working with files, the use of word processing software and the Internet. The students should gain theoretical and practical knowledge concerning hardware,operating systems, application software, the use of e-mail and the Internet, and  they should also become conversant with contemporary information and communication technology.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-738" type="checkbox"/>
+            <label for="check-738">
+             <i class="accordion-icon">
+             </i>
+             Mathematics
+            </label>
+            <div class="article">
+             <p>
+              Introduction to mathematical foundations necessary for the acquisition of contemporary computing systems and their usage. This course enables students to follow and implement mathematical approach in solving complex tasks both in theoretical and practical usage.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-739" type="checkbox"/>
+            <label for="check-739">
+             <i class="accordion-icon">
+             </i>
+             Programming 1
+            </label>
+            <div class="article">
+             <p>
+              Introduction to computer components and functions. Introduction to the basic principles of computer programming.  Introduction to the Java programming language.  Students are enabled to define and solve computer problems on their own. Students are enabled to design correct and efficient computer programs in their further course of study.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-740" type="checkbox"/>
+            <label for="check-740">
+             <i class="accordion-icon">
+             </i>
+             Management
+            </label>
+            <div class="article">
+             <p>
+              The aim of the course is to make students realize the basic notions of the concept of management and the evolution of management theory; to introduce students to the most important management trends; to make students understand all the guidelines regarding management processes (planning, organising, managing and controlling). To enable students to plan, organize, implement, lead and control business processes, by applying theoretical knowledge in real business systems.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-741" type="checkbox"/>
+            <label for="check-741">
+             <i class="accordion-icon">
+             </i>
+             Discrete Mathematics
+            </label>
+            <div class="article">
+             <p>
+              Introduction to mathematical, organizational and programming bases necessary for the study of contemporary computer systems and their implementation. Students will be enabled  to solve complex tasks in management, projects and programming by the usage of mathematical methods and without having to think about technical solutions.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-742" type="checkbox"/>
+            <label for="check-742">
+             <i class="accordion-icon">
+             </i>
+             Tha Basics Computer Technology
+            </label>
+            <div class="article">
+             <p>
+              Introduction to mathematical- logical basics of computer technology. Perception of the significance of the usage of binary logic as the most appropriate means for contemporary electronic technology. Acquisition of the bases of computer organization with the aim of studying its operations. Introduction to the main components of personal computers. Acquisition of knowledge about computer operations by introduction to mathematical and logic foundations on which the operation of digital systems is based and by the study of main hardware components, their characteristics and operation principles.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-743" type="checkbox"/>
+            <label for="check-743">
+             <i class="accordion-icon">
+             </i>
+             Data Structures and Algorithms
+            </label>
+            <div class="article">
+             <p>
+              Learning about the design and analysis of data structures and algorithms. Learning about implementation of basic data structures and algorithms in the Java programming language. Students are enabled to define and solve problems on the algorithmic level on their own. Students are enabled to implement various data structures and algorithms in the Java programming language.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-744" type="checkbox"/>
+            <label for="check-744">
+             <i class="accordion-icon">
+             </i>
+             English Language 1
+            </label>
+            <div class="article">
+             <p>
+              English Language 1 is a subject based on the textbook Complete First Certificate (Cambridge University Press) which represents upper-intermediate level or Common European Framework level B2. The course also represents preparation for those students who want to gain First Certificate in English- FCE.  Course outcome is to reach higher level of speech fluency in various situations and on various topics. The aim is also to provide understanding of written and oral language of native speakers, as well as understanding and acquisition of writing skills- essay writing on diverse topics.
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tab_title">
+        <div class="year">
+         II year
+        </div>
+       </div>
+       <div class="tab_content">
+        <div class="election-tab">
+         <div class="sub_tabs">
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-745" type="checkbox"/>
+            <label for="check-745">
+             <i class="accordion-icon">
+             </i>
+             Object-Oriented Programming
+            </label>
+            <div class="article">
+             <p>
+              Introduction to the elements of C programming language, object- oriented programming and C++ programming language. Acquisition of main theoretical knowledge about object- oriented programming and enabling students to solve programming problems through practical computer usage. The ability to work in various development areas. Acquisition of theoretical and practical knowledge about object- oriented programming, independent and team work in solving programming problems and projects from various computing fields.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-746" type="checkbox"/>
+            <label for="check-746">
+             <i class="accordion-icon">
+             </i>
+             Probability and Statistics
+            </label>
+            <div class="article">
+             <p>
+              Students are acquainted with important concepts of probability and statistics, with the aim of understanding probability models and statistical methods. The aim of this course is that students develop logical thinking in dealing with the problems using probability and statistics. Students are enabled to apply probability and statistics methods throughout their further education. Students will acquire theoretical and practical knowledge in the field of probability and statistics.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-747" type="checkbox"/>
+            <label for="check-747">
+             <i class="accordion-icon">
+             </i>
+             Operating Systems
+            </label>
+            <div class="article">
+             <p>
+              Introducing students to the main concepts and concrete solutions to operating systems of contemporary computers with the aim of appropriate configuration, software maintenance and successful usage in the design of IT solutions. Students are enabled to understand, use, configure and maintain the softwares of the most widespread operating systems for typical business usage.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-748" type="checkbox"/>
+            <label for="check-748">
+             <i class="accordion-icon">
+             </i>
+             Internet Marketing
+            </label>
+            <div class="article">
+             <p>
+              Understanding the multidimensional technological and sociological internet environment as a basic space for modern marketing activities. Introducing the key technologies of the Internet and its most popular services with regard to the usage for marketing purposes. Mastering the knowledge and tools to develop marketing solutions on the web and evaluate their effectiveness. Students acquire theoretical and practical knowledge necessary for self-realization of marketing campaigns on the Internet. In addition to understanding the key principles of the Internet marketing, students are introduced to the principles of web design, metrics, analytics and reporting, as well as the practical use of the leading platform for analytics (Google Analytics) and advertising (Google AdWords).
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-749" type="checkbox"/>
+            <label for="check-749">
+             <i class="accordion-icon">
+             </i>
+             Cryptology 1
+            </label>
+            <div class="article">
+             <p>
+              The students should gain necessary knowledge concerning the fundamentals of cryptology and mathematical apparatus necessary for the analysis and  synthesis of modern encryption systems. They should become conversant with the main information security services: confidentiality, integrity, authentication and undeniability, as well as with the main concepts and features of private and public key encryption  systems. The students should be able to independently assess the quality of the given encryption system relying on the appropriate information-theoretical mathematical apparatus as well as to understand its role and place in modern integrated computer environment.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-750" type="checkbox"/>
+            <label for="check-750">
+             <i class="accordion-icon">
+             </i>
+             Programming Languages
+            </label>
+            <div class="article">
+             <p>
+              Introduction to the elements of C programming language, object- oriented programming and C++ programming language. Acquisition of main theoretical knowledge about object- oriented programming and enabling students to solve programming problems through practical computer usage. The ability to work in various development areas. Acquisition of theoretical and practical knowledge about object- oriented programming, independent and team work in solving programming problems and projects from various computing fields.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-751" type="checkbox"/>
+            <label for="check-751">
+             <i class="accordion-icon">
+             </i>
+             Computer Networks
+            </label>
+            <div class="article">
+             <p>
+              Acquisition of theoretical and practical knowledge from the field of communication technologies and computer networks. Introduction to and study of the standards and protocols in contemporary networks of the Internet/ Intranet type. Understanding of the role of of layers in OSI and TCP/ IP communication models. Acquisition of the addressing techniques and data routing. Study of the most important Internet services. Individual practical work on project and maintenance of computer networks. Understanding of security challenges in contemporary networks and implementation of overall layered security. Students should gain theoretical and practical knowledge for individual networking, hardware choice, software installation, setting parameters and network management. Practical knowledge also refers to installation and adaptation of Windows operating system (XP and Server), as well as Linux operating system.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-752" type="checkbox"/>
+            <label for="check-752">
+             <i class="accordion-icon">
+             </i>
+             English Language 2
+            </label>
+            <div class="article">
+             <p>
+              English Language 2 is a subject based on the textbook Complete First Certificate (Cambridge University Press) which represents upper-intermediate level or Common European Framework level B2. The course also represents preparation for those students who want to gain First Certificate in English- FCE.  Course outcome is to reach higher level of speech fluency in various situations and on various topics. The aim is also to provide understanding of written and oral language of native speakers, as well as understanding and acquisition of writing skills- essay writing on diverse topics.
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tab_title">
+        <div class="year">
+         III year
+        </div>
+       </div>
+       <div class="tab_content">
+        <div class="election-tab">
+         <div class="sub_tabs">
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-753" type="checkbox"/>
+            <label for="check-753">
+             <i class="accordion-icon">
+             </i>
+             Databases
+            </label>
+            <div class="article">
+             <p>
+              Acquisition of theoretical and practical knowledge about the implementation of databases in contemporary information systems. Understanding of all advantages of databases in comparison with classic programming languages and files implementation. Study of various systems for database management and interfaces for connection with the chosen programming language. Delayering of database realization into data models, business logic model and users interface. Understanding of relational database model and the effect of transactions in concurrency. Acquisition of techniques of database administration and maintenance.  Acquisition of necessary knowledge for individual work in Microsoft Access and MySQL system for database management: database generation, user interface development, setting inquiry, report development. Mastering syntax and technique for SQL language usage.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-754" type="checkbox"/>
+            <label for="check-754">
+             <i class="accordion-icon">
+             </i>
+             Internet Technologies
+            </label>
+            <div class="article">
+             <p>
+              Introduction to the history, organization, communication model and Internet technologies, with current Internet addressing systems and their usage. Introduction to socket programming. Introduction to the organization, protocol and technologies of web service with solutions and design regarding website server- side. Understanding of TCP/ IP communication model, network protocols, current addressing systems and their usage in development of Internet solutions, network software, design, protocl and web service technologies. Students are enabled to create web presentations, applications and services. Understanding of web service server- side, the possibility of realization in challenging environments.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-755" type="checkbox"/>
+            <label for="check-755">
+             <i class="accordion-icon">
+             </i>
+             Fundamentals of Information Theory and Coding
+            </label>
+            <div class="article">
+             <p>
+              Students are acquainted with the basic concepts of the theory of information and coding and its application in modern computer systems. They will master Shannon’s concepts of the quantity of information, entropy, mutual information, channel’s capacity, redundancy, source coding, secure coding, as well as the basic concepts of information redundancy theory. Students will acquire theoretical and practical knowledge about the theory of information and coding, with the aim of understanding information flows and quantitative indicators in modern computer systems.
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-sub-756" type="checkbox"/>
+            <label for="check-sub-756">
+             <i class="accordion-icon">
+             </i>
+             Second Foreign Language 1
+            </label>
+            <div class="article">
+             <div class="accordion">
+              <div class="accordion-item">
+               <input id="check-756" type="checkbox"/>
+               <label for="check-756">
+                <i class="accordion-icon">
+                </i>
+                Spanish Language 1
+               </label>
+               <div class="article">
+                <p>
+                 Course objective is reaching level А1 in Spanish language according to the CEFR. Introducing  basic information about Spanish language and hispanic culture with special emphasis on communicative skills. This course should enable students to communicate easily, to exchange  information using simple language forms, and to read and write texts, notes and descriptions.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-757" type="checkbox"/>
+               <label for="check-757">
+                <i class="accordion-icon">
+                </i>
+                Italian Language 1
+               </label>
+               <div class="article">
+                <p>
+                 Italian language 1 is a multimedia course in Italian language and culture on basic A1 level which, starting with the rules of pronunciation and spelling, systematically develops all four language skills using modern language ​​and permanent shifting between communication and grammar elements. This course should enable students to communicate on a basic level, to exchange information in everyday situations and to communicate their basic needs.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-758" type="checkbox"/>
+               <label for="check-758">
+                <i class="accordion-icon">
+                </i>
+                German Language 1
+               </label>
+               <div class="article">
+                <p>
+                 Course objective is the usage of the German language at A1 level according to the Common European Framework of Reference for Languages. This course should enable students to communicate on basic level, to exchange information in everyday situations and to communicate their basic needs. The course is also dedicated to acquisition of all other language skills: understanding, writing and reading.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-759" type="checkbox"/>
+               <label for="check-759">
+                <i class="accordion-icon">
+                </i>
+                Russian Language 1
+               </label>
+               <div class="article">
+                <p>
+                 Russian language 1, as the second foreign language, includes both the same speaking topics as at other faculties and the basic course of business Russian. Students are enabled to get to know specific terminology in authentic context from the field of informatics, computing, advertising, marketing, entrepreneurship and work time management, economic globalization, corporate culture, laws of demand and supply through various phonetic, morphological, lexical and grammar practice. Acquisition of new vocabulary, correct reading and translation of texts, correct speaking and writing and acquisition of all lectured units, in accordance with the Common European Framework of Reference for Languages.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-760" type="checkbox"/>
+               <label for="check-760">
+                <i class="accordion-icon">
+                </i>
+                French Language 1
+               </label>
+               <div class="article">
+                <p>
+                 Course outcome is the acquisition of skills in the usage of French language and preparation for DELF exams according to the Common European Framework of Reference for Languages. Course objective is the acquisition of skills and the usage of French in accordance with A1 level of the Common European Framework of Reference for Languages. The focus is on balanced development of all four skills, oral and written understanding and communication.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-761" type="checkbox"/>
+               <label for="check-761">
+                <i class="accordion-icon">
+                </i>
+                Chinese Language 1
+               </label>
+               <div class="article">
+                <p>
+                 Chinese Language 1 is a creatively designed multimedia course that focuses on introducing basic Chinese characters, useful vocabulary, functional sentence patterns, fundamental grammar, practical dialogues  and the most interesting aspects of  Chinese culture, history, philosophy and modern Chinese society. This course aims to improve students’ competence in understanding and using both spoken and written Chinese and to expand their conversational skills.
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-762" type="checkbox"/>
+            <label for="check-762">
+             <i class="accordion-icon">
+             </i>
+             Information System
+            </label>
+            <div class="article">
+             <p>
+              -
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-763" type="checkbox"/>
+            <label for="check-763">
+             <i class="accordion-icon">
+             </i>
+             Cryptology 2
+            </label>
+            <div class="article">
+             <p>
+              The students should become conversant with cryptologic mechanisms of public key infrastructure, modern methods of information hiding, secret sharing, authentication and authorization.They should gain some basic knowledge concerning security aspects of operating systems of software development, malicious programmes and become conversant with the main postulates of modern cryptanalysis.  The students should gain theoretical and practical knowledge in the field of digital singatures, public key infrastructure, secret sharing, authentification,authorization,operating systems security, application  software development and cryptanalysis.
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input checked="checked" id="check-sub-764" type="checkbox"/>
+            <label for="check-sub-764">
+             <i class="accordion-icon">
+             </i>
+             Elective Course 1
+            </label>
+            <div class="article">
+             <div class="accordion">
+              <div class="accordion-item">
+               <input id="check-764" type="checkbox"/>
+               <label for="check-764">
+                <i class="accordion-icon">
+                </i>
+                Multimedia Systems
+               </label>
+               <div class="article">
+                <p>
+                 Introduction to the potentials of the usage of contemporary multimedia technology and to its necessity. Main principles, technology and standards of multimedia and creation of multimedia contents on the web. Practical classes for the usage of contemporary multimedia technology and appropriate software for multimedia content processing. Introduction to main characteristics of signals and systems for multimedia signals processing. Students should be enabled to use the tools for audio signals, images and video signals processing.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-765" type="checkbox"/>
+               <label for="check-765">
+                <i class="accordion-icon">
+                </i>
+                Project Management
+               </label>
+               <div class="article">
+                <p>
+                 Showing modern approach to managing various types of projects, looking at the area of the theoretical elements of the concept of project management and the possibility of practical application of specialized software tools. The course is designed to demonstrate a methodological approach to the implementation of projects as well as to introduce students to the specific methods and techniques required for successful project management. Students’ competence in the practical application of technical knowledge in order to improve management of time, cost, resources, quality, risk and communications in project preparation and implementation. Also, students should be able to use modern software project management tool.
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-766" type="checkbox"/>
+            <label for="check-766">
+             <i class="accordion-icon">
+             </i>
+             English  Language 3
+            </label>
+            <div class="article">
+             <p>
+              English language 3 is based on a carefully created language curriculum. Its final goal is to prepare students for the internationally acknowledged exam (CAE) assessing their knowledge of English at C1 level. The course encompasses four equally represented skills: reading, writing, listening, and speaking. It also involves revising and widening the knowledge obtained in grammar and vocabulary.  Students are able to understand a wide spectrum of complex, long texts and understand their implicit meaning. In addition, students are able to converse fluently and spontaneously, using the language with flexibility and efficiency in various social, academic, and professional contexts.
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tab_title">
+        <div class="year">
+         IV year
+        </div>
+       </div>
+       <div class="tab_content">
+        <p class="election-option-text">
+        </p>
+        <div class="election-tab">
+         <div class="sub_tabs">
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-767" type="checkbox"/>
+            <label for="check-767">
+             <i class="accordion-icon">
+             </i>
+             Security in Computer Networks
+            </label>
+            <div class="article">
+             <p>
+              The objective of this course is that students acquire theoretical and practical knowledge in the field of the computer and network data security. They will understand security problems and encrypted data protection mechanisms. They will learn to correctly apply symmetric and asymmetric encryption systems and comprehend algorithms and different types of keys. They will be able to identify security problems in different network environments and operating systems and to solve security problems using installations and system maintenance. Students are enabled to comprehend security problems and to apply appropriate security mechanisms in modern computers and networks. The accent is on their own realizations and complete control over all of the encrypted mechanisms during installations and system maintenance.
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input checked="checked" id="check-sub-768" type="checkbox"/>
+            <label for="check-sub-768">
+             <i class="accordion-icon">
+             </i>
+             Elective Course 2
+            </label>
+            <div class="article">
+             <div class="accordion">
+              <div class="accordion-item">
+               <input id="check-768" type="checkbox"/>
+               <label for="check-768">
+                <i class="accordion-icon">
+                </i>
+                Application Software Development
+               </label>
+               <div class="article">
+                <p>
+                 Introduces the concepts and practice of software architecture-what a system is designed to do, and on how its components are meant to interact with each other. An architecture is an abstract view, distinct from the details of implementation, algorithm, and data representation. Its creation is the first step in designing a system with properties desired by customers, end users, developers, maintainers, and other interested parties. It covers essential technical topics for specifying and validating a system, and emphasizes the importance of the business context in which large systems are designed. Enhancing both technical and organizational discussions, key points are illuminated by substantial case studies and the Software Engineering Institute. Practicing software engineers who wish to understand both the technical basis of software architecture and the business and organizational forces that are acting on them Technical managers who wish to understand how software architecture can help them to supervise the construction of systems more effectively and improve their organizations Students in computer science or software engineering who might use this book as supplemental reading in a first or second software engineering course.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-769" type="checkbox"/>
+               <label for="check-769">
+                <i class="accordion-icon">
+                </i>
+                Decision Support Systems (Dss)
+               </label>
+               <div class="article">
+                <p>
+                 -
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input checked="checked" id="check-sub-770" type="checkbox"/>
+            <label for="check-sub-770">
+             <i class="accordion-icon">
+             </i>
+             Elective Course 3
+            </label>
+            <div class="article">
+             <div class="accordion">
+              <div class="accordion-item">
+               <input id="check-770" type="checkbox"/>
+               <label for="check-770">
+                <i class="accordion-icon">
+                </i>
+                Web Design
+               </label>
+               <div class="article">
+                <p>
+                 -
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-771" type="checkbox"/>
+               <label for="check-771">
+                <i class="accordion-icon">
+                </i>
+                Safety Management Information Systems
+               </label>
+               <div class="article">
+                <p>
+                 -
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-sub-772" type="checkbox"/>
+            <label for="check-sub-772">
+             <i class="accordion-icon">
+             </i>
+             Second Foreign Language 2
+            </label>
+            <div class="article">
+             <div class="accordion">
+              <div class="accordion-item">
+               <input id="check-772" type="checkbox"/>
+               <label for="check-772">
+                <i class="accordion-icon">
+                </i>
+                Spanish Language 2
+               </label>
+               <div class="article">
+                <p>
+                 Reaching level A2 in Spanish according to the Common European Framework of Reference for Languages. Preparing students to communicate in different situations, reading comprehension and writing short essays of descriptive and narrative form in present, future and past tense.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-773" type="checkbox"/>
+               <label for="check-773">
+                <i class="accordion-icon">
+                </i>
+                Italian Language 2
+               </label>
+               <div class="article">
+                <p>
+                 Italian language II is a multimedia course in Italian language and culture at the basic A2 level which, starting with the rules of pronunciation and spelling, systematically develops all four language skills using modern language ​​and permanent shifting between communicative and grammatical elements. This course should enable students to communicate on a basic level, to exchange information using simple language expressions in everyday situations and to communicate their basic needs.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-774" type="checkbox"/>
+               <label for="check-774">
+                <i class="accordion-icon">
+                </i>
+                German Language 2
+               </label>
+               <div class="article">
+                <p>
+                 Course objective is the usage of the German language at A1 level according to the Common European Framework of Reference for Languages. This course should enable students to communicate at basic levels, to exchange information in everyday situations and to communicate their basic needs.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-775" type="checkbox"/>
+               <label for="check-775">
+                <i class="accordion-icon">
+                </i>
+                Russian Language 2
+               </label>
+               <div class="article">
+                <p>
+                 Aside from the common discussion themes with other departments, Russian as a second language also contains the basic course of Russian business language. Students are introduced to specific terminology in the fields of economics in authentic contexts in the areas of finance, advertising, marketing, entrepreneurship and time management, economic globalisation, corporate culture and the laws of supply and demand through various phonetic, morphological, lexical and grammar units.Acquisition of basic expressions through everyday business situations.  Acquisition of new vocabulary,  accuracy in reading and translating texts, speaking accuracy, connecting previously acquired knowledge with new units, acquisition of writing skills and reviewing previously acquired content.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-776" type="checkbox"/>
+               <label for="check-776">
+                <i class="accordion-icon">
+                </i>
+                French Language 2
+               </label>
+               <div class="article">
+                <p>
+                 Course objective is the acquisition of skills and the usage of French in accordance with A1 level of the Common European Framework of Reference for Languages. The focus is on balanced development of all four skills: oral and written understanding and communication. Course includes reading, listening, writing, conversation and acquisition of specific business terminology. Course objective is to enable students to communicate in everyday situations. Course outcome is the acquisition of skills in the usage of French and preparation for DELF exams according to the Common European Framework of Reference for Languages.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-777" type="checkbox"/>
+               <label for="check-777">
+                <i class="accordion-icon">
+                </i>
+                Chinese Language  2
+               </label>
+               <div class="article">
+                <p>
+                 Chinese Language 2 is a creatively designed multimedia course that systematically upgrades previously acquired language and conversational skills and focuses on more complex grammatical and linguistic structures. The course also covers the most interesting aspects of the Chinese culture, history, philosophy and modern Chinese society. This course aims to improve students’ competence in understanding and using both spoken and written Chinese and to expand their conversational skills.
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input checked="checked" id="check-sub-778" type="checkbox"/>
+            <label for="check-sub-778">
+             <i class="accordion-icon">
+             </i>
+             Elective Course 4
+            </label>
+            <div class="article">
+             <div class="accordion">
+              <div class="accordion-item">
+               <input id="check-778" type="checkbox"/>
+               <label for="check-778">
+                <i class="accordion-icon">
+                </i>
+                Artificial Intelligence
+               </label>
+               <div class="article">
+                <p>
+                 Students acquire knowledge in the field of artificial intelligence and its place in traditional computer fields. They are acquainted with theoretical and practical knowledge necessary for the synthesis of the artificial intelligence systems based on knowledge, learning and examples, or genetic information formed in the process of evolution within the group of potential solutions. Students acquire theoretical and practical knowledge in the field of the artificial intelligence analysis and synthesis within the paradigms of automated reasoning, machine learning, evolutionary and genetic programming.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-779" type="checkbox"/>
+               <label for="check-779">
+                <i class="accordion-icon">
+                </i>
+                Human-Computer Interaction
+               </label>
+               <div class="article">
+                <p>
+                 -
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input checked="checked" id="check-sub-780" type="checkbox"/>
+            <label for="check-sub-780">
+             <i class="accordion-icon">
+             </i>
+             Elective Course 5
+            </label>
+            <div class="article">
+             <div class="accordion">
+              <div class="accordion-item">
+               <input id="check-780" type="checkbox"/>
+               <label for="check-780">
+                <i class="accordion-icon">
+                </i>
+                Practicum - Internet and Web Technologies
+               </label>
+               <div class="article">
+                <p>
+                 The aim of this course is that students learn and master modern software tools in the field of Internet and Web technologies. They are enabled to apply acquired knowledge to solving real problems arising from specific project requirements. They develop skills for creative application of software tools in real situations. Students will acquire knowledge and skills needed for the application of modern Internet and Web technologies software tools. They will also acquire knowledge and experience in application assessment of the software tool and its security constraints and advantages.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-781" type="checkbox"/>
+               <label for="check-781">
+                <i class="accordion-icon">
+                </i>
+                Practicum - Softwer Systems
+               </label>
+               <div class="article">
+                <p>
+                 The objective of this course is that students acquire general and specific knowledge in the field of advanced Java programming. They are acquainted with advanced techniques of the development of Java business applications (J2EE) and Android platform applications. Students will be qualified for programming, testing, debugging and trained for team work on the development of complex Java programmes.
+                </p>
+               </div>
+              </div>
+              <div class="accordion-item">
+               <input id="check-782" type="checkbox"/>
+               <label for="check-782">
+                <i class="accordion-icon">
+                </i>
+                Practicum - Protection of Computer Networks
+               </label>
+               <div class="article">
+                <p>
+                 The aim of this course is to acquaint students with the modern software tools in the field of information security. They are enabled to apply acquired knowledge to solving real problems arising from specific project requirements in the field of information security. They develop skills for creative application of software tools in real situations. Students will acquire knowledge and skills needed for the application of modern network security tools. They will also acquire knowledge and experience in application assessment of the software tool and its security constraints and advantages.
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="accordion">
+           <div class="accordion-item">
+            <input id="check-783" type="checkbox"/>
+            <label for="check-783">
+             <i class="accordion-icon">
+             </i>
+             English Language 4
+            </label>
+            <div class="article">
+             <p>
+              English language 4 is based on a carefully designed language program aimed at preparing students for taking an internationally recognized exam at C1 English language level of proficiency. All four skills are equally practiced: reading, writing, listening and speaking. The course also encompasses revising and expanding the knowledge of vocabulary and grammar. The students are enabled to understand a wide range of complex, longer texts and recognize their implicit meaning. Also, students are rendered capable of expressing themselves fluently and spontaneously, that is, of effective language use in different social, academic and professional contexts.
+             </p>
+            </div>
+           </div>
+           <div class="accordion-item">
+            <input id="check-784" type="checkbox"/>
+            <label for="check-784">
+             <i class="accordion-icon">
+             </i>
+             Practical Research and Business Skills
+            </label>
+            <div class="article">
+             <p>
+              Students are acquainted with basic concepts and categories in the field of applied business skills with regard to solving specific business issues and improving performances of the selected enterprise. Students will be trained for independent work in the economy sector. They will be enabled to apply acquired knowledge in the field of professional development and business skills, i.e. to apply theoretical knowledge in specific case studies. Students will be enabled to understand and apply essential business skills, basic principles for achieving goals, the role of whole life learning for achieving success in business, as well as an individual aspect of a person employed in the economy sector.
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <p>
+      Here you can fill out the online pre-admission registration form for the study programme Informatics and Computing.
+      <br/>
+      <a class="btn-upis" href="http://online.upis.singidunum.ac.rs/prijemni-web/registracija.jsf" target="_blank">
+       Fill out the pre-admission form
+      </a>
+     </p>
+     <div class="page-content">
+      <div class="page-social">
+       <div class="fb-like" data-action="like" data-href="https://singidunum.ac.rs/admission/study_programme/informatics-and-computing" data-layout="button" data-share="true" data-show-faces="false">
+       </div>
+       <a class="twitter-share-button" data-count="none" data-via="singidunum" href="https://twitter.com/share">
+        Tweet
+       </a>
+       <div class="g-plusone" data-annotation="none" data-size="medium">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="sidebar">
+     <div class="sidebar-item language">
+      <img alt="sticker" src="https://singidunum.ac.rs/admission/assets/images/sticker/en/IR.png"/>
+     </div>
+     <div class="sidebar-item">
+      <div class="contact">
+       <div>
+        +381 11 3094 094
+        <i class="icon-phone">
+        </i>
+       </div>
+       <div>
+        <a href="mailto:studije@singidunum.ac.rs" target="_blank">
+         study@singidunum.ac.rs
+        </a>
+        <i class="icon-mail">
+        </i>
+       </div>
+      </div>
+     </div>
+     <div class="sidebar-item">
+      <div class="newsletter">
+       <div class="newsletter-title">
+        Get additional info
+       </div>
+       <div class="newsletter-content">
+        <span>
+         On this study programme
+        </span>
+        <form action="#" id="newsletter_form" method="post">
+         <input name="study_programme_id" type="hidden" value="103"/>
+         <input name="name" placeholder="Name and Surname" required="required" type="text"/>
+         <input name="phone" pattern="\d+" placeholder="Phone" required="required" title="Unesite ispravan format broja telefona" type="text"/>
+         <input name="email" placeholder="Email" required="required" type="email"/>
+         <input id="submit" type="submit" value="Send"/>
+        </form>
+       </div>
+      </div>
+     </div>
+     <div class="sidebar-item">
+      <div class="social-coloured-holder">
+       <a class="social-coloured facebook ir" href="https://www.facebook.com/singidunum" rel="nofollow" target="_blank">
+       </a>
+       <a class="social-coloured gplus ir" href="https://plus.google.com/112812340670612811488" rel="nofollow" target="_blank">
+       </a>
+       <a class="social-coloured twitter ir" href="https://twitter.com/singidunum" rel="nofollow" target="_blank">
+       </a>
+       <a class="social-coloured youtube ir" href="https://www.youtube.com/user/singidunumuniversity" rel="nofollow" target="_blank">
+       </a>
+       <a class="social-coloured android ir" href="https://singidunum.ac.rs/link/google-play-store" rel="nofollow" target="_blank">
+       </a>
+      </div>
+     </div>
+     <div class="sidebar-item">
+      <div class="videos">
+       <a class="youtube" href="https://www.youtube.com/embed/KZceV6Cio7Y?rel=0&amp;wmode=transparent&amp;autoplay=1">
+        <img alt="Video" height="91" src="https://img.youtube.com/vi/KZceV6Cio7Y/mqdefault.jpg" width="161"/>
+       </a>
+       <div class="video-title">
+        <a href="https://www.youtube.com/channel/UCOvqB7xjiPiTx8RfLVWLlfA" target="_blank">
+         I choose to study at Singidunum University
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="sidebar-item">
+      <div class="virtual">
+       <a href="http://repository.singidunum.ac.rs/old_data/us/files/panorama/" target="_blank">
+        <img alt="Panorama" src="https://singidunum.ac.rs/admission/assets/images/360.jpg"/>
+       </a>
+       <div class="virtual-title">
+        <a href="http://repository.singidunum.ac.rs/old_data/us/files/panorama/" target="_blank">
+         Take a virtual tour and explore Singidunum University
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="sidebar-item">
+      <div class="fb-like-box" data-colorscheme="light" data-header="false" data-href="https://www.facebook.com/singidunum" data-show-border="false" data-show-faces="true" data-stream="false" data-width="175">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="footer">
+   <div class="copyright">
+    Singidunum Univeristy © 2016
+   </div>
+   <div class="social" itemscope="" itemtype="https://schema.org/ProfilePage">
+    <a class="social-link social-link-fb" href="https://www.facebook.com/singidunum" itemprop="url">
+    </a>
+    <a class="social-link social-link-gp" href="https://plus.google.com/112812340670612811488" itemprop="url" rel="author publisher">
+    </a>
+    <a class="social-link social-link-tw" href="https://twitter.com/singidunum" itemprop="url">
+    </a>
+    <a class="social-link social-link-yt" href="https://www.youtube.com/user/singidunumuniversity" itemprop="url">
+    </a>
+    <a class="social-link social-link-and" href="https://singidunum.ac.rs/link/google-play-store" itemprop="url">
+    </a>
+   </div>
+  </div>
+  <script src="https://singidunum.ac.rs/upis/assets/js/jquery.fractionslider.min.js" type="text/javascript">
+  </script>
+  <script src="https://singidunum.ac.rs/upis/assets/js/jquery.colorbox-min.js">
+  </script>
+  <script src="https://singidunum.ac.rs/upis/assets/js/study_programme.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   jQuery(window).load(function(){
+				$('.slider').fractionSlider({
+					'timeout' : 10000,
+					'speedOut': 3000,
+					'easeIn' : 'easeOutExpo', // default easing in
+					'easeOut' : 'easeOutCubic', // default easing out
+					'slideEndAnimation' : true,
+				});
+			});
+  </script>
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/sr_Latn_RS/sdk.js#xfbml=1&version=v2.0";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <script type="text/javascript">
+   !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+  </script>
+  <script async="" defer="" src="https://apis.google.com/js/platform.js" type="text/javascript">
+  </script>
+ </body>
+</html>
