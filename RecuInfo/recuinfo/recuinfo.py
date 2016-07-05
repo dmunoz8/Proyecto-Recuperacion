@@ -256,7 +256,7 @@ def query(*args):
 root = Tk()
 root.title("CIDR - Computing & Informatics Document Recovery")
 
-mainframe = ttk.Frame(root, padding="3 3 12 12")
+mainframe = ttk.Frame(root, padding="40 40 40 40")
 mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
 mainframe.columnconfigure(0, weight=1)
 mainframe.rowconfigure(0, weight=1)
@@ -269,8 +269,13 @@ query_entry = ttk.Entry(mainframe, width=7, textvariable=squery)
 query_entry.grid(column=1, row=2, sticky=(W, E))
 ttk.Button(mainframe, text="Search!", command=query).grid(column=2, row=2, sticky=W)
 ttk.Label(mainframe, textvariable=result).grid(column=1, row=3, sticky=(W, E))
-#listbox = Listbox(root)
-#listbox.grid(column=1, row=3, sticky=(W, E), columnspan=2)
+listbox = Listbox(root)
+listbox.grid(column=6, row=0,columnspan=2)
+
+listbox.insert(END, "a list entry")
+
+for item in ["one", "two", "three", "four"]:
+    listbox.insert(END, item)
 
 for child in mainframe.winfo_children(): child.grid_configure(padx=5, pady=5)
 
