@@ -573,7 +573,7 @@ public class Controlador
         Controlador controlador = new Controlador();
         int opcion = 0;
         while(true){
-             //interfaz.interfazComic();
+             interfaz.interfazComic();
              String consulta = interfaz.consultar();
              controlador.resultados = "Los resultados de la consulta: \""+consulta+" \"\n"+
              "Documento -- similitud consulta-documento\n"+
