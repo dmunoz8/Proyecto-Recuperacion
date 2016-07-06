@@ -3,29 +3,38 @@
 # and open the template in the editor.
 import time
 
-from descriptorimg import DescriptorImg
 from index import Index
+from comicindex import ComicIndex
 
 #Metodo principal del proyecto
 if __name__ == "__main__":
-    index = Index("../recuscrapy/norm","../recuscrapy/docs")
+    index = ComicIndex("../recuscrapy/norm","../recuscrapy/docs")
     inicio = time.time()
     index.create()
     fin = time.time()
     total = fin - inicio
     print("Duracion de creacion de indice normalizado (metodo 1): ")
     print(" "+str(total))
-    index.load()
+    #index.load()
     
     print("Cantidad de terminos: ")
-    print(" "+str(len(index.index)))
+    print(" "+str(len(index.indextxt)))
     print("Indice tf-idf normalizados: ")
-    print(" "+str(index.index))
-    q = "differences between computer science and informatics"
-    dists = index.calcOrderedDists(q)
+    print(" "+str(index.indextxt))
+    q = "video games development"
+    res = index.queryTxt(q)
     print("Resultado de consulta: \""+q+"\":")
-    print(" "+str(dists))    
+    print(" "+str(res))
     
+    print("Cantidad de imagenes: ")
+    print(" "+str(len(index.indeximg)))
+    print("Indice de imagenes normalizado: ")
+    print(" "+str(index.indeximg))
+    q = "./imgs/Marvel-comic-heroes-cover-014.jpg"
+    res = index.queryImg(q)
+    print("Resultado de consulta: \""+q+"\":")
+    print(" "+str(res))
+
 
 from tkinter import *
 from tkinter import ttk

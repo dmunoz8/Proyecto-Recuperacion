@@ -8,7 +8,9 @@ class DescriptorImg:
         self.bins = bins
 
     def describe(self, imagen):
-        # convierte la imagen al espacio HSV.
+        # lee el path de la imagen
+        imagen = cv2.imread(imagen)
+        # convierte la imagen al espacio HSV
         imagen = cv2.cvtColor(imagen, cv2.COLOR_BGR2HSV)
         # inicia vector de características
         caracts = []
@@ -23,6 +25,7 @@ class DescriptorImg:
 
         # máscara elíptica del centro de la imagen
         (axesX, axesY) = (int(w * 0.75) / 2, int(h * 0.75) / 2)
+        (axesX, axesY) = (int(axesX), int(axesY))
         ellipMask = np.zeros(imagen.shape[:2], dtype = "uint8")
         cv2.ellipse(ellipMask, (cX, cY), (axesX, axesY), 0, 0, 360, 255, -1)
 
@@ -50,7 +53,8 @@ class DescriptorImg:
         # canal Luego lo normaliza
         hist = cv2.calcHist([imagen], [0, 1, 2], mask, self.bins,
             [0, 180, 0, 256, 0, 256])
-        hist = cv2.normalize(hist).flatten()
+        cv2.normalize(hist,hist)
+        hist = hist.flatten()
 
         # devuelve el resultado
         return hist
