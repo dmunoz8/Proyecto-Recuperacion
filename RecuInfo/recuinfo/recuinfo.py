@@ -39,13 +39,12 @@ if __name__ == "__main__":
 from tkinter import *
 from tkinter import ttk
 import webbrowser
+from PIL import Image,ImageTk
 	 
 def show_image(selection):
-    tk_img = PhotoImage(file='C:\\Users\\Marco\\Downloads\\Proyecto Recuperacion\\Proyecto-Recuperacion\\RecuInfo\\recuinfo\\imgs\\Marvel-comic-heroes-cover-014.jpg') #listbox.get(ACTIVE))
-    x = canvas.create_image(125, 125, image=tk_img)
-    label = Label(tk_img)
-    label.pack()
-
+    image = Image.open("C:\\Users\\Marco\\Downloads\\Proyecto Recuperacion\\Proyecto-Recuperacion\\RecuInfo\\recuinfo\\imgs\\Marvel-comic-heroes-cover-014.jpg") #listbox.get(ACTIVE))
+    image.show()
+    
 def query(*args):
     try:
         q = squery.get()
