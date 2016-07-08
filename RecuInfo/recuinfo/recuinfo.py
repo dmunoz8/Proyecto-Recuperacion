@@ -83,8 +83,11 @@ def queryimg(*args):
         pass
 
 def askfile(*args):
-    imagePath.set(filedialog.askopenfilename())
-    queryimg()
+	path = filedialog.askopenfilename(filetypes = (("Images", "*.png;*.PNG;*.jpg;*.JPG")
+												  ,("All files", "*.*") ))
+	if path!="":
+		imagePath.set(path)
+		queryimg()
     
 root = Tk()
 root.title("DCMCR - DC & Marvel Comics Recovery")
