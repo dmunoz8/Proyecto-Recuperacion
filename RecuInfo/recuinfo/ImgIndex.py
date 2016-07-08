@@ -40,7 +40,7 @@ def normalizeTitles(srcPath):
 	for titulo in comics:
 		orig = titulo[:-4]
 		vector = re.split(r'[ \-,;/\\]',orig)
-		doc = "./docs/"+orig+".txt"
+		doc = "./norm/"+orig+".txt"
 		try:
 			file = open(doc, 'w')
 			for word in vector:

@@ -8,7 +8,7 @@ from comicindex import ComicIndex
 
 #Metodo principal del proyecto
 if __name__ == "__main__":
-    index = ComicIndex("../recuscrapy/norm","../recuscrapy/docs")
+    index = ComicIndex()
     inicio = time.time()
     index.create()
     fin = time.time()
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     print(" "+str(len(index.indeximg)))
     print("Indice de imagenes normalizado: ")
     print(" "+str(index.indeximg))
-    q = "./imgs/avengers.jpg"
+    q = "./imgs/Batman Vol2 00.jpg"
     res = index.queryImg(q)
     print("Resultado de consulta: \""+q+"\":")
     print(" "+str(res))
@@ -45,16 +45,29 @@ def show_image(selection):
     image = Image.open("C:\\Users\\Marco\\Downloads\\Proyecto Recuperacion\\Proyecto-Recuperacion\\RecuInfo\\recuinfo\\imgs\\Marvel-comic-heroes-cover-014.jpg") #listbox.get(ACTIVE))
     image.show()
     
-def query(*args):
+def querytxt(*args):
     try:
-        q = squery.get()
-       # res = index.query(q)
+        q = squerytxt.get()
+        res = index.queryTxt(q)
         files = []
-        result.set("")
+        listbox.delete(0, END)
         for doc in res:
-            f = "../recuscrapy/docs/"+doc[0]
+            f = "./docs/"+doc[0]
             files += [f]
-            result.set(result.get() + f + "\n")
+            listbox.insert(END, f)
+        
+    except ValueError:
+        pass
+    
+def queryimg(*args):
+    try:
+        q = squeryimg.get()
+        res = index.queryImg(q)
+        files = []
+        listbox.delete(0, END)
+        for doc in res:
+            f = "./docs/"+doc[0]
+            files += [f]
             listbox.insert(END, f)
         
     except ValueError:
@@ -62,25 +75,25 @@ def query(*args):
     
     
 root = Tk()
-root.title("CIDR - Computing & Informatics Document Recovery")
+root.title("CDR - Comics Document Recovery")
 
 mainframe = ttk.Frame(root, padding="40 40 40 40")
 mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
 mainframe.columnconfigure(0, weight=1)
 mainframe.rowconfigure(0, weight=1)
 
-squery = StringVar()
-result = StringVar()
+squerytxt = StringVar()
+squeryimg = StringVar()
 
 ttk.Label(mainframe, text="Type your query:").grid(column=0, row=0, sticky=E)
-query_entry = ttk.Entry(mainframe, width=20, textvariable=squery)
+query_entry = ttk.Entry(mainframe, width=20, textvariable=squerytxt)
 query_entry.grid(column=1, row=0, rowspan=2, columnspan=2)
-ttk.Button(mainframe, text="Search Text!", command=query).grid(column=6, row=0, sticky=W)
+ttk.Button(mainframe, text="Search Text!", command=querytxt).grid(column=6, row=0, sticky=W)
 
 ttk.Label(mainframe, text="Type your path for image").grid(column=0, row=2, sticky=E)
-query_entry = ttk.Entry(mainframe, width=20, textvariable=squery)
+query_entry = ttk.Entry(mainframe, width=20, textvariable=squeryimg)
 query_entry.grid(column=1, row=2, rowspan=2, columnspan=2)
-ttk.Button(mainframe, text="Search Image!", command=query).grid(column=6, row=2, sticky=W)
+ttk.Button(mainframe, text="Search Image!", command=queryimg).grid(column=6, row=2, sticky=W)
 
 #ttk.Label(mainframe, textvariable=result).grid(column=1, row=3, sticky=(W, E))
 listbox = Listbox(root, width=60)
@@ -90,6 +103,6 @@ for child in mainframe.winfo_children(): child.grid_configure(padx=5, pady=5)
 
 query_entry.focus()
 listbox.bind("<Double-Button-1>",show_image)
-root.bind('<Return>', query)
+root.bind('<Return>', querytxt)
 
 root.mainloop()
