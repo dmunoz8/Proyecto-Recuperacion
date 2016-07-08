@@ -40,9 +40,13 @@ from tkinter import *
 from tkinter import ttk
 import webbrowser
 from PIL import Image,ImageTk
+import os
 	 
 def show_image(selection):
-    image = Image.open("C:\\Users\\Marco\\Downloads\\Proyecto Recuperacion\\Proyecto-Recuperacion\\RecuInfo\\recuinfo\\imgs\\Marvel-comic-heroes-cover-014.jpg") #listbox.get(ACTIVE))
+    x = listbox.get(ACTIVE)
+    #image = Image.open("..//Proyecto Recuperacion\\Proyecto-Recuperacion\\RecuInfo\\recuinfo\\imgs\\" + x[19:])
+    path = os.path.abspath("imgs\\" + x[19:])
+    image = Image.open(path)
     image.show()
     
 def query(*args):
@@ -71,6 +75,7 @@ mainframe.rowconfigure(0, weight=1)
 
 squery = StringVar()
 result = StringVar()
+imagePath = StringVar()
 
 ttk.Label(mainframe, text="Type your query:").grid(column=0, row=0, sticky=E)
 query_entry = ttk.Entry(mainframe, width=20, textvariable=squery)
@@ -78,8 +83,8 @@ query_entry.grid(column=1, row=0, rowspan=2, columnspan=2)
 ttk.Button(mainframe, text="Search Text!", command=query).grid(column=6, row=0, sticky=W)
 
 ttk.Label(mainframe, text="Type your path for image").grid(column=0, row=2, sticky=E)
-query_entry = ttk.Entry(mainframe, width=20, textvariable=squery)
-query_entry.grid(column=1, row=2, rowspan=2, columnspan=2)
+image_entry = ttk.Entry(mainframe, width=20, textvariable=imagePath)
+image_entry.grid(column=1, row=2, rowspan=2, columnspan=2)
 ttk.Button(mainframe, text="Search Image!", command=query).grid(column=6, row=2, sticky=W)
 
 #ttk.Label(mainframe, textvariable=result).grid(column=1, row=3, sticky=(W, E))
