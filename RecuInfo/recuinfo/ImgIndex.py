@@ -27,6 +27,9 @@ def extractFirstFile(src, dest, normalizado):
 #Extrae la portada de cada comic que se encuentra en formato .cbr
 #Para esto recibe la ruta del directorio donde se encuentran todos los comics .cbr, y se itera en esa lista de archivos
 def getComicsCovers(srcPath):
+	imgs = os.listdir("./imgs")
+	for i in imgs:
+		os.remove(os.path.abspath("./imgs/"+i))
 	carpetas = os.listdir(srcPath)
 	for titulo in carpetas:
 		for filename in os.listdir(srcPath+"/"+titulo):
@@ -51,5 +54,5 @@ def normalizeTitles(srcPath):
 			print('Error escribiendo en archivo: '+doc)
 
 if __name__ == "__main__":
-	#getComicsCovers('../../Comics')
+	getComicsCovers('../../Comics')
 	normalizeTitles("./imgs")

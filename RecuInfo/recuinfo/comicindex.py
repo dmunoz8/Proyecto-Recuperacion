@@ -44,6 +44,8 @@ class ComicIndex:
     def addToIndexImg(self, fname):
         listFname = fname.split("\\")
         id=listFname[-1]
+        idext=id.split(".")
+        id=idext[0]
         caracts = self.descriptor.describe(fname)
         self.indeximg[id] = caracts
         
@@ -65,6 +67,8 @@ class ComicIndex:
             #Obtiene el identificador (nombre) del documento
             listFname = fname.split("\\")
             id=listFname[-1]
+            idext=id.split(".")
+            id=idext[0]
             #Obtiene tokens
             content = f.readlines()
             for token in content:

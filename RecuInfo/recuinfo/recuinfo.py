@@ -5,9 +5,13 @@ import time
 
 from index import Index
 from comicindex import ComicIndex
+from normcomics import NormComics
 
 #Metodo principal del proyecto
 if __name__ == "__main__":
+    nc = NormComics()
+    nc.getComicsCovers('../../Comics')
+    nc.normalizeTitles()
     index = ComicIndex()
     inicio = time.time()
     index.create()
@@ -21,7 +25,7 @@ if __name__ == "__main__":
     print(" "+str(len(index.indextxt)))
     print("Indice tf-idf normalizados: ")
     print(" "+str(index.indextxt))
-    q = "video games development"
+    q = "Batman"
     res = index.queryTxt(q)
     print("Resultado de consulta: \""+q+"\":")
     print(" "+str(res))
@@ -38,41 +42,50 @@ if __name__ == "__main__":
 
 from tkinter import *
 from tkinter import ttk
-import webbrowser
-from PIL import Image,ImageTk
+from tkinter import filedialog
+
+import os
 	 
 def show_image(selection):
-    image = Image.open("C:\\Users\\Marco\\Downloads\\Proyecto Recuperacion\\Proyecto-Recuperacion\\RecuInfo\\recuinfo\\imgs\\Marvel-comic-heroes-cover-014.jpg") #listbox.get(ACTIVE))
-    image.show()
+    x = listbox.get(ACTIVE)
+    #print(x)
+    #x = x.split("/")
+    path = os.path.abspath("./docs/"+x+".cbr")
+    os.startfile(path)
+    #image = Image.open(path)
+    #image.show()
     
 def querytxt(*args):
     try:
-        q = squerytxt.get()
+        q = squery.get()
         res = index.queryTxt(q)
         files = []
         listbox.delete(0, END)
         for doc in res:
-            f = "./docs/"+doc[0]
+            f = doc[0]
             files += [f]
             listbox.insert(END, f)
         
     except ValueError:
         pass
-    
+  
 def queryimg(*args):
     try:
-        q = squeryimg.get()
+        q = imagePath.get()
         res = index.queryImg(q)
         files = []
         listbox.delete(0, END)
         for doc in res:
-            f = "./docs/"+doc[0]
+            f = doc[0]
             files += [f]
             listbox.insert(END, f)
         
     except ValueError:
         pass
-    
+
+def askfile(*args):
+    imagePath.set(filedialog.askopenfilename())
+    queryimg()
     
 root = Tk()
 root.title("CDR - Comics Document Recovery")
@@ -82,18 +95,18 @@ mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
 mainframe.columnconfigure(0, weight=1)
 mainframe.rowconfigure(0, weight=1)
 
-squerytxt = StringVar()
-squeryimg = StringVar()
+squery = StringVar()
+imagePath = StringVar()
 
 ttk.Label(mainframe, text="Type your query:").grid(column=0, row=0, sticky=E)
-query_entry = ttk.Entry(mainframe, width=20, textvariable=squerytxt)
+query_entry = ttk.Entry(mainframe, width=20, textvariable=squery)
 query_entry.grid(column=1, row=0, rowspan=2, columnspan=2)
 ttk.Button(mainframe, text="Search Text!", command=querytxt).grid(column=6, row=0, sticky=W)
 
 ttk.Label(mainframe, text="Type your path for image").grid(column=0, row=2, sticky=E)
-query_entry = ttk.Entry(mainframe, width=20, textvariable=squeryimg)
-query_entry.grid(column=1, row=2, rowspan=2, columnspan=2)
-ttk.Button(mainframe, text="Search Image!", command=queryimg).grid(column=6, row=2, sticky=W)
+image_entry = ttk.Entry(mainframe, width=20, textvariable=imagePath)
+image_entry.grid(column=1, row=2, rowspan=2, columnspan=2)
+ttk.Button(mainframe, text="Search Image!", command=askfile).grid(column=6, row=2, sticky=W)
 
 #ttk.Label(mainframe, textvariable=result).grid(column=1, row=3, sticky=(W, E))
 listbox = Listbox(root, width=60)
