@@ -42,7 +42,7 @@ class ComicIndex:
 
     #Agrega el documento @fname al indice @self.indextxt con solo los tf's
     def addToIndexImg(self, fname):
-        listFname = fname.split("/")
+        listFname = fname.split("\\")
         id=listFname[-1]
         caracts = self.descriptor.describe(fname)
         self.indeximg[id] = caracts
@@ -63,7 +63,7 @@ class ComicIndex:
         #Abre el archivo
         with open(fname) as f:
             #Obtiene el identificador (nombre) del documento
-            listFname = fname.split("/")
+            listFname = fname.split("\\")
             id=listFname[-1]
             #Obtiene tokens
             content = f.readlines()
@@ -126,8 +126,8 @@ class ComicIndex:
         return normIndex
 
     #Guarda el indice @self.indextxt recibido como argumento en el archivo llamado @fname
-    def save(self, fname = "./indextxt.dat"):
-        with open(fname, "w+") as file:
+    def save(self, ftxt = "./indextxt.dat", fimg = "./indeximg.dat"):
+        with open(ftxt, "w+") as file:
             for token, tokenmap in self.indextxt.items():
                 line = token+":"
                 for id, count in tokenmap.items():
@@ -136,11 +136,19 @@ class ComicIndex:
                 #print (line)
                 line += "\n"
                 file.write(line)
+        with open(fimg, "w+") as file:
+            for id, features in self.indeximg.items():
+                line = id+":"
+                for f in features:
+                    line += str(f) +","
+                line = line[:-1]
+                line += "\n"
+                file.write(line)
 
     #Carga el indice guardado en el archivo llamado @fname y lo devuelve
-    def load(self, fname = "./indextxt.dat"):
+    def load(self, ftxt = "./indextxt.dat", fimg = "./indeximg.dat"):
         self.indextxt = dict()
-        with open(fname) as file:
+        with open(ftxt) as file:
             content = file.readlines()
             for line in content:
                 keyvalued = line.split(":")
@@ -150,7 +158,13 @@ class ComicIndex:
                     vals = id.split("=")
                     tokenmap[vals[0]] = float(vals[1])
                 self.indextxt[keyvalued[0]] = tokenmap
-        return self.indextxt
+        with open(fimg) as file:
+            content = file.readlines()
+            for line in content:
+                idfeats = line.split(":")
+                feats = idfeats[1].split(",")
+                ffeats = [float(i) for i in feats]
+                self.indeximg[idfeats[0]] = ffeats
 
     def calcCosinesDistsTxt(self, queryDict):
         qisdis = dict()
@@ -223,7 +237,8 @@ class ComicIndex:
     
     def calcOrderedDistsImg(self, query):
         dists = self.calcDistsImg(query)
-        return sorted(dists.items(), key=operator.itemgetter(1), reverse=True)
+        sortd =  sorted(dists.items(), key=operator.itemgetter(1), reverse=True)
+        return sortd
     
     def queryTxt(self, query):
         return self.calcOrderedDistsTxt(query)

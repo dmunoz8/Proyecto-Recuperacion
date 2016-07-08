@@ -30,7 +30,7 @@ if __name__ == "__main__":
     print(" "+str(len(index.indeximg)))
     print("Indice de imagenes normalizado: ")
     print(" "+str(index.indeximg))
-    q = "./imgs/Marvel-comic-heroes-cover-014.jpg"
+    q = "./imgs/avengers.jpg"
     res = index.queryImg(q)
     print("Resultado de consulta: \""+q+"\":")
     print(" "+str(res))
@@ -42,7 +42,7 @@ from tkinter import ttk
 def query(*args):
     try:
         q = squery.get()
-        res = index.query(q)
+        res = index.queryTxt(q)
         files = []
         result.set("")
         for doc in res:
