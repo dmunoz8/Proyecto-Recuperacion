@@ -38,6 +38,13 @@ if __name__ == "__main__":
 
 from tkinter import *
 from tkinter import ttk
+import webbrowser
+	 
+def show_image(selection):
+    tk_img = PhotoImage(file='C:\\Users\\Marco\\Downloads\\Proyecto Recuperacion\\Proyecto-Recuperacion\\RecuInfo\\recuinfo\\imgs\\Marvel-comic-heroes-cover-014.jpg') #listbox.get(ACTIVE))
+    x = canvas.create_image(125, 125, image=tk_img)
+    label = Label(tk_img)
+    label.pack()
 
 def query(*args):
     try:
@@ -54,6 +61,7 @@ def query(*args):
     except ValueError:
         pass
     
+    
 root = Tk()
 root.title("CIDR - Computing & Informatics Document Recovery")
 
@@ -66,16 +74,23 @@ squery = StringVar()
 result = StringVar()
 
 ttk.Label(mainframe, text="Type your query:").grid(column=0, row=0, sticky=E)
-query_entry = ttk.Entry(mainframe, width=7, textvariable=squery)
+query_entry = ttk.Entry(mainframe, width=20, textvariable=squery)
 query_entry.grid(column=1, row=0, rowspan=2, columnspan=2)
-ttk.Button(mainframe, text="Search!", command=query).grid(column=2, row=2, sticky=W)
+ttk.Button(mainframe, text="Search Text!", command=query).grid(column=6, row=0, sticky=W)
+
+ttk.Label(mainframe, text="Type your path for image").grid(column=0, row=2, sticky=E)
+query_entry = ttk.Entry(mainframe, width=20, textvariable=squery)
+query_entry.grid(column=1, row=2, rowspan=2, columnspan=2)
+ttk.Button(mainframe, text="Search Image!", command=query).grid(column=6, row=2, sticky=W)
+
 #ttk.Label(mainframe, textvariable=result).grid(column=1, row=3, sticky=(W, E))
-listbox = Listbox(root)
+listbox = Listbox(root, width=60)
 listbox.grid(column=0, row=3, columnspan=5)
 
 for child in mainframe.winfo_children(): child.grid_configure(padx=5, pady=5)
 
 query_entry.focus()
+listbox.bind("<Double-Button-1>",show_image)
 root.bind('<Return>', query)
 
 root.mainloop()
