@@ -19,7 +19,7 @@ class Index:
 
         
     def create(self):
-        # calcula el índice de los documentos
+        # calcula el indice de los documentos
         self.createIndex()
         self.calcWeight()
         self.normcIndex()

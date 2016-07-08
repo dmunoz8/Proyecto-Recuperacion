@@ -42,14 +42,14 @@ from tkinter import ttk
 def query(*args):
     try:
         q = squery.get()
-        res = index.query(q)
+       # res = index.query(q)
         files = []
         result.set("")
         for doc in res:
             f = "../recuscrapy/norm/"+doc[0]
             files += [f]
             result.set(result.get() + f + "\n")
-            #listbox.insert(END, f)
+            listbox.insert(END, f)
         
     except ValueError:
         pass
@@ -65,18 +65,13 @@ mainframe.rowconfigure(0, weight=1)
 squery = StringVar()
 result = StringVar()
 
-ttk.Label(mainframe, text="Type your query:").grid(column=1, row=1, sticky=E)
+ttk.Label(mainframe, text="Type your query:").grid(column=0, row=0, sticky=E)
 query_entry = ttk.Entry(mainframe, width=7, textvariable=squery)
-query_entry.grid(column=1, row=2, sticky=(W, E))
+query_entry.grid(column=1, row=0, rowspan=2, columnspan=2)
 ttk.Button(mainframe, text="Search!", command=query).grid(column=2, row=2, sticky=W)
-ttk.Label(mainframe, textvariable=result).grid(column=1, row=3, sticky=(W, E))
+#ttk.Label(mainframe, textvariable=result).grid(column=1, row=3, sticky=(W, E))
 listbox = Listbox(root)
-listbox.grid(column=6, row=0,columnspan=2)
-
-listbox.insert(END, "a list entry")
-
-for item in ["one", "two", "three", "four"]:
-    listbox.insert(END, item)
+listbox.grid(column=0, row=3, columnspan=5)
 
 for child in mainframe.winfo_children(): child.grid_configure(padx=5, pady=5)
 
