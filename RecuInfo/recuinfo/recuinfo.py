@@ -3,7 +3,6 @@
 # and open the template in the editor.
 import time
 
-from index import Index
 from comicindex import ComicIndex
 from normcomics import NormComics
 
@@ -21,7 +20,7 @@ if __name__ == "__main__":
     print(" "+str(total))
     #index.load()
     
-    print("Cantidad de terminos: ")
+    """print("Cantidad de terminos: ")
     print(" "+str(len(index.indextxt)))
     print("Indice tf-idf normalizados: ")
     print(" "+str(index.indextxt))
@@ -37,7 +36,7 @@ if __name__ == "__main__":
     q = "./imgs/Batman Vol2 00.jpg"
     res = index.queryImg(q)
     print("Resultado de consulta: \""+q+"\":")
-    print(" "+str(res))
+    print(" "+str(res))"""
 
 
 from tkinter import *
@@ -46,7 +45,7 @@ from tkinter import filedialog
 
 import os
 	 
-def show_image(selection):
+def showComic(selection):
     x = listbox.get(ACTIVE)
     #print(x)
     #x = x.split("/")
@@ -88,7 +87,7 @@ def askfile(*args):
     queryimg()
     
 root = Tk()
-root.title("CDR - Comics Document Recovery")
+root.title("DCMCR - DC & Marvel Comics Recovery")
 
 mainframe = ttk.Frame(root, padding="40 40 40 40")
 mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
@@ -115,7 +114,7 @@ listbox.grid(column=0, row=3, columnspan=5)
 for child in mainframe.winfo_children(): child.grid_configure(padx=5, pady=5)
 
 query_entry.focus()
-listbox.bind("<Double-Button-1>",show_image)
+listbox.bind("<Double-Button-1>",showComic)
 root.bind('<Return>', querytxt)
 
 root.mainloop()

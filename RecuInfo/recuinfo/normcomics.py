@@ -10,9 +10,9 @@ import re
 #Guarda esa imagen en el directorio dest, usando el nombre original del comic: normalizado
 class NormComics:
 	def __init__( self, srccomics = "./docs", dstnorm = "./norm", dstimgs="./imgs" ):
-		self.srccomics = "./docs"
-		self.dstnorm = "./norm"
-		self.dstimgs = "./imgs"
+		self.srccomics = srccomics
+		self.dstnorm = dstnorm
+		self.dstimgs = dstimgs
     
 	def extractFirstFile(self, src, normalizado):
 		with rarfile.RarFile(src) as rf:  #se abre el archivo src que esa en formato .cbr
